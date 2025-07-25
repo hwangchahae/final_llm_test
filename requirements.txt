@@ -1,0 +1,14 @@
+# WhisperX dependencies
+torch>=1.9.0
+torchaudio
+whisperx
+ffmpeg
+pyannote.audio
+
+# 기타 유틸
+python-dotenv
+tqdm
+
+# AutoAWQ + Transformers (Qwen3-14B/32B 실행용)
+transformers==4.38.2
+autoawq @ git+https://github.com/casper-hansen/AutoAWQ.git

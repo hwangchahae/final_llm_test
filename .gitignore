@@ -1,0 +1,9 @@
+# Python 기본
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+*.log
+
+# 환경 변수 및 설정 파일
+.env
+*.env
