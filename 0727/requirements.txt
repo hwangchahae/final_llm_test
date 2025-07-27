@@ -1,0 +1,30 @@
+# 기본 딥러닝 프레임워크
+torch>=2.0.0
+torchvision
+torchaudio
+
+# Transformers 및 관련 라이브러리
+transformers>=4.35.0
+tokenizers>=0.15.0
+accelerate>=0.20.0
+safetensors>=0.3.0
+
+# AutoAWQ (양자화 모델 로딩용)
+git+https://github.com/casper-hansen/AutoAWQ.git
+
+# 설정 파일 처리
+pyyaml>=6.0
+
+# 데이터 처리 및 유틸리티
+tqdm>=4.65.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+
+# HuggingFace Hub 관련
+huggingface-hub>=0.17.0
+
+
+# 추가 의존성 (모델 다운로드 및 실행시 필요할 수 있음)
+sentencepiece>=0.1.99
+protobuf>=3.20.0
