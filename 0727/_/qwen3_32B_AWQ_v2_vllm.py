@@ -1,46 +1,67 @@
-# !pip install git+https://github.com/casper-hansen/AutoAWQ.git
+# !pip install vllm
 
 import os, json, re
 from glob import glob
 from tqdm import tqdm
 from transformers import AutoTokenizer
-from awq import AutoAWQForCausalLM
+from vllm import LLM, SamplingParams
 import torch
 
-# ✅ 1. 모델 로드
+# ✅ 1. VLLM 모델 로드 (변경됨)
 model_path = "Qwen/Qwen3-32B-AWQ"
 
+# VLLM 엔진 초기화
+llm = LLM(
+    model=model_path,
+    quantization="awq_marlin",  # 더 빠른 awq_marlin 사용
+    tensor_parallel_size=1,
+    max_model_len=16384,
+    gpu_memory_utilization=0.9,
+    trust_remote_code=True,
+    enforce_eager=False,
+)
+
+# 토크나이저는 별도로 로드
 tokenizer = AutoTokenizer.from_pretrained(
     model_path,
     trust_remote_code=True
 )
 
-model = AutoAWQForCausalLM.from_quantized(
-    model_path,
-    fuse_layers=True,
-    trust_remote_code=True,
-    safetensors=True,
-    device_map="auto",
-    offload_folder="./offload"
+# 샘플링 파라미터 설정
+sampling_params = SamplingParams(
+    temperature=0.1,
+    max_tokens=2048,
+    stop=None
 )
 
+def clean_text(text):
+    if not text:
+        return ""
+    
+    # 특정 태그들만 제거
+    text = re.sub(r'\[TGT\]', '', text)
+    text = re.sub(r'\[/TGT\]', '', text)
 
-# ✅ 2. JSONL 로드 (speaker 포함)
+    # 공백 정리
+    text = re.sub(r'\s+', ' ', text)
+    return text.strip()
+
+# ✅ 2. JSONL 로드 
 def load_jsonl(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
         return [
             {
                 "speaker": json.loads(line).get("speaker"),
-                "text": json.loads(line).get("text")
+                "text": clean_text(json.loads(line).get("text"))  # 태그 제거
             }
             for line in f if "text" in json.loads(line)
         ]
 
 
-# ✅ 3. 청크 분할 (speaker 추적)
+# ✅ 3. 청크 분할 
 def chunk_text(utterances, max_tokens=5000, stride=512):
     input_ids = []
-    metadata = []  # 각 token이 누구 발언인지 추적
+    metadata = []
 
     for utt in utterances:
         tokens = tokenizer.encode(utt["text"], add_special_tokens=False)
@@ -66,36 +87,18 @@ def chunk_text(utterances, max_tokens=5000, stride=512):
     return list(zip(chunks, speakers_per_chunk))
 
 
-# ✅ 4. 요약 생성 함수
-def generate(prompt, max_new_tokens=1024):
-    enc = tokenizer(
-        prompt,
-        return_tensors="pt",
-        padding=True,
-        truncation=True,
-        return_attention_mask=True
-    ).to("cuda")
-
-    output = model.generate(
-        input_ids=enc.input_ids,
-        attention_mask=enc.attention_mask,
-        max_new_tokens=max_new_tokens,
-        pad_token_id=tokenizer.eos_token_id,
-        temperature=0.1
-    )
-
-    result = tokenizer.decode(output[0], skip_special_tokens=True)
-
-    # 프롬프트 제거
-    if prompt.strip() in result:
-        result = result.replace(prompt.strip(), "", 1).strip()
-
+# ✅ 4. 요약 생성 함수 (VLLM 방식으로 변경)
+def generate(prompt):
+    # VLLM 추론
+    outputs = llm.generate([prompt], sampling_params)
+    result = outputs[0].outputs[0].text.strip()
+    
     # '요약' 이후 내용만 추출
     match = re.search(r"(### 요약[\s\S]*)", result)
     return match.group(1).strip() if match else result
 
 
-# ✅ 5. 전체 처리
+# ✅ 5. 전체 처리 (동일)
 def create_training_dataset(input_dir_pattern, output_jsonl):
     file_paths = glob(input_dir_pattern)
     with open(output_jsonl, "w", encoding="utf-8") as f_out:
@@ -144,12 +147,12 @@ def create_training_dataset(input_dir_pattern, output_jsonl):
                     "response": response
                 }, f_out, ensure_ascii=False)
                 f_out.write("\n")
-                summary_accum += response + "\n"
+                summary_accum = response + "\n"
 
 
-# ✅ 6. 실행 진입점
+# ✅ 6. 실행 진입점 (동일)
 if __name__ == "__main__":
     create_training_dataset(
-        "label_0_output.jsonl",   # 또는 "data/*.jsonl"
-        "250724_v2.jsonl"
+        "/workspace/250724_data1_input.jsonl",   
+        "/workspace/250727_data1_output.jsonl"
     )

@@ -21,8 +21,8 @@ processing:
 
 # 파일 경로
 files:
-  input_jsonl: "250724_data2_input_sk.jsonl"
-  output_txt: "250724_data2_output_sk.txt"
+  input_jsonl: "/workspace/250724_data1_intput.jsonl"
+  output_txt: "/workspace/250727_data1_output.txt"
 
 # 프롬프트 템플릿
 prompts:

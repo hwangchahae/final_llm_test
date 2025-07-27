@@ -6,11 +6,13 @@ torchaudio
 # Transformers 및 관련 라이브러리
 transformers>=4.35.0
 tokenizers>=0.15.0
-accelerate>=0.20.0
+accelerate>=0.20.0  # VLLM 최적화
 safetensors>=0.3.0
 
 # AutoAWQ (양자화 모델 로딩용)
 git+https://github.com/casper-hansen/AutoAWQ.git
+
+vllm>=0.8.5
 
 # 설정 파일 처리
 pyyaml>=6.0
@@ -28,3 +30,11 @@ huggingface-hub>=0.17.0
 # 추가 의존성 (모델 다운로드 및 실행시 필요할 수 있음)
 sentencepiece>=0.1.99
 protobuf>=3.20.0
+
+# ✅ 데이터 처리 필수 (JSONL 파일 처리시)
+orjson>=3.9.0
+
+
+# 🔶 권장 (성능/안정성 향상)
+psutil>=5.9.0       # 메모리 모니터링 (OOM 방지)
+notebook>=7.0.0

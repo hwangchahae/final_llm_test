@@ -38,15 +38,12 @@ def compress_text_kobart(text, max_input_tokens = compress_tokenizer.model_max_l
 2. 불필요한 수식어, 반복, 예시는 생략하고, 문장 간 중복도 최대한 제거해주세요.
 3. 압축된 내용을 정리하고 '발언자': '발언내용' 형식으로 작성하세요. 
   """
-    prompt_ids = compress_tokenizer.encode(prompt, add_special_tokens=False)
-    prompt_len = len(prompt_ids)
-
-    allowed_text_len = max_input_tokens - prompt_len
-    text_ids = compress_tokenizer.encode(text, add_special_tokens=False)[:allowed_text_len]
+    prompt_tokens = compress_tokenizer.encode(prompt, add_special_tokens=False)
+    token_count = len(prompt_tokens)
 
 
     # 프롬프트 + 본문 결합
-    full_ids = prompt_ids + text_ids
+    full_ids = prompt + text
     input_ids = torch.tensor([full_ids]).to("cuda")
 
     # 생성
@@ -58,7 +55,7 @@ def compress_text_kobart(text, max_input_tokens = compress_tokenizer.model_max_l
         return "[압축 실패: " + str(e) + "]"
     
 
-def sliding_window_compress(text, max_input_tokens=compress_tokenizer.model_max_length, stride=700, return_list=False):
+def sliding_window_compress(text, max_input_tokens=(compress_tokenizer.model_max_length)-token_count, stride=600, return_list=False):
     input_ids = compress_tokenizer.encode(text, add_special_tokens=False)
     compressed_chunks = []
     i = 0
@@ -219,6 +216,6 @@ def create_qwen_summary(
 # ✅ 6. 실행 진입점
 if __name__ == "__main__":
     create_qwen_summary(
-        input_jsonl_path="250724_data2_input_sk.jsonl",
-        output_txt_path="250724_data2_output_sk.txt"
+        input_jsonl_path="/workspace/250724_data1_intput.jsonl",
+        output_txt_path="/workspace/250727_data1_output.txt"
     )
