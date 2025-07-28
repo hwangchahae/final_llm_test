@@ -9,7 +9,7 @@ import torch
 from datetime import datetime
 
 # ✅ 1. 하위 모델 옵션들 - 원하는 것으로 선택하세요
-# 옵션 1: Qwen 7B (빠르고 가벼움)
+# 옵션 1: Qwen 7B (빠르고 가벼움) - 추천!
 model_path = "Qwen/Qwen2.5-7B-Instruct-AWQ"
 
 # 옵션 2: Qwen 14B (중간 성능)
@@ -18,8 +18,6 @@ model_path = "Qwen/Qwen2.5-7B-Instruct-AWQ"
 # 옵션 3: 더 작은 모델 (매우 빠름)
 # model_path = "Qwen/Qwen2.5-3B-Instruct"
 
-# 옵션 4: Llama 계열 7B
-# model_path = "meta-llama/Llama-3.1-8B-Instruct"
 
 print(f"🚀 선택된 모델: {model_path}")
 
@@ -138,7 +136,7 @@ def generate(prompt, chunk_index):
             return result
 
 # ✅ 6. 전체 처리 (하위 모델용 - 프롬프트 최적화)
-def create_training_dataset(input_dir_pattern, output_jsonl):
+def create_training_dataset(input_dir_pattern, output_jsonl, model_used):
     file_paths = glob(input_dir_pattern)
     with open(output_jsonl, "w", encoding="utf-8") as f_out:
         for file_path in tqdm(file_paths, desc="📂 전체 파일 처리 진행"):
@@ -156,72 +154,59 @@ def create_training_dataset(input_dir_pattern, output_jsonl):
 
                 # 하위 모델용 - 더 간단하고 명확한 프롬프트
                 if idx == 0:
-                    prompt = f"""
-다음은 회의의 일부입니다.
+                    prompt = f"""회의 내용을 분석해주세요.
 
-[참여자]
-{participants_str}
+참여자: {participants_str}
+회의 날짜: {file_date}
 
-[회의 청크]
+회의 내용:
 {chunk}
 
-1. 이 회의 내용을 요약해줘.
-2. 안건이 있다면 리스트로 정리해줘.
-3. 각 안건에 대해 필요한 작업들을 분해해줘. (누가, 무엇을, 언제까지)
-
-**중요**: 업무 분해에서 마감일은 회의 날짜({file_date}) 기준으로 1주일~2주일 후의 현실적인 날짜를 다양하게 사용해줘. 모든 업무가 같은 날짜면 안 됨.
-
-결과는 아래 형식으로 줘:
+다음 형식으로 정리해주세요:
 
 ### 요약
-- ...
+- 주요 내용을 3-5개 문장으로 요약
 
 ### 안건
-1. 제목: ...
-   - 세부 설명
-   - 관련 발언자
+1. 안건명: 설명
+2. 안건명: 설명
 
 ### 업무 분해
-- [업무]: 담당자, 마감일, 관련 안건
-"""
+- 업무내용: 담당자, 마감일(1-2주 후), 관련안건
+
+**중요**: 마감일은 {file_date} 기준 1-2주 후로 다양하게 설정하세요."""
+
                 else:
-                    prompt = f"""
-다음은 회의의 일부입니다.
+                    prompt = f"""이전 요약을 참고하여 추가 회의 내용을 분석해주세요.
 
-[참여자]
-{participants_str}
+참여자: {participants_str}
+회의 날짜: {file_date}
 
-[회의 청크]
-{chunk}
-
-[이전까지의 요약]
+이전 요약:
 {summary_accum}
 
-1. 이 회의 내용을 요약해줘.
-2. 안건이 있다면 리스트로 정리해줘.
-3. 각 안건에 대해 필요한 작업들을 분해해줘. (누가, 무엇을, 언제까지)
+추가 회의 내용:
+{chunk}
 
-**중요**: 업무 분해에서 마감일은 회의 날짜({file_date}) 기준으로 1주일~2주일 후의 현실적인 날짜를 다양하게 사용해줘. 모든 업무가 같은 날짜면 안 됨.
-
-결과는 아래 형식으로 줘:
+다음 형식으로 정리해주세요:
 
 ### 요약
-- ...
+- 전체 내용 요약 (이전 + 현재)
 
 ### 안건
-1. 제목: ...
-   - 세부 설명
-   - 관련 발언자
+1. 안건명: 설명
 
 ### 업무 분해
-- [업무]: 담당자, 마감일, 관련 안건
-"""
+- 업무내용: 담당자, 마감일(1-2주 후), 관련안건
+
+**중요**: 마감일은 {file_date} 기준 1-2주 후로 다양하게 설정하세요."""
                 
                 response = generate(prompt, idx)
                 json.dump({
                     "file": os.path.basename(file_path),
                     "chunk_index": idx,
                     "file_date": file_date,
+                    "model": model_used,  # 파라미터로 받은 model_used 사용
                     "response": response
                 }, f_out, ensure_ascii=False)
                 f_out.write("\n")
@@ -299,13 +284,17 @@ def save_final_result_as_txt(output_file, txt_file):
 
 # ✅ 8. 실행
 if __name__ == "__main__":
+    # 모델명에서 파일명용 문자열 추출
     model_used = model_path.split('/')[-1].replace('-', '_').replace('.', '_')
     print(f"📁 파일명용 모델명: {model_used}")
     
-    input_file = "/workspace/250724_data1_input.jsonl"
-    output_file = f"/workspace/250728_{model_used}_data1_output1.jsonl"
-    txt_file = f"/workspace/250728_{model_used}_final1.txt"
+    input_file = "/workspace/250724_data2_intput_sk.jsonl"
+    output_file = f"/workspace/250728_{model_used}_data2_output_sk.jsonl"
+    txt_file = f"/workspace/250728_{model_used}_data2_output_sk_final1.txt"
     
     print(f"🚀 시작: {model_path} 모델 사용")
-    create_training_dataset(input_file, output_file)
+    print(f"📝 출력 파일: {output_file}")
+    print(f"📄 최종 파일: {txt_file}")
+    
+    create_training_dataset(input_file, output_file, model_used)
     save_final_result_as_txt(output_file, txt_file)
