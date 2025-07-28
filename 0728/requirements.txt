@@ -1,0 +1,17 @@
+# Qwen3-7B-AWQ 회의 요약 프로젝트 Dependencies
+# Python 3.8+ 필요
+
+# Core ML Libraries
+torch>=2.0.0
+transformers>=4.40.0
+tokenizers>=0.15.0
+
+# VLLM for efficient inference
+vllm>=0.4.0
+
+# Progress tracking
+tqdm>=4.65.0
+
+# Data handling
+numpy>=1.24.0
+pandas>=2.0.0
