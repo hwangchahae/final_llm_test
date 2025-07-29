@@ -58,26 +58,111 @@ def clean_text(text):
     text = re.sub(r'\s+', ' ', text)
     return text.strip()
 
-# ✅ 2. JSONL 로드 
-def load_jsonl(file_path):
-    with open(file_path, "r", encoding="utf-8") as f:
-        return [
-            {
-                "speaker": json.loads(line).get("speaker"),
-                "text": clean_text(json.loads(line).get("text"))
-            }
-            for line in f if "text" in json.loads(line)
-        ]
+# ✅ 2. JSON/JSONL 로드 함수 (확장자 자동 감지)
+def load_json_file(file_path):
+    """JSON 또는 JSONL 파일을 자동으로 감지하여 로드"""
+    file_ext = os.path.splitext(file_path)[1].lower()
+    
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            if file_ext == '.jsonl':
+                # JSONL 파일 처리
+                print(f"📄 JSONL 파일로 인식: {os.path.basename(file_path)}")
+                data = []
+                for line_num, line in enumerate(f, 1):
+                    line = line.strip()
+                    if not line:
+                        continue
+                    try:
+                        json_obj = json.loads(line)
+                        if "text" in json_obj:
+                            data.append({
+                                "speaker": json_obj.get("speaker"),
+                                "text": clean_text(json_obj.get("text"))
+                            })
+                    except json.JSONDecodeError as e:
+                        print(f"⚠️  JSONL 라인 {line_num} 파싱 오류: {e}")
+                        continue
+                return data
+                
+            elif file_ext == '.json':
+                # JSON 파일 처리
+                print(f"📄 JSON 파일로 인식: {os.path.basename(file_path)}")
+                json_data = json.load(f)
+                
+                # JSON 구조 자동 감지
+                if isinstance(json_data, list):
+                    # 리스트 형태의 JSON
+                    data = []
+                    for item in json_data:
+                        if isinstance(item, dict) and "text" in item:
+                            data.append({
+                                "speaker": item.get("speaker"),
+                                "text": clean_text(item.get("text"))
+                            })
+                    return data
+                    
+                elif isinstance(json_data, dict):
+                    # 딕셔너리 형태의 JSON
+                    if "text" in json_data:
+                        # 단일 객체
+                        return [{
+                            "speaker": json_data.get("speaker"),
+                            "text": clean_text(json_data.get("text"))
+                        }]
+                    else:
+                        # 키-값 쌍에서 텍스트 데이터 찾기
+                        data = []
+                        for key, value in json_data.items():
+                            if isinstance(value, list):
+                                for item in value:
+                                    if isinstance(item, dict) and "text" in item:
+                                        data.append({
+                                            "speaker": item.get("speaker"),
+                                            "text": clean_text(item.get("text"))
+                                        })
+                            elif isinstance(value, dict) and "text" in value:
+                                data.append({
+                                    "speaker": value.get("speaker"),
+                                    "text": clean_text(value.get("text"))
+                                })
+                        return data
+                else:
+                    print(f"⚠️  지원하지 않는 JSON 구조: {type(json_data)}")
+                    return []
+            else:
+                print(f"⚠️  지원하지 않는 파일 확장자: {file_ext}")
+                return []
+                
+    except FileNotFoundError:
+        print(f"❌ 파일을 찾을 수 없습니다: {file_path}")
+        return []
+    except json.JSONDecodeError as e:
+        print(f"❌ JSON 파싱 오류: {e}")
+        return []
+    except Exception as e:
+        print(f"❌ 파일 로드 오류: {e}")
+        return []
 
 # ✅ 3. 청크 분할 (하위 모델용 - 청크 크기 줄임)
 def chunk_text(utterances, max_tokens=3000, stride=256):  # 청크 크기 줄임
+    if not utterances:
+        print("⚠️  빈 데이터입니다.")
+        return []
+        
     input_ids = []
     metadata = []
 
     for utt in utterances:
+        if not utt["text"]:
+            continue
         tokens = tokenizer.encode(utt["text"], add_special_tokens=False)
         input_ids.extend(tokens)
         metadata.extend([utt["speaker"]] * len(tokens))
+
+    if not input_ids:
+        print("⚠️  토큰화된 데이터가 없습니다.")
+        return []
 
     chunks = []
     speakers_per_chunk = []
@@ -138,19 +223,48 @@ def generate(prompt, chunk_index):
 # ✅ 6. 전체 처리 (하위 모델용 - 프롬프트 최적화)
 def create_training_dataset(input_dir_pattern, output_jsonl, model_used):
     file_paths = glob(input_dir_pattern)
+    
+    if not file_paths:
+        print(f"❌ 패턴에 맞는 파일이 없습니다: {input_dir_pattern}")
+        return
+    
+    # 지원되는 파일만 필터링
+    supported_files = []
+    for file_path in file_paths:
+        ext = os.path.splitext(file_path)[1].lower()
+        if ext in ['.json', '.jsonl']:
+            supported_files.append(file_path)
+        else:
+            print(f"⚠️  지원하지 않는 파일 형식: {file_path} (확장자: {ext})")
+    
+    if not supported_files:
+        print("❌ 지원되는 파일이 없습니다. (.json 또는 .jsonl 파일만 지원)")
+        return
+    
+    print(f"📂 처리 대상 파일 수: {len(supported_files)}")
+    
     with open(output_jsonl, "w", encoding="utf-8") as f_out:
-        for file_path in tqdm(file_paths, desc="📂 전체 파일 처리 진행"):
+        for file_path in tqdm(supported_files, desc="📂 전체 파일 처리 진행"):
             print(f"\n📁 처리 중: {file_path}")
             
             file_date = get_file_date(file_path)
             print(f"📅 기준 날짜: {file_date}")
             
-            utterances = load_jsonl(file_path)
+            utterances = load_json_file(file_path)
+            if not utterances:
+                print(f"⚠️  {file_path}에서 유효한 데이터를 찾을 수 없습니다.")
+                continue
+                
+            print(f"📊 로드된 발화 수: {len(utterances)}")
+            
             chunks = chunk_text(utterances)
+            if not chunks:
+                print(f"⚠️  {file_path}에서 청크를 생성할 수 없습니다.")
+                continue
 
             summary_accum = ""
             for idx, (chunk, speakers) in enumerate(tqdm(chunks, desc=f"🧩 청크 처리 ({os.path.basename(file_path)})", leave=False)):
-                participants_str = ", ".join(speakers)
+                participants_str = ", ".join(speakers) if speakers else "알 수 없음"
 
                 # 하위 모델용 - 더 간단하고 명확한 프롬프트
                 if idx == 0:
@@ -288,13 +402,15 @@ if __name__ == "__main__":
     model_used = model_path.split('/')[-1].replace('-', '_').replace('.', '_')
     print(f"📁 파일명용 모델명: {model_used}")
     
-    input_file = "/workspace/250724_data2_intput_sk.jsonl"
+    # 입력 파일 패턴을 JSON/JSONL 모두 지원하도록 수정
+    input_pattern = "/workspace/05_final_result.json" 
     output_file = f"/workspace/250728_{model_used}_data2_output_sk.jsonl"
     txt_file = f"/workspace/250728_{model_used}_data2_output_sk_final1.txt"
     
     print(f"🚀 시작: {model_path} 모델 사용")
+    print(f"📂 입력 패턴: {input_pattern}")
     print(f"📝 출력 파일: {output_file}")
     print(f"📄 최종 파일: {txt_file}")
     
-    create_training_dataset(input_file, output_file, model_used)
+    create_training_dataset(input_pattern, output_file, model_used)
     save_final_result_as_txt(output_file, txt_file)
