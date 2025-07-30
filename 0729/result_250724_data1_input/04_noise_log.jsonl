@@ -1,0 +1,207 @@
+{"timestamp": 1753056027000, "timestamp_order": "3-1", "speaker": "SPEAKER_05", "text": "이공식 모델 습도 이번 주까지네요?", "label": 1}
+{"timestamp": 1753056029000, "timestamp_order": "4-1", "speaker": "SPEAKER_01", "text": "네 맞습니다 일단은 저희 금요일까지로 알고 있는데 네 조금 시간이 빠듯한 부분이 있습니다 그래서 좀 제가 지금 보내드린 거가 저희 산출물 관리하는 구글 스프리드 시트 인데요", "label": 1}
+{"timestamp": 1753056054000, "timestamp_order": "5-1", "speaker": "SPEAKER_01", "text": "여기 보면 주차라고 되어 있는 게 저희 제출하는 주차고 이번 주가 3주차여서 지금 5개 있습니다.", "label": 1}
+{"timestamp": 1753056080000, "timestamp_order": "7-1", "speaker": "SPEAKER_01", "text": "인공지능을 전혀 생각 안 하고 그냥 채집티 API를 생각하고 있다가 멘토님들이 이런 이런 부분들 넣는 게 좋겠다 해가지고 지금 오늘부터 들어간 팀들도 있고 몇몇 군대에서 그런 얘기를 들었는데 거의 다 버튼 모델을 기반으로 생각을 하고 있더라고요.", "label": 1}
+{"timestamp": 1753056106000, "timestamp_order": "8-1", "speaker": "SPEAKER_05", "text": "이번에 설명드린 대로만 얘기한다면 버튼 모델이 되겠네요.", "label": 1}
+{"timestamp": 1753056115000, "timestamp_order": "9-1", "speaker": "SPEAKER_01", "text": "어, 일단 저 인공지능 데이터 전설의 결과서는 오늘 제가 초안을 작성을 했는데, 이거 일단 제가 보여드리면서 같이 말씀을 나눌까요?", "label": 1}
+{"timestamp": 1753056126000, "timestamp_order": "10-1", "speaker": "SPEAKER_05", "text": "된 것도 보고, 모델 쪽은 좀 봐야 될 것 같네요.", "label": 1}
+{"timestamp": 1753056135000, "timestamp_order": "11-1", "speaker": "SPEAKER_01", "text": "일단 제가 이거 방금 제가 드렸었던 데에 3팀 탭에서 보시면 저희 인공지능 데이터 전체 결과에서 제가 링크 올려 놓은 게 있거든요.", "label": 1}
+{"timestamp": 1753056175000, "timestamp_order": "13-1", "speaker": "SPEAKER_01", "text": "여러 가지 모델들을 저희가 좀 찾아봤었거든요.", "label": 1}
+{"timestamp": 1753056179000, "timestamp_order": "14-1", "speaker": "SPEAKER_01", "text": "그랬는데 저희가 그날 막 얘기했었던 거에도 단어 사전을 만들어서 단어 빈도수로 한번 해볼까 하는 얘기도 있었고 문맥 판단이라든가 이런 것들도 있었고 해서 여러 가지 찾아봐서 저희 일단 4개의 모델을 비교하는 것으로 얘기를 했어요.", "label": 1}
+{"timestamp": 1753056196000, "timestamp_order": "15-1", "speaker": "SPEAKER_01", "text": "일단 첫 번째는 범위 캐시버트랑 그다음에 TF-IDF 이거는 이제 단어 빈도수", "label": 1}
+{"timestamp": 1753056202000, "timestamp_order": "16-1", "speaker": "SPEAKER_01", "text": "로에서 로지스틱이랑 로지스틱 회계로 분류하는 모델 그리고 클로버트하고 모놀로그 페이워 일렉트라 요거는 제가 처음 봤는데 요거는 GPT가 알려줘 가지고 한번 해 봤거든요 그래서 이렇게 네 가지 모델을 비교를 해 봤습니다 어 지금 여기서 이 모델 봤을 때 TFI님은 얘는 예외 처리를 할게요 다른 아이코리즘이거든요", "label": 1}
+{"timestamp": 1753056240000, "timestamp_order": "17-1", "speaker": "SPEAKER_05", "text": "아 네네 나머지 KC버튼 버튼 프로젝트나 같은 경우에는 비교되면 한 번도 봐야될 것 같고 KC버튼을 선정하기에는 뭘까요?", "label": 1}
+{"timestamp": 1753056264000, "timestamp_order": "19-1", "speaker": "SPEAKER_01", "text": "그래서 그냥 시험적으로 한번 해본 겁니다.", "label": 1}
+{"timestamp": 1753056266000, "timestamp_order": "20-1", "speaker": "SPEAKER_01", "text": "이거는 다른 모델인 걸 저도 알긴 하는데 단어 빈도를 했을 때는 어떤 결과가 나올지 궁금해가지고 넣어봤던 거고요.", "label": 1}
+{"timestamp": 1753056289000, "timestamp_order": "21-1", "speaker": "SPEAKER_05", "text": "당연히 딥러닝이 안 들어가니까 빠르겠죠.", "label": 1}
+{"timestamp": 1753056302000, "timestamp_order": "22-1", "speaker": "SPEAKER_01", "text": "일단은 버트 모델들도 제가 이 클루 라든가 모놀로그 코어 엘렉트라 같은 경우는 제가 써본 적이 없어서 그 GBT로 제가 조금 찾아보면서 공부를 했었거든요.", "label": 1}
+{"timestamp": 1753056316000, "timestamp_order": "23-1", "speaker": "SPEAKER_01", "text": "그랬는데 거기에서 이제 정리해줬었던 내용을 가지고서 아 이 얘 얘가 이런 거가 있구나라는 거를 알고선 여기다 적어 놓은 부분인데요.", "label": 1}
+{"timestamp": 1753056326000, "timestamp_order": "24-1", "speaker": "SPEAKER_05", "text": "그럼 전 GPT가 답변하는 내용이라는 건가요?", "label": 1}
+{"timestamp": 1753056329000, "timestamp_order": "25-1", "speaker": "SPEAKER_01", "text": "네 일단 GPT에게 제가 교육을 부탁을 해서 얘가 좀 정리를 해줬습니다.", "label": 1}
+{"timestamp": 1753056344000, "timestamp_order": "26-1", "speaker": "SPEAKER_05", "text": "네, 그러니까 TF-IDF 빼고는 이게 맞다고 할 수 있는지가 지금 좀 저도 헷갈리거든요.", "label": 1}
+{"timestamp": 1753056381000, "timestamp_order": "29-1", "speaker": "SPEAKER_05", "text": "모델 사이즈 다 명시해주시고 모델 사이즈가 다른 걸 비교하잖아요.", "label": 1}
+{"timestamp": 1753056417000, "timestamp_order": "30-1", "speaker": "SPEAKER_01", "text": "그래서 Embedding, Encoder, Classification Heads 같은 경우는 제가 맨 처음에 했었던 그 캐시버트를 기준으로 해서 적었고요.", "label": 1}
+{"timestamp": 1753056428000, "timestamp_order": "31-1", "speaker": "SPEAKER_01", "text": "나머지 애들도 가능하면 거의 같은 조건에서 할 수 있게 물론 로지스틱은 아니었지만 애폭이라든가 배치 크기라든가 이런 거는 맞춰놨습니다 그래서 같은 조건에 같은 데이터로 실험을 했고요 애폭을 시비나 한 이유가 있어요?", "label": 1}
+{"timestamp": 1753056448000, "timestamp_order": "32-1", "speaker": "SPEAKER_01", "text": "아 애폭 이거 조기 종류가 있어가지고 일부러 그냥 시브로 잡았습니다 그랬는데 조기 종류가 멈췄나요?", "label": 1}
+{"timestamp": 1753056454000, "timestamp_order": "33-1", "speaker": "SPEAKER_01", "text": "아 예 다 멈췄는데 그 위쪽에서", "label": 1}
+{"timestamp": 1753056458000, "timestamp_order": "34-1", "speaker": "SPEAKER_01", "text": "코일렉트라, 이거가 9f까지 갔었어요.", "label": 1}
+{"timestamp": 1753056471000, "timestamp_order": "36-1", "speaker": "SPEAKER_01", "text": "그래서 일단은 여유있게 시부로 잡아놓기는 했는데, 실제로 해봤을 때 그렇게 나왔었다는 결과가 있었습니다.", "label": 1}
+{"timestamp": 1753056491000, "timestamp_order": "37-1", "speaker": "SPEAKER_01", "text": "그리고 이게 이제 학습 결과인데요 일단은 K시버트가 어퀴러시랑 프리시전이랑 F1스코어에서는 좀 월등하게까지는 아니지만 제일 높은 점수를 얻었고 리콜에서는 조금 낮게 나오더라고요 리콜은 KO 엘리트라가 제일 높게 나왔고요 로지스틱 얘를 제외하더라도 얘는 조금 어중간하게 나왔고", "label": 1}
+{"timestamp": 1753056523000, "timestamp_order": "38-1", "speaker": "SPEAKER_01", "text": "네네 요거는 그 제가 거기에서 기록을 한 게 스텝 100 스텝마다 이제 기록을 하게 해놨는데 400 스텝에서 가장 최고 점수가 나와서 오해 포크에서 조기 종료가 됐습니다 우측은 베리데이션 어클러신거죠?", "label": 1}
+{"timestamp": 1753056580000, "timestamp_order": "39-1", "speaker": "SPEAKER_01", "text": "로지스틱 같은 경우는 이런 식으로 이거는 점점 성능이 안 좋아지는 결과가 나왔고 CLC, 클루버트 같은 경우는 E-Epoch에서 바로 조기 종료가 됐고요.", "label": 1}
+{"timestamp": 1753056592000, "timestamp_order": "40-1", "speaker": "SPEAKER_01", "text": "200 스텝에서 제일 좋은 점수가 나왔구요 그 다음에 코어 엘렉트라가 이게 이제 9f 까지 갔었는데 900 스텝에서 점수가 1100하고 조금 애매하긴 한데 900이 조금 더 우세한 것 같더라구요 그래서 900 스텝으로 적어놨습니다", "label": 1}
+{"timestamp": 1753056622000, "timestamp_order": "41-1", "speaker": "SPEAKER_05", "text": "아래까지 다 봤고, 어떻게 해석했는지 알았는데 이거 데이터 어떻게 넣었는지에 대한 설명이 하나도 없네요.", "label": 1}
+{"timestamp": 1753056630000, "timestamp_order": "42-1", "speaker": "SPEAKER_01", "text": "아, 데이터 넣은 거요?", "label": 1}
+{"timestamp": 1753056638000, "timestamp_order": "43-1", "speaker": "SPEAKER_05", "text": "모델 설명 시에 모델의 입력과 출력은 무조건 설명이 들어가야 돼요, 기본적으로.", "label": 1}
+{"timestamp": 1753056647000, "timestamp_order": "44-1", "speaker": "SPEAKER_05", "text": "입력과 출력은 무조건 설명이 들어가야 돼요.", "label": 1}
+{"timestamp": 1753056654000, "timestamp_order": "45-1", "speaker": "SPEAKER_05", "text": "지금 이게 어떻게 구성된 건지 알아야 될 것 같거든요?", "label": 1}
+{"timestamp": 1753056720000, "timestamp_order": "46-1", "speaker": "SPEAKER_01", "text": "일단은 제가 2천 개를 데이터를 넣었는데 문장하고 라벨로 되어 있구요.", "label": 1}
+{"timestamp": 1753056738000, "timestamp_order": "48-1", "speaker": "SPEAKER_01", "text": "여기 있는 데이터들을 1이랑 0으로 되어 있는 것을 해서 총 합쳐서 2천 개를 넣었고 그 다음에 회의와 연관이 있는 것이", "label": 1}
+{"timestamp": 1753056776000, "timestamp_order": "51-1", "speaker": "SPEAKER_01", "text": "책임자를 찾거나 그럴 때는 중요한 말이지만 회를 시작할 때는 그냥 확인하는 차원이잖아요.", "label": 1}
+{"timestamp": 1753056786000, "timestamp_order": "53-1", "speaker": "SPEAKER_05", "text": "여기 1과 0에 대한 정의가 뭐예요?", "label": 1}
+{"timestamp": 1753056799000, "timestamp_order": "55-1", "speaker": "SPEAKER_05", "text": "필요하다는 정의가 뭐예요?", "label": 1}
+{"timestamp": 1753056806000, "timestamp_order": "57-1", "speaker": "SPEAKER_01", "text": "테스크에서 들어가야 되는 내용들을 기준으로 잡고 있고요.", "label": 1}
+{"timestamp": 1753056812000, "timestamp_order": "58-1", "speaker": "SPEAKER_01", "text": "뭐 제목이라든가 담당자라든가 일정이라든가 그리고 거기에서 있어야 되는 세부 내용들 그거와 관련된 것들을 넣었습니다.", "label": 1}
+{"timestamp": 1753056839000, "timestamp_order": "60-1", "speaker": "SPEAKER_01", "text": "이거를 라벨 데이터를 저희가 찾아보려고 했는데 아무래도 이런 식의 라벨 데이터가 없어가지고 만드는 데 좀 문제가 있어서 일단 요거가 제가 그냥 부적합해 보여요 아 네네 실제 데이터랑 전혀 안 맞아 보이거든요 음 네", "label": 1}
+{"timestamp": 1753056866000, "timestamp_order": "62-1", "speaker": "SPEAKER_01", "text": "네네네.", "label": 1}
+{"timestamp": 1753056868000, "timestamp_order": "63-1", "speaker": "SPEAKER_05", "text": "거기서 개궐을 돌여서 네이블링만 하고 제가 말씀드렸었잖아요.", "label": 1}
+{"timestamp": 1753056873000, "timestamp_order": "64-1", "speaker": "SPEAKER_05", "text": "저렇게 잘 다듬어지고 SVT와 데이지 않고 실제 바라와 맞지 않은 내용들은 실제 데이터를 넣었을 때 워킹하지 않을 가능성이 높거든요.", "label": 1}
+{"timestamp": 1753056888000, "timestamp_order": "67-1", "speaker": "SPEAKER_05", "text": "뭐 트렌드라면 트렌드일 수 있는데 모델의 성능에 따라서 이게 바뀌어요.", "label": 1}
+{"timestamp": 1753056894000, "timestamp_order": "68-1", "speaker": "SPEAKER_05", "text": "이제 모델 자체가 너무 성능이 안 좋다보니까 지금처럼 데이터를 예쁘게 만들어놓고 학습시켰어요.", "label": 1}
+{"timestamp": 1753056905000, "timestamp_order": "70-1", "speaker": "SPEAKER_05", "text": "버튼이나 이제 nstm 나오면서부터 이 노이즈라는 것도 학습을 하거든요.", "label": 1}
+{"timestamp": 1753056932000, "timestamp_order": "73-1", "speaker": "SPEAKER_05", "text": "지금 이제서야 이 데이터를 보니까 이유가 보이는데 학습 결과를 한번 가볼까요?", "label": 1}
+{"timestamp": 1753056953000, "timestamp_order": "74-1", "speaker": "SPEAKER_05", "text": "요거 자세히 보시면은 힙화 ADF는 뭐 현저히 낮으니까 배제할게요.", "label": 1}
+{"timestamp": 1753056969000, "timestamp_order": "75-1", "speaker": "SPEAKER_05", "text": "F1 스코어 기준으로 봤을 때 지금 정확도가 0.", "label": 1}
+{"timestamp": 1753056976000, "timestamp_order": "77-1", "speaker": "SPEAKER_05", "text": "그럼 썩어 성능을 봤을 때 얘로 선택해도 되는 거 아니에요?", "label": 1}
+{"timestamp": 1753056984000, "timestamp_order": "78-1", "speaker": "SPEAKER_05", "text": "단순히 정확도만 높다고 좋은 게 아니잖아요.", "label": 1}
+{"timestamp": 1753056988000, "timestamp_order": "79-1", "speaker": "SPEAKER_05", "text": "이 얘기는 뭐냐면, 저게 이 승무위 모델을 감당할 정도로 테스크가 쉽다는 거예요.", "label": 1}
+{"timestamp": 1753056998000, "timestamp_order": "80-1", "speaker": "SPEAKER_05", "text": "음성에서 회의에 관련된 것만 뽑아오는 게 그렇게 쉽지는 않을 거거든요?", "label": 1}
+{"timestamp": 1753057013000, "timestamp_order": "82-1", "speaker": "SPEAKER_05", "text": "그래서 그 맵을 이해하고 부유하는 게 아니라 특정 키워드가 나오면 1이고 특정 키워드가 안 나오면 0이다.", "label": 1}
+{"timestamp": 1753057020000, "timestamp_order": "83-1", "speaker": "SPEAKER_05", "text": "저기 신의지 사례를 적용하는 게 전혀 아닌 것 같아요.", "label": 1}
+{"timestamp": 1753057033000, "timestamp_order": "85-1", "speaker": "SPEAKER_01", "text": "일단은 왜 이렇게 높지라는 생각도 하긴 했는데 여기 밑에 보면 제가 이렇게 한 문장씩 넣어가지고 그 확신도를 측정을 하긴 했어요 근데 비슷한 문장인데 살짝 뒤에 어미만 바꿨는데 확신도가 확 떨어진다거나 그전에는 1이라고 생각을 했는데 0으로 나온다거나 이런 것들이 많더라고요 이게 데이터가 쉬워서 그런 거군요", "label": 1}
+{"timestamp": 1753057061000, "timestamp_order": "86-1", "speaker": "SPEAKER_05", "text": "어 그거 플러스 이거 오버피팅이 가능성이 큰데 네 아마 이렇게 만들면 평가 데이터랑 박스 데이터랑 큰 차이가 없을 거거든요?", "label": 1}
+{"timestamp": 1753057072000, "timestamp_order": "87-1", "speaker": "SPEAKER_05", "text": "네네 근데 데이터는 2000거리고 배치 사이즈는 16이었나?", "label": 1}
+{"timestamp": 1753057079000, "timestamp_order": "88-1", "speaker": "SPEAKER_05", "text": "네 16이었습니다 박스 데이터가 1800건이래요 그럼 1 앱복당 뭐 100스텝 정도밖에 안한거네요?", "label": 1}
+{"timestamp": 1753057099000, "timestamp_order": "89-1", "speaker": "SPEAKER_01", "text": "그러면 좀 에포크를 낮추고 일단은 데이터는 바꾸는 거는 당연히 해야 될 거고 에포크를 조금 낮추고 배치도 조금 낮추는 게 나을까요?", "label": 1}
+{"timestamp": 1753057120000, "timestamp_order": "92-1", "speaker": "SPEAKER_05", "text": "좀 더 기존에 좀 자세하게 설정하세요.", "label": 1}
+{"timestamp": 1753057140000, "timestamp_order": "93-1", "speaker": "SPEAKER_05", "text": "저 1은 해외와 관련이 있다고 하는데 네.", "label": 1}
+{"timestamp": 1753057174000, "timestamp_order": "98-1", "speaker": "SPEAKER_01", "text": "적은 양이니까 일단은 회의록 문장 내에서 필요없는 문장들을 먼저 제하고 그 다음에 남은 문장들을 집어넣는 걸로 얘기를 해서 써가지고 데이터가 제일 먼저 모델을 만나서 분류를 받고 그 다음에 LLM으로 들어가는 과정으로 갑니다.", "label": 1}
+{"timestamp": 1753057191000, "timestamp_order": "99-1", "speaker": "SPEAKER_05", "text": "그러면은 여러분들 네이블을 1과 0이라고 했을 때 이 내용이 여기 무사히 들어가야 돼요.", "label": 1}
+{"timestamp": 1753057203000, "timestamp_order": "100-1", "speaker": "SPEAKER_05", "text": "얘는 엄청 큰 범위에서 정리한거고, 방금 LLM에 쓰기 위한 토큰을 줄이기 위해서 사용을 했는데 여기서 한 번 더 나가서 그러면 다음 테스크가 회의 요약이랑 티콘스를 따는게 있기 때문에 이것과 변형있는 것을 뽑아내는게 여러분들 레이블 설정이에요.", "label": 1}
+{"timestamp": 1753057240000, "timestamp_order": "103-1", "speaker": "SPEAKER_01", "text": "회록을 누가 작성했는지는 보통 티켓 만들 때는 안 들어가니까.", "label": 1}
+{"timestamp": 1753057250000, "timestamp_order": "105-1", "speaker": "SPEAKER_05", "text": "다음 테스트가 정의되면 될 것 같고 두 번째는 만약에 여러분들이 이걸 해서 데이터를 만든다고 했을 때", "label": 1}
+{"timestamp": 1753057352000, "timestamp_order": "107-1", "speaker": "SPEAKER_05", "text": "버트가 입력으로 받을 수 있는 포큰의 한계점은 분명히 작아요.", "label": 1}
+{"timestamp": 1753057375000, "timestamp_order": "108-1", "speaker": "SPEAKER_05", "text": "아마 지금 레이블링 하는 거는 좀 빠르실 것 같아요.", "label": 1}
+{"timestamp": 1753057412000, "timestamp_order": "109-2", "speaker": "SPEAKER_05", "text": "1 정도가 나올 수도 있어요.", "label": 1}
+{"timestamp": 1753057415000, "timestamp_order": "110-1", "speaker": "SPEAKER_05", "text": "인베런스는 어떻게 처리할 건지, 데이터를 그냥 언더셀프닝을 했 건지, 아니면 호크로스나 이런 특수한 인베런스를 위한 처리를 했 건지 고민을 해보셔야 돼요.", "label": 1}
+{"timestamp": 1753057427000, "timestamp_order": "111-1", "speaker": "SPEAKER_05", "text": "우선 버튼 모델의 지금 GPU 성능에 비하면 엄청 가볍잖아요.", "label": 1}
+{"timestamp": 1753057446000, "timestamp_order": "113-1", "speaker": "SPEAKER_05", "text": "어, 그래서 GPT 써야죠.", "label": 1}
+{"timestamp": 1753057457000, "timestamp_order": "115-1", "speaker": "SPEAKER_05", "text": "그 다음에 GPT로 만들었을 때, 여러분들이 레이블링 한 거랑, 이거 수확이 나오면 이걸 체크하고, 유사하게 나왔다면 이 프롬포터 모델은 실효할 수 있다라고 가정하고, 얘로 레이블링 한 거를 체크한다.", "label": 1}
+{"timestamp": 1753057473000, "timestamp_order": "116-1", "speaker": "SPEAKER_01", "text": "그러면은 요게 데이터를 데이터량을 어느 정도로 하는 게 좋을까요?", "label": 1}
+{"timestamp": 1753057478000, "timestamp_order": "117-1", "speaker": "SPEAKER_01", "text": "이게 뭐 보니까 다른 팀들도 그렇고 데이터량에 대해서가 되게 다들 천차만별로 다르더라고요.", "label": 1}
+{"timestamp": 1753057486000, "timestamp_order": "118-1", "speaker": "SPEAKER_05", "text": "어디에서는 5000건으로 한다고 하고 만건으로 한다고 90,000건까지 얘기를 들었는데 가장 좋은 거는 여러분들이 모델이 학습이 다 되는 학습이 됐는데 1회폭이 다 안 돌아왔으면 가장 좋아요.", "label": 1}
+{"timestamp": 1753057523000, "timestamp_order": "120-1", "speaker": "SPEAKER_05", "text": "지금 입력데이터는 여러분들이 컨트롤할 필요가 없어요.", "label": 1}
+{"timestamp": 1753057528000, "timestamp_order": "121-1", "speaker": "SPEAKER_05", "text": "입력데이터 정해져 있잖아요.", "label": 1}
+{"timestamp": 1753057531000, "timestamp_order": "122-1", "speaker": "SPEAKER_05", "text": "여러분들이 정한 건 레이블에 딱 하나밖에 없어요.", "label": 1}
+{"timestamp": 1753057535000, "timestamp_order": "123-1", "speaker": "SPEAKER_05", "text": "실제 데이터에서 저희가 대화할 때 학습하기 좋게 끊어서 말하지는 않잖아요.", "label": 1}
+{"timestamp": 1753057542000, "timestamp_order": "124-1", "speaker": "SPEAKER_05", "text": "그래서 가비지 2는 없어요.", "label": 1}
+{"timestamp": 1753057544000, "timestamp_order": "125-1", "speaker": "SPEAKER_05", "text": "가비지 아웃을 잘 세팅해서 그걸 인력으로 넣는 게 여러분들의 핵심이고.", "label": 1}
+{"timestamp": 1753057557000, "timestamp_order": "126-1", "speaker": "SPEAKER_01", "text": "코드는 이미 있어서요.", "label": 1}
+{"timestamp": 1753057559000, "timestamp_order": "127-1", "speaker": "SPEAKER_01", "text": "이거를 뽑아내는 것만 하면 될 것 같고 그 뽑아내는 거를 내일이랑 모레 오전 사이에 빨리 한 다음에 열심히 돌려가야죠.", "label": 1}
+{"timestamp": 1753057591000, "timestamp_order": "130-1", "speaker": "SPEAKER_05", "text": "그럼 예를, 포컬로스 방식이 가장 흔한 방식인데 이런 임패런스를 처리하는 방법들이 몇 가지 있어요.", "label": 1}
+{"timestamp": 1753057600000, "timestamp_order": "131-1", "speaker": "SPEAKER_05", "text": "이것도 코드는 어렵지 않거든요.", "label": 1}
+{"timestamp": 1753057615000, "timestamp_order": "134-1", "speaker": "SPEAKER_05", "text": "레이블이 수정했고, 레이블 분고가 어떻게 돼있고, 이 모델을 학습하는 이유가 뭔지가 안 나와 있어요.", "label": 1}
+{"timestamp": 1753057628000, "timestamp_order": "135-1", "speaker": "SPEAKER_05", "text": "여기 그 내용들이 하나도 없어요.", "label": 1}
+{"timestamp": 1753057635000, "timestamp_order": "137-1", "speaker": "SPEAKER_05", "text": "네, 그리고 제가 모델 결과 해석을 갖고 와달라고 했는데, 결과 해석 부분도 없는 것 같아요.", "label": 1}
+{"timestamp": 1753057653000, "timestamp_order": "138-1", "speaker": "SPEAKER_04", "text": "결과를 해석해보면 어떤 내용인지 아시죠?", "label": 1}
+{"timestamp": 1753057655000, "timestamp_order": "139-1", "speaker": "SPEAKER_05", "text": "제가 얘기 드린 대로 위로 올라갔을 때 저 스코어를 봤을 때 자다실 아마 여러분들이 결과를 해석을 했으면 제가 생각한 결론을 바로 도달했을 것 같거든요.", "label": 1}
+{"timestamp": 1753057672000, "timestamp_order": "140-1", "speaker": "SPEAKER_05", "text": "얘랑 얘랑 스코어 차이가 얼마 안 난다 라고 했을 때 그럼 얘가 모델이 작은 건 작용한 사실인 거잖아요.", "label": 1}
+{"timestamp": 1753057697000, "timestamp_order": "143-1", "speaker": "SPEAKER_05", "text": "그리고 이런 작용 모델이 좋아지는 이유가 뭘까.", "label": 1}
+{"timestamp": 1753057720000, "timestamp_order": "145-1", "speaker": "SPEAKER_05", "text": "이거는 제가 여러분들한테 말했는지 기억이 안 나서 4.", "label": 1}
+{"timestamp": 1753057720000, "timestamp_order": "145-3", "speaker": "SPEAKER_05", "text": "1을 보면 첫 번째 그래프에 이게 스텝을 좀 많이 찍어서 그러는데 베리디션 로스가 첫 백 스텝을 밟았을 때 더 로스가 낮아요.", "label": 1}
+{"timestamp": 1753057745000, "timestamp_order": "146-1", "speaker": "SPEAKER_05", "text": "트레이닝 노스보다 아래 내려가면 얘도 베리 데이션 노스가 처음에는 더 노스가 낮아요.", "label": 1}
+{"timestamp": 1753057771000, "timestamp_order": "148-1", "speaker": "SPEAKER_05", "text": "과적합이면 트레이닝 노스가 더 낮아야죠.", "label": 1}
+{"timestamp": 1753057776000, "timestamp_order": "149-1", "speaker": "SPEAKER_05", "text": "학사 데이터에 가져가서 된 건데 여러분들 이게 100 스텝 단위로 찍어서 그렇지 1 스텝, 10 스텝 단위로 찍었으면 베리에디션 노스가 낮은 걸 더 많이 오랫동안 볼 수 있거든요 그 이유가 뭘까요?", "label": 1}
+{"timestamp": 1753057828000, "timestamp_order": "150-1", "speaker": "SPEAKER_01", "text": "데이터가 모자라서 그냥 저렇게 되는 건가요?", "label": 1}
+{"timestamp": 1753057832000, "timestamp_order": "151-1", "speaker": "SPEAKER_05", "text": "스텝이니까 애초에 원인폭밖에 못 들어왔잖아요 데이터 양해는 생각 못 했을 거예요", "label": 1}
+{"timestamp": 1753057850000, "timestamp_order": "152-1", "speaker": "SPEAKER_05", "text": "어, 인베젼스가 심하다고 하면은 트레이딩된 로스가 더 좋았겠죠.", "label": 1}
+{"timestamp": 1753057858000, "timestamp_order": "154-1", "speaker": "SPEAKER_05", "text": "아까 데이터 그냥 눈으로 대충 보기만 해도 0과 1이 잘 섞여있어서 아마 전체 데이터 분포도 똑같을 것 같아요.", "label": 1}
+{"timestamp": 1753057870000, "timestamp_order": "156-1", "speaker": "SPEAKER_05", "text": "이거 사이키넘의 프리시전 리콜 F1 스코어 리포트라는 게 있어요.", "label": 1}
+{"timestamp": 1753057918000, "timestamp_order": "160-1", "speaker": "SPEAKER_05", "text": "첫번째 드랍아웃인데 이건 큰 원인은 아니에요.", "label": 1}
+{"timestamp": 1753057922000, "timestamp_order": "161-1", "speaker": "SPEAKER_05", "text": "학습할때는 레이어를 일부밖에 안써요.", "label": 1}
+{"timestamp": 1753057925000, "timestamp_order": "162-1", "speaker": "SPEAKER_05", "text": "인포핏할때는 모든 레이어를 다 사용합니다.", "label": 1}
+{"timestamp": 1753057948000, "timestamp_order": "165-1", "speaker": "SPEAKER_05", "text": "합습 로스는 매 스텝만 항상 발생하잖아요.", "label": 1}
+{"timestamp": 1753057954000, "timestamp_order": "166-1", "speaker": "SPEAKER_05", "text": "그럼 백 스텝이 발생할 때 처음에 합습이 AI인데 랜덤한 웨이트에서도 로스가 발생해요.", "label": 1}
+{"timestamp": 1753057978000, "timestamp_order": "169-1", "speaker": "SPEAKER_05", "text": "학습이 더 된 상태고 뒤로 갈수록 트레이닝 로스 내려가는거는 학습 데이터에 더 최적화되고 있기 때문에 내려가는거고 모델이 어느정도 좋아졌기 때문에 내려가는거에요.", "label": 1}
+{"timestamp": 1753057990000, "timestamp_order": "170-1", "speaker": "SPEAKER_05", "text": "초기에는 여러분들이 지금 스텝라인을 좀 크게 찍었는데 초기에는 베를레이션 호스가 낮은 상태가 좀 오래 지속되는 경우도 있어요.", "label": 1}
+{"timestamp": 1753058021000, "timestamp_order": "171-1", "speaker": "SPEAKER_05", "text": "드랍아웃은 예를 들어 50%에요.", "label": 1}
+{"timestamp": 1753058024000, "timestamp_order": "172-1", "speaker": "SPEAKER_05", "text": "학습할 때는 5개의 뉴럴네트워크로만 학습을 하죠.", "label": 1}
+{"timestamp": 1753058034000, "timestamp_order": "174-1", "speaker": "SPEAKER_05", "text": "퍼포먼스 할 때는 10개를 다 연합해서 쓰기 때문에 아무래도 레이어를 더 많이 쓰게 되죠.", "label": 1}
+{"timestamp": 1753058043000, "timestamp_order": "175-1", "speaker": "SPEAKER_05", "text": "더 레이어를 많이 쓰다 보니 웨이트도 많이 되고 모든 게 폭해질 수 밖에 없죠, 일관적으로.", "label": 1}
+{"timestamp": 1753058060000, "timestamp_order": "177-1", "speaker": "SPEAKER_05", "text": "지금은 데이터도 너무 좋고 이래서 크레이닝 루스가 바로바로 떨어져서 첫 시스템을 누던 현상이 발생하는데 뭐 어려운 데이터에서", "label": 1}
+{"timestamp": 1753058070000, "timestamp_order": "178-1", "speaker": "SPEAKER_05", "text": "10스텝으로 찍는다라고 하면은 나중에 이제 자주 보게 될 거예요.", "label": 1}
+{"timestamp": 1753058094000, "timestamp_order": "179-1", "speaker": "SPEAKER_01", "text": "그러면 잘 된 경우라면은 트렌드 로스가 더 높아요.", "label": 1}
+{"timestamp": 1753058182000, "timestamp_order": "182-1", "speaker": "SPEAKER_01", "text": "그렇게 의심하면서는 생각을 안 해봤던 것 같아요.", "label": 1}
+{"timestamp": 1753058214000, "timestamp_order": "187-3", "speaker": "SPEAKER_01", "text": "3이네요 아 제가 이거 라벨링을 잘못했네요?", "label": 1}
+{"timestamp": 1753058217000, "timestamp_order": "188-1", "speaker": "SPEAKER_05", "text": "아 네 이 얘기는 밸런스가 비슷하기 때문에 프리시언 리콜이 교차할 수 있다는 거거든요?", "label": 1}
+{"timestamp": 1753058224000, "timestamp_order": "189-1", "speaker": "SPEAKER_05", "text": "저는 이거 밸런스가 비슷하겠네라고 해석을 한 거에요 어깔일 수 있잖아요 모델이 1이 많다고 하면 다이애만 찍어서 리콜이 높아질 가능성이 크거든요 이런 것도 하나의 단서긴 해요 아 그렇게 되는구나", "label": 1}
+{"timestamp": 1753058265000, "timestamp_order": "193-1", "speaker": "SPEAKER_05", "text": "이것도 해석을 하셔야 되는데, 해석은 결과의 해석이 아니라 모델이 왜 정확도가 높으면 왜 높은지, 날씨가 왜 낮은지.", "label": 1}
+{"timestamp": 1753058277000, "timestamp_order": "194-1", "speaker": "SPEAKER_05", "text": "보통은 여러분이 최적화를 진행시킬 때 모델 더 좋은 거 바꿔볼까, 알고리즘 바꿔볼까로 접근하는 게 아니라 물론 그렇게 하시는 것도 맞는데 이 모델이 만약에 여러분이 최적화, 아니 이 모델, 최적화의 모델을 선정이 됐어요.", "label": 1}
+{"timestamp": 1753058319000, "timestamp_order": "199-1", "speaker": "SPEAKER_05", "text": "그럼 수처리에 무조건 바꿔주는, 리플레이스 해주는 방법도 있겠죠.", "label": 1}
+{"timestamp": 1753058332000, "timestamp_order": "201-1", "speaker": "SPEAKER_01", "text": "안 그래도 저희끼리 얘기를 했었던 게 이게 이 밑에다가 제가 적어놓기는 했었는데 이게 확신도가 낮은 것들이 좀 애매한 것들이 많더라고요.", "label": 1}
+{"timestamp": 1753058346000, "timestamp_order": "202-1", "speaker": "SPEAKER_01", "text": "물론 이게 깨끗한 데이터이기는 했지만 그래서 저희가 그거를 빼내는 거를 할 때 정말 필요 없다고 생각한 것들 빼고 나머지 확신도가 낮은 것들은 요약할 때 포함시켜야 하지 않을까 이런 얘기를 했거든요.", "label": 1}
+{"timestamp": 1753058360000, "timestamp_order": "203-1", "speaker": "SPEAKER_01", "text": "그러면 거기에는 확신도도 낮지만 중요한 문장이 적혀 있을 수도 있을 것 같아서 그래서 그거를 포함을 시키되 이 제외시킨 애들을 로그로 저장을 해가지고 확인을 좀 한번 해봐야겠다 이런 얘기를 저희끼리는 했었는데요 그런 레퍼런스가 있었나요?", "label": 1}
+{"timestamp": 1753058377000, "timestamp_order": "204-1", "speaker": "SPEAKER_01", "text": "아니요, 레퍼런스는 없었고 그냥 제가 이거 위에 이거 그리고 확신도 이거를 확인을 계속 하면서 여러 가지 문장들을 되게 다양하게 넣어봤거든요 근데", "label": 1}
+{"timestamp": 1753058390000, "timestamp_order": "205-1", "speaker": "SPEAKER_01", "text": "진짜 조금 애매한 문장들, 문맥에 따라서는 중요할 수도 있고 아닐 수도 있는 이런 문장들을 거의 다 확신도를 낮게 잡아서 이것들을 다 그냥 0으로 얘가 판단했다고 다 무시하는 건 안 될 것 같다라는 생각이 들어서 이렇게 한 거거든요.", "label": 1}
+{"timestamp": 1753058409000, "timestamp_order": "206-1", "speaker": "SPEAKER_05", "text": "최종 레이어에 엑티베이션 펑션?", "label": 1}
+{"timestamp": 1753058420000, "timestamp_order": "208-1", "speaker": "SPEAKER_01", "text": "아 소프트 맥스로 했었던 걸로 아 네 소프트 맥스 겁니다 잠시만요 이거 어디다 넣어놨는데 어디다가 넣어놨더라 보통은 0과 1이면 시그모이드일텐데 소프트 맥스인가요?", "label": 1}
+{"timestamp": 1753058437000, "timestamp_order": "209-1", "speaker": "SPEAKER_05", "text": "네 여기는 소프트 맥스로 해놨었습니다 네 보통은 시그모이드 써요 0과 1이 되는 일단 소프트 맥스 하셨으니까 소프트 맥스 기준으로", "label": 1}
+{"timestamp": 1753058449000, "timestamp_order": "210-1", "speaker": "SPEAKER_05", "text": "그 벤치에서 이제 높은 값을 내리고, 낮은 값은 0으로 바뀌었죠.", "label": 1}
+{"timestamp": 1753058452000, "timestamp_order": "211-1", "speaker": "SPEAKER_05", "text": "근데 이거를 0과 1로 비교한 게 결국에는 그 0.", "label": 1}
+{"timestamp": 1753058470000, "timestamp_order": "214-2", "speaker": "SPEAKER_05", "text": "4로 내리거나 줄였을 때 이거를 좀 잘 보셔야 되거든요.", "label": 1}
+{"timestamp": 1753058481000, "timestamp_order": "215-1", "speaker": "SPEAKER_05", "text": "얘는 그때 흥률값이 아니에요.", "label": 1}
+{"timestamp": 1753058483000, "timestamp_order": "216-1", "speaker": "SPEAKER_05", "text": "모델이 예측한 예측값이거든요.", "label": 1}
+{"timestamp": 1753058488000, "timestamp_order": "217-1", "speaker": "SPEAKER_05", "text": "그 calibrated라고 모델의 예측값을 흥률값처럼 보이게 해주는 이런 알고리심들이 따로 있어요.", "label": 1}
+{"timestamp": 1753058496000, "timestamp_order": "218-1", "speaker": "SPEAKER_05", "text": "얘는 무직값이지 흥률값이 아니다 라는 거 첫번째고 두번째 컴피던스를 믿으면 안되는게 여러분들 지금 스코어가 좋잖아요.", "label": 1}
+{"timestamp": 1753058514000, "timestamp_order": "219-1", "speaker": "SPEAKER_05", "text": "그러면은 애매한 데이터가 올라왔을 때 얘가 1인 것 같아요.", "label": 1}
+{"timestamp": 1753058530000, "timestamp_order": "221-1", "speaker": "SPEAKER_05", "text": "그래서 모델 정도가 좋아지면 모델들은 대체로 오버콤비던스라는 문제가 생기게 발생해요.", "label": 1}
+{"timestamp": 1753058546000, "timestamp_order": "222-1", "speaker": "SPEAKER_01", "text": "이런 상황에서 여러분들이 센싱분들을 벌어버린다는데 얼마나 예민한 건 흔들리는 건지.", "label": 1}
+{"timestamp": 1753058583000, "timestamp_order": "224-1", "speaker": "SPEAKER_01", "text": "네 일단 데이터 바꾸고 일단 실험도 다시 해야되니까 이거는 다 바꾸기는 해야겠는데 어 아까 말씀해주셨던 어떤 데이터를 어떻게 넣었는지에 대한 부분이랑 그 다음에 모델도 라지 모델을 한두개 정도 더 추가를 해야 되고 다른거보다 지금 데이터 정대가 급하겠네요 네 기본 텍을 만들어야 되니까 코디도 있어야 되고 레이테만 한번 넣어보시고 네", "label": 1}
+{"timestamp": 1753058630000, "timestamp_order": "227-1", "speaker": "SPEAKER_05", "text": "혹시 코드는 뭐 지금 찾기 이상은 없겠나요?", "label": 1}
+{"timestamp": 1753058636000, "timestamp_order": "228-1", "speaker": "SPEAKER_01", "text": "어 네 그 뭐냐 제가 일단 간단하게는 써보고선 이거를 제 코랩으로 작성을 해가지고 코랩 쪽에서 자동완성 되는 거랑 GPT한테 물어봐 가면서 해서 지금 만들기는 했는데 데이터를 뭐 데이터만 CSB를 똑같은 형식으로 나오면 바로 다시 돌릴 수 있습니다 네 오늘은 뭐 대표는 오늘 하지 말고 토요일에 어차피 여유 있으니까 토요일에 발표 듣는 걸로 하시고 네 네 아까 그 데이터 한 번만 볼까요?", "label": 1}
+{"timestamp": 1753058665000, "timestamp_order": "230-1", "speaker": "SPEAKER_05", "text": "아 레이블링 이거 한거에요?", "label": 1}
+{"timestamp": 1753058697000, "timestamp_order": "231-1", "speaker": "SPEAKER_01", "text": "어 1이 더 많네요 네 이거가 제가 뒷부분에 그거를 추가를 했었어요 그 300개가 더 늘어나 원래 1700개였는데 300개의 그 애매한 표현들 중에서 1로 넣어야 되는 것들을 더 넣었어요 음 이거 정확도가 웬만하면 더 높게 나올텐데 정확도가 높게 안 나오는건 아마 비슷한 표현인데 학습데이터는 1이고 평가데이터에서는 0,2로 들어간게 있을 것 같거든요", "label": 1}
+{"timestamp": 1753058724000, "timestamp_order": "232-1", "speaker": "SPEAKER_01", "text": "아, 일관성이 조금 부족한 분들이 있을 거란 말씀이십니다.", "label": 1}
+{"timestamp": 1753058746000, "timestamp_order": "234-1", "speaker": "SPEAKER_01", "text": "아, 이거는 결정 사항이 아니라 확인하는 부분이라서 저건 0이거든요.", "label": 1}
+{"timestamp": 1753058768000, "timestamp_order": "237-1", "speaker": "SPEAKER_01", "text": "수율 관련 내용 다시 한 번 확인 부탁드릴게요 요거는 그냥 확인을 얘기를 하는 거지 어떤 결정 사안이나 이런 게 아니라서 그냥 그냥 읽고서 음 하고 넘어갔는데 여러분들 티켓할 때 티켓 기준만 있으면 될 것 같은데", "label": 1}
+{"timestamp": 1753058804000, "timestamp_order": "242-1", "speaker": "SPEAKER_01", "text": "근데 이거, 아, 근데 아까도 말씀드렸지만 이게 수동으로 하는데 멘토님도 한 100개 정도 만들어서 이제 그걸로 레벨링을 하고", "label": 1}
+{"timestamp": 1753058814000, "timestamp_order": "243-1", "speaker": "SPEAKER_05", "text": "나온 거를 이제 비교해서 한다고 했는데 100개 수동에 그 어쨌건 이것도 수동으로 해야 되는 거니까 이거의 신뢰도를 어떻게 생각을 해야 될지 이거가 조금 걱정이기는 해요 이게 지금 엄청 중요한 질문 하셨는데 그래서 AV 기준을 제가 계속 얘기했던 철저하게 만들어야 된다 이 사람도 신뢰하면 안 돼요 그래서 저희가 회사에서는 저희가 다 하기엔 인건비가 아깝잖아요", "label": 1}
+{"timestamp": 1753058869000, "timestamp_order": "249-1", "speaker": "SPEAKER_05", "text": "이 조성은 어떤 데이터를 만들는지 모르겠죠.", "label": 1}
+{"timestamp": 1753058873000, "timestamp_order": "250-1", "speaker": "SPEAKER_05", "text": "똑같은 데서 레이블링 했다라고 하면 상관이 없는데, 레이블링은 잘못됐어요.", "label": 1}
+{"timestamp": 1753058887000, "timestamp_order": "251-1", "speaker": "SPEAKER_05", "text": "그럼 만약에 필요한 사람이, 예를 들어 세이디 누누님이 얘를 영렬하게 레이블링을 하고 다른 사람이 다 일로 레이블링을 하겠어요.", "label": 1}
+{"timestamp": 1753058910000, "timestamp_order": "252-1", "speaker": "SPEAKER_05", "text": "그래서 하나의 데이터를 알바생들 생각만 했을 때, 하나의 데이터를 한 명만 보고 넘어가지가 않아요.", "label": 1}
+{"timestamp": 1753058934000, "timestamp_order": "253-1", "speaker": "SPEAKER_05", "text": "100개는 똑같이 다 할 필요 없고, 크로스맨이 최적화 아이보리즘 때문에 겹치는 거 뭐 10개 정도만 하게 하고, 근데 중독이 이거 100개 할 때 내가 잘못한 게 아니라 내 생각에는 이런 기준이었어.", "label": 1}
+{"timestamp": 1753058952000, "timestamp_order": "254-1", "speaker": "SPEAKER_05", "text": "대충 레이블링 하기 아니라 생각이 다 정의가 다른 거지.", "label": 1}
+{"timestamp": 1753058956000, "timestamp_order": "255-1", "speaker": "SPEAKER_01", "text": "그거 돌리기 전에 제가 레이블링에 대한 기준을 저희 테스크 만드는 걸로 해가지고 일단은 1차적인 기준을 같이 놓고 같은 기준을 보면서 레이블링 해서 비교를 해가지고 정하는 걸로 해보도록 하겠습니다.", "label": 1}
+{"timestamp": 1753058975000, "timestamp_order": "256-1", "speaker": "SPEAKER_05", "text": "그게 뭐 데이터 전찰이 결과서나 이런 데 들어가면 좋겠죠?", "label": 1}
+{"timestamp": 1753058984000, "timestamp_order": "257-1", "speaker": "SPEAKER_05", "text": "참고로 저희 뭐 시간 좀 남았으니까 여러가지 관광분들을 얘기해드리면은 셀프 슈퍼바이스 런이 이라는 게 있어요.", "label": 1}
+{"timestamp": 1753058995000, "timestamp_order": "258-1", "speaker": "SPEAKER_05", "text": "그래서 이건 뭐냐면 레이블링 된 거를 가지고 이제 모델 다섯 개를 만들어요.", "label": 1}
+{"timestamp": 1753059006000, "timestamp_order": "259-1", "speaker": "SPEAKER_05", "text": "근데 성능 좋다 어느 정도 좋게 나왔을 때 정말 컴퓨터스 높은 거.", "label": 1}
+{"timestamp": 1753059014000, "timestamp_order": "260-1", "speaker": "SPEAKER_05", "text": "엄청 좋은 컴퓨터에서 나오는 건 정답이다 라고 생각하고 예를 학습 데이터로 넣는 방법이 있어요 그 버튼을 돌리고 다시 예측을 돌리고 높은 컴퓨터를 다시 레이브를 넣고 아 그럼 지금 순도를 높여가는 거군요 네 두번째는 액티브러닝이라는 방법이 있어요 이거는 레이블링 하는 방법인데 여러분들의 데이터가 인도네시아에 수십만개가 있어요 이거 다 레이블링해서 학습하기 힘들잖아요", "label": 1}
+{"timestamp": 1753059044000, "timestamp_order": "261-1", "speaker": "SPEAKER_05", "text": "그래서 일반 1부분을 학습해서 학습 데이터를 만든 다음에 학습을 돌려야 해 모델을 한 5개를 돌린 다음에 인터넷에 있는 데이터를 탈 예측을 해봐야 해 예측하는 데이터들 중에서 모델 6개 중에서 3개는 0으로 예측한 데이터들이 있거든요 네 네 이런 데이터들은 모델이 헷갈려하는 데이터다 라는 거야 그래서 이런 데이터만 갖고 와서 사람들한테 레이블을 시키는 거죠 아 그런 거는 이제 휴머니 소스로", "label": 1}
+{"timestamp": 1753059070000, "timestamp_order": "262-1", "speaker": "SPEAKER_05", "text": "그래서 이런 여러분들이 질문하는 것, 메이블링을 어떻게 해요가 엄청난 리서트 주제 중에 하나입니다.", "label": 1}
+{"timestamp": 1753059078000, "timestamp_order": "263-1", "speaker": "SPEAKER_05", "text": "매년 다커퍼런스에 논문이 나오는 것 중에 하나가 이런 방법들이 하나씩 포함되어 있어요.", "label": 1}
+{"timestamp": 1753059083000, "timestamp_order": "264-1", "speaker": "SPEAKER_05", "text": "이것도 여러분들이 관심 있으시면 논문 찾아보시고 연구를 해보시면 괜찮을 것 같아요.", "label": 1}
+{"timestamp": 1753059094000, "timestamp_order": "265-1", "speaker": "SPEAKER_05", "text": "사람을 어떻게 획기적으로 갈구일 수 있는지 네이블링을 열심히 하는 게 아니라 그렇게까지 갈굴 필요가 있으니까요 지금은 장난스러우고 말하는데 여러분이 회사에 가서 알바생에 100명을 뽑아서 색다를 그린다고 해볼게요 아 그런 경우라면 해야죠 그거가 실행용과 많아요 그러면 한 명당에 예를 들어 200만원을 줬다고 하면 2억이죠 한 달 만에", "label": 1}
+{"timestamp": 1753059125000, "timestamp_order": "266-1", "speaker": "SPEAKER_05", "text": "어려워지는 경우는 은근히 많아요.", "label": 1}
+{"timestamp": 1753059129000, "timestamp_order": "267-1", "speaker": "SPEAKER_05", "text": "그래서 효과적으로 돌리려면 여러 가지 방법들이 있어요.", "label": 1}
+{"timestamp": 1753059144000, "timestamp_order": "268-1", "speaker": "SPEAKER_01", "text": "일단은 이 인공지능학습결과서는 어차피 지금 다시 써야 되는 부분들도 있고 말씀해주신 부분들 좀 더 추가 해석", "label": 1}
+{"timestamp": 1753059155000, "timestamp_order": "270-1", "speaker": "SPEAKER_01", "text": "혹시 중간에 좀 모르겠는 게 있으면 파랑새를 통해서도 아니면 제가 직접 받은 연락을 좀 드리도록 하겠습니다.", "label": 1}
+{"timestamp": 1753059170000, "timestamp_order": "272-1", "speaker": "SPEAKER_01", "text": "어 화면 계획서가 저희가 아마 잠시만요.", "label": 1}
+{"timestamp": 1753059178000, "timestamp_order": "273-1", "speaker": "SPEAKER_01", "text": "화면 설계서가 다음 주 거라서 지금 초한만 했다가 이번 주 거 지금 그 뭐지?", "label": 1}
+{"timestamp": 1753059186000, "timestamp_order": "274-1", "speaker": "SPEAKER_01", "text": "문서 들어간 것 때문에 지금 그 우선도가 좀 미뤄졌습니다.", "label": 1}
+{"timestamp": 1753059210000, "timestamp_order": "276-1", "speaker": "SPEAKER_00", "text": "그래서 다음 주 화요일 날이 돼야지 아마 가능할 것 같습니다.", "label": 1}
+{"timestamp": 1753059221000, "timestamp_order": "277-1", "speaker": "SPEAKER_04", "text": "다음 주 화요일에는 저희 본사작업은 다음 주에 없죠?", "label": 1}
+{"timestamp": 1753059224000, "timestamp_order": "278-1", "speaker": "SPEAKER_01", "text": "다음 주에 발표가 화요일 날이 있고요.", "label": 1}
+{"timestamp": 1753059234000, "timestamp_order": "281-1", "speaker": "SPEAKER_01", "text": "네, 그래서 이번 주말에는 저희가 중간 발표 자료를 좀 준비를 해야 되고 그 다음에 그 외에도 대출해야 되는 게 두 개 있습니다.", "label": 1}
+{"timestamp": 1753059243000, "timestamp_order": "282-1", "speaker": "SPEAKER_01", "text": "그 중에 하나가 이제 화면 설계서고 다른 하나가 시스템 구성도 아키텍처 부분입니다.", "label": 1}
+{"timestamp": 1753059249000, "timestamp_order": "283-1", "speaker": "SPEAKER_05", "text": "여러분들 화면 구성은 이제 여러분들 몇 개만이 없어서 좀 쉽게 넘어갈 것 같고, 큰 일들이 없어 보이거든요?", "label": 1}
+{"timestamp": 1753059258000, "timestamp_order": "284-1", "speaker": "SPEAKER_05", "text": "아키텍처만 신경 써서 하시면 되고 갈게요.", "label": 1}
+{"timestamp": 1753059263000, "timestamp_order": "285-1", "speaker": "SPEAKER_05", "text": "그럼 차주 화요일에는 아키텍처 리뷰를 하고 두 분의 발표.", "label": 1}
+{"timestamp": 1753059263000, "timestamp_order": "285-3", "speaker": "SPEAKER_05", "text": "를 보면 될 것 같아요.", "label": 1}
+{"timestamp": 1753059282000, "timestamp_order": "287-1", "speaker": "SPEAKER_01", "text": "네 다음 주 화요일이어서 혹시 가능하시면은 수요일 날 혹시 가능하실지 안 그래도 오늘 여쭤봤죠.", "label": 1}
+{"timestamp": 1753059326000, "timestamp_order": "288-1", "speaker": "SPEAKER_04", "text": "그럼 다음주에는 목요일에 하세요.", "label": 1}
+{"timestamp": 1753059347000, "timestamp_order": "290-1", "speaker": "SPEAKER_04", "text": "그러면 지금 CPT 쪽은 두 분이 맡고 계신 거잖아요.", "label": 1}
+{"timestamp": 1753059358000, "timestamp_order": "291-1", "speaker": "SPEAKER_05", "text": "트랜스포머의 인코더는 지금 두 분이 맡고 있어요.", "label": 1}
+{"timestamp": 1753059368000, "timestamp_order": "293-1", "speaker": "SPEAKER_05", "text": "그럼 차주 화요일에는 두 명의 발표 세션이 있을 수 있을 것 같아요.", "label": 1}
+{"timestamp": 1753059373000, "timestamp_order": "294-1", "speaker": "SPEAKER_05", "text": "그래서 트랜스포머의 인코더 부분, 버트, 학습방법이랑 노스콩션 어떻게 돌아가는지 이런 것들을 발표해주시면 좋을 것 같아요.", "label": 1}
+{"timestamp": 1753059386000, "timestamp_order": "295-1", "speaker": "SPEAKER_05", "text": "토요일이 있으니까 토요일에 발표시전에 가져오는 것 같아요.", "label": 1}
+{"timestamp": 1753059398000, "timestamp_order": "297-1", "speaker": "SPEAKER_05", "text": "그럼 화요일에 발표를 한 번 하고 아 다음 4주 목요일에 발표 한 번 하고 4주 토요일에 한 번 발표하시죠.", "label": 1}
+{"timestamp": 1753059427000, "timestamp_order": "299-1", "speaker": "SPEAKER_05", "text": "그리고 모델 별로 지금 아마 KC버튼은 그냥 버트랑 큰 의미가 없을 거예요.", "label": 1}
+{"timestamp": 1753059436000, "timestamp_order": "300-1", "speaker": "SPEAKER_05", "text": "일렉터나 같은 경우에는 아이보리즘이 좀 다르거든요.", "label": 1}
+{"timestamp": 1753059449000, "timestamp_order": "301-1", "speaker": "SPEAKER_05", "text": "여기에 옵티마이저를 보면 adam warmup이 있어요.", "label": 1}
+{"timestamp": 1753059473000, "timestamp_order": "305-1", "speaker": "SPEAKER_05", "text": "이런 거에 대한 고찰, 이런 것들이 여러 가지가 있어요.", "label": 1}
+{"timestamp": 1753059484000, "timestamp_order": "306-1", "speaker": "SPEAKER_05", "text": "목요일에 발표 세션이 있으니까 토요일에 하시면 될 거 같아요.", "label": 1}
+{"timestamp": 1753059571000, "timestamp_order": "310-1", "speaker": "SPEAKER_00", "text": "일단 차주는 제가 없어요.", "label": 1}
+{"timestamp": 1753059576000, "timestamp_order": "311-1", "speaker": "SPEAKER_00", "text": "차주 주말은 제가 아예 안 되고 3분 안 되네요.", "label": 1}
+{"timestamp": 1753059593000, "timestamp_order": "312-1", "speaker": "SPEAKER_01", "text": "만약에 27일을 하게 되면 저랑 준성님만 안 되는 거가 되고요 26일은 3분이 안 되셔서 그러면은 이걸 맞출 수가 없고 27일 그러면 되는 거 아니에요?", "label": 1}

@@ -1,0 +1,2426 @@
+[
+  {
+    "timestamp": 1753056019000,
+    "timestamp_order": "1-1",
+    "speaker": "SPEAKER_05",
+    "text": "세계부지 모델 전철이가 이번 주까지예요?"
+  },
+  {
+    "timestamp": 1753056019000,
+    "timestamp_order": "1-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056024000,
+    "timestamp_order": "2-1",
+    "speaker": "SPEAKER_01",
+    "text": "전철이 이번 주까지가 맞습니다."
+  },
+  {
+    "timestamp": 1753056024000,
+    "timestamp_order": "2-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056027000,
+    "timestamp_order": "3-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056054000,
+    "timestamp_order": "5-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056076000,
+    "timestamp_order": "6-1",
+    "speaker": "SPEAKER_01",
+    "text": "다른 조우들도 저희랑 조금 비슷한 상황이긴 한데요."
+  },
+  {
+    "timestamp": 1753056076000,
+    "timestamp_order": "6-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056080000,
+    "timestamp_order": "7-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056106000,
+    "timestamp_order": "8-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056115000,
+    "timestamp_order": "9-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056126000,
+    "timestamp_order": "10-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056135000,
+    "timestamp_order": "11-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056164000,
+    "timestamp_order": "12-1",
+    "speaker": "SPEAKER_01",
+    "text": "웬토님한테 그 얘기를 듣고 나서 저희가 버트 모델을 가지고서 학습을 조금 파인 튜닝을 해봤는데"
+  },
+  {
+    "timestamp": 1753056175000,
+    "timestamp_order": "13-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056179000,
+    "timestamp_order": "14-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056240000,
+    "timestamp_order": "17-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056254000,
+    "timestamp_order": "18-1",
+    "speaker": "SPEAKER_01",
+    "text": "저희가 그때 얘기했었던 것 중에서 이 회의에서 자주 나오는 단어를 중요도로 해가지고 해보는 건 어떤가라는 얘기가 저희끼리 있었거든요."
+  },
+  {
+    "timestamp": 1753056254000,
+    "timestamp_order": "18-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056264000,
+    "timestamp_order": "19-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056266000,
+    "timestamp_order": "20-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056289000,
+    "timestamp_order": "21-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056302000,
+    "timestamp_order": "22-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056316000,
+    "timestamp_order": "23-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056326000,
+    "timestamp_order": "24-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056329000,
+    "timestamp_order": "25-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056344000,
+    "timestamp_order": "26-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056360000,
+    "timestamp_order": "27-1",
+    "speaker": "SPEAKER_01",
+    "text": "요기는 제가 지금 지워놓고 요것도 지워놓고 이후는 더 보강해서 넣도록 하겠습니다."
+  },
+  {
+    "timestamp": 1753056360000,
+    "timestamp_order": "27-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056374000,
+    "timestamp_order": "28-1",
+    "speaker": "SPEAKER_05",
+    "text": "그리고 코일렉트라고 생각하시면 되겠는데 모델 사이즈가 지금 다 다를 것 같거든요?"
+  },
+  {
+    "timestamp": 1753056374000,
+    "timestamp_order": "28-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056381000,
+    "timestamp_order": "29-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056417000,
+    "timestamp_order": "30-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056428000,
+    "timestamp_order": "31-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056448000,
+    "timestamp_order": "32-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056458000,
+    "timestamp_order": "34-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056465000,
+    "timestamp_order": "35-1",
+    "speaker": "SPEAKER_01",
+    "text": "다른 거는 5나 2 사이에서 멈췄는데, 제만 9까지 가서 멈추더라고요."
+  },
+  {
+    "timestamp": 1753056465000,
+    "timestamp_order": "35-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056471000,
+    "timestamp_order": "36-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056523000,
+    "timestamp_order": "38-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056580000,
+    "timestamp_order": "39-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056622000,
+    "timestamp_order": "41-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056630000,
+    "timestamp_order": "42-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056638000,
+    "timestamp_order": "43-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056647000,
+    "timestamp_order": "44-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056654000,
+    "timestamp_order": "45-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056720000,
+    "timestamp_order": "46-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056731000,
+    "timestamp_order": "47-1",
+    "speaker": "SPEAKER_01",
+    "text": "CSB 파일이었구요."
+  },
+  {
+    "timestamp": 1753056731000,
+    "timestamp_order": "47-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056750000,
+    "timestamp_order": "49-1",
+    "speaker": "SPEAKER_01",
+    "text": "850개, 850개씩 그 연관이 있는 것과 없는 것이 들어가 있고 300개는 조금 애매한 문장들이 들어가 있습니다 이게 회의와 연관이 있을 수도 있는데 그 문맥에 따라서는 회의와 연관이 있지만 문맥에 따라서는 없는 것들 그런 것들이 있어서 뭐 예를 들면 뭐 이 사안의 담당자 누구였죠?"
+  },
+  {
+    "timestamp": 1753056750000,
+    "timestamp_order": "49-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056769000,
+    "timestamp_order": "50-1",
+    "speaker": "SPEAKER_01",
+    "text": "라는 부분들은 어떨 때 어떤 그 회의를 시작할 때 보면 굉장히 중요한 말이지만"
+  },
+  {
+    "timestamp": 1753056776000,
+    "timestamp_order": "51-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056781000,
+    "timestamp_order": "52-1",
+    "speaker": "SPEAKER_01",
+    "text": "그런 것들까지 포함해서 총 2,000개의 데이터를 넣었고요."
+  },
+  {
+    "timestamp": 1753056781000,
+    "timestamp_order": "52-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056786000,
+    "timestamp_order": "53-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056792000,
+    "timestamp_order": "54-1",
+    "speaker": "SPEAKER_01",
+    "text": "일단 1은 회의에 필요한 문장들이고 0 같은 경우는 필요 없는 문장으로 넣었거든요."
+  },
+  {
+    "timestamp": 1753056792000,
+    "timestamp_order": "54-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056799000,
+    "timestamp_order": "55-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056803000,
+    "timestamp_order": "56-1",
+    "speaker": "SPEAKER_01",
+    "text": "이것이 저희가 만드는"
+  },
+  {
+    "timestamp": 1753056806000,
+    "timestamp_order": "57-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056812000,
+    "timestamp_order": "58-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056830000,
+    "timestamp_order": "59-1",
+    "speaker": "SPEAKER_01",
+    "text": "예시로 해가지고 저희가 수동으로 제가 작성한 게 한 50개 정도를 작성을 해가지고 클로드랑 GPT로 해가지고 다 늘렸습니다."
+  },
+  {
+    "timestamp": 1753056830000,
+    "timestamp_order": "59-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056859000,
+    "timestamp_order": "61-1",
+    "speaker": "SPEAKER_05",
+    "text": "제가 저번에 말씀드렸던 내용들은 데이터를 아예 새로 만들려고 했던 게 아니라 저희 회의 데이터 CEO가 했던 거 있죠."
+  },
+  {
+    "timestamp": 1753056859000,
+    "timestamp_order": "61-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056866000,
+    "timestamp_order": "62-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056868000,
+    "timestamp_order": "63-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056873000,
+    "timestamp_order": "64-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056884000,
+    "timestamp_order": "65-1",
+    "speaker": "SPEAKER_05",
+    "text": "목적 데이터가 실제여야 돼요."
+  },
+  {
+    "timestamp": 1753056884000,
+    "timestamp_order": "65-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056886000,
+    "timestamp_order": "66-1",
+    "speaker": "SPEAKER_05",
+    "text": "그래서 이게"
+  },
+  {
+    "timestamp": 1753056888000,
+    "timestamp_order": "67-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056894000,
+    "timestamp_order": "68-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056901000,
+    "timestamp_order": "69-1",
+    "speaker": "SPEAKER_05",
+    "text": "SVM이나 그런 거를 학습할 때는."
+  },
+  {
+    "timestamp": 1753056901000,
+    "timestamp_order": "69-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056905000,
+    "timestamp_order": "70-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056910000,
+    "timestamp_order": "71-1",
+    "speaker": "SPEAKER_05",
+    "text": "학습때부터는 엄청 깔끔하게 되는데 인퍼런스 데이터에 노이즈가 있으면 이 모델은 헷갈려요."
+  },
+  {
+    "timestamp": 1753056910000,
+    "timestamp_order": "71-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056917000,
+    "timestamp_order": "72-1",
+    "speaker": "SPEAKER_05",
+    "text": "이렇게 학습 데이터를 만들었다는 것은 지금 난이도가 너무 쉽고요."
+  },
+  {
+    "timestamp": 1753056917000,
+    "timestamp_order": "72-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056932000,
+    "timestamp_order": "73-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056953000,
+    "timestamp_order": "74-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056969000,
+    "timestamp_order": "75-2",
+    "speaker": "SPEAKER_05",
+    "text": "1%"
+  },
+  {
+    "timestamp": 1753056974000,
+    "timestamp_order": "76-1",
+    "speaker": "SPEAKER_05",
+    "text": "1%포인트가 안 나요, 지금 정도 저희가."
+  },
+  {
+    "timestamp": 1753056974000,
+    "timestamp_order": "76-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056976000,
+    "timestamp_order": "77-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056984000,
+    "timestamp_order": "78-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056988000,
+    "timestamp_order": "79-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753056998000,
+    "timestamp_order": "80-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057006000,
+    "timestamp_order": "81-1",
+    "speaker": "SPEAKER_05",
+    "text": "지금 다시 데이터를 가서 보면은 목표 입장에서 봤을 때 특정 키워드가 나오면 선택하는 거랑 마찬가지거든요."
+  },
+  {
+    "timestamp": 1753057006000,
+    "timestamp_order": "81-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057013000,
+    "timestamp_order": "82-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057020000,
+    "timestamp_order": "83-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057027000,
+    "timestamp_order": "84-1",
+    "speaker": "SPEAKER_01",
+    "text": "하긴 이게 제가 오늘 이걸 하고 나서 꽤 점수가 높게 나와가지고"
+  },
+  {
+    "timestamp": 1753057061000,
+    "timestamp_order": "86-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057072000,
+    "timestamp_order": "87-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057079000,
+    "timestamp_order": "88-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057099000,
+    "timestamp_order": "89-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057109000,
+    "timestamp_order": "90-1",
+    "speaker": "SPEAKER_05",
+    "text": "배치는 그대로 가셔도 되는데 학생 데이터를 일단 바꿔야 될 거 같고요."
+  },
+  {
+    "timestamp": 1753057109000,
+    "timestamp_order": "90-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057116000,
+    "timestamp_order": "91-1",
+    "speaker": "SPEAKER_05",
+    "text": "평가 기준을 넣으실 때 일단 테이블에 드리면"
+  },
+  {
+    "timestamp": 1753057120000,
+    "timestamp_order": "92-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057140000,
+    "timestamp_order": "93-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057145000,
+    "timestamp_order": "94-1",
+    "speaker": "SPEAKER_05",
+    "text": "저게 원리적 원리나온 이유는 입력 토이 데이터가 너무 많기 때문에"
+  },
+  {
+    "timestamp": 1753057149000,
+    "timestamp_order": "95-1",
+    "speaker": "SPEAKER_05",
+    "text": "저희가 물속에서 사고나는 티켓을 따거나 무약을 할 때 필요한 데이터를 필요로 하는 거죠."
+  },
+  {
+    "timestamp": 1753057149000,
+    "timestamp_order": "95-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057158000,
+    "timestamp_order": "96-1",
+    "speaker": "SPEAKER_05",
+    "text": "그 기준인 거죠."
+  },
+  {
+    "timestamp": 1753057158000,
+    "timestamp_order": "96-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057167000,
+    "timestamp_order": "97-1",
+    "speaker": "SPEAKER_01",
+    "text": "일단은 저희가 그 저번에도 얘기했었던 그 LLM에 먹이기에 토큰 수가 너무"
+  },
+  {
+    "timestamp": 1753057174000,
+    "timestamp_order": "98-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057191000,
+    "timestamp_order": "99-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057203000,
+    "timestamp_order": "100-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057225000,
+    "timestamp_order": "101-1",
+    "speaker": "SPEAKER_05",
+    "text": "그럼 저기 회의록은 누가 작성했나요?"
+  },
+  {
+    "timestamp": 1753057225000,
+    "timestamp_order": "101-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057232000,
+    "timestamp_order": "102-1",
+    "speaker": "SPEAKER_01",
+    "text": "이런 부분들이 조금 외매하기는 한데 이게 테스크 내용에는 또 없기는 하거든요."
+  },
+  {
+    "timestamp": 1753057232000,
+    "timestamp_order": "102-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057240000,
+    "timestamp_order": "103-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057245000,
+    "timestamp_order": "104-1",
+    "speaker": "SPEAKER_05",
+    "text": "이게 다르게 한 이유가 그 레이블의 목표가 러프해서 그래요."
+  },
+  {
+    "timestamp": 1753057245000,
+    "timestamp_order": "104-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057324000,
+    "timestamp_order": "106-1",
+    "speaker": "SPEAKER_05",
+    "text": "근데 실제 데이터는 빈번하게 발생하거든요."
+  },
+  {
+    "timestamp": 1753057324000,
+    "timestamp_order": "106-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057352000,
+    "timestamp_order": "107-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057375000,
+    "timestamp_order": "108-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057412000,
+    "timestamp_order": "109-1",
+    "speaker": "SPEAKER_05",
+    "text": "심하면 99."
+  },
+  {
+    "timestamp": 1753057412000,
+    "timestamp_order": "109-3",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057415000,
+    "timestamp_order": "110-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057427000,
+    "timestamp_order": "111-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057436000,
+    "timestamp_order": "112-1",
+    "speaker": "SPEAKER_05",
+    "text": "지금 가장 중요한 거는 일단 실 데이터에서 레이블링 하는 거."
+  },
+  {
+    "timestamp": 1753057436000,
+    "timestamp_order": "112-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057446000,
+    "timestamp_order": "113-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057451000,
+    "timestamp_order": "114-1",
+    "speaker": "SPEAKER_05",
+    "text": "그때 이게 된 게, 여러분들이 레이블링 하는 건 100건 정도 레이블링 해야 된다."
+  },
+  {
+    "timestamp": 1753057451000,
+    "timestamp_order": "114-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057457000,
+    "timestamp_order": "115-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057473000,
+    "timestamp_order": "116-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057478000,
+    "timestamp_order": "117-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057486000,
+    "timestamp_order": "118-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057512000,
+    "timestamp_order": "119-1",
+    "speaker": "SPEAKER_01",
+    "text": "근데 그걸 또 검증을 또 저희가 해야 되니까."
+  },
+  {
+    "timestamp": 1753057512000,
+    "timestamp_order": "119-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057523000,
+    "timestamp_order": "120-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057528000,
+    "timestamp_order": "121-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057531000,
+    "timestamp_order": "122-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057535000,
+    "timestamp_order": "123-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057542000,
+    "timestamp_order": "124-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057544000,
+    "timestamp_order": "125-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057557000,
+    "timestamp_order": "126-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057559000,
+    "timestamp_order": "127-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057575000,
+    "timestamp_order": "128-1",
+    "speaker": "SPEAKER_05",
+    "text": "만약에 0이 메이저 그래쓰고 1이 마이노 그래쓰라고 했을 때 만약에 1이 100개 밖에 안 돼요."
+  },
+  {
+    "timestamp": 1753057575000,
+    "timestamp_order": "128-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057584000,
+    "timestamp_order": "129-1",
+    "speaker": "SPEAKER_05",
+    "text": "스페일로 해도 전체 데이터가 1100건 정도밖에 안 되겠죠."
+  },
+  {
+    "timestamp": 1753057584000,
+    "timestamp_order": "129-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057591000,
+    "timestamp_order": "130-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057600000,
+    "timestamp_order": "131-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057602000,
+    "timestamp_order": "132-1",
+    "speaker": "SPEAKER_05",
+    "text": "한두 줄은 보고 CPT가 잘 만들어질 거예요."
+  },
+  {
+    "timestamp": 1753057602000,
+    "timestamp_order": "132-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057605000,
+    "timestamp_order": "133-1",
+    "speaker": "SPEAKER_05",
+    "text": "이런 거 다 조사해서 해보시고."
+  },
+  {
+    "timestamp": 1753057605000,
+    "timestamp_order": "133-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057615000,
+    "timestamp_order": "134-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057628000,
+    "timestamp_order": "135-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057632000,
+    "timestamp_order": "136-1",
+    "speaker": "SPEAKER_01",
+    "text": "데이터와 관련된 내용들 말씀이시죠?"
+  },
+  {
+    "timestamp": 1753057632000,
+    "timestamp_order": "136-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057635000,
+    "timestamp_order": "137-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057653000,
+    "timestamp_order": "138-2",
+    "speaker": "SPEAKER_04",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057655000,
+    "timestamp_order": "139-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057672000,
+    "timestamp_order": "140-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057683000,
+    "timestamp_order": "141-1",
+    "speaker": "SPEAKER_05",
+    "text": "여기에서 1%포인트의 차이가 얼마나 큰지 여러분들이 보겠죠."
+  },
+  {
+    "timestamp": 1753057683000,
+    "timestamp_order": "141-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057688000,
+    "timestamp_order": "142-1",
+    "speaker": "SPEAKER_05",
+    "text": "여기서 느껴지는 건 정확도가 더 높긴 하지만 요약하는데 큰 의미가 없다라고 하면 서버를 요약시키는 게 더 중요한 게 맞는 거고."
+  },
+  {
+    "timestamp": 1753057688000,
+    "timestamp_order": "142-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057697000,
+    "timestamp_order": "143-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057700000,
+    "timestamp_order": "144-1",
+    "speaker": "SPEAKER_05",
+    "text": "보다 보면 실제 데이터랑 차이를 봤을 때 변별력이 없구나."
+  },
+  {
+    "timestamp": 1753057700000,
+    "timestamp_order": "144-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057720000,
+    "timestamp_order": "145-2",
+    "speaker": "SPEAKER_05",
+    "text": "2."
+  },
+  {
+    "timestamp": 1753057720000,
+    "timestamp_order": "145-4",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057745000,
+    "timestamp_order": "146-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057769000,
+    "timestamp_order": "147-1",
+    "speaker": "SPEAKER_05",
+    "text": "과적합 문제인가요?"
+  },
+  {
+    "timestamp": 1753057769000,
+    "timestamp_order": "147-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057771000,
+    "timestamp_order": "148-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057776000,
+    "timestamp_order": "149-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057828000,
+    "timestamp_order": "150-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057850000,
+    "timestamp_order": "152-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057853000,
+    "timestamp_order": "153-1",
+    "speaker": "SPEAKER_05",
+    "text": "근데 여기는 지금 레잉벨 빌런스가 너무 좋거든요?"
+  },
+  {
+    "timestamp": 1753057853000,
+    "timestamp_order": "153-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057858000,
+    "timestamp_order": "154-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057865000,
+    "timestamp_order": "155-1",
+    "speaker": "SPEAKER_05",
+    "text": "여러분들 최종 보고로 레잉벨 분포는 넣으셔야 돼요."
+  },
+  {
+    "timestamp": 1753057865000,
+    "timestamp_order": "155-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057870000,
+    "timestamp_order": "156-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057877000,
+    "timestamp_order": "157-1",
+    "speaker": "SPEAKER_05",
+    "text": "마이크로 F1이랑 매크로 F1 같이 같이 나오는 거."
+  },
+  {
+    "timestamp": 1753057877000,
+    "timestamp_order": "157-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057882000,
+    "timestamp_order": "158-1",
+    "speaker": "SPEAKER_05",
+    "text": "그 표로 사이키넘 코드 한 줄이면 되거든요."
+  },
+  {
+    "timestamp": 1753057882000,
+    "timestamp_order": "158-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057886000,
+    "timestamp_order": "159-1",
+    "speaker": "SPEAKER_05",
+    "text": "그걸 넣으면은 레이블링 숫자도 같이 나와요."
+  },
+  {
+    "timestamp": 1753057886000,
+    "timestamp_order": "159-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057918000,
+    "timestamp_order": "160-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057922000,
+    "timestamp_order": "161-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057925000,
+    "timestamp_order": "162-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057935000,
+    "timestamp_order": "163-1",
+    "speaker": "SPEAKER_05",
+    "text": "합습 로스는?"
+  },
+  {
+    "timestamp": 1753057935000,
+    "timestamp_order": "163-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057941000,
+    "timestamp_order": "164-1",
+    "speaker": "SPEAKER_04",
+    "text": "합습 로스는 언제 고르죠?"
+  },
+  {
+    "timestamp": 1753057941000,
+    "timestamp_order": "164-2",
+    "speaker": "SPEAKER_04",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057948000,
+    "timestamp_order": "165-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057954000,
+    "timestamp_order": "166-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057961000,
+    "timestamp_order": "167-1",
+    "speaker": "SPEAKER_05",
+    "text": "저는 백스텝이 학습이 다 된 후에 평가를 하죠."
+  },
+  {
+    "timestamp": 1753057961000,
+    "timestamp_order": "167-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057965000,
+    "timestamp_order": "168-1",
+    "speaker": "SPEAKER_05",
+    "text": "이 시점은 저 주황색 트레이닝 로스는 0부터 100스텝까지 사이에 있는 로스인거고 베리션로스는 백스텝이 돼서 나오는 로스에요."
+  },
+  {
+    "timestamp": 1753057965000,
+    "timestamp_order": "168-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057978000,
+    "timestamp_order": "169-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753057990000,
+    "timestamp_order": "170-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058021000,
+    "timestamp_order": "171-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058024000,
+    "timestamp_order": "172-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058030000,
+    "timestamp_order": "173-1",
+    "speaker": "SPEAKER_05",
+    "text": "이 5개만 사용하는 것은 록스가 발생해요."
+  },
+  {
+    "timestamp": 1753058030000,
+    "timestamp_order": "173-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058034000,
+    "timestamp_order": "174-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058043000,
+    "timestamp_order": "175-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058046000,
+    "timestamp_order": "176-1",
+    "speaker": "SPEAKER_05",
+    "text": "사실 내 능력이 높은 거고 가장 큰 영향을 할 거라고 말씀드렸던 루스 리턴의 시점에서 발생한 거예요."
+  },
+  {
+    "timestamp": 1753058046000,
+    "timestamp_order": "176-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058070000,
+    "timestamp_order": "178-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058094000,
+    "timestamp_order": "179-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058141000,
+    "timestamp_order": "180-1",
+    "speaker": "SPEAKER_05",
+    "text": "계속 학습을 하고 있는데 학습 메이터가 빠르게 빠르게 변하고 있기 때문에 학습이 빠르게 진행되고 있죠."
+  },
+  {
+    "timestamp": 1753058141000,
+    "timestamp_order": "180-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058149000,
+    "timestamp_order": "181-1",
+    "speaker": "SPEAKER_05",
+    "text": "그러면 그 사이에 지금 100 스텝별로 학습을 찍었다고 하면은 그 100 스텝 사이에 학습이 많이 됐기 때문에 베리데이션 노스가 더 내려가는 거예요."
+  },
+  {
+    "timestamp": 1753058149000,
+    "timestamp_order": "181-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058182000,
+    "timestamp_order": "182-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058192000,
+    "timestamp_order": "183-1",
+    "speaker": "SPEAKER_05",
+    "text": "4."
+  },
+  {
+    "timestamp": 1753058192000,
+    "timestamp_order": "183-2",
+    "speaker": "SPEAKER_05",
+    "text": "2."
+  },
+  {
+    "timestamp": 1753058192000,
+    "timestamp_order": "183-3",
+    "speaker": "SPEAKER_05",
+    "text": "3 보면 프리시안 리콜이 프리시안에서 나왔죠?"
+  },
+  {
+    "timestamp": 1753058192000,
+    "timestamp_order": "183-4",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058198000,
+    "timestamp_order": "184-1",
+    "speaker": "SPEAKER_05",
+    "text": "리콜이 더 높다는 거는?"
+  },
+  {
+    "timestamp": 1753058198000,
+    "timestamp_order": "184-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058201000,
+    "timestamp_order": "185-1",
+    "speaker": "SPEAKER_05",
+    "text": "더 많이 있다는 거예요."
+  },
+  {
+    "timestamp": 1753058201000,
+    "timestamp_order": "185-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058204000,
+    "timestamp_order": "186-1",
+    "speaker": "SPEAKER_05",
+    "text": "반대로 4."
+  },
+  {
+    "timestamp": 1753058204000,
+    "timestamp_order": "186-2",
+    "speaker": "SPEAKER_05",
+    "text": "2."
+  },
+  {
+    "timestamp": 1753058204000,
+    "timestamp_order": "186-3",
+    "speaker": "SPEAKER_05",
+    "text": "3에 보면 프리시안 리콜이 교차례해서 왔다 갔다 해요."
+  },
+  {
+    "timestamp": 1753058204000,
+    "timestamp_order": "186-4",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058214000,
+    "timestamp_order": "187-1",
+    "speaker": "SPEAKER_01",
+    "text": "둘 다 4."
+  },
+  {
+    "timestamp": 1753058214000,
+    "timestamp_order": "187-2",
+    "speaker": "SPEAKER_01",
+    "text": "6."
+  },
+  {
+    "timestamp": 1753058214000,
+    "timestamp_order": "187-4",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058217000,
+    "timestamp_order": "188-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058243000,
+    "timestamp_order": "190-1",
+    "speaker": "SPEAKER_05",
+    "text": "그래서 4."
+  },
+  {
+    "timestamp": 1753058243000,
+    "timestamp_order": "190-2",
+    "speaker": "SPEAKER_05",
+    "text": "2."
+  },
+  {
+    "timestamp": 1753058243000,
+    "timestamp_order": "190-3",
+    "speaker": "SPEAKER_05",
+    "text": "2 보면 정확도가 안 좋은 부분은 얘는 1을 많이 지었다."
+  },
+  {
+    "timestamp": 1753058243000,
+    "timestamp_order": "190-4",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058251000,
+    "timestamp_order": "191-1",
+    "speaker": "SPEAKER_05",
+    "text": "모든 예측 값을 거의 다 1으로 집었기 때문에 얘는 정확도가 낮은 거다 라고 볼 수 있겠죠."
+  },
+  {
+    "timestamp": 1753058251000,
+    "timestamp_order": "191-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058262000,
+    "timestamp_order": "192-1",
+    "speaker": "SPEAKER_05",
+    "text": "여러 가지 해석은 보면서 봐야 됩니다."
+  },
+  {
+    "timestamp": 1753058262000,
+    "timestamp_order": "192-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058265000,
+    "timestamp_order": "193-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058277000,
+    "timestamp_order": "194-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058294000,
+    "timestamp_order": "195-1",
+    "speaker": "SPEAKER_05",
+    "text": "그러면 이 모델이 예측이 틀린 실제 값들 있죠."
+  },
+  {
+    "timestamp": 1753058294000,
+    "timestamp_order": "195-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058304000,
+    "timestamp_order": "196-1",
+    "speaker": "SPEAKER_05",
+    "text": "그러면 전처리에 이런 걸 추가해주면 좋겠다."
+  },
+  {
+    "timestamp": 1753058304000,
+    "timestamp_order": "196-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058307000,
+    "timestamp_order": "197-1",
+    "speaker": "SPEAKER_05",
+    "text": "전처리에 넣고 모델한테 힌트를 주는 걸 추가해주면 되겠죠."
+  },
+  {
+    "timestamp": 1753058307000,
+    "timestamp_order": "197-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058312000,
+    "timestamp_order": "198-1",
+    "speaker": "SPEAKER_05",
+    "text": "이런 방식도 사용할 수 있고 수처리 방식도 있을 수도 있고 모델 이렇게 예측했지만 이런 케이스에는 반대가 왔다."
+  },
+  {
+    "timestamp": 1753058312000,
+    "timestamp_order": "198-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058319000,
+    "timestamp_order": "199-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058325000,
+    "timestamp_order": "200-1",
+    "speaker": "SPEAKER_05",
+    "text": "기본적으로 모델을 최적화시킨다고 했을 때는 트레이닝 값을 다 출협해서 보는 게 일반적이에요."
+  },
+  {
+    "timestamp": 1753058325000,
+    "timestamp_order": "200-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058332000,
+    "timestamp_order": "201-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058346000,
+    "timestamp_order": "202-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058360000,
+    "timestamp_order": "203-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058390000,
+    "timestamp_order": "205-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058409000,
+    "timestamp_order": "206-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058410000,
+    "timestamp_order": "207-1",
+    "speaker": "SPEAKER_05",
+    "text": "0과 a를 예측할 때 마지막에 한 게 소프트 맥스예요?"
+  },
+  {
+    "timestamp": 1753058410000,
+    "timestamp_order": "207-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058420000,
+    "timestamp_order": "208-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058449000,
+    "timestamp_order": "210-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058452000,
+    "timestamp_order": "211-2",
+    "speaker": "SPEAKER_05",
+    "text": "5 기준으로 비교를 했을 거란 말이에요."
+  },
+  {
+    "timestamp": 1753058452000,
+    "timestamp_order": "211-3",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058459000,
+    "timestamp_order": "212-1",
+    "speaker": "SPEAKER_05",
+    "text": "컴피던스 기준, 쓰레쉬 옵션의 0."
+  },
+  {
+    "timestamp": 1753058459000,
+    "timestamp_order": "212-2",
+    "speaker": "SPEAKER_05",
+    "text": "5."
+  },
+  {
+    "timestamp": 1753058459000,
+    "timestamp_order": "212-3",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058461000,
+    "timestamp_order": "213-1",
+    "speaker": "SPEAKER_05",
+    "text": "조절하는 것도 좋은데 컴피던스를 쓰레쉬 옵션으로 바꾸겠다는 건 엄청 예민한 작업이에요."
+  },
+  {
+    "timestamp": 1753058461000,
+    "timestamp_order": "213-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058470000,
+    "timestamp_order": "214-1",
+    "speaker": "SPEAKER_05",
+    "text": "여러분들이 이 판단 기준의 0."
+  },
+  {
+    "timestamp": 1753058470000,
+    "timestamp_order": "214-3",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058481000,
+    "timestamp_order": "215-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058483000,
+    "timestamp_order": "216-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058488000,
+    "timestamp_order": "217-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058496000,
+    "timestamp_order": "218-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058514000,
+    "timestamp_order": "219-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058519000,
+    "timestamp_order": "220-1",
+    "speaker": "SPEAKER_05",
+    "text": "그러면은 로직 값을 0."
+  },
+  {
+    "timestamp": 1753058519000,
+    "timestamp_order": "220-2",
+    "speaker": "SPEAKER_05",
+    "text": "5로 할까요?"
+  },
+  {
+    "timestamp": 1753058519000,
+    "timestamp_order": "220-3",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058530000,
+    "timestamp_order": "221-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058546000,
+    "timestamp_order": "222-2",
+    "speaker": "SPEAKER_01",
+    "text": "."
+  },
+  {
+    "timestamp": 1753058546000,
+    "timestamp_order": "222-3",
+    "speaker": "SPEAKER_01",
+    "text": "."
+  },
+  {
+    "timestamp": 1753058546000,
+    "timestamp_order": "222-4",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058570000,
+    "timestamp_order": "223-1",
+    "speaker": "SPEAKER_05",
+    "text": "노스를 밖에 주기 때문에."
+  },
+  {
+    "timestamp": 1753058570000,
+    "timestamp_order": "223-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058612000,
+    "timestamp_order": "225-1",
+    "speaker": "SPEAKER_05",
+    "text": "분명히 인베너스 발생할 거거든요."
+  },
+  {
+    "timestamp": 1753058612000,
+    "timestamp_order": "225-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058614000,
+    "timestamp_order": "226-1",
+    "speaker": "SPEAKER_05",
+    "text": "그래서 그 문제 있으면은 금요일에 가고 목요일에 요청을 하시거든요."
+  },
+  {
+    "timestamp": 1753058614000,
+    "timestamp_order": "226-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058630000,
+    "timestamp_order": "227-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058636000,
+    "timestamp_order": "228-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058664000,
+    "timestamp_order": "229-1",
+    "speaker": "SPEAKER_05",
+    "text": "레이블링 공부"
+  },
+  {
+    "timestamp": 1753058665000,
+    "timestamp_order": "230-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058724000,
+    "timestamp_order": "232-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058731000,
+    "timestamp_order": "233-1",
+    "speaker": "SPEAKER_04",
+    "text": "프로든드 엔드 진행사항은 어떻게 되고 있죠?"
+  },
+  {
+    "timestamp": 1753058731000,
+    "timestamp_order": "233-2",
+    "speaker": "SPEAKER_04",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058746000,
+    "timestamp_order": "234-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058750000,
+    "timestamp_order": "235-1",
+    "speaker": "SPEAKER_01",
+    "text": "이것도 예시로 제가 넣은 것들 중에 있었던 건데."
+  },
+  {
+    "timestamp": 1753058750000,
+    "timestamp_order": "235-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058758000,
+    "timestamp_order": "236-1",
+    "speaker": "SPEAKER_05",
+    "text": "수율을 확인해서 보내야 하나?"
+  },
+  {
+    "timestamp": 1753058758000,
+    "timestamp_order": "236-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058787000,
+    "timestamp_order": "238-1",
+    "speaker": "SPEAKER_05",
+    "text": "저런 건 티켓은 안 다겠다는 거죠, 앞으로?"
+  },
+  {
+    "timestamp": 1753058787000,
+    "timestamp_order": "238-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058790000,
+    "timestamp_order": "239-1",
+    "speaker": "SPEAKER_01",
+    "text": "이런 내용 같은 경우는 확인 요청이기 때문에 저는 조금 중요도를 낮게 생각을 했거든요."
+  },
+  {
+    "timestamp": 1753058790000,
+    "timestamp_order": "239-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058797000,
+    "timestamp_order": "240-1",
+    "speaker": "SPEAKER_05",
+    "text": "여러분들이 결정하면 그대로 갑니다."
+  },
+  {
+    "timestamp": 1753058797000,
+    "timestamp_order": "240-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058799000,
+    "timestamp_order": "241-1",
+    "speaker": "SPEAKER_05",
+    "text": "결정 기준이 명확하게 있으면 생각 없습니다."
+  },
+  {
+    "timestamp": 1753058799000,
+    "timestamp_order": "241-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058843000,
+    "timestamp_order": "244-1",
+    "speaker": "SPEAKER_05",
+    "text": "보통 알바생들은 많이 쓰거든요."
+  },
+  {
+    "timestamp": 1753058843000,
+    "timestamp_order": "244-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058844000,
+    "timestamp_order": "245-1",
+    "speaker": "SPEAKER_05",
+    "text": "알바생들은 3개 정도, 저희도 한 달 동안 레이블링을 다 해봐요."
+  },
+  {
+    "timestamp": 1753058844000,
+    "timestamp_order": "245-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058848000,
+    "timestamp_order": "246-1",
+    "speaker": "SPEAKER_05",
+    "text": "그 다음에 이렇게 한 번 잡는 게 첫 번째고, 진행할 때 여기 계신 명군님이랑 슬기님, 주영님이 같이 레이블링을 따로따로 한다고 해볼게요."
+  },
+  {
+    "timestamp": 1753058848000,
+    "timestamp_order": "246-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058861000,
+    "timestamp_order": "247-1",
+    "speaker": "SPEAKER_05",
+    "text": "데이터를 하나씩 보이고 하다가 저희는 시스템으로 만들었죠."
+  },
+  {
+    "timestamp": 1753058861000,
+    "timestamp_order": "247-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058865000,
+    "timestamp_order": "248-1",
+    "speaker": "SPEAKER_05",
+    "text": "이 두 명은 한 번 같은 데이터를 레이블링을 하면 갑자기 랜덤으로."
+  },
+  {
+    "timestamp": 1753058865000,
+    "timestamp_order": "248-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058869000,
+    "timestamp_order": "249-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058873000,
+    "timestamp_order": "250-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058887000,
+    "timestamp_order": "251-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058910000,
+    "timestamp_order": "252-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058934000,
+    "timestamp_order": "253-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058952000,
+    "timestamp_order": "254-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058956000,
+    "timestamp_order": "255-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058975000,
+    "timestamp_order": "256-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058984000,
+    "timestamp_order": "257-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753058995000,
+    "timestamp_order": "258-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059006000,
+    "timestamp_order": "259-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059070000,
+    "timestamp_order": "262-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059078000,
+    "timestamp_order": "263-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059083000,
+    "timestamp_order": "264-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059125000,
+    "timestamp_order": "266-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059129000,
+    "timestamp_order": "267-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059153000,
+    "timestamp_order": "269-1",
+    "speaker": "SPEAKER_01",
+    "text": "공개를 하도록 하겠고요."
+  },
+  {
+    "timestamp": 1753059153000,
+    "timestamp_order": "269-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059155000,
+    "timestamp_order": "270-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059166000,
+    "timestamp_order": "271-1",
+    "speaker": "SPEAKER_05",
+    "text": "그러면 화면 계획서 적성원에서 할 수 있는데."
+  },
+  {
+    "timestamp": 1753059166000,
+    "timestamp_order": "271-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059170000,
+    "timestamp_order": "272-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059178000,
+    "timestamp_order": "273-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059186000,
+    "timestamp_order": "274-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059204000,
+    "timestamp_order": "275-1",
+    "speaker": "SPEAKER_00",
+    "text": "저희 이번 화요일 날 저랑 차인님 두 분 다 시험 때문에 없거든요."
+  },
+  {
+    "timestamp": 1753059204000,
+    "timestamp_order": "275-2",
+    "speaker": "SPEAKER_00",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059210000,
+    "timestamp_order": "276-2",
+    "speaker": "SPEAKER_00",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059221000,
+    "timestamp_order": "277-2",
+    "speaker": "SPEAKER_04",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059224000,
+    "timestamp_order": "278-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059229000,
+    "timestamp_order": "279-1",
+    "speaker": "SPEAKER_05",
+    "text": "중간 발표요?"
+  },
+  {
+    "timestamp": 1753059229000,
+    "timestamp_order": "279-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059232000,
+    "timestamp_order": "280-1",
+    "speaker": "SPEAKER_05",
+    "text": "중간 발표 자격이 부분은?"
+  },
+  {
+    "timestamp": 1753059232000,
+    "timestamp_order": "280-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059234000,
+    "timestamp_order": "281-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059243000,
+    "timestamp_order": "282-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059249000,
+    "timestamp_order": "283-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059258000,
+    "timestamp_order": "284-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059263000,
+    "timestamp_order": "285-2",
+    "speaker": "SPEAKER_05",
+    "text": "."
+  },
+  {
+    "timestamp": 1753059263000,
+    "timestamp_order": "285-4",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059272000,
+    "timestamp_order": "286-1",
+    "speaker": "SPEAKER_03",
+    "text": "저희 혹시 다음 주 화요일에 진행하나요?"
+  },
+  {
+    "timestamp": 1753059272000,
+    "timestamp_order": "286-2",
+    "speaker": "SPEAKER_03",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059282000,
+    "timestamp_order": "287-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059326000,
+    "timestamp_order": "288-2",
+    "speaker": "SPEAKER_04",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059342000,
+    "timestamp_order": "289-1",
+    "speaker": "SPEAKER_05",
+    "text": "버튼 학습이라는 평가?"
+  },
+  {
+    "timestamp": 1753059342000,
+    "timestamp_order": "289-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059347000,
+    "timestamp_order": "290-2",
+    "speaker": "SPEAKER_04",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059358000,
+    "timestamp_order": "291-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059361000,
+    "timestamp_order": "292-1",
+    "speaker": "SPEAKER_05",
+    "text": "근데 막세김님이 트랜스포머의 인코더를 제가 책임지겠다고 얘기를 했거든요."
+  },
+  {
+    "timestamp": 1753059361000,
+    "timestamp_order": "292-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059368000,
+    "timestamp_order": "293-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059373000,
+    "timestamp_order": "294-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059386000,
+    "timestamp_order": "295-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059398000,
+    "timestamp_order": "296-1",
+    "speaker": "SPEAKER_05",
+    "text": "4주 토요일은 제가 없을 예정이라."
+  },
+  {
+    "timestamp": 1753059398000,
+    "timestamp_order": "296-2",
+    "speaker": "SPEAKER_05",
+    "text": "."
+  },
+  {
+    "timestamp": 1753059398000,
+    "timestamp_order": "296-3",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059398000,
+    "timestamp_order": "297-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059408000,
+    "timestamp_order": "298-1",
+    "speaker": "SPEAKER_05",
+    "text": "4주 토요일은 버튼 세션 하는 걸로."
+  },
+  {
+    "timestamp": 1753059408000,
+    "timestamp_order": "298-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059427000,
+    "timestamp_order": "299-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059436000,
+    "timestamp_order": "300-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059449000,
+    "timestamp_order": "301-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059455000,
+    "timestamp_order": "302-1",
+    "speaker": "SPEAKER_05",
+    "text": "근데 지금 GPT를 학습할 때도 adam warmup이랑 랜브랑 이런 유스값들을 많이 쓰거든요."
+  },
+  {
+    "timestamp": 1753059455000,
+    "timestamp_order": "302-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059463000,
+    "timestamp_order": "303-1",
+    "speaker": "SPEAKER_05",
+    "text": "랜브라는 옵티마이저를 언제 쓰는 거고 adam warmup은 언제 쓰는 거고."
+  },
+  {
+    "timestamp": 1753059463000,
+    "timestamp_order": "303-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059467000,
+    "timestamp_order": "304-1",
+    "speaker": "SPEAKER_05",
+    "text": "왜 파인트링 할 때는 adam warmup을 주로 쓰고 프리트레이닝 할 때는 랜브를 쓸까?"
+  },
+  {
+    "timestamp": 1753059467000,
+    "timestamp_order": "304-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059473000,
+    "timestamp_order": "305-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059484000,
+    "timestamp_order": "306-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059501000,
+    "timestamp_order": "307-1",
+    "speaker": "SPEAKER_05",
+    "text": "다른 분들이 미리 공유하지 마시고 갖고 왔을 때 미리 공유해서 잘못하지 마시고 딱딱 발표를 하시고 다른 분들은 질문을 계속 해주세요."
+  },
+  {
+    "timestamp": 1753059501000,
+    "timestamp_order": "307-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059514000,
+    "timestamp_order": "308-1",
+    "speaker": "SPEAKER_05",
+    "text": "발표를 드릴 때 계속 의문점을 머리를 떠올려야 돼요."
+  },
+  {
+    "timestamp": 1753059514000,
+    "timestamp_order": "308-2",
+    "speaker": "SPEAKER_05",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059542000,
+    "timestamp_order": "309-1",
+    "speaker": "SPEAKER_01",
+    "text": "24일 26일입니다."
+  },
+  {
+    "timestamp": 1753059542000,
+    "timestamp_order": "309-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059571000,
+    "timestamp_order": "310-2",
+    "speaker": "SPEAKER_00",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059576000,
+    "timestamp_order": "311-2",
+    "speaker": "SPEAKER_00",
+    "text": "[/TGT]"
+  },
+  {
+    "timestamp": 1753059593000,
+    "timestamp_order": "312-2",
+    "speaker": "SPEAKER_01",
+    "text": "[/TGT]"
+  }
+]

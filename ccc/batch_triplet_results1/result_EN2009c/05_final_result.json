@@ -1,0 +1,1628 @@
+[
+  {
+    "timestamp": "00:31",
+    "timestamp_order": "2-1",
+    "speaker": "Speaker_B",
+    "text": "오."
+  },
+  {
+    "timestamp": "00:37",
+    "timestamp_order": "3-1",
+    "speaker": "Speaker_B",
+    "text": "끔찍한 ."
+  },
+  {
+    "timestamp": "00:44",
+    "timestamp_order": "5-1",
+    "speaker": "Speaker_B",
+    "text": "그 부분은 잘 처리해 주실 거라 믿습니다."
+  },
+  {
+    "timestamp": "00:47",
+    "timestamp_order": "6-1",
+    "speaker": "Speaker_A",
+    "text": "오, 그렇군요."
+  },
+  {
+    "timestamp": "01:02",
+    "timestamp_order": "10-1",
+    "speaker": "Speaker_C",
+    "text": "아직 56% 완료."
+  },
+  {
+    "timestamp": "01:29",
+    "timestamp_order": "17-1",
+    "speaker": "Speaker_B",
+    "text": "모든 게 순조롭게 진행되고 있으니까."
+  },
+  {
+    "timestamp": "02:02",
+    "timestamp_order": "19-1",
+    "speaker": "Speaker_B",
+    "text": "오, 그렇군요."
+  },
+  {
+    "timestamp": "02:02",
+    "timestamp_order": "20-1",
+    "speaker": "Speaker_B",
+    "text": "응."
+  },
+  {
+    "timestamp": "02:11",
+    "timestamp_order": "21-1",
+    "speaker": "Speaker_B",
+    "text": "응."
+  },
+  {
+    "timestamp": "02:45",
+    "timestamp_order": "28-1",
+    "speaker": "Speaker_B",
+    "text": "좋은 전략이에요."
+  },
+  {
+    "timestamp": "03:36",
+    "timestamp_order": "33-1",
+    "speaker": "Speaker_A",
+    "text": "그러니까 XML에 HTML DTD만 추가한 거죠."
+  },
+  {
+    "timestamp": "04:00",
+    "timestamp_order": "37-1",
+    "speaker": "Speaker_C",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "04:07",
+    "timestamp_order": "39-1",
+    "speaker": "Speaker_C",
+    "text": "Mm ."
+  },
+  {
+    "timestamp": "04:39",
+    "timestamp_order": "40-1",
+    "speaker": "Speaker_B",
+    "text": "응."
+  },
+  {
+    "timestamp": "05:08",
+    "timestamp_order": "44-1",
+    "speaker": "Speaker_B",
+    "text": "그럼 이 분석 작업을 적극적으로 진행 중이신 건가요, 아니면 번역 작업만 하시는 건가요?"
+  },
+  {
+    "timestamp": "05:08",
+    "timestamp_order": "45-1",
+    "speaker": "Speaker_B",
+    "text": "데이터 형식 번역에 대한 말씀이시군요."
+  },
+  {
+    "timestamp": "05:34",
+    "timestamp_order": "47-1",
+    "speaker": "Speaker_A",
+    "text": "현재 우리가 가지고 있는 GDF 포맷이 출력될 수 있도록 하고 있습니다."
+  },
+  {
+    "timestamp": "05:34",
+    "timestamp_order": "48-1",
+    "speaker": "Speaker_A",
+    "text": "음, 저는 Robin이 찾고 있는 오래된 분석을 출력했습니다."
+  },
+  {
+    "timestamp": "05:34",
+    "timestamp_order": "51-1",
+    "speaker": "Speaker_A",
+    "text": "그래서 지금은 실제로 GDF 포맷 자체를 보고 있습니다."
+  },
+  {
+    "timestamp": "05:34",
+    "timestamp_order": "52-1",
+    "speaker": "Speaker_A",
+    "text": "음, 그리고 GDF 포맷을 생성하기 위해 저는 gest 분석기에서 내용을 가져온 다음 DOM 파서를 사용하여 gest 분석기에서 XML 출력을 생성할 것입니다."
+  },
+  {
+    "timestamp": "06:05",
+    "timestamp_order": "58-1",
+    "speaker": "Speaker_A",
+    "text": "하지만 제네시스 분석기 출력에서 이미 일부 처리가 수행되고 있고, 그걸 기반으로 사용할 계획입니다."
+  },
+  {
+    "timestamp": "06:05",
+    "timestamp_order": "59-1",
+    "speaker": "Speaker_A",
+    "text": "이미 대상 영역 같은 것을 포착하고 있으니까요."
+  },
+  {
+    "timestamp": "06:05",
+    "timestamp_order": "60-1",
+    "speaker": "Speaker_A",
+    "text": "그래서 부분을 보고 있는지, 대상 영역을 보고 있는지, 아니면 다른 것을 보고 있는지 알 수 있죠."
+  },
+  {
+    "timestamp": "06:13",
+    "timestamp_order": "63-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "06:21",
+    "timestamp_order": "64-1",
+    "speaker": "Speaker_B",
+    "text": "응."
+  },
+  {
+    "timestamp": "06:28",
+    "timestamp_order": "68-1",
+    "speaker": "Speaker_B",
+    "text": "다들 괜찮으세요."
+  },
+  {
+    "timestamp": "06:28",
+    "timestamp_order": "70-1",
+    "speaker": "Speaker_B",
+    "text": "그러니까 아시다시피, GDF 같은 문제는 엘렌의 견해로는 모든 것을 순서대로 진행해야 한다는 거예요."
+  },
+  {
+    "timestamp": "06:28",
+    "timestamp_order": "71-1",
+    "speaker": "Speaker_B",
+    "text": "우선순위는 파이프라인 순서와 정확히 같죠?"
+  },
+  {
+    "timestamp": "06:28",
+    "timestamp_order": "72-1",
+    "speaker": "Speaker_B",
+    "text": "그러니까 당신이 언급한 Camtasia 말이죠."
+  },
+  {
+    "timestamp": "06:28",
+    "timestamp_order": "73-1",
+    "speaker": "Speaker_B",
+    "text": "그리고 다른 건 잘 모르겠지만, 할 일 목록에 이 일 이전에 있었던 다른 일들이 무엇인지 확인해야 해요."
+  },
+  {
+    "timestamp": "07:00",
+    "timestamp_order": "80-1",
+    "speaker": "Speaker_A",
+    "text": "마이크."
+  },
+  {
+    "timestamp": "07:13",
+    "timestamp_order": "82-1",
+    "speaker": "Speaker_B",
+    "text": "오, 마이크를 얻을 때까지는요."
+  },
+  {
+    "timestamp": "07:16",
+    "timestamp_order": "84-1",
+    "speaker": "Speaker_C",
+    "text": "배터리가 도착할 예정이라고 들었는데, 이번 주 초에 도착할 예정이라고 하더라고요."
+  },
+  {
+    "timestamp": "07:18",
+    "timestamp_order": "85-1",
+    "speaker": "Speaker_B",
+    "text": "배터리."
+  },
+  {
+    "timestamp": "07:25",
+    "timestamp_order": "91-1",
+    "speaker": "Speaker_C",
+    "text": "50달러 정도일 거예요."
+  },
+  {
+    "timestamp": "07:28",
+    "timestamp_order": "92-1",
+    "speaker": "Speaker_B",
+    "text": "Maplin을 사용해 보셨나요?"
+  },
+  {
+    "timestamp": "07:34",
+    "timestamp_order": "93-1",
+    "speaker": "Speaker_B",
+    "text": "비싼가요?"
+  },
+  {
+    "timestamp": "07:54",
+    "timestamp_order": "99-1",
+    "speaker": "Speaker_B",
+    "text": "그러니 이건 실제로 여러분의 일정을 망치는 게 아니고, 그게 여러분이 기다리는 이유예요."
+  },
+  {
+    "timestamp": "07:59",
+    "timestamp_order": "102-1",
+    "speaker": "Speaker_C",
+    "text": "마이크가 제대로 신호를 수신하는지 확인해야 할 뿐이죠."
+  },
+  {
+    "timestamp": "08:08",
+    "timestamp_order": "104-1",
+    "speaker": "Speaker_B",
+    "text": "그렇군요."
+  },
+  {
+    "timestamp": "08:08",
+    "timestamp_order": "106-1",
+    "speaker": "Speaker_B",
+    "text": "걱정되면 Maplin에 가 보세요."
+  },
+  {
+    "timestamp": "08:08",
+    "timestamp_order": "107-1",
+    "speaker": "Speaker_B",
+    "text": "먼저 전화해서 거기에 있는지 확인하세요."
+  },
+  {
+    "timestamp": "08:08",
+    "timestamp_order": "109-1",
+    "speaker": "Speaker_B",
+    "text": "기술팀에 Maplin 카탈로그가 있을 거예요."
+  },
+  {
+    "timestamp": "08:40",
+    "timestamp_order": "116-1",
+    "speaker": "Speaker_B",
+    "text": "물론이죠."
+  },
+  {
+    "timestamp": "08:40",
+    "timestamp_order": "117-1",
+    "speaker": "Speaker_B",
+    "text": "당연하죠."
+  },
+  {
+    "timestamp": "08:45",
+    "timestamp_order": "122-1",
+    "speaker": "Speaker_C",
+    "text": "가상 ."
+  },
+  {
+    "timestamp": "08:55",
+    "timestamp_order": "126-1",
+    "speaker": "Speaker_B",
+    "text": "길을 잘 모르시겠지만요."
+  },
+  {
+    "timestamp": "09:06",
+    "timestamp_order": "128-1",
+    "speaker": "Speaker_A",
+    "text": "그래서 우리 모두는 편안히 지냈죠."
+  },
+  {
+    "timestamp": "09:22",
+    "timestamp_order": "131-1",
+    "speaker": "Speaker_B",
+    "text": "3파운드나 몇 파운드를 들이려고 이걸 만드는 데 배터리가 몇 개나 필요할까요?"
+  },
+  {
+    "timestamp": "09:28",
+    "timestamp_order": "134-1",
+    "speaker": "Speaker_C",
+    "text": "배터리가 두 개 필요해요."
+  },
+  {
+    "timestamp": "09:40",
+    "timestamp_order": "141-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "09:51",
+    "timestamp_order": "143-1",
+    "speaker": "Speaker_C",
+    "text": "괜찮다면 괜찮을 거예요."
+  },
+  {
+    "timestamp": "09:55",
+    "timestamp_order": "148-1",
+    "speaker": "Speaker_A",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "10:39",
+    "timestamp_order": "153-1",
+    "speaker": "Speaker_B",
+    "text": "달리기 전에 기다리고 있던 다른 일이 있었나요?"
+  },
+  {
+    "timestamp": "10:48",
+    "timestamp_order": "154-1",
+    "speaker": "Speaker_B",
+    "text": "그래서 크레이그가 처음 시작했을 때 맡았던 모든 업무가 그렇습니다."
+  },
+  {
+    "timestamp": "11:15",
+    "timestamp_order": "159-1",
+    "speaker": "Speaker_B",
+    "text": "우리 거야."
+  },
+  {
+    "timestamp": "11:15",
+    "timestamp_order": "160-1",
+    "speaker": "Speaker_B",
+    "text": "응, 우리 거야."
+  },
+  {
+    "timestamp": "11:15",
+    "timestamp_order": "165-1",
+    "speaker": "Speaker_B",
+    "text": "내가."
+  },
+  {
+    "timestamp": "11:15",
+    "timestamp_order": "166-1",
+    "speaker": "Speaker_B",
+    "text": "."
+  },
+  {
+    "timestamp": "11:15",
+    "timestamp_order": "167-1",
+    "speaker": "Speaker_B",
+    "text": "."
+  },
+  {
+    "timestamp": "11:57",
+    "timestamp_order": "178-1",
+    "speaker": "Speaker_B",
+    "text": "모델 빌드 빌더, 제가 그래픽 모델 편집기라고 부르던 거 맞죠?"
+  },
+  {
+    "timestamp": "11:57",
+    "timestamp_order": "179-1",
+    "speaker": "Speaker_B",
+    "text": "Xfig를 사용해서 부품을 만들고 이걸 하는 거죠."
+  },
+  {
+    "timestamp": "12:00",
+    "timestamp_order": "184-1",
+    "speaker": "Speaker_C",
+    "text": "X 모양은 비행기나 새롭고 특이한 모양을 만들 때만 쓰는 거예요."
+  },
+  {
+    "timestamp": "12:19",
+    "timestamp_order": "188-1",
+    "speaker": "Speaker_B",
+    "text": "알겠습니다."
+  },
+  {
+    "timestamp": "12:19",
+    "timestamp_order": "191-1",
+    "speaker": "Speaker_B",
+    "text": "제가 확인해 볼까요?"
+  },
+  {
+    "timestamp": "12:19",
+    "timestamp_order": "192-1",
+    "speaker": "Speaker_B",
+    "text": "제 이메일은 공개하지 않을 거예요."
+  },
+  {
+    "timestamp": "12:34",
+    "timestamp_order": "194-1",
+    "speaker": "Speaker_A",
+    "text": "나는 그렇지 않다고 말하고 싶다."
+  },
+  {
+    "timestamp": "12:40",
+    "timestamp_order": "196-1",
+    "speaker": "Speaker_B",
+    "text": "정확히 언제였는지는 기억이 안 나."
+  },
+  {
+    "timestamp": "13:03",
+    "timestamp_order": "197-1",
+    "speaker": "Speaker_C",
+    "text": "지난주에 제가 평행사변형이 반대 방향이라는 말에 대한 답변으로 마지막으로 말씀드린 겁니다."
+  },
+  {
+    "timestamp": "13:03",
+    "timestamp_order": "198-1",
+    "speaker": "Speaker_C",
+    "text": "그리고 모형 제작자에게서 실제 모델 제작자에게."
+  },
+  {
+    "timestamp": "13:03",
+    "timestamp_order": "199-1",
+    "speaker": "Speaker_C",
+    "text": "."
+  },
+  {
+    "timestamp": "13:03",
+    "timestamp_order": "200-1",
+    "speaker": "Speaker_C",
+    "text": "."
+  },
+  {
+    "timestamp": "13:14",
+    "timestamp_order": "203-1",
+    "speaker": "Speaker_A",
+    "text": "스크린샷이에요."
+  },
+  {
+    "timestamp": "13:24",
+    "timestamp_order": "212-1",
+    "speaker": "Speaker_A",
+    "text": "오 ."
+  },
+  {
+    "timestamp": "13:26",
+    "timestamp_order": "213-1",
+    "speaker": "Speaker_A",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "14:12",
+    "timestamp_order": "214-1",
+    "speaker": "Speaker_B",
+    "text": "그러니까 그는 우리가 위키를 읽지 않을 것이라고 생각해서 그렇게 말하는 거예요."
+  },
+  {
+    "timestamp": "14:20",
+    "timestamp_order": "217-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "14:53",
+    "timestamp_order": "229-1",
+    "speaker": "Speaker_B",
+    "text": "그렇죠, 그게 뭘 하는지 살펴보고 원하는 대로 되는지 확인하는 게 중요해요."
+  },
+  {
+    "timestamp": "15:20",
+    "timestamp_order": "232-1",
+    "speaker": "Speaker_C",
+    "text": "예 ."
+  },
+  {
+    "timestamp": "15:40",
+    "timestamp_order": "237-1",
+    "speaker": "Speaker_C",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "15:53",
+    "timestamp_order": "239-1",
+    "speaker": "Speaker_B",
+    "text": "오늘 그걸 얻으면 언제부터 달리기 시작할 거야?"
+  },
+  {
+    "timestamp": "16:10",
+    "timestamp_order": "245-1",
+    "speaker": "Speaker_B",
+    "text": "네, 일정을 다시 변경하세요."
+  },
+  {
+    "timestamp": "16:20",
+    "timestamp_order": "247-1",
+    "speaker": "Speaker_B",
+    "text": "응, 그렇군요."
+  },
+  {
+    "timestamp": "16:40",
+    "timestamp_order": "256-1",
+    "speaker": "Speaker_C",
+    "text": "다른 사소한 문제는 음, 목요일에 모든 시선 추적 사용자를 위한 회의에서 논의될 것 같습니다."
+  },
+  {
+    "timestamp": "16:51",
+    "timestamp_order": "258-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "16:56",
+    "timestamp_order": "259-1",
+    "speaker": "Speaker_B",
+    "text": "에 의해 ?"
+  },
+  {
+    "timestamp": "17:07",
+    "timestamp_order": "260-1",
+    "speaker": "Speaker_C",
+    "text": "가지고있다"
+  },
+  {
+    "timestamp": "17:27",
+    "timestamp_order": "262-1",
+    "speaker": "Speaker_C",
+    "text": "강사."
+  },
+  {
+    "timestamp": "17:33",
+    "timestamp_order": "266-1",
+    "speaker": "Speaker_C",
+    "text": "그중 2~3일은요."
+  },
+  {
+    "timestamp": "17:36",
+    "timestamp_order": "267-1",
+    "speaker": "Speaker_B",
+    "text": "얼마동안 블록북을 보관할 것인가?"
+  },
+  {
+    "timestamp": "17:44",
+    "timestamp_order": "268-1",
+    "speaker": "Speaker_B",
+    "text": "응."
+  },
+  {
+    "timestamp": "17:48",
+    "timestamp_order": "269-1",
+    "speaker": "Speaker_B",
+    "text": "응."
+  },
+  {
+    "timestamp": "17:48",
+    "timestamp_order": "272-1",
+    "speaker": "Speaker_B",
+    "text": "엘렌이 더 설득력이 있을 수도 있고요."
+  },
+  {
+    "timestamp": "18:19",
+    "timestamp_order": "278-1",
+    "speaker": "Speaker_B",
+    "text": "."
+  },
+  {
+    "timestamp": "18:19",
+    "timestamp_order": "279-1",
+    "speaker": "Speaker_B",
+    "text": "."
+  },
+  {
+    "timestamp": "18:40",
+    "timestamp_order": "289-1",
+    "speaker": "Speaker_B",
+    "text": "회의에서 그 문제를 제기해야겠네요."
+  },
+  {
+    "timestamp": "18:40",
+    "timestamp_order": "291-1",
+    "speaker": "Speaker_B",
+    "text": "엘렌과 마틴이 실험실의 적절한 사용에 대해 논의했을 수도 있거든요."
+  },
+  {
+    "timestamp": "19:03",
+    "timestamp_order": "294-1",
+    "speaker": "Speaker_B",
+    "text": "다른 사람으로 바꾸는 데는 별도의 설정이 필요하지 않나요?"
+  },
+  {
+    "timestamp": "19:15",
+    "timestamp_order": "299-1",
+    "speaker": "Speaker_B",
+    "text": "알겠습니다."
+  },
+  {
+    "timestamp": "19:20",
+    "timestamp_order": "300-1",
+    "speaker": "Speaker_B",
+    "text": "그러니 오전이냐 오후냐에 따른 비용이 없습니다."
+  },
+  {
+    "timestamp": "19:33",
+    "timestamp_order": "303-1",
+    "speaker": "Speaker_B",
+    "text": "엘렌 외에는 이런 게 알려진 게 없나요?"
+  },
+  {
+    "timestamp": "19:59",
+    "timestamp_order": "311-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "20:13",
+    "timestamp_order": "313-1",
+    "speaker": "Speaker_B",
+    "text": "그러니까 걱정되는 건 Camtasia랑 랩 접근성뿐이에요."
+  },
+  {
+    "timestamp": "20:13",
+    "timestamp_order": "314-1",
+    "speaker": "Speaker_B",
+    "text": "그 외에는 걱정 마세요."
+  },
+  {
+    "timestamp": "20:13",
+    "timestamp_order": "315-1",
+    "speaker": "Speaker_B",
+    "text": "만족하실 거예요."
+  },
+  {
+    "timestamp": "20:23",
+    "timestamp_order": "316-1",
+    "speaker": "Speaker_C",
+    "text": "해야죠."
+  },
+  {
+    "timestamp": "20:38",
+    "timestamp_order": "321-1",
+    "speaker": "Speaker_B",
+    "text": "오 예."
+  },
+  {
+    "timestamp": "20:38",
+    "timestamp_order": "322-1",
+    "speaker": "Speaker_B",
+    "text": "허허허."
+  },
+  {
+    "timestamp": "20:41",
+    "timestamp_order": "323-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "20:50",
+    "timestamp_order": "326-1",
+    "speaker": "Speaker_C",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "20:55",
+    "timestamp_order": "330-1",
+    "speaker": "Speaker_B",
+    "text": "그게 훨씬 쉽죠."
+  },
+  {
+    "timestamp": "21:19",
+    "timestamp_order": "339-1",
+    "speaker": "Speaker_A",
+    "text": "혹시 뭔가 문제 있으면 그 부분에 대한 위키 페이지가 있을 거야."
+  },
+  {
+    "timestamp": "21:19",
+    "timestamp_order": "341-1",
+    "speaker": "Speaker_A",
+    "text": "그러니까 그 페이지에 추천이나 버그 같은 거 적어 주시면, 제가 검토해서 시간이 날 때마다 읽어보도록 할게."
+  },
+  {
+    "timestamp": "21:25",
+    "timestamp_order": "342-1",
+    "speaker": "Speaker_C",
+    "text": "Mm ."
+  },
+  {
+    "timestamp": "21:31",
+    "timestamp_order": "343-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "21:33",
+    "timestamp_order": "344-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "22:06",
+    "timestamp_order": "349-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "22:10",
+    "timestamp_order": "350-1",
+    "speaker": "Speaker_B",
+    "text": "필요하다면 크레이그를 초안해서 건설할 수 있나요?"
+  },
+  {
+    "timestamp": "22:27",
+    "timestamp_order": "358-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "22:36",
+    "timestamp_order": "364-1",
+    "speaker": "Speaker_A",
+    "text": "꽤 기계적인 작업이죠."
+  },
+  {
+    "timestamp": "23:37",
+    "timestamp_order": "377-1",
+    "speaker": "Speaker_B",
+    "text": "저는"
+  },
+  {
+    "timestamp": "23:44",
+    "timestamp_order": "378-1",
+    "speaker": "Speaker_B",
+    "text": "다만, 그것이 여러분의 물건 수집을 지연시키는 걸 원할 뿐입니다."
+  },
+  {
+    "timestamp": "24:17",
+    "timestamp_order": "390-1",
+    "speaker": "Speaker_B",
+    "text": "혹시 걱정되셨나요?"
+  },
+  {
+    "timestamp": "24:17",
+    "timestamp_order": "391-1",
+    "speaker": "Speaker_B",
+    "text": "뭔가 걱정되셨나요?"
+  },
+  {
+    "timestamp": "24:17",
+    "timestamp_order": "392-1",
+    "speaker": "Speaker_B",
+    "text": "저희는 주로 실험 일정에 대해 이야기해 왔어요."
+  },
+  {
+    "timestamp": "24:17",
+    "timestamp_order": "393-1",
+    "speaker": "Speaker_B",
+    "text": "그래서…"
+  },
+  {
+    "timestamp": "24:30",
+    "timestamp_order": "394-1",
+    "speaker": "Speaker_B",
+    "text": "Mm ."
+  },
+  {
+    "timestamp": "24:40",
+    "timestamp_order": "397-1",
+    "speaker": "Speaker_A",
+    "text": "한 페이지"
+  },
+  {
+    "timestamp": "24:51",
+    "timestamp_order": "400-1",
+    "speaker": "Speaker_B",
+    "text": "다시 한번 말씀드리지만, 그건 당신 둘이니까요."
+  },
+  {
+    "timestamp": "25:06",
+    "timestamp_order": "410-1",
+    "speaker": "Speaker_B",
+    "text": "제가 걱정되는 건, 그가 하루 종일 연구실에 있는데 당신은 분석을 어떻게 해야 할지 확신이 안 서지 않을까 하는 거예요."
+  },
+  {
+    "timestamp": "25:25",
+    "timestamp_order": "413-1",
+    "speaker": "Speaker_B",
+    "text": "응."
+  },
+  {
+    "timestamp": "25:59",
+    "timestamp_order": "432-1",
+    "speaker": "Speaker_A",
+    "text": "응."
+  },
+  {
+    "timestamp": "26:10",
+    "timestamp_order": "434-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "26:26",
+    "timestamp_order": "435-1",
+    "speaker": "Speaker_B",
+    "text": "제가 모르는 건 부품 제작 업체를 써야 할지 고민하는 거예요."
+  },
+  {
+    "timestamp": "26:26",
+    "timestamp_order": "436-1",
+    "speaker": "Speaker_B",
+    "text": "원래는 투자할 가치가 없다고 생각했거든요, 그렇죠?"
+  },
+  {
+    "timestamp": "27:22",
+    "timestamp_order": "445-1",
+    "speaker": "Speaker_B",
+    "text": "하루 이틀 이상 쓰지 마."
+  },
+  {
+    "timestamp": "27:22",
+    "timestamp_order": "446-1",
+    "speaker": "Speaker_B",
+    "text": "응, 정말 가치 없으니까."
+  },
+  {
+    "timestamp": "27:25",
+    "timestamp_order": "450-1",
+    "speaker": "Speaker_A",
+    "text": "제 말은, 저는 이미 이걸 가지고 있다는 거예요."
+  },
+  {
+    "timestamp": "27:44",
+    "timestamp_order": "451-1",
+    "speaker": "Speaker_A",
+    "text": "오른쪽 ."
+  },
+  {
+    "timestamp": "27:54",
+    "timestamp_order": "454-1",
+    "speaker": "Speaker_A",
+    "text": "GDF와 다른 비트들을 NXT로 바꾸는 거죠."
+  },
+  {
+    "timestamp": "27:54",
+    "timestamp_order": "456-1",
+    "speaker": "Speaker_C",
+    "text": "W"
+  },
+  {
+    "timestamp": "28:14",
+    "timestamp_order": "462-1",
+    "speaker": "Speaker_A",
+    "text": "포맷에서 기대하는 바에 맞는지 확인하는 거죠."
+  },
+  {
+    "timestamp": "28:14",
+    "timestamp_order": "465-1",
+    "speaker": "Speaker_A",
+    "text": "마지막 단계에 도달하면, 분명 많은 질문을 드릴 거예요."
+  },
+  {
+    "timestamp": "29:37",
+    "timestamp_order": "482-1",
+    "speaker": "Speaker_B",
+    "text": "당신이 계획했던 주예요."
+  },
+  {
+    "timestamp": "30:01",
+    "timestamp_order": "487-1",
+    "speaker": "Speaker_A",
+    "text": "알겠습니다."
+  },
+  {
+    "timestamp": "30:03",
+    "timestamp_order": "489-1",
+    "speaker": "Speaker_C",
+    "text": "응."
+  },
+  {
+    "timestamp": "30:03",
+    "timestamp_order": "490-1",
+    "speaker": "Speaker_C",
+    "text": "그리고 또 다른 문제는 내일부터 2주 동안 수업을 시작한다는 거야."
+  },
+  {
+    "timestamp": "30:12",
+    "timestamp_order": "494-1",
+    "speaker": "Speaker_C",
+    "text": "2주 동안 강의 4회, 실험 4회를 하게 될 거예요."
+  },
+  {
+    "timestamp": "30:18",
+    "timestamp_order": "495-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "30:28",
+    "timestamp_order": "499-1",
+    "speaker": "Speaker_C",
+    "text": "내일이 첫 번째야?"
+  },
+  {
+    "timestamp": "30:32",
+    "timestamp_order": "501-1",
+    "speaker": "Speaker_A",
+    "text": "첫 번째는, 응."
+  },
+  {
+    "timestamp": "30:32",
+    "timestamp_order": "502-1",
+    "speaker": "Speaker_A",
+    "text": "응."
+  },
+  {
+    "timestamp": "30:34",
+    "timestamp_order": "503-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "30:41",
+    "timestamp_order": "505-1",
+    "speaker": "Speaker_C",
+    "text": "맞습니다."
+  },
+  {
+    "timestamp": "31:01",
+    "timestamp_order": "509-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "31:21",
+    "timestamp_order": "515-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "31:29",
+    "timestamp_order": "516-1",
+    "speaker": "Speaker_C",
+    "text": "4월에."
+  },
+  {
+    "timestamp": "31:30",
+    "timestamp_order": "517-1",
+    "speaker": "Speaker_A",
+    "text": "Mm ."
+  },
+  {
+    "timestamp": "31:56",
+    "timestamp_order": "522-1",
+    "speaker": "Speaker_C",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "32:05",
+    "timestamp_order": "526-1",
+    "speaker": "Speaker_A",
+    "text": "."
+  },
+  {
+    "timestamp": "32:05",
+    "timestamp_order": "527-1",
+    "speaker": "Speaker_A",
+    "text": "."
+  },
+  {
+    "timestamp": "32:05",
+    "timestamp_order": "529-1",
+    "speaker": "Speaker_A",
+    "text": "금요일쯤에 보고서를 드릴게요."
+  },
+  {
+    "timestamp": "32:15",
+    "timestamp_order": "533-1",
+    "speaker": "Speaker_C",
+    "text": "NXT 질문이 하나 있는데, 잘 안 되길 바라요."
+  },
+  {
+    "timestamp": "32:15",
+    "timestamp_order": "535-1",
+    "speaker": "Speaker_C",
+    "text": "출력 결과의 일부로 이런 식으로 나오기를 바랍니다."
+  },
+  {
+    "timestamp": "32:15",
+    "timestamp_order": "536-1",
+    "speaker": "Speaker_C",
+    "text": "맞나요?"
+  },
+  {
+    "timestamp": "32:15",
+    "timestamp_order": "537-1",
+    "speaker": "Speaker_C",
+    "text": "1인칭 시점, 2인칭 시점, 1인칭 마우스 위치, 2인칭 마우스 위치, 그리고 일반적인 마우스 동작 같은 게 있는 거죠."
+  },
+  {
+    "timestamp": "32:37",
+    "timestamp_order": "540-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "32:40",
+    "timestamp_order": "541-1",
+    "speaker": "Speaker_B",
+    "text": "타당한 것 같습니다."
+  },
+  {
+    "timestamp": "32:42",
+    "timestamp_order": "542-1",
+    "speaker": "Speaker_B",
+    "text": "그러니까 모니터에 있는 것처럼요."
+  },
+  {
+    "timestamp": "32:42",
+    "timestamp_order": "544-1",
+    "speaker": "Speaker_B",
+    "text": "모두 다른 등급으로 나뉘겠죠."
+  },
+  {
+    "timestamp": "32:48",
+    "timestamp_order": "546-1",
+    "speaker": "Speaker_C",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "32:52",
+    "timestamp_order": "551-1",
+    "speaker": "Speaker_C",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "32:54",
+    "timestamp_order": "555-1",
+    "speaker": "Speaker_B",
+    "text": "눈과 쥐."
+  },
+  {
+    "timestamp": "33:01",
+    "timestamp_order": "556-1",
+    "speaker": "Speaker_B",
+    "text": "응."
+  },
+  {
+    "timestamp": "33:03",
+    "timestamp_order": "557-1",
+    "speaker": "Speaker_B",
+    "text": "그리고 당신에겐 그걸로 충분하죠, 그렇죠?"
+  },
+  {
+    "timestamp": "33:11",
+    "timestamp_order": "562-1",
+    "speaker": "Speaker_C",
+    "text": "그리고요."
+  },
+  {
+    "timestamp": "33:11",
+    "timestamp_order": "567-1",
+    "speaker": "Speaker_C",
+    "text": "새로운 내용이죠."
+  },
+  {
+    "timestamp": "33:21",
+    "timestamp_order": "568-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "33:33",
+    "timestamp_order": "570-1",
+    "speaker": "Speaker_B",
+    "text": "눈 깜박이는 것도 그렇죠?"
+  },
+  {
+    "timestamp": "33:37",
+    "timestamp_order": "573-1",
+    "speaker": "Speaker_C",
+    "text": "각 칸에 몇 개나 있는지만 알면 돼요."
+  },
+  {
+    "timestamp": "33:58",
+    "timestamp_order": "587-1",
+    "speaker": "Speaker_C",
+    "text": "오른쪽 ."
+  },
+  {
+    "timestamp": "34:30",
+    "timestamp_order": "594-1",
+    "speaker": "Speaker_B",
+    "text": "하지만 그게 중요하지 않나요?"
+  },
+  {
+    "timestamp": "34:30",
+    "timestamp_order": "595-1",
+    "speaker": "Speaker_B",
+    "text": "눈을 깜빡일 때는 기본적으로 0 코드와 같거든요."
+  },
+  {
+    "timestamp": "34:30",
+    "timestamp_order": "598-1",
+    "speaker": "Speaker_B",
+    "text": "어떤 분석을 원활하게 하려면 눈 깜빡임을 고려해야 할 수도 있으니까요."
+  },
+  {
+    "timestamp": "34:30",
+    "timestamp_order": "600-1",
+    "speaker": "Speaker_B",
+    "text": "."
+  },
+  {
+    "timestamp": "34:30",
+    "timestamp_order": "601-1",
+    "speaker": "Speaker_B",
+    "text": "."
+  },
+  {
+    "timestamp": "35:06",
+    "timestamp_order": "608-1",
+    "speaker": "Speaker_B",
+    "text": "알고 싶은 거."
+  },
+  {
+    "timestamp": "35:06",
+    "timestamp_order": "611-1",
+    "speaker": "Speaker_B",
+    "text": "그리고, 가끔은 그걸 하나로 생각하고 싶을 때도 있을 거야, 그렇지?"
+  },
+  {
+    "timestamp": "35:26",
+    "timestamp_order": "613-1",
+    "speaker": "Speaker_C",
+    "text": "노먼은 보통 제가 말했듯이 이전 고정에 눈 깜빡임 시간과 지속 시간을 더하는 식으로 반응하곤 합니다."
+  },
+  {
+    "timestamp": "35:40",
+    "timestamp_order": "614-1",
+    "speaker": "Speaker_C",
+    "text": "새로운 정보를 전혀 흡수하지 못하기 때문인데, 그게 결정적인 요인이에요."
+  },
+  {
+    "timestamp": "36:03",
+    "timestamp_order": "620-1",
+    "speaker": "Speaker_C",
+    "text": "실제 위치."
+  },
+  {
+    "timestamp": "36:16",
+    "timestamp_order": "622-1",
+    "speaker": "Speaker_C",
+    "text": "무엇이 포함되고 무엇이 추가되나요?"
+  },
+  {
+    "timestamp": "36:28",
+    "timestamp_order": "627-1",
+    "speaker": "Speaker_C",
+    "text": "코드를 보고 있는 건 아닙니다."
+  },
+  {
+    "timestamp": "36:43",
+    "timestamp_order": "630-1",
+    "speaker": "Speaker_B",
+    "text": "눈 추적기에서 이미 나온다고 하시는 건가요?"
+  },
+  {
+    "timestamp": "37:04",
+    "timestamp_order": "632-1",
+    "speaker": "Speaker_A",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "37:13",
+    "timestamp_order": "635-1",
+    "speaker": "Speaker_A",
+    "text": "오른쪽 ."
+  },
+  {
+    "timestamp": "37:20",
+    "timestamp_order": "637-1",
+    "speaker": "Speaker_A",
+    "text": "깜빡임 현상을 고정 현상으로 합치고 싶다면, GDF 관련 요구 사항에 cr을 추가하는 게 좋을 것 같습니다."
+  },
+  {
+    "timestamp": "37:20",
+    "timestamp_order": "638-1",
+    "speaker": "Speaker_A",
+    "text": "그래서 그 분석을 추가해야 한다는 걸 상기시켜 드리려고 합니다."
+  },
+  {
+    "timestamp": "37:20",
+    "timestamp_order": "639-1",
+    "speaker": "Speaker_A",
+    "text": "이벤트 발생 시간을 확인하는 것만으로도 충분히 쉬운 작업입니다."
+  },
+  {
+    "timestamp": "37:31",
+    "timestamp_order": "642-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "37:32",
+    "timestamp_order": "645-1",
+    "speaker": "Speaker_C",
+    "text": "고정 때문에 안 될 거예요."
+  },
+  {
+    "timestamp": "37:32",
+    "timestamp_order": "646-1",
+    "speaker": "Speaker_C",
+    "text": "우리가 시선이라고 정의하는 것에 따라 달라질 거예요."
+  },
+  {
+    "timestamp": "37:32",
+    "timestamp_order": "648-1",
+    "speaker": "Speaker_C",
+    "text": "그래서 그 시간 동안 눈을 많이 깜빡였다면, 그 사람은 여전히 그 사물을 보고 있는 거예요."
+  },
+  {
+    "timestamp": "37:52",
+    "timestamp_order": "650-1",
+    "speaker": "Speaker_A",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "38:20",
+    "timestamp_order": "664-1",
+    "speaker": "Speaker_C",
+    "text": "예 ."
+  },
+  {
+    "timestamp": "38:42",
+    "timestamp_order": "673-1",
+    "speaker": "Speaker_A",
+    "text": "어떤 데이터가 이미 ASCII 형식으로 되어 있는지, 그리고 분석 과정에서 수정해야 할 부분이 있는지도요."
+  },
+  {
+    "timestamp": "38:42",
+    "timestamp_order": "674-1",
+    "speaker": "Speaker_A",
+    "text": "어쨌든 부품이나 사물에 대한 고정을 분석해야 하니까요."
+  },
+  {
+    "timestamp": "39:19",
+    "timestamp_order": "680-1",
+    "speaker": "Speaker_B",
+    "text": "왜 그것이 분석적으로 옳은 일인가요?"
+  },
+  {
+    "timestamp": "39:31",
+    "timestamp_order": "683-1",
+    "speaker": "Speaker_B",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "39:44",
+    "timestamp_order": "685-1",
+    "speaker": "Speaker_B",
+    "text": "고정 시간에 눈 깜빡이는 시간만 더하면 도약 운동으로 간주하지 않거든요."
+  },
+  {
+    "timestamp": "39:50",
+    "timestamp_order": "689-1",
+    "speaker": "Speaker_C",
+    "text": "전체 시선 시간을 살펴볼 때만 특정 물체를 보는 데 소요된 총 시간이 나오는데, 여기에는 여러 번의 고정과 눈 깜빡임 등이 모두 포함됩니다."
+  },
+  {
+    "timestamp": "39:50",
+    "timestamp_order": "690-1",
+    "speaker": "Speaker_C",
+    "text": "일종의 복합적인 시청 시간인가요?"
+  },
+  {
+    "timestamp": "40:06",
+    "timestamp_order": "692-1",
+    "speaker": "Speaker_B",
+    "text": "기다리다 ."
+  },
+  {
+    "timestamp": "40:22",
+    "timestamp_order": "697-1",
+    "speaker": "Speaker_A",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "40:24",
+    "timestamp_order": "702-1",
+    "speaker": "Speaker_B",
+    "text": "알겠습니다."
+  },
+  {
+    "timestamp": "40:37",
+    "timestamp_order": "705-1",
+    "speaker": "Speaker_C",
+    "text": "응, 응."
+  },
+  {
+    "timestamp": "40:59",
+    "timestamp_order": "710-1",
+    "speaker": "Speaker_C",
+    "text": "시청 시간은요."
+  },
+  {
+    "timestamp": "41:06",
+    "timestamp_order": "712-1",
+    "speaker": "Speaker_B",
+    "text": "내 말은, 이게 우리가 이전에 이야기했던 것과 비슷한 거야."
+  },
+  {
+    "timestamp": "41:06",
+    "timestamp_order": "713-1",
+    "speaker": "Speaker_B",
+    "text": "GDF에 무엇이 있는지에 대한 혼란 말이야."
+  },
+  {
+    "timestamp": "41:06",
+    "timestamp_order": "715-1",
+    "speaker": "Speaker_B",
+    "text": "그리고 여전히 증강된 GDF 형식으로 원할 수 있는 다른 것들이 많이 추가되는데, 이 눈 깜빡임과 시선 같은 거 말이야."
+  },
+  {
+    "timestamp": "41:06",
+    "timestamp_order": "716-1",
+    "speaker": "Speaker_B",
+    "text": "그리고 NXT로 변환해."
+  },
+  {
+    "timestamp": "41:06",
+    "timestamp_order": "718-1",
+    "speaker": "Speaker_B",
+    "text": "그리고 NXT는 단지 분할기일 뿐이야."
+  },
+  {
+    "timestamp": "41:06",
+    "timestamp_order": "720-1",
+    "speaker": "Speaker_B",
+    "text": "그래서 저는 이것을 GDF에 있는 정보 없이 GDF를 가져와서 이러한 사후 처리 분석이 포함된 GDF 파일의 하위 스크립트 버전에 새로운 정보를 추가하는 일련의 작은 루틴으로 봅니다."
+  },
+  {
+    "timestamp": "41:45",
+    "timestamp_order": "722-1",
+    "speaker": "Speaker_C",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "42:08",
+    "timestamp_order": "723-1",
+    "speaker": "Speaker_A",
+    "text": "오른쪽 ."
+  },
+  {
+    "timestamp": "42:09",
+    "timestamp_order": "724-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "42:11",
+    "timestamp_order": "727-1",
+    "speaker": "Speaker_A",
+    "text": "아니면 NXT 관련해서 분석을 대부분 하실 예정이신가요?"
+  },
+  {
+    "timestamp": "42:30",
+    "timestamp_order": "730-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "42:33",
+    "timestamp_order": "731-1",
+    "speaker": "Speaker_A",
+    "text": "오른쪽 ."
+  },
+  {
+    "timestamp": "42:43",
+    "timestamp_order": "735-1",
+    "speaker": "Speaker_A",
+    "text": "GDF 같은 것들에 대한 빠른 분석을 할 수 있으니까요."
+  },
+  {
+    "timestamp": "42:43",
+    "timestamp_order": "736-1",
+    "speaker": "Speaker_A",
+    "text": "대화 분석 같은 거 하기 전에 먼저 해야 할 일이 없잖아요."
+  },
+  {
+    "timestamp": "42:53",
+    "timestamp_order": "744-1",
+    "speaker": "Speaker_B",
+    "text": "하지만 GDF와 NXT 사이의 변환기가 데이터를 추가하지 않는 것이 더 합리적입니다."
+  },
+  {
+    "timestamp": "42:53",
+    "timestamp_order": "745-1",
+    "speaker": "Speaker_B",
+    "text": "그저 이 멍청한 데이터 형식 변환을 할 뿐입니다."
+  },
+  {
+    "timestamp": "42:53",
+    "timestamp_order": "746-1",
+    "speaker": "Speaker_B",
+    "text": "그리고 그것은 단지 작은 단계로 분리하는 것뿐입니다."
+  },
+  {
+    "timestamp": "42:53",
+    "timestamp_order": "750-1",
+    "speaker": "Speaker_B",
+    "text": "그러니까 알다시피, 그렇게 더 간단하게 유지해서 작은 조각으로 나누면 전체가 무엇을 하는지 이해하기가 더 쉬울 것입니다."
+  },
+  {
+    "timestamp": "43:31",
+    "timestamp_order": "752-1",
+    "speaker": "Speaker_C",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "43:35",
+    "timestamp_order": "753-1",
+    "speaker": "Speaker_A",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "43:35",
+    "timestamp_order": "756-1",
+    "speaker": "Speaker_C",
+    "text": "C"
+  },
+  {
+    "timestamp": "43:51",
+    "timestamp_order": "757-1",
+    "speaker": "Speaker_A",
+    "text": "오른쪽 ."
+  },
+  {
+    "timestamp": "44:02",
+    "timestamp_order": "765-1",
+    "speaker": "Speaker_A",
+    "text": "오, 그래 그래."
+  },
+  {
+    "timestamp": "44:14",
+    "timestamp_order": "767-1",
+    "speaker": "Speaker_B",
+    "text": "오, 그렇군요."
+  },
+  {
+    "timestamp": "44:31",
+    "timestamp_order": "768-1",
+    "speaker": "Speaker_A",
+    "text": "충분히 공정하다, 공정하다"
+  },
+  {
+    "timestamp": "44:53",
+    "timestamp_order": "775-1",
+    "speaker": "Speaker_C",
+    "text": "."
+  },
+  {
+    "timestamp": "44:53",
+    "timestamp_order": "776-1",
+    "speaker": "Speaker_C",
+    "text": "."
+  },
+  {
+    "timestamp": "44:53",
+    "timestamp_order": "778-1",
+    "speaker": "Speaker_C",
+    "text": "."
+  },
+  {
+    "timestamp": "44:53",
+    "timestamp_order": "779-1",
+    "speaker": "Speaker_C",
+    "text": "."
+  },
+  {
+    "timestamp": "44:53",
+    "timestamp_order": "781-1",
+    "speaker": "Speaker_C",
+    "text": "그래서 그런 거예요."
+  },
+  {
+    "timestamp": "44:53",
+    "timestamp_order": "783-1",
+    "speaker": "Speaker_C",
+    "text": "."
+  },
+  {
+    "timestamp": "44:53",
+    "timestamp_order": "784-1",
+    "speaker": "Speaker_C",
+    "text": "."
+  },
+  {
+    "timestamp": "45:00",
+    "timestamp_order": "786-1",
+    "speaker": "Speaker_B",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "45:00",
+    "timestamp_order": "787-1",
+    "speaker": "Speaker_B",
+    "text": "그러니 그들이 내린 결정에 동의하시는지 알아보는 것도 흥미로울 것 같아요."
+  },
+  {
+    "timestamp": "45:22",
+    "timestamp_order": "791-1",
+    "speaker": "Speaker_B",
+    "text": "Mm ."
+  },
+  {
+    "timestamp": "45:32",
+    "timestamp_order": "798-1",
+    "speaker": "Speaker_C",
+    "text": "그래서 깔끔하게 정리하는 거죠."
+  },
+  {
+    "timestamp": "45:32",
+    "timestamp_order": "800-1",
+    "speaker": "Speaker_C",
+    "text": "응."
+  },
+  {
+    "timestamp": "45:46",
+    "timestamp_order": "801-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "45:49",
+    "timestamp_order": "802-1",
+    "speaker": "Speaker_B",
+    "text": "오."
+  },
+  {
+    "timestamp": "45:54",
+    "timestamp_order": "805-1",
+    "speaker": "Speaker_B",
+    "text": "맞나요?"
+  },
+  {
+    "timestamp": "45:58",
+    "timestamp_order": "807-1",
+    "speaker": "Speaker_C",
+    "text": "오른쪽 ."
+  },
+  {
+    "timestamp": "46:11",
+    "timestamp_order": "812-1",
+    "speaker": "Speaker_B",
+    "text": "왜 이렇게 생각하냐고요?"
+  },
+  {
+    "timestamp": "46:11",
+    "timestamp_order": "816-1",
+    "speaker": "Speaker_B",
+    "text": "그게 주된 이유예요."
+  },
+  {
+    "timestamp": "46:21",
+    "timestamp_order": "819-1",
+    "speaker": "Speaker_C",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "46:33",
+    "timestamp_order": "820-1",
+    "speaker": "Speaker_C",
+    "text": "홍보"
+  },
+  {
+    "timestamp": "46:40",
+    "timestamp_order": "821-1",
+    "speaker": "Speaker_C",
+    "text": "응."
+  },
+  {
+    "timestamp": "46:40",
+    "timestamp_order": "822-1",
+    "speaker": "Speaker_C",
+    "text": "응."
+  },
+  {
+    "timestamp": "46:40",
+    "timestamp_order": "824-1",
+    "speaker": "Speaker_C",
+    "text": "응."
+  },
+  {
+    "timestamp": "47:08",
+    "timestamp_order": "830-1",
+    "speaker": "Speaker_C",
+    "text": "자바로 작성됐거든요."
+  },
+  {
+    "timestamp": "47:09",
+    "timestamp_order": "831-1",
+    "speaker": "Speaker_B",
+    "text": "응."
+  },
+  {
+    "timestamp": "47:22",
+    "timestamp_order": "834-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "48:22",
+    "timestamp_order": "844-1",
+    "speaker": "Speaker_B",
+    "text": "그는 멋진 고객이에요."
+  },
+  {
+    "timestamp": "48:59",
+    "timestamp_order": "850-1",
+    "speaker": "Speaker_B",
+    "text": "오, 그렇군요."
+  },
+  {
+    "timestamp": "49:02",
+    "timestamp_order": "853-1",
+    "speaker": "Speaker_B",
+    "text": "배터리 확인해 보세요."
+  }
+]

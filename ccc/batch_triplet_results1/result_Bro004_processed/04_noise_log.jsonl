@@ -1,0 +1,451 @@
+{"timestamp": "03:09", "timestamp_order": "2-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "03:18", "timestamp_order": "5-1", "speaker": "Speaker_C", "text": "우리가 이걸 하겠다고 말했는데 갑자기 기억이 났어요.", "label": 1}
+{"timestamp": "03:30", "timestamp_order": "8-1", "speaker": "Speaker_G", "text": "음-음.", "label": 1}
+{"timestamp": "03:35", "timestamp_order": "10-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "03:41", "timestamp_order": "12-1", "speaker": "Speaker_H", "text": "네, 네트워크가 작업 데이터로 학습되면 탠덤이 꽤 잘 작동합니다.", "label": 1}
+{"timestamp": "03:57", "timestamp_order": "15-1", "speaker": "Speaker_E", "text": "바로 그 작업의 데이터에 대해서, 그 언어는?", "label": 1}
+{"timestamp": "04:00", "timestamp_order": "17-1", "speaker": "Speaker_H", "text": "하지만 실제로 우리는 두 가지 유형의 데이터 모두에 대해 네트워크를 훈련하지 않았습니다.", "label": 1}
+{"timestamp": "04:13", "timestamp_order": "18-1", "speaker": "Speaker_E", "text": "음.", "label": 1}
+{"timestamp": "04:19", "timestamp_order": "19-1", "speaker": "Speaker_E", "text": "음-음.", "label": 1}
+{"timestamp": "04:22", "timestamp_order": "20-1", "speaker": "Speaker_H", "text": "네.", "label": 1}
+{"timestamp": "04:24", "timestamp_order": "23-1", "speaker": "Speaker_E", "text": "그래서 그게 뭐야?", "label": 1}
+{"timestamp": "04:31", "timestamp_order": "25-1", "speaker": "Speaker_D", "text": "내가 이전 결과에서 본 바에 따르면, 음, 지난주였던 것 같아요.", "label": 1}
+{"timestamp": "04:44", "timestamp_order": "26-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "04:45", "timestamp_order": "28-1", "speaker": "Speaker_D", "text": "하지만 문제는 당신이 한 가지 언어에 대해 훈련한다면", "label": 1}
+{"timestamp": "04:57", "timestamp_order": "29-1", "speaker": "Speaker_H", "text": "우리가 같은 언어를 사용한다면?", "label": 1}
+{"timestamp": "04:59", "timestamp_order": "30-1", "speaker": "Speaker_D", "text": "아니, 아니, 아니.", "label": 1}
+{"timestamp": "05:05", "timestamp_order": "31-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "05:13", "timestamp_order": "34-1", "speaker": "Speaker_D", "text": "그러니까 TIMIT에 대한 훈련을 하지 않고 이탈리아 숫자에 대한 테스트를 했다는 말인가요?", "label": 1}
+{"timestamp": "05:17", "timestamp_order": "35-1", "speaker": "Speaker_H", "text": "아니요, 실제로 우리는 네 가지 종류의 테스트를 했습니다.", "label": 1}
+{"timestamp": "05:29", "timestamp_order": "36-1", "speaker": "Speaker_H", "text": "그래서 이탈리아어 연설에 대한 이탈리아어는  .", "label": 1}
+{"timestamp": "05:34", "timestamp_order": "37-1", "speaker": "Speaker_H", "text": "두 번째 테스트는 단일 언어로 훈련됩니다.", "label": 1}
+{"timestamp": "05:39", "timestamp_order": "38-1", "speaker": "Speaker_H", "text": "광범위한 데이터베이스를 사용하지만 t 작업 데이터와 동일한 언어를 사용합니다.", "label": 1}
+{"timestamp": "05:44", "timestamp_order": "39-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "05:44", "timestamp_order": "40-1", "speaker": "Speaker_H", "text": "하지만 이탈리아어의 경우 이탈리아어와 가깝다고 가정하고 스페인어를 선택합니다.", "label": 1}
+{"timestamp": "05:53", "timestamp_order": "42-1", "speaker": "Speaker_H", "text": "3개 언어 데이터베이스", "label": 1}
+{"timestamp": "05:56", "timestamp_order": "43-1", "speaker": "Speaker_H", "text": "그리고 네 번째는", "label": 1}
+{"timestamp": "05:56", "timestamp_order": "44-1", "speaker": "Speaker_D", "text": "W에는 세 가지 언어가 있습니다.", "label": 1}
+{"timestamp": "06:03", "timestamp_order": "46-1", "speaker": "Speaker_H", "text": "하지만 아니다", "label": 1}
+{"timestamp": "06:05", "timestamp_order": "48-1", "speaker": "Speaker_E", "text": "세 가지 언어", "label": 1}
+{"timestamp": "06:09", "timestamp_order": "50-1", "speaker": "Speaker_H", "text": "그리고 네 번째 테스트는 이 세 가지 언어 중에서 작업 언어인 언어를 제외하는 것입니다.", "label": 1}
+{"timestamp": "06:18", "timestamp_order": "52-1", "speaker": "Speaker_D", "text": "그게 제가 알고 싶었던 것이었어요.", "label": 1}
+{"timestamp": "06:20", "timestamp_order": "54-1", "speaker": "Speaker_D", "text": "제가 잘 말하지 못했던 것 같아요.", "label": 1}
+{"timestamp": "06:21", "timestamp_order": "55-1", "speaker": "Speaker_H", "text": "음, 그렇죠.", "label": 1}
+{"timestamp": "06:46", "timestamp_order": "59-1", "speaker": "Speaker_H", "text": "그러니까 이건 그렇게 나쁘지 않아요.", "label": 1}
+{"timestamp": "06:46", "timestamp_order": "60-1", "speaker": "Speaker_H", "text": "그런데 다국어 데이터로 넘어가면 상황이 더 나빠지고, 음,", "label": 1}
+{"timestamp": "06:56", "timestamp_order": "62-1", "speaker": "Speaker_H", "text": "음, 20퍼센트 정도 더 가자면, 20퍼센트 정도 더 가자.", "label": 1}
+{"timestamp": "06:56", "timestamp_order": "64-1", "speaker": "Speaker_H", "text": "네.", "label": 1}
+{"timestamp": "07:05", "timestamp_order": "65-1", "speaker": "Speaker_D", "text": "20퍼센트 더 나아가요?", "label": 1}
+{"timestamp": "07:05", "timestamp_order": "66-1", "speaker": "Speaker_H", "text": "20~30% 더 나아가요.", "label": 1}
+{"timestamp": "07:08", "timestamp_order": "68-1", "speaker": "Speaker_E", "text": "그러니까, 다시 한번 말씀드리지만, 다국어 관련 내용은 광범위한 데이터일 뿐입니다.", "label": 1}
+{"timestamp": "07:12", "timestamp_order": "71-1", "speaker": "Speaker_E", "text": "숫자가 중요한 게 아니에요.", "label": 1}
+{"timestamp": "01:10", "timestamp_order": "74-1", "speaker": "Speaker_G", "text": "제 생각엔 채널 2인 것 같아요.", "label": 1}
+{"timestamp": "01:11", "timestamp_order": "75-1", "speaker": "Speaker_D", "text": "아, 제 채널은 1번 채널이어야 해요.", "label": 1}
+{"timestamp": "01:11", "timestamp_order": "77-1", "speaker": "Speaker_D", "text": "네, 알겠습니다.", "label": 1}
+{"timestamp": "01:16", "timestamp_order": "78-1", "speaker": "Speaker_D", "text": "알았어요.", "label": 1}
+{"timestamp": "01:16", "timestamp_order": "79-1", "speaker": "Speaker_D", "text": "그래서 어", "label": 1}
+{"timestamp": "01:35", "timestamp_order": "81-1", "speaker": "Speaker_H", "text": "어 그래.", "label": 1}
+{"timestamp": "01:35", "timestamp_order": "82-1", "speaker": "Speaker_H", "text": "어 우리는 그래서 내가 이미 말했듯이 우리는 주로 다음에 집중했습니다.", "label": 1}
+{"timestamp": "01:45", "timestamp_order": "87-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "01:45", "timestamp_order": "88-1", "speaker": "Speaker_D", "text": "알겠어요 .", "label": 1}
+{"timestamp": "01:47", "timestamp_order": "89-1", "speaker": "Speaker_H", "text": "네 가지 기능이 있습니다.", "label": 1}
+{"timestamp": "01:50", "timestamp_order": "92-1", "speaker": "Speaker_D", "text": "우리가 아직 정말로 결정하지 못한 것은 다음과 같습니다.", "label": 1}
+{"timestamp": "02:00", "timestamp_order": "93-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "02:02", "timestamp_order": "94-1", "speaker": "Speaker_H", "text": "음, 우리는 시험 부분을 영어와 이탈리아어에 집중했습니다.", "label": 1}
+{"timestamp": "02:09", "timestamp_order": "95-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "02:09", "timestamp_order": "96-1", "speaker": "Speaker_H", "text": "저희는 TI 숫자 영어와 이탈리아어 데이터, 그리고 광범위한 영어, 프랑스어, 스페인어 데이터베이스에서 여러 신경망을 훈련시켰습니다.", "label": 1}
+{"timestamp": "09:09", "timestamp_order": "99-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "09:11", "timestamp_order": "100-1", "speaker": "Speaker_H", "text": "네, 1.", "label": 1}
+{"timestamp": "09:11", "timestamp_order": "102-1", "speaker": "Speaker_H", "text": "네.", "label": 1}
+{"timestamp": "09:21", "timestamp_order": "105-1", "speaker": "Speaker_D", "text": "내 생각엔 당신이 방금 말한 게 바로 그것 같아요.", "label": 1}
+{"timestamp": "09:31", "timestamp_order": "109-1", "speaker": "Speaker_H", "text": "뭐라고 할까요?", "label": 1}
+{"timestamp": "09:33", "timestamp_order": "112-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "09:38", "timestamp_order": "113-1", "speaker": "Speaker_H", "text": "영어를 제외하면 영어가 포함된 데이터와 큰 차이가 없습니다.", "label": 1}
+{"timestamp": "09:47", "timestamp_order": "117-1", "speaker": "Speaker_D", "text": "흥미롭네요.", "label": 1}
+{"timestamp": "09:50", "timestamp_order": "118-1", "speaker": "Speaker_H", "text": "음 .", "label": 1}
+{"timestamp": "09:51", "timestamp_order": "119-1", "speaker": "Speaker_D", "text": "아니요, 그게 중요해요.", "label": 1}
+{"timestamp": "09:51", "timestamp_order": "120-1", "speaker": "Speaker_D", "text": "그러니까 여기서 말하고 있는 건 네, 감소가 있습니다라는 거예요.", "label": 1}
+{"timestamp": "10:26", "timestamp_order": "123-1", "speaker": "Speaker_E", "text": "다국어입니다.", "label": 1}
+{"timestamp": "10:33", "timestamp_order": "124-1", "speaker": "Speaker_H", "text": "음, 그렇죠.", "label": 1}
+{"timestamp": "00:44", "timestamp_order": "125-1", "speaker": "Speaker_H", "text": "채널 3, 네.", "label": 1}
+{"timestamp": "00:47", "timestamp_order": "127-1", "speaker": "Speaker_A", "text": "음, 5번 채널이요?", "label": 1}
+{"timestamp": "00:50", "timestamp_order": "132-1", "speaker": "Speaker_D", "text": "네, 저기에 마이크 번호가 있어요.", "label": 1}
+{"timestamp": "00:52", "timestamp_order": "133-1", "speaker": "Speaker_H", "text": "음", "label": 1}
+{"timestamp": "00:53", "timestamp_order": "134-1", "speaker": "Speaker_A", "text": "아니요 ?", "label": 1}
+{"timestamp": "00:54", "timestamp_order": "135-1", "speaker": "Speaker_E", "text": "그녀의 시트에 적혀 있는 것 같아요.", "label": 1}
+{"timestamp": "00:55", "timestamp_order": "136-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "00:57", "timestamp_order": "138-1", "speaker": "Speaker_D", "text": "어, 마이크 5번,", "label": 1}
+{"timestamp": "00:57", "timestamp_order": "139-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "00:58", "timestamp_order": "140-1", "speaker": "Speaker_A", "text": "아, 네 개였네요.", "label": 1}
+{"timestamp": "01:01", "timestamp_order": "143-1", "speaker": "Speaker_A", "text": "네 네 네.", "label": 1}
+{"timestamp": "01:05", "timestamp_order": "144-1", "speaker": "Speaker_A", "text": "아, 괜찮아요.", "label": 1}
+{"timestamp": "01:05", "timestamp_order": "145-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "07:24", "timestamp_order": "150-1", "speaker": "Speaker_E", "text": "좋아요 .", "label": 1}
+{"timestamp": "07:25", "timestamp_order": "151-1", "speaker": "Speaker_E", "text": "이미, 맞아요 맞아요 맞아요.", "label": 1}
+{"timestamp": "07:31", "timestamp_order": "154-1", "speaker": "Speaker_H", "text": "음, 기본적으로 다국어 광범위 데이터에 대해 훈련할 때", "label": 1}
+{"timestamp": "08:01", "timestamp_order": "158-1", "speaker": "Speaker_D", "text": "동일한 언어를 사용하지만 다른 작업을 수행하는 경우 약 1.", "label": 1}
+{"timestamp": "08:08", "timestamp_order": "160-1", "speaker": "Speaker_H", "text": "아니 아니 아니.", "label": 1}
+{"timestamp": "08:09", "timestamp_order": "161-1", "speaker": "Speaker_H", "text": "어, 우리는 같은 언어를 사용하고, 어, 영어로는 O 포인트 8입니다.", "label": 1}
+{"timestamp": "08:26", "timestamp_order": "168-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "08:29", "timestamp_order": "169-1", "speaker": "Speaker_D", "text": "좋아요, 음, 아담에게 전화 좀 해주시겠어요?", "label": 1}
+{"timestamp": "02:23", "timestamp_order": "171-1", "speaker": "Speaker_D", "text": "무슨 일이 있어도,", "label": 1}
+{"timestamp": "02:24", "timestamp_order": "172-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "02:26", "timestamp_order": "174-1", "speaker": "Speaker_D", "text": "반면에, w는 정확히 어느 것입니까?", "label": 1}
+{"timestamp": "02:30", "timestamp_order": "176-1", "speaker": "Speaker_H", "text": "음, 여기에 탠덤 방식에 대한 결과 표가 있고, 실제로 우리가 관찰한 바에 따르면 네트워크가 작업 데이터로 훈련되면 매우 잘 작동한다는 것입니다.", "label": 1}
+{"timestamp": "02:33", "timestamp_order": "177-1", "speaker": "Speaker_D", "text": "음", "label": 1}
+{"timestamp": "02:52", "timestamp_order": "180-1", "speaker": "Speaker_C", "text": "나는 충분히 멀리 돌아갈 수 없어.", "label": 1}
+{"timestamp": "02:57", "timestamp_order": "184-1", "speaker": "Speaker_E", "text": "방 앞쪽에서 보면 어떨까요?", "label": 1}
+{"timestamp": "02:58", "timestamp_order": "185-1", "speaker": "Speaker_G", "text": "네, 더 길어요.", "label": 1}
+{"timestamp": "03:00", "timestamp_order": "187-1", "speaker": "Speaker_D", "text": "어.", "label": 1}
+{"timestamp": "03:03", "timestamp_order": "190-1", "speaker": "Speaker_D", "text": "음 .", "label": 1}
+{"timestamp": "03:06", "timestamp_order": "192-1", "speaker": "Speaker_B", "text": "아, 잠깐 잠깐 잠깐 잠깐 잠깐.", "label": 1}
+{"timestamp": "03:06", "timestamp_order": "193-1", "speaker": "Speaker_B", "text": "잠깐.", "label": 1}
+{"timestamp": "03:06", "timestamp_order": "194-1", "speaker": "Speaker_B", "text": "잠깐.", "label": 1}
+{"timestamp": "03:06", "timestamp_order": "195-1", "speaker": "Speaker_B", "text": "잠깐.", "label": 1}
+{"timestamp": "03:06", "timestamp_order": "197-1", "speaker": "Speaker_D", "text": "어, 여기서 다시 시작할 수 있을 것 같아요.", "label": 1}
+{"timestamp": "00:04", "timestamp_order": "202-1", "speaker": "Speaker_A", "text": "아 -", "label": 1}
+{"timestamp": "00:04", "timestamp_order": "205-1", "speaker": "Speaker_G", "text": "안녕하세요, 안녕하세요, 안녕하세요, 안녕하세요.", "label": 1}
+{"timestamp": "00:05", "timestamp_order": "206-1", "speaker": "Speaker_E", "text": "뭔가를 고쳤어요?", "label": 1}
+{"timestamp": "00:05", "timestamp_order": "207-1", "speaker": "Speaker_F", "text": "왜냐하면, 음, 저는 그것이 Linux를 실행할 것이라고 생각하고, Sw-Swede와 Fudge는 이미 Linux를 실행하고 있으므로, 음, 저는 시도할 수 있을 것 같습니다.", "label": 1}
+{"timestamp": "00:07", "timestamp_order": "208-1", "speaker": "Speaker_G", "text": "안녕하세요 .", "label": 1}
+{"timestamp": "00:09", "timestamp_order": "210-1", "speaker": "Speaker_G", "text": "안녕하세요, 안녕하세요.", "label": 1}
+{"timestamp": "00:09", "timestamp_order": "211-1", "speaker": "Speaker_B", "text": "아, 아마도 마이크를 끄고 켜는 것일 수도 있겠네요.", "label": 1}
+{"timestamp": "00:12", "timestamp_order": "213-1", "speaker": "Speaker_F", "text": "리눅스에서 신경망 학습이나 HTK를 실행하는 것 중에 어떤 것을 먼저 선택해야 할지 고민입니다.", "label": 1}
+{"timestamp": "00:22", "timestamp_order": "214-1", "speaker": "Speaker_D", "text": "어, 당신은 그게 당신이라고 생각하시나요?", "label": 1}
+{"timestamp": "00:25", "timestamp_order": "216-1", "speaker": "Speaker_G", "text": "아아-아-아.", "label": 1}
+{"timestamp": "00:25", "timestamp_order": "217-1", "speaker": "Speaker_G", "text": "알았어요.", "label": 1}
+{"timestamp": "00:34", "timestamp_order": "219-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "00:36", "timestamp_order": "220-1", "speaker": "Speaker_D", "text": "알았어요.", "label": 1}
+{"timestamp": "00:36", "timestamp_order": "221-1", "speaker": "Speaker_D", "text": "그럼, 음, 우리는", "label": 1}
+{"timestamp": "10:38", "timestamp_order": "223-1", "speaker": "Speaker_H", "text": "네, 물론이죠.", "label": 1}
+{"timestamp": "10:48", "timestamp_order": "225-1", "speaker": "Speaker_B", "text": "네, 그 중 일부에 불과해요.", "label": 1}
+{"timestamp": "11:01", "timestamp_order": "227-1", "speaker": "Speaker_B", "text": "네, 음.", "label": 1}
+{"timestamp": "11:18", "timestamp_order": "231-1", "speaker": "Speaker_H", "text": "우리는 이걸 그냥 유지하고 싶었을 뿐이에요.", "label": 1}
+{"timestamp": "11:18", "timestamp_order": "232-1", "speaker": "Speaker_H", "text": "음, 너무 크지 않게요.", "label": 1}
+{"timestamp": "11:27", "timestamp_order": "235-1", "speaker": "Speaker_H", "text": "음 ,", "label": 1}
+{"timestamp": "11:29", "timestamp_order": "237-1", "speaker": "Speaker_D", "text": "그리고 광범위한 영어 데이터는 이 1.", "label": 1}
+{"timestamp": "11:34", "timestamp_order": "241-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "11:36", "timestamp_order": "243-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "11:36", "timestamp_order": "244-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "13:11", "timestamp_order": "247-1", "speaker": "Speaker_D", "text": "그래서 이것들은 다음과 같은 결과입니다.", "label": 1}
+{"timestamp": "13:40", "timestamp_order": "250-1", "speaker": "Speaker_H", "text": "그리고 다국어로 갈수록 상황은 더 나빠집니다.", "label": 1}
+{"timestamp": "13:48", "timestamp_order": "251-1", "speaker": "Speaker_H", "text": "네.", "label": 1}
+{"timestamp": "14:05", "timestamp_order": "253-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "14:06", "timestamp_order": "254-1", "speaker": "Speaker_D", "text": "사실 제안이 하나 있는데, 약간 지연이 되더라도 괜찮으시겠어요?", "label": 1}
+{"timestamp": "14:13", "timestamp_order": "255-1", "speaker": "Speaker_H", "text": "네, 네.", "label": 1}
+{"timestamp": "14:29", "timestamp_order": "258-1", "speaker": "Speaker_D", "text": "음 ,", "label": 1}
+{"timestamp": "14:36", "timestamp_order": "260-1", "speaker": "Speaker_E", "text": "이 숫자는 40이었나요, 아니면 이것과 거의 비슷했나요?", "label": 1}
+{"timestamp": "14:36", "timestamp_order": "262-1", "speaker": "Speaker_E", "text": "두 가지 언어와 세 가지 언어를 비교했을 때 어떤가요?", "label": 1}
+{"timestamp": "14:44", "timestamp_order": "265-1", "speaker": "Speaker_E", "text": "그가 영어를 제거한 곳이 바로 거기죠?", "label": 1}
+{"timestamp": "14:47", "timestamp_order": "268-1", "speaker": "Speaker_B", "text": "실제로는 어떤 기능을 사용하는지에 따라 달라집니다.", "label": 1}
+{"timestamp": "15:17", "timestamp_order": "270-1", "speaker": "Speaker_E", "text": "음-음.", "label": 1}
+{"timestamp": "15:20", "timestamp_order": "271-1", "speaker": "Speaker_E", "text": "음.", "label": 1}
+{"timestamp": "15:20", "timestamp_order": "274-1", "speaker": "Speaker_E", "text": "음, 이 세 네트가 모두 같은 출력을 사용하는 건가요?", "label": 1}
+{"timestamp": "15:20", "timestamp_order": "275-1", "speaker": "Speaker_E", "text": "다국어 라벨링인가요?", "label": 1}
+{"timestamp": "15:29", "timestamp_order": "276-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "15:31", "timestamp_order": "277-1", "speaker": "Speaker_B", "text": "그는 SAMPA에서 64개의 음소를 사용했습니다.", "label": 1}
+{"timestamp": "15:34", "timestamp_order": "278-1", "speaker": "Speaker_E", "text": "알았어요, 알았어요.", "label": 1}
+{"timestamp": "16:12", "timestamp_order": "283-1", "speaker": "Speaker_E", "text": "음-음.", "label": 1}
+{"timestamp": "16:42", "timestamp_order": "285-1", "speaker": "Speaker_D", "text": "네가 있던 곳에,", "label": 1}
+{"timestamp": "16:49", "timestamp_order": "286-1", "speaker": "Speaker_A", "text": "아니요 .", "label": 1}
+{"timestamp": "16:55", "timestamp_order": "288-1", "speaker": "Speaker_E", "text": "네, 흥미로울 것 같아요.", "label": 1}
+{"timestamp": "17:17", "timestamp_order": "290-1", "speaker": "Speaker_D", "text": "우리는 단 하나의 언어만 훈련한 적이 없습니다.", "label": 1}
+{"timestamp": "17:23", "timestamp_order": "292-1", "speaker": "Speaker_H", "text": "아뇨.", "label": 1}
+{"timestamp": "17:29", "timestamp_order": "293-1", "speaker": "Speaker_D", "text": "하지만 우리는 한 가지 언어만 훈련하는 일을 많이 해왔습니다.", "label": 1}
+{"timestamp": "17:32", "timestamp_order": "295-1", "speaker": "Speaker_D", "text": "제 말은, 여러 언어에 대한 모든 테스트를 해보지 않았다는 거예요.", "label": 1}
+{"timestamp": "19:34", "timestamp_order": "296-1", "speaker": "Speaker_H", "text": "음", "label": 1}
+{"timestamp": "19:40", "timestamp_order": "299-1", "speaker": "Speaker_D", "text": "그게 뭐였지?", "label": 1}
+{"timestamp": "19:55", "timestamp_order": "303-1", "speaker": "Speaker_E", "text": "그러면 여기서 TI 숫자의 기준선은 어디에 있습니까?", "label": 1}
+{"timestamp": "20:11", "timestamp_order": "309-1", "speaker": "Speaker_E", "text": "아, 알았어요, 알았어요.", "label": 1}
+{"timestamp": "20:12", "timestamp_order": "310-1", "speaker": "Speaker_D", "text": "이것은 단어 오류율이며 숫자가 높으면 나쁩니다.", "label": 1}
+{"timestamp": "20:16", "timestamp_order": "311-1", "speaker": "Speaker_H", "text": "네, 이것은 단어 오류율 비율이에요.", "label": 1}
+{"timestamp": "20:22", "timestamp_order": "316-1", "speaker": "Speaker_H", "text": "2는 다음을 의미합니다.", "label": 1}
+{"timestamp": "17:36", "timestamp_order": "317-1", "speaker": "Speaker_H", "text": "음 ,", "label": 1}
+{"timestamp": "17:38", "timestamp_order": "318-1", "speaker": "Speaker_H", "text": "아니요 .", "label": 1}
+{"timestamp": "17:52", "timestamp_order": "319-1", "speaker": "Speaker_E", "text": "숫자로 다른 언어를 다루었나요?", "label": 1}
+{"timestamp": "17:57", "timestamp_order": "320-1", "speaker": "Speaker_H", "text": "아뇨.", "label": 1}
+{"timestamp": "18:11", "timestamp_order": "322-1", "speaker": "Speaker_D", "text": "아시죠, 저는 지난주에 당신이 저에게 그런 것을 보여준 적이 있다고 생각했는데요.", "label": 1}
+{"timestamp": "18:17", "timestamp_order": "323-1", "speaker": "Speaker_H", "text": "아니, 그렇게 생각하지 않아요.", "label": 1}
+{"timestamp": "18:29", "timestamp_order": "325-1", "speaker": "Speaker_G", "text": "이 숫자들은 어", "label": 1}
+{"timestamp": "18:50", "timestamp_order": "330-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "18:55", "timestamp_order": "332-1", "speaker": "Speaker_H", "text": "그리고 첫 번째 네 행은 잘 일치하고 두 번째 네 행 그룹은 일치하지 않습니다.", "label": 1}
+{"timestamp": "19:10", "timestamp_order": "333-1", "speaker": "Speaker_E", "text": "그럼 윗부분은 TI-숫자를 훈련하는 건가요?", "label": 1}
+{"timestamp": "22:38", "timestamp_order": "341-1", "speaker": "Speaker_D", "text": "어, 이 모든 경우에", "label": 1}
+{"timestamp": "22:48", "timestamp_order": "344-1", "speaker": "Speaker_H", "text": "아뇨, 이건 똑같은 소리예요.", "label": 1}
+{"timestamp": "23:18", "timestamp_order": "347-1", "speaker": "Speaker_D", "text": "다른 언어들.", "label": 1}
+{"timestamp": "23:20", "timestamp_order": "348-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "23:26", "timestamp_order": "350-1", "speaker": "Speaker_D", "text": "음, 아, 잠깐만요.", "label": 1}
+{"timestamp": "23:26", "timestamp_order": "351-1", "speaker": "Speaker_D", "text": "여기 이탈리아 사람용이 있네요.", "label": 1}
+{"timestamp": "23:26", "timestamp_order": "352-1", "speaker": "Speaker_D", "text": "맞아요.", "label": 1}
+{"timestamp": "23:26", "timestamp_order": "353-1", "speaker": "Speaker_D", "text": "좋아요, 그럼,", "label": 1}
+{"timestamp": "23:57", "timestamp_order": "355-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "23:58", "timestamp_order": "356-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "23:58", "timestamp_order": "357-1", "speaker": "Speaker_H", "text": "어.", "label": 1}
+{"timestamp": "24:01", "timestamp_order": "358-1", "speaker": "Speaker_D", "text": "음, 글쎄요, 한번 봅시다.", "label": 1}
+{"timestamp": "24:16", "timestamp_order": "360-1", "speaker": "Speaker_H", "text": "또 다른 차이점은 소음이 다르다는 것입니다.", "label": 1}
+{"timestamp": "24:16", "timestamp_order": "361-1", "speaker": "Speaker_H", "text": "음,", "label": 1}
+{"timestamp": "24:21", "timestamp_order": "363-1", "speaker": "Speaker_H", "text": "이탈리아어 부분에 대해서는 내가 말하는 것은", "label": 1}
+{"timestamp": "11:48", "timestamp_order": "369-1", "speaker": "Speaker_D", "text": "좋아요 ?", "label": 1}
+{"timestamp": "12:07", "timestamp_order": "372-1", "speaker": "Speaker_H", "text": "네.", "label": 1}
+{"timestamp": "12:09", "timestamp_order": "374-1", "speaker": "Speaker_D", "text": "네.", "label": 1}
+{"timestamp": "12:16", "timestamp_order": "377-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "12:24", "timestamp_order": "379-1", "speaker": "Speaker_D", "text": "다른 작업이 우리에게 그렇게 큰 피해를 주지 않는 것 같았고 다른 언어로 가는 것이", "label": 1}
+{"timestamp": "12:41", "timestamp_order": "381-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "12:42", "timestamp_order": "382-1", "speaker": "Speaker_D", "text": "음, 그런 것 같아요", "label": 1}
+{"timestamp": "24:35", "timestamp_order": "385-1", "speaker": "Speaker_D", "text": "그리고 소음은 다릅니다", "label": 1}
+{"timestamp": "24:41", "timestamp_order": "386-1", "speaker": "Speaker_D", "text": "우리한테 음?", "label": 1}
+{"timestamp": "24:51", "timestamp_order": "387-1", "speaker": "Speaker_D", "text": "오로라와 같은 소음이 있나요?", "label": 1}
+{"timestamp": "24:55", "timestamp_order": "388-1", "speaker": "Speaker_A", "text": "음, 아니요.", "label": 1}
+{"timestamp": "24:57", "timestamp_order": "389-1", "speaker": "Speaker_H", "text": "아니요 .", "label": 1}
+{"timestamp": "25:01", "timestamp_order": "390-1", "speaker": "Speaker_E", "text": "잠깐 뭐 좀 물어봐도 될까요?", "label": 1}
+{"timestamp": "25:19", "timestamp_order": "392-1", "speaker": "Speaker_E", "text": "소음이 심한 환경인가요?", "label": 1}
+{"timestamp": "25:23", "timestamp_order": "394-1", "speaker": "Speaker_E", "text": "그럼 매칭 트레이닝이요?", "label": 1}
+{"timestamp": "25:23", "timestamp_order": "395-1", "speaker": "Speaker_E", "text": "그게 그거예요?", "label": 1}
+{"timestamp": "25:26", "timestamp_order": "396-1", "speaker": "Speaker_H", "text": "아니요, 세 번째 부분이라 매우 어울리지 않아요.", "label": 1}
+{"timestamp": "25:48", "timestamp_order": "404-1", "speaker": "Speaker_E", "text": "좋아요 .", "label": 1}
+{"timestamp": "26:02", "timestamp_order": "405-1", "speaker": "Speaker_H", "text": "네.", "label": 1}
+{"timestamp": "26:02", "timestamp_order": "406-1", "speaker": "Speaker_H", "text": "하지만 깔끔한 사건은 아니에요.", "label": 1}
+{"timestamp": "20:26", "timestamp_order": "408-1", "speaker": "Speaker_E", "text": "알았어요, 알았어요.", "label": 1}
+{"timestamp": "20:54", "timestamp_order": "414-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "20:54", "timestamp_order": "415-1", "speaker": "Speaker_H", "text": "그 다음에는 프랑스어, 스페인어, 영어를 위한 MF, MS, ME가 있습니다.", "label": 1}
+{"timestamp": "21:34", "timestamp_order": "418-1", "speaker": "Speaker_D", "text": "제가 놓쳤네요.", "label": 1}
+{"timestamp": "21:34", "timestamp_order": "419-1", "speaker": "Speaker_D", "text": "MF, MS, ME가 뭐예요?", "label": 1}
+{"timestamp": "21:37", "timestamp_order": "420-1", "speaker": "Speaker_E", "text": "멀티 - 프랑스어, 멀티 - 스페인어", "label": 1}
+{"timestamp": "21:37", "timestamp_order": "422-1", "speaker": "Speaker_H", "text": "프랑스어가 여러 개, 스페인어가 여러 개, 영어가 여러 개입니다.", "label": 1}
+{"timestamp": "21:39", "timestamp_order": "423-1", "speaker": "Speaker_D", "text": "음, 알겠습니다.", "label": 1}
+{"timestamp": "21:39", "timestamp_order": "424-1", "speaker": "Speaker_D", "text": "그럼 어휘가 더 넓어지겠네요.", "label": 1}
+{"timestamp": "22:00", "timestamp_order": "428-1", "speaker": "Speaker_D", "text": "그게 전부였던 것 같아요.", "label": 1}
+{"timestamp": "22:00", "timestamp_order": "429-1", "speaker": "Speaker_D", "text": "그 시점에서는 아주 제한적인 결과만 얻었어요.", "label": 1}
+{"timestamp": "22:12", "timestamp_order": "431-1", "speaker": "Speaker_D", "text": "영어가 제거된 곳입니다.", "label": 1}
+{"timestamp": "22:26", "timestamp_order": "432-1", "speaker": "Speaker_D", "text": "음, 지금 소음 상황은 어때요?", "label": 1}
+{"timestamp": "41:51", "timestamp_order": "433-1", "speaker": "Speaker_H", "text": "네, 싱글 네트예요.", "label": 1}
+{"timestamp": "41:53", "timestamp_order": "434-1", "speaker": "Speaker_D", "text": "아, 그냥 그물 하나뿐이에요.", "label": 1}
+{"timestamp": "41:54", "timestamp_order": "436-1", "speaker": "Speaker_B", "text": "음 - 흠", "label": 1}
+{"timestamp": "41:59", "timestamp_order": "438-1", "speaker": "Speaker_D", "text": "알겠어요 .", "label": 1}
+{"timestamp": "42:02", "timestamp_order": "440-1", "speaker": "Speaker_H", "text": "그러니까 기본적으로 클래스 수가 적은 표준 네트입니다.", "label": 1}
+{"timestamp": "42:10", "timestamp_order": "442-1", "speaker": "Speaker_H", "text": "네, 하지만 저는 그렇다고 생각해요.", "label": 1}
+{"timestamp": "42:13", "timestamp_order": "446-1", "speaker": "Speaker_H", "text": "혼자서는 효과가 없을 것 같아요.", "label": 1}
+{"timestamp": "42:28", "timestamp_order": "451-1", "speaker": "Speaker_D", "text": "하지만 그걸 포함시키면 어떨까 생각해보세요", "label": 1}
+{"timestamp": "42:30", "timestamp_order": "452-1", "speaker": "Speaker_H", "text": "네, 아마도 네트에는 중요한 것이 하나 있을 것입니다.", "label": 1}
+{"timestamp": "39:55", "timestamp_order": "453-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "40:10", "timestamp_order": "454-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "40:23", "timestamp_order": "457-1", "speaker": "Speaker_H", "text": "따라서 더 간단한 네트워크를 얻으십시오.", "label": 1}
+{"timestamp": "40:38", "timestamp_order": "458-1", "speaker": "Speaker_H", "text": "기본적으로 우리는 세 가지 유형의 광범위한 음성학 분류를 가지고 있습니다.", "label": 1}
+{"timestamp": "41:06", "timestamp_order": "461-1", "speaker": "Speaker_H", "text": "그래서, 어, 오, 모르겠어요,", "label": 1}
+{"timestamp": "41:21", "timestamp_order": "466-1", "speaker": "Speaker_H", "text": "우리는 단지 출력이 적은 네트워크를 재학습하기 위해 라벨을 변경했을 뿐인가요?", "label": 1}
+{"timestamp": "41:28", "timestamp_order": "469-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "41:30", "timestamp_order": "470-1", "speaker": "Speaker_D", "text": "음 .", "label": 1}
+{"timestamp": "41:51", "timestamp_order": "472-1", "speaker": "Speaker_E", "text": "출력은 하나뿐인 것 같아요.", "label": 1}
+{"timestamp": "31:31", "timestamp_order": "473-1", "speaker": "Speaker_H", "text": "그래서 기본적으로 내가 기대하는 것은 다음과 같습니다.", "label": 1}
+{"timestamp": "31:48", "timestamp_order": "476-1", "speaker": "Speaker_D", "text": "알았어요, 하지만 내 생각엔", "label": 1}
+{"timestamp": "31:48", "timestamp_order": "477-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "32:34", "timestamp_order": "483-1", "speaker": "Speaker_H", "text": "우리가 네트워크를 훈련시키면", "label": 1}
+{"timestamp": "32:40", "timestamp_order": "484-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "32:47", "timestamp_order": "485-1", "speaker": "Speaker_D", "text": "음.", "label": 1}
+{"timestamp": "33:46", "timestamp_order": "487-1", "speaker": "Speaker_D", "text": "뭐, 타협이 필요하겠죠?", "label": 1}
+{"timestamp": "33:46", "timestamp_order": "488-1", "speaker": "Speaker_D", "text": "어쨌든, 계속하세요.", "label": 1}
+{"timestamp": "34:00", "timestamp_order": "489-1", "speaker": "Speaker_H", "text": "음, 이런 식으로 뭔가를 하는 중", "label": 1}
+{"timestamp": "34:06", "timestamp_order": "490-1", "speaker": "Speaker_H", "text": "글쎄요, 기본적으로는 문맥에 따라 달라지는 음소입니다.", "label": 1}
+{"timestamp": "34:13", "timestamp_order": "491-1", "speaker": "Speaker_D", "text": "아마도.", "label": 1}
+{"timestamp": "34:28", "timestamp_order": "495-1", "speaker": "Speaker_H", "text": "네, 네, 하지만 여기는 좀 다르죠.", "label": 1}
+{"timestamp": "34:28", "timestamp_order": "496-1", "speaker": "Speaker_H", "text": "우리는 다음과 같은 특징을 원해요.", "label": 1}
+{"timestamp": "38:32", "timestamp_order": "497-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "38:51", "timestamp_order": "498-1", "speaker": "Speaker_D", "text": "음, 우리는 L D A RASTA 같은 일은 전혀 하지 않았어요.", "label": 1}
+{"timestamp": "38:53", "timestamp_order": "499-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "39:08", "timestamp_order": "500-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "39:11", "timestamp_order": "501-1", "speaker": "Speaker_D", "text": "그래서 지금 무슨 일이 일어나고 있는 거야?", "label": 1}
+{"timestamp": "39:11", "timestamp_order": "502-1", "speaker": "Speaker_D", "text": "네가 옳은 게 뭐야?", "label": 1}
+{"timestamp": "39:18", "timestamp_order": "504-1", "speaker": "Speaker_A", "text": "나는 나는 HTK를 eh로 시도하고 있어요.", "label": 1}
+{"timestamp": "39:29", "timestamp_order": "506-1", "speaker": "Speaker_A", "text": "네, 조합이죠.", "label": 1}
+{"timestamp": "39:29", "timestamp_order": "507-1", "speaker": "Speaker_A", "text": "하지만 아직 결과가 나오지 않았어요.", "label": 1}
+{"timestamp": "39:39", "timestamp_order": "510-1", "speaker": "Speaker_A", "text": "네, 음, 옛날 옛적에 말이죠.", "label": 1}
+{"timestamp": "39:43", "timestamp_order": "513-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "39:43", "timestamp_order": "514-1", "speaker": "Speaker_A", "text": "하지만 우리는 할 수 있어요", "label": 1}
+{"timestamp": "39:50", "timestamp_order": "518-1", "speaker": "Speaker_D", "text": "음, 알았어요.", "label": 1}
+{"timestamp": "39:51", "timestamp_order": "519-1", "speaker": "Speaker_H", "text": "음, 이런 조합이 있군요.", "label": 1}
+{"timestamp": "34:34", "timestamp_order": "522-1", "speaker": "Speaker_D", "text": "응, 하지만 아직도 사실이야", "label": 1}
+{"timestamp": "34:51", "timestamp_order": "523-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "34:52", "timestamp_order": "524-1", "speaker": "Speaker_D", "text": "음, 그리고 당신은 그것을 모두 하나로 모으고 있어요.", "label": 1}
+{"timestamp": "35:40", "timestamp_order": "532-1", "speaker": "Speaker_D", "text": "예를 들어 특정 컨텍스트에서는 결코 발생하지 않을 몇 가지 컨텍스트가 있을 수 있습니다.", "label": 1}
+{"timestamp": "36:02", "timestamp_order": "534-1", "speaker": "Speaker_H", "text": "음,", "label": 1}
+{"timestamp": "36:24", "timestamp_order": "537-1", "speaker": "Speaker_H", "text": "음", "label": 1}
+{"timestamp": "26:10", "timestamp_order": "543-1", "speaker": "Speaker_E", "text": "그럼 위쪽 1/3은요?", "label": 1}
+{"timestamp": "26:13", "timestamp_order": "545-1", "speaker": "Speaker_E", "text": "어, 아직도 시끄러운가요?", "label": 1}
+{"timestamp": "26:15", "timestamp_order": "547-1", "speaker": "Speaker_E", "text": "아, 알겠습니다.", "label": 1}
+{"timestamp": "26:20", "timestamp_order": "548-1", "speaker": "Speaker_E", "text": "음-음.", "label": 1}
+{"timestamp": "26:23", "timestamp_order": "549-1", "speaker": "Speaker_E", "text": "알겠어요 .", "label": 1}
+{"timestamp": "26:24", "timestamp_order": "550-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "26:29", "timestamp_order": "551-1", "speaker": "Speaker_D", "text": "좋아요 ?", "label": 1}
+{"timestamp": "26:33", "timestamp_order": "552-1", "speaker": "Speaker_D", "text": "그래서, 음, 이건 좀 더 살펴보고 생각해야 할 것 같아요.", "label": 1}
+{"timestamp": "26:45", "timestamp_order": "554-1", "speaker": "Speaker_H", "text": "아, 아니요.", "label": 1}
+{"timestamp": "26:48", "timestamp_order": "556-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "27:31", "timestamp_order": "557-1", "speaker": "Speaker_H", "text": "이것은 우리가 이탈리아어로 얻은 결과입니다", "label": 1}
+{"timestamp": "27:44", "timestamp_order": "558-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "27:45", "timestamp_order": "559-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "27:48", "timestamp_order": "560-1", "speaker": "Speaker_H", "text": "그리고, 음, PLP 12개 온라인 정규화 열의 바로 왼쪽에 있는 표에는 무엇이 있나요?", "label": 1}
+{"timestamp": "28:07", "timestamp_order": "561-1", "speaker": "Speaker_E", "text": "그게 어디야?", "label": 1}
+{"timestamp": "28:09", "timestamp_order": "563-1", "speaker": "Speaker_D", "text": "어, 그냥 열 줄에 바로 놓여 있는 것 같아요.", "label": 1}
+{"timestamp": "28:14", "timestamp_order": "565-1", "speaker": "Speaker_E", "text": "아, 알겠습니다.", "label": 1}
+{"timestamp": "36:42", "timestamp_order": "567-1", "speaker": "Speaker_H", "text": "응, 물론이지만 어", "label": 1}
+{"timestamp": "37:15", "timestamp_order": "570-1", "speaker": "Speaker_D", "text": "사실 저는 당신이 반대 방향으로 가서 수업을 덜 받고 싶어할 것이라고 생각했습니다.", "label": 1}
+{"timestamp": "37:19", "timestamp_order": "571-1", "speaker": "Speaker_D", "text": "음, 예를 들어 말하자면,", "label": 1}
+{"timestamp": "37:21", "timestamp_order": "573-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "37:29", "timestamp_order": "575-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "37:38", "timestamp_order": "576-1", "speaker": "Speaker_H", "text": "네, 아마 맞는 말씀이시겠지만, 클래스가 더 많으면 기능에 대한 정보도 더 많아지겠죠.", "label": 1}
+{"timestamp": "37:45", "timestamp_order": "578-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "37:46", "timestamp_order": "579-1", "speaker": "Speaker_H", "text": "음, 더 많은 정보가 있습니다", "label": 1}
+{"timestamp": "37:57", "timestamp_order": "582-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "38:02", "timestamp_order": "583-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "38:09", "timestamp_order": "584-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "38:11", "timestamp_order": "585-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "38:18", "timestamp_order": "586-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "42:40", "timestamp_order": "587-1", "speaker": "Speaker_H", "text": "이 네트워크들은 잘 통제된 조건에서 학습되기 때문입니다.", "label": 1}
+{"timestamp": "42:40", "timestamp_order": "588-1", "speaker": "Speaker_H", "text": "즉, 깨끗한 음성에서 레이블을 얻고, 그 후에 노이즈를 추가합니다.", "label": 1}
+{"timestamp": "42:50", "timestamp_order": "589-1", "speaker": "Speaker_H", "text": "하지만 아마도 중간자도 사용하는 것 같습니다.", "label": 1}
+{"timestamp": "43:02", "timestamp_order": "590-1", "speaker": "Speaker_D", "text": "음, 좀 넓은 의미로요.", "label": 1}
+{"timestamp": "43:02", "timestamp_order": "591-1", "speaker": "Speaker_D", "text": "64가 아니라 27이에요.", "label": 1}
+{"timestamp": "43:10", "timestamp_order": "596-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "43:19", "timestamp_order": "597-1", "speaker": "Speaker_H", "text": "아마도 모든 것을 변형할 수 있는 단 하나의 KL이 있을 것입니다.", "label": 1}
+{"timestamp": "43:31", "timestamp_order": "602-1", "speaker": "Speaker_A", "text": "잘 모르겠어요.", "label": 1}
+{"timestamp": "43:34", "timestamp_order": "603-1", "speaker": "Speaker_D", "text": "알겠어요 .", "label": 1}
+{"timestamp": "43:39", "timestamp_order": "607-1", "speaker": "Speaker_D", "text": "함께 변신할 것인지, 아니면 한 사람만 변신할 것인지.", "label": 1}
+{"timestamp": "43:53", "timestamp_order": "613-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "43:58", "timestamp_order": "614-1", "speaker": "Speaker_H", "text": "음, 그렇죠.", "label": 1}
+{"timestamp": "44:08", "timestamp_order": "616-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "44:18", "timestamp_order": "617-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "44:20", "timestamp_order": "618-1", "speaker": "Speaker_D", "text": "음, 이걸 전달해 드릴게요.", "label": 1}
+{"timestamp": "44:30", "timestamp_order": "619-1", "speaker": "Speaker_H", "text": "아, 아니요.", "label": 1}
+{"timestamp": "44:30", "timestamp_order": "620-1", "speaker": "Speaker_H", "text": "그렇게 생각하지 않아요.", "label": 1}
+{"timestamp": "44:40", "timestamp_order": "621-1", "speaker": "Speaker_F", "text": "오, 고맙네요.", "label": 1}
+{"timestamp": "44:41", "timestamp_order": "622-1", "speaker": "Speaker_D", "text": "아!", "label": 1}
+{"timestamp": "44:41", "timestamp_order": "623-1", "speaker": "Speaker_D", "text": "알았어요.", "label": 1}
+{"timestamp": "44:51", "timestamp_order": "625-1", "speaker": "Speaker_D", "text": "음성 활동 감지", "label": 1}
+{"timestamp": "45:11", "timestamp_order": "627-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "45:14", "timestamp_order": "628-1", "speaker": "Speaker_D", "text": "음성 활동 감지 또는 침묵만 사용", "label": 1}
+{"timestamp": "45:29", "timestamp_order": "630-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "45:38", "timestamp_order": "631-1", "speaker": "Speaker_D", "text": "음, 제 말은, 균일하게는 아니라는 거예요.", "label": 1}
+{"timestamp": "45:46", "timestamp_order": "632-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "45:50", "timestamp_order": "634-1", "speaker": "Speaker_A", "text": "음, LDA 필터는 어떻게 학습되나요?", "label": 1}
+{"timestamp": "46:00", "timestamp_order": "635-1", "speaker": "Speaker_A", "text": "LDA 필터는 어떻게 얻었나요?", "label": 1}
+{"timestamp": "46:01", "timestamp_order": "636-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "46:03", "timestamp_order": "638-1", "speaker": "Speaker_A", "text": "네, LDA 필터입니다", "label": 1}
+{"timestamp": "46:12", "timestamp_order": "639-1", "speaker": "Speaker_A", "text": "정확히 어떻게 얻는지는 모르겠습니다.", "label": 1}
+{"timestamp": "46:21", "timestamp_order": "641-1", "speaker": "Speaker_A", "text": "알겠어요?", "label": 1}
+{"timestamp": "46:22", "timestamp_order": "642-1", "speaker": "Speaker_D", "text": "아니요 .", "label": 1}
+{"timestamp": "46:23", "timestamp_order": "643-1", "speaker": "Speaker_A", "text": "네, 예를 들어,", "label": 1}
+{"timestamp": "46:46", "timestamp_order": "645-1", "speaker": "Speaker_D", "text": "네, 모르겠습니다.", "label": 1}
+{"timestamp": "46:59", "timestamp_order": "648-1", "speaker": "Speaker_A", "text": "네, 아마도 신경망이 스스로 학습하는 것과 같은 상황이기 때문일 수도 있습니다.", "label": 1}
+{"timestamp": "47:04", "timestamp_order": "649-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "47:08", "timestamp_order": "651-1", "speaker": "Speaker_D", "text": "네, 모르겠어요.", "label": 1}
+{"timestamp": "47:10", "timestamp_order": "652-1", "speaker": "Speaker_D", "text": "하지만 솔직히 말해서, 사실 저는 LDA를 그렇게 많이 보지는 않았어요.", "label": 1}
+{"timestamp": "47:10", "timestamp_order": "653-1", "speaker": "Speaker_D", "text": "제가 LDA를 볼 때, 저는 주로 VAD에 대해 생각하고 있었어요.", "label": 1}
+{"timestamp": "47:19", "timestamp_order": "654-1", "speaker": "Speaker_D", "text": "그리고 음, 그것은 앱", "label": 1}
+{"timestamp": "47:35", "timestamp_order": "658-1", "speaker": "Speaker_H", "text": "네, 모르겠어요.", "label": 1}
+{"timestamp": "47:55", "timestamp_order": "665-1", "speaker": "Speaker_G", "text": "글쎄요, 기준 ASP가 2,300만이라고 나와 있어요.", "label": 1}
+{"timestamp": "48:06", "timestamp_order": "669-1", "speaker": "Speaker_H", "text": "로그 에너지 대신 C-제로를 사용한 C-제로인 것 같아요.", "label": 1}
+{"timestamp": "48:06", "timestamp_order": "670-1", "speaker": "Speaker_H", "text": "네, 바로 이거예요.", "label": 1}
+{"timestamp": "48:10", "timestamp_order": "672-1", "speaker": "Speaker_A", "text": "아, 알겠습니다.", "label": 1}
+{"timestamp": "48:10", "timestamp_order": "673-1", "speaker": "Speaker_A", "text": "으음.", "label": 1}
+{"timestamp": "48:14", "timestamp_order": "675-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "54:11", "timestamp_order": "677-1", "speaker": "Speaker_D", "text": "낮은 레벨의 소음이나 뭔가를 넣어보세요.", "label": 1}
+{"timestamp": "54:13", "timestamp_order": "678-1", "speaker": "Speaker_D", "text": "아마도 모든 0을 원하지는 않을 것입니다.", "label": 1}
+{"timestamp": "54:13", "timestamp_order": "679-1", "speaker": "Speaker_D", "text": "대부분의 인식기는 0을 좋아하지 않지만", "label": 1}
+{"timestamp": "54:22", "timestamp_order": "682-1", "speaker": "Speaker_E", "text": "어떤 상수 벡터.", "label": 1}
+{"timestamp": "54:35", "timestamp_order": "684-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "55:04", "timestamp_order": "690-1", "speaker": "Speaker_E", "text": "네, 네.", "label": 1}
+{"timestamp": "55:08", "timestamp_order": "692-1", "speaker": "Speaker_D", "text": "음 .", "label": 1}
+{"timestamp": "55:10", "timestamp_order": "693-1", "speaker": "Speaker_D", "text": "그래서, 좋아, 그래서 내 생각엔", "label": 1}
+{"timestamp": "55:28", "timestamp_order": "695-1", "speaker": "Speaker_D", "text": "음, 하지만 어", "label": 1}
+{"timestamp": "55:31", "timestamp_order": "696-1", "speaker": "Speaker_D", "text": "아니, 내 말은 내가 말하는 것처럼 들린다는 거야.", "label": 1}
+{"timestamp": "28:15", "timestamp_order": "697-1", "speaker": "Speaker_H", "text": "그냥 어", "label": 1}
+{"timestamp": "28:48", "timestamp_order": "702-1", "speaker": "Speaker_H", "text": "네.", "label": 1}
+{"timestamp": "29:17", "timestamp_order": "705-1", "speaker": "Speaker_D", "text": "네.", "label": 1}
+{"timestamp": "29:17", "timestamp_order": "706-1", "speaker": "Speaker_D", "text": "네.", "label": 1}
+{"timestamp": "29:40", "timestamp_order": "707-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "30:00", "timestamp_order": "708-1", "speaker": "Speaker_D", "text": "맞아요.", "label": 1}
+{"timestamp": "30:00", "timestamp_order": "709-1", "speaker": "Speaker_D", "text": "맞아요.", "label": 1}
+{"timestamp": "30:18", "timestamp_order": "712-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "30:32", "timestamp_order": "714-1", "speaker": "Speaker_H", "text": "음, 하지만 가장 큰 차이점은 재귀와 관련이 있습니다.", "label": 1}
+{"timestamp": "30:44", "timestamp_order": "715-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "31:00", "timestamp_order": "717-1", "speaker": "Speaker_G", "text": "음-음.", "label": 1}
+{"timestamp": "31:21", "timestamp_order": "720-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "31:29", "timestamp_order": "721-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "56:26", "timestamp_order": "723-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "56:30", "timestamp_order": "724-1", "speaker": "Speaker_D", "text": "음", "label": 1}
+{"timestamp": "56:35", "timestamp_order": "725-1", "speaker": "Speaker_D", "text": "40% 정도는 도움이 될 거라고 생각하지 않아요.", "label": 1}
+{"timestamp": "56:42", "timestamp_order": "727-1", "speaker": "Speaker_D", "text": "그냥 궁금해서요.", "label": 1}
+{"timestamp": "56:50", "timestamp_order": "728-1", "speaker": "Speaker_H", "text": "제 생각에는 괜찮은 것 같아요.", "label": 1}
+{"timestamp": "56:50", "timestamp_order": "729-1", "speaker": "Speaker_H", "text": "음, 별 문제는 없어요.", "label": 1}
+{"timestamp": "56:51", "timestamp_order": "730-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "57:02", "timestamp_order": "732-1", "speaker": "Speaker_D", "text": "네.", "label": 1}
+{"timestamp": "57:02", "timestamp_order": "733-1", "speaker": "Speaker_D", "text": "네, 글쎄요.", "label": 1}
+{"timestamp": "57:06", "timestamp_order": "735-1", "speaker": "Speaker_D", "text": "진을 쓰셨어요?", "label": 1}
+{"timestamp": "57:06", "timestamp_order": "736-1", "speaker": "Speaker_D", "text": "방금 죽은 거 아시죠?", "label": 1}
+{"timestamp": "57:10", "timestamp_order": "737-1", "speaker": "Speaker_H", "text": "음, 아니요.", "label": 1}
+{"timestamp": "57:10", "timestamp_order": "739-1", "speaker": "Speaker_H", "text": "아니요.", "label": 1}
+{"timestamp": "57:13", "timestamp_order": "740-1", "speaker": "Speaker_A", "text": "아니요 .", "label": 1}
+{"timestamp": "57:30", "timestamp_order": "744-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "49:28", "timestamp_order": "747-1", "speaker": "Speaker_E", "text": "음-음.", "label": 1}
+{"timestamp": "49:29", "timestamp_order": "748-1", "speaker": "Speaker_G", "text": "뭐 .", "label": 1}
+{"timestamp": "49:31", "timestamp_order": "750-1", "speaker": "Speaker_H", "text": "네, 기본적으로 피처 파일에서 프레임을 제거할 수 있습니다.", "label": 1}
+{"timestamp": "49:36", "timestamp_order": "755-1", "speaker": "Speaker_D", "text": "네, 그러니까 디코딩에서, 여기에서 여기까지 디코딩한다는 뜻이죠.", "label": 1}
+{"timestamp": "49:41", "timestamp_order": "757-1", "speaker": "Speaker_E", "text": "음-음.", "label": 1}
+{"timestamp": "49:41", "timestamp_order": "758-1", "speaker": "Speaker_D", "text": "내 생각엔 그 사람들이 그걸 치료하고 있는 것 같아.", "label": 1}
+{"timestamp": "49:48", "timestamp_order": "759-1", "speaker": "Speaker_E", "text": "본문에서 이것은 우리가 생각해 낼 수 있는 가능한 구성의 임시 블록 다이어그램이라고 말합니다.", "label": 1}
+{"timestamp": "49:55", "timestamp_order": "760-1", "speaker": "Speaker_E", "text": "그러니까 그들은 아직 그런 일을 하지 않는 것 같은데요.", "label": 1}
+{"timestamp": "50:04", "timestamp_order": "761-1", "speaker": "Speaker_D", "text": "제가 말하고자 하는 것은 그들이 표준에 맞는 블록 다이어그램을 만들어내려고 노력하고 있다는 것입니다.", "label": 1}
+{"timestamp": "50:20", "timestamp_order": "765-1", "speaker": "Speaker_E", "text": "이것이 아니었다면 이 표에서 정확히 무엇을 했는지 궁금합니다.", "label": 1}
+{"timestamp": "50:31", "timestamp_order": "766-1", "speaker": "Speaker_D", "text": "물론 음성을 전송하는 데 있어서는 까다로울 것입니다.", "label": 1}
+{"timestamp": "50:41", "timestamp_order": "767-1", "speaker": "Speaker_E", "text": "음-음.", "label": 1}
+{"timestamp": "50:51", "timestamp_order": "769-1", "speaker": "Speaker_E", "text": "음.", "label": 1}
+{"timestamp": "51:23", "timestamp_order": "774-1", "speaker": "Speaker_D", "text": "이것이 임시 블록 다이어그램이라고 말하는 것은 다음을 의미한다고 생각합니다.", "label": 1}
+{"timestamp": "51:44", "timestamp_order": "776-1", "speaker": "Speaker_D", "text": "나는 그것이 실제로 더 나은 단어 오류 결과를 가져올 것이기 때문에 이것을 하는 것이 좋다고 생각합니다.", "label": 1}
+{"timestamp": "52:13", "timestamp_order": "777-1", "speaker": "Speaker_D", "text": "하지만 반면에, 어쩌면 괜찮은 생각일 수도 있겠습니다.", "label": 1}
+{"timestamp": "52:34", "timestamp_order": "779-1", "speaker": "Speaker_D", "text": "음, 저희는 언어 간, 작업 간 문제를 살펴보고 있었습니다.", "label": 1}
+{"timestamp": "52:51", "timestamp_order": "780-1", "speaker": "Speaker_D", "text": "온라인 정규화와 어", "label": 1}
+{"timestamp": "53:11", "timestamp_order": "781-1", "speaker": "Speaker_D", "text": "어, 왜냐하면 우리는 선택하더라도 여전히 가지고 있기 때문입니다.", "label": 1}
+{"timestamp": "53:19", "timestamp_order": "782-1", "speaker": "Speaker_D", "text": "하지만 하지만 어", "label": 1}
+{"timestamp": "53:32", "timestamp_order": "783-1", "speaker": "Speaker_E", "text": "그들이 침묵 프레임을 제거할 때, 인식기가 추적을 다시 시작해야 할 때를 알 수 있도록 어떤 종류의 마커를 삽입했습니까?", "label": 1}
+{"timestamp": "53:40", "timestamp_order": "784-1", "speaker": "Speaker_D", "text": "글쎄, 그들이 그렇구나, 내 생각엔 그들이 그런 것 같아", "label": 1}
+{"timestamp": "53:56", "timestamp_order": "786-1", "speaker": "Speaker_E", "text": "아, 그렇군요.", "label": 1}
+{"timestamp": "53:59", "timestamp_order": "787-1", "speaker": "Speaker_E", "text": "아니면 뭔가 이상한 프레임을 삽입하는 걸까요?", "label": 1}
+{"timestamp": "54:02", "timestamp_order": "788-1", "speaker": "Speaker_D", "text": "아, 저도 그렇게 생각했어요.", "label": 1}
+{"timestamp": "48:16", "timestamp_order": "795-1", "speaker": "Speaker_E", "text": "여기서는 VAD가 추가 기능으로 사용되지 않는다고 나와 있는데, 어떻게 사용하는지 아시는 분 계신가요?", "label": 1}
+{"timestamp": "48:21", "timestamp_order": "796-1", "speaker": "Speaker_D", "text": "네.", "label": 1}
+{"timestamp": "48:33", "timestamp_order": "799-1", "speaker": "Speaker_E", "text": "음-음.", "label": 1}
+{"timestamp": "48:34", "timestamp_order": "800-1", "speaker": "Speaker_D", "text": "그래서 음,", "label": 1}
+{"timestamp": "48:41", "timestamp_order": "801-1", "speaker": "Speaker_E", "text": "음-음.", "label": 1}
+{"timestamp": "49:16", "timestamp_order": "809-1", "speaker": "Speaker_E", "text": "네, 제가 방금 묻고 싶었던 게 바로 그거예요.", "label": 1}
+{"timestamp": "49:16", "timestamp_order": "810-1", "speaker": "Speaker_E", "text": "어떻게 액자를 그냥 버릴 수 있죠?", "label": 1}
+{"timestamp": "57:38", "timestamp_order": "817-1", "speaker": "Speaker_D", "text": "우리는 아주 작은 IBM 기계를 가지고 있습니다", "label": 1}
+{"timestamp": "57:44", "timestamp_order": "818-1", "speaker": "Speaker_D", "text": "8개의 슬롯이 있어요.", "label": 1}
+{"timestamp": "58:03", "timestamp_order": "820-1", "speaker": "Speaker_D", "text": "그리고 더 많은 것들이 곧 나올 예정이고, 메모리 데이터도 적당한 양밖에 없어요.", "label": 1}
+{"timestamp": "58:03", "timestamp_order": "821-1", "speaker": "Speaker_D", "text": "그래서 저는 그렇게 생각하지 않아요.", "label": 1}
+{"timestamp": "58:24", "timestamp_order": "823-1", "speaker": "Speaker_D", "text": "음, 그렇죠.", "label": 1}
+{"timestamp": "58:24", "timestamp_order": "824-1", "speaker": "Speaker_D", "text": "사람들이 모이면 그럴 것 같아요.", "label": 1}
+{"timestamp": "58:30", "timestamp_order": "825-1", "speaker": "Speaker_D", "text": "그리고 음, 음, 메모리도 꽤 많고요.", "label": 1}
+{"timestamp": "58:30", "timestamp_order": "826-1", "speaker": "Speaker_D", "text": "음, 꽤 빠른 리눅스 머신이 될 거예요.", "label": 1}
+{"timestamp": "58:41", "timestamp_order": "828-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "58:42", "timestamp_order": "830-1", "speaker": "Speaker_F", "text": "꽤 빠른 것 같아요.", "label": 1}
+{"timestamp": "58:44", "timestamp_order": "831-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "59:14", "timestamp_order": "833-1", "speaker": "Speaker_D", "text": "디버깅에 어려움이 있을 겁니다.", "label": 1}
+{"timestamp": "59:31", "timestamp_order": "835-1", "speaker": "Speaker_F", "text": "신경망 훈련이 우리를 느리게 하는 건가요, 아니면 HTK 실행이 우리를 느리게 하는 건가요?", "label": 1}
+{"timestamp": "59:41", "timestamp_order": "836-1", "speaker": "Speaker_D", "text": "음, 그렇다고 생각해요.", "label": 1}
+{"timestamp": "59:45", "timestamp_order": "838-1", "speaker": "Speaker_D", "text": "제 생각엔 두 가지 모두에 방해받는 것 같아요, 그렇죠?", "label": 1}
+{"timestamp": "59:55", "timestamp_order": "839-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "08:32", "timestamp_order": "840-1", "speaker": "Speaker_D", "text": "여기서 기준선이란 다음을 의미합니다.", "label": 1}
+{"timestamp": "08:32", "timestamp_order": "841-1", "speaker": "Speaker_D", "text": "그는 2시 9분 7초에 있어요.", "label": 1}
+{"timestamp": "08:34", "timestamp_order": "842-1", "speaker": "Speaker_H", "text": "오 예, 그거야", "label": 1}
+{"timestamp": "08:36", "timestamp_order": "843-1", "speaker": "Speaker_H", "text": "네, 알겠습니다.", "label": 1}
+{"timestamp": "08:36", "timestamp_order": "844-1", "speaker": "Speaker_H", "text": "네.", "label": 1}
+{"timestamp": "08:40", "timestamp_order": "846-1", "speaker": "Speaker_D", "text": "그래서 저는 그냥 그걸 이해하려고 노력했을 뿐이에요.", "label": 1}
+{"timestamp": "08:40", "timestamp_order": "848-1", "speaker": "Speaker_H", "text": "네.", "label": 1}
+{"timestamp": "08:44", "timestamp_order": "851-1", "speaker": "Speaker_D", "text": "네, 강연은 11시에요.", "label": 1}
+{"timestamp": "08:45", "timestamp_order": "852-1", "speaker": "Speaker_D", "text": "단어 오류율을 1로 정규화했습니다.", "label": 1}
+{"timestamp": "08:45", "timestamp_order": "853-1", "speaker": "Speaker_H", "text": "음.", "label": 1}
+{"timestamp": "08:47", "timestamp_order": "854-1", "speaker": "Speaker_B", "text": "안녕하세요, 아담이 거기 있나요?", "label": 1}
+{"timestamp": "08:48", "timestamp_order": "855-1", "speaker": "Speaker_B", "text": "안녕, 아담.", "label": 1}
+{"timestamp": "08:49", "timestamp_order": "857-1", "speaker": "Speaker_B", "text": "네, 다 끝났어요.", "label": 1}
+{"timestamp": "08:54", "timestamp_order": "858-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}
+{"timestamp": "08:54", "timestamp_order": "859-1", "speaker": "Speaker_D", "text": "음, 다들 이 동의서에 서명했나요?", "label": 1}
+{"timestamp": "08:59", "timestamp_order": "863-1", "speaker": "Speaker_H", "text": "음-음.", "label": 1}

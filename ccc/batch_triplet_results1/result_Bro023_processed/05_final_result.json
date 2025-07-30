@@ -1,0 +1,3482 @@
+[
+  {
+    "timestamp": "00:10",
+    "timestamp_order": "2-1",
+    "speaker": "Speaker_D",
+    "text": "신호의 경우, 노이즈가 많이 변하면 노이즈를 더 잘 추적할 수 있습니다."
+  },
+  {
+    "timestamp": "00:23",
+    "timestamp_order": "8-1",
+    "speaker": "Speaker_E",
+    "text": "오!"
+  },
+  {
+    "timestamp": "00:24",
+    "timestamp_order": "10-1",
+    "speaker": "Speaker_B",
+    "text": "방문만 하시나요?"
+  },
+  {
+    "timestamp": "00:27",
+    "timestamp_order": "13-1",
+    "speaker": "Speaker_A",
+    "text": "그래서 그가 우리가 하는 모든 일을 살펴볼 거야."
+  },
+  {
+    "timestamp": "00:30",
+    "timestamp_order": "16-1",
+    "speaker": "Speaker_B",
+    "text": "시원한 ."
+  },
+  {
+    "timestamp": "00:34",
+    "timestamp_order": "18-1",
+    "speaker": "Speaker_A",
+    "text": "그의 생각을 들려주세요."
+  },
+  {
+    "timestamp": "00:34",
+    "timestamp_order": "19-1",
+    "speaker": "Speaker_A",
+    "text": "그러면 또 다른 좋은 사람이 세상을 바라보게 될 거예요."
+  },
+  {
+    "timestamp": "00:38",
+    "timestamp_order": "21-1",
+    "speaker": "Speaker_E",
+    "text": "오."
+  },
+  {
+    "timestamp": "00:38",
+    "timestamp_order": "22-1",
+    "speaker": "Speaker_E",
+    "text": "흠."
+  },
+  {
+    "timestamp": "00:40",
+    "timestamp_order": "23-1",
+    "speaker": "Speaker_C",
+    "text": "그게 그의 스펙트럼 감산군인가요?"
+  },
+  {
+    "timestamp": "00:40",
+    "timestamp_order": "24-1",
+    "speaker": "Speaker_C",
+    "text": "맞나요?"
+  },
+  {
+    "timestamp": "00:41",
+    "timestamp_order": "26-1",
+    "speaker": "Speaker_D",
+    "text": "그래서 제가 한 일은 VAD 기반 노이즈 추정치를 이 추정치로 간단히 대체한 것입니다."
+  },
+  {
+    "timestamp": "02:28",
+    "timestamp_order": "28-1",
+    "speaker": "Speaker_B",
+    "text": "흠 !"
+  },
+  {
+    "timestamp": "02:28",
+    "timestamp_order": "29-1",
+    "speaker": "Speaker_C",
+    "text": "그렇죠?"
+  },
+  {
+    "timestamp": "02:32",
+    "timestamp_order": "31-1",
+    "speaker": "Speaker_C",
+    "text": "응."
+  },
+  {
+    "timestamp": "02:38",
+    "timestamp_order": "35-1",
+    "speaker": "Speaker_A",
+    "text": "알겠습니다."
+  },
+  {
+    "timestamp": "02:38",
+    "timestamp_order": "36-1",
+    "speaker": "Speaker_A",
+    "text": "하지만 당신이 보고한 스펙트럼 뺄셈 방식에는 노이즈 추정치도 필요합니다."
+  },
+  {
+    "timestamp": "02:41",
+    "timestamp_order": "37-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "02:45",
+    "timestamp_order": "41-1",
+    "speaker": "Speaker_D",
+    "text": "하지만 저는"
+  },
+  {
+    "timestamp": "02:46",
+    "timestamp_order": "42-1",
+    "speaker": "Speaker_A",
+    "text": "이걸 시도해 볼 수 없나요?"
+  },
+  {
+    "timestamp": "02:48",
+    "timestamp_order": "45-1",
+    "speaker": "Speaker_D",
+    "text": "이 작업을 동시에 진행했거든요."
+  },
+  {
+    "timestamp": "02:48",
+    "timestamp_order": "46-1",
+    "speaker": "Speaker_D",
+    "text": "둘 중 하나를 작업하고 있었거든요."
+  },
+  {
+    "timestamp": "02:49",
+    "timestamp_order": "48-1",
+    "speaker": "Speaker_A",
+    "text": "알겠습니다, 알겠습니다."
+  },
+  {
+    "timestamp": "02:52",
+    "timestamp_order": "49-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "02:55",
+    "timestamp_order": "52-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "03:00",
+    "timestamp_order": "56-1",
+    "speaker": "Speaker_E",
+    "text": "제가 시도하고 있는 이 위너 필터링에 새로운 노이즈 추정 기술을 적용해 보겠습니다."
+  },
+  {
+    "timestamp": "00:45",
+    "timestamp_order": "59-1",
+    "speaker": "Speaker_A",
+    "text": "오, 그래."
+  },
+  {
+    "timestamp": "00:45",
+    "timestamp_order": "60-1",
+    "speaker": "Speaker_A",
+    "text": "그래."
+  },
+  {
+    "timestamp": "00:52",
+    "timestamp_order": "65-1",
+    "speaker": "Speaker_D",
+    "text": "그리고 VAD 기반 추정치에 비하면 1% 정도 상대적으로 약간 더 나쁘죠."
+  },
+  {
+    "timestamp": "00:59",
+    "timestamp_order": "70-1",
+    "speaker": "Speaker_E",
+    "text": "저는 그를 눈치채지 못했습니다."
+  },
+  {
+    "timestamp": "01:03",
+    "timestamp_order": "71-1",
+    "speaker": "Speaker_A",
+    "text": "N 9개월."
+  },
+  {
+    "timestamp": "01:03",
+    "timestamp_order": "72-1",
+    "speaker": "Speaker_A",
+    "text": "그런 거였나."
+  },
+  {
+    "timestamp": "01:03",
+    "timestamp_order": "73-1",
+    "speaker": "Speaker_A",
+    "text": "응."
+  },
+  {
+    "timestamp": "01:05",
+    "timestamp_order": "74-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "01:08",
+    "timestamp_order": "78-1",
+    "speaker": "Speaker_E",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "01:16",
+    "timestamp_order": "84-1",
+    "speaker": "Speaker_D",
+    "text": "그래서, 당신은"
+  },
+  {
+    "timestamp": "01:28",
+    "timestamp_order": "91-1",
+    "speaker": "Speaker_D",
+    "text": "왜냐하면 이 경우 모든 노이즈가 때로는 매우 가변적이기 때문입니다."
+  },
+  {
+    "timestamp": "06:17",
+    "timestamp_order": "94-1",
+    "speaker": "Speaker_A",
+    "text": "충분히 긴 기간이 될 때까지는 말이죠."
+  },
+  {
+    "timestamp": "06:35",
+    "timestamp_order": "100-1",
+    "speaker": "Speaker_A",
+    "text": "필터는 시간적, 스펙트럼적 행동을 모두 가지고 있습니다."
+  },
+  {
+    "timestamp": "06:39",
+    "timestamp_order": "102-1",
+    "speaker": "Speaker_A",
+    "text": "그리고 우리가 알고 있는 유일하게 일관된 점은 매우 낮은 주파수 성분을 제거해야 한다는 것입니다."
+  },
+  {
+    "timestamp": "06:43",
+    "timestamp_order": "105-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "06:45",
+    "timestamp_order": "106-1",
+    "speaker": "Speaker_C",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "06:54",
+    "timestamp_order": "107-1",
+    "speaker": "Speaker_C",
+    "text": "하나 ,"
+  },
+  {
+    "timestamp": "06:54",
+    "timestamp_order": "109-1",
+    "speaker": "Speaker_D",
+    "text": "그리고"
+  },
+  {
+    "timestamp": "06:56",
+    "timestamp_order": "110-1",
+    "speaker": "Speaker_C",
+    "text": "지금까지 제가 테스트한 결과를 말씀하시는 건가요?"
+  },
+  {
+    "timestamp": "06:59",
+    "timestamp_order": "112-1",
+    "speaker": "Speaker_C",
+    "text": "대부분의 침묵이 사라졌습니다."
+  },
+  {
+    "timestamp": "04:10",
+    "timestamp_order": "116-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "04:11",
+    "timestamp_order": "119-1",
+    "speaker": "Speaker_D",
+    "text": "이것으로는 개선이 없지만, 우리가 실험할 수 있는 매개변수가 많이 있습니다."
+  },
+  {
+    "timestamp": "04:26",
+    "timestamp_order": "122-1",
+    "speaker": "Speaker_C",
+    "text": "그게 사실이야."
+  },
+  {
+    "timestamp": "04:30",
+    "timestamp_order": "125-1",
+    "speaker": "Speaker_C",
+    "text": "의 -"
+  },
+  {
+    "timestamp": "04:30",
+    "timestamp_order": "126-1",
+    "speaker": "Speaker_D",
+    "text": "스펙트럼을 완전히 평평하게 만들겠습니다."
+  },
+  {
+    "timestamp": "04:30",
+    "timestamp_order": "127-1",
+    "speaker": "Speaker_D",
+    "text": "그리고 이 임계값을 초과하면,"
+  },
+  {
+    "timestamp": "04:40",
+    "timestamp_order": "130-1",
+    "speaker": "Speaker_E",
+    "text": "추정하려면 과거 12초가 필요하죠?"
+  },
+  {
+    "timestamp": "04:43",
+    "timestamp_order": "132-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "04:44",
+    "timestamp_order": "133-1",
+    "speaker": "Speaker_C",
+    "text": "하나, 열두 초"
+  },
+  {
+    "timestamp": "04:47",
+    "timestamp_order": "134-1",
+    "speaker": "Speaker_C",
+    "text": "N n uh 테스트를 위해선 불과 12초 전입니다."
+  },
+  {
+    "timestamp": "05:29",
+    "timestamp_order": "139-1",
+    "speaker": "Speaker_C",
+    "text": "훈련 데이터를 다룰 때 평균을 계산하는 데 얼마나 많은 시간을 사용하느냐가 중요한가요?"
+  },
+  {
+    "timestamp": "05:38",
+    "timestamp_order": "143-1",
+    "speaker": "Speaker_A",
+    "text": "오른쪽 ."
+  },
+  {
+    "timestamp": "05:48",
+    "timestamp_order": "146-1",
+    "speaker": "Speaker_A",
+    "text": "평균 케프스트럼 뺄셈, 특히 당신이 하는 방식은 일종의 필터로서 의미가 있습니다."
+  },
+  {
+    "timestamp": "05:54",
+    "timestamp_order": "149-1",
+    "speaker": "Speaker_A",
+    "text": "그래서 다른 하나는 필터를 설계하는 것입니다."
+  },
+  {
+    "timestamp": "06:04",
+    "timestamp_order": "153-1",
+    "speaker": "Speaker_A",
+    "text": "그리고 필터는 특정 동작을 하며 시작 동작을 볼 수 있습니다."
+  },
+  {
+    "timestamp": "06:06",
+    "timestamp_order": "155-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "06:14",
+    "timestamp_order": "160-1",
+    "speaker": "Speaker_A",
+    "text": "왜냐하면 그것이 가져오는 것이기 때문이다"
+  },
+  {
+    "timestamp": "04:50",
+    "timestamp_order": "161-1",
+    "speaker": "Speaker_B",
+    "text": "이게 말하든 침묵하든 12초짜리인가요?"
+  },
+  {
+    "timestamp": "04:53",
+    "timestamp_order": "163-1",
+    "speaker": "Speaker_D",
+    "text": "그리고 이 미백은 더 부드러운 것인데,"
+  },
+  {
+    "timestamp": "04:55",
+    "timestamp_order": "164-1",
+    "speaker": "Speaker_C",
+    "text": "연설의."
+  },
+  {
+    "timestamp": "04:58",
+    "timestamp_order": "167-1",
+    "speaker": "Speaker_D",
+    "text": "하나 ,"
+  },
+  {
+    "timestamp": "05:09",
+    "timestamp_order": "172-1",
+    "speaker": "Speaker_A",
+    "text": "2초를 사용했고, 4초가 남았을 때는 4초를 사용했고, 6초가 남았을 때는 기본적으로 12초까지 늘렸습니다."
+  },
+  {
+    "timestamp": "05:15",
+    "timestamp_order": "176-1",
+    "speaker": "Speaker_C",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "05:18",
+    "timestamp_order": "177-1",
+    "speaker": "Speaker_A",
+    "text": "하지만 발언이 짧다면 가능한 한 짧은 표현을 사용하세요."
+  },
+  {
+    "timestamp": "05:18",
+    "timestamp_order": "178-1",
+    "speaker": "Speaker_D",
+    "text": "우리가 그것이 말인지 침묵인지 확신할 수 없을 때, 글쎄요,"
+  },
+  {
+    "timestamp": "05:21",
+    "timestamp_order": "179-1",
+    "speaker": "Speaker_C",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "05:21",
+    "timestamp_order": "180-1",
+    "speaker": "Speaker_C",
+    "text": "실제로 SmartKom에서 우리가 계획하고 있는 일이 바로 그것입니다."
+  },
+  {
+    "timestamp": "05:25",
+    "timestamp_order": "184-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "01:31",
+    "timestamp_order": "186-1",
+    "speaker": "Speaker_B",
+    "text": "데이브, 당신부터 시작해 볼까요?"
+  },
+  {
+    "timestamp": "01:31",
+    "timestamp_order": "188-1",
+    "speaker": "Speaker_B",
+    "text": "그러니까요."
+  },
+  {
+    "timestamp": "02:07",
+    "timestamp_order": "198-1",
+    "speaker": "Speaker_B",
+    "text": "현재 프레임으로부터 12, 12초 전이라는 뜻인가요?"
+  },
+  {
+    "timestamp": "02:15",
+    "timestamp_order": "203-1",
+    "speaker": "Speaker_D",
+    "text": "오른쪽 ?"
+  },
+  {
+    "timestamp": "02:19",
+    "timestamp_order": "207-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "20:36",
+    "timestamp_order": "216-1",
+    "speaker": "Speaker_E",
+    "text": "제 말은, 원래 스펙트럼에서 두 번째로 필터를 추정할 때 실제로 정리하는 것과 같습니다."
+  },
+  {
+    "timestamp": "20:58",
+    "timestamp_order": "220-1",
+    "speaker": "Speaker_E",
+    "text": "VAD는 정말 중요해요."
+  },
+  {
+    "timestamp": "20:58",
+    "timestamp_order": "221-1",
+    "speaker": "Speaker_E",
+    "text": "VAD 자체만 바꿔도 훨씬 더 많은 개선 효과를 얻을 수 있거든요."
+  },
+  {
+    "timestamp": "21:10",
+    "timestamp_order": "222-1",
+    "speaker": "Speaker_E",
+    "text": "채널 0과 채널 1을 사용하는 대신,"
+  },
+  {
+    "timestamp": "21:13",
+    "timestamp_order": "223-1",
+    "speaker": "Speaker_E",
+    "text": "왜냐하면 그게 제가 노이즈를 추정하는 데 큰 개선을 얻지 못한 이유였기 때문입니다."
+  },
+  {
+    "timestamp": "21:18",
+    "timestamp_order": "224-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 저는 채널 0 VAD를 사용하여 노이즈를 추정하여 신뢰할 수 있는 마크를 얻었습니다."
+  },
+  {
+    "timestamp": "21:28",
+    "timestamp_order": "228-1",
+    "speaker": "Speaker_D",
+    "text": "그러니까 가까이서 말하는 마이크인 셈이죠."
+  },
+  {
+    "timestamp": "21:29",
+    "timestamp_order": "230-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 채널 0과 채널 1이 똑같거든요."
+  },
+  {
+    "timestamp": "21:30",
+    "timestamp_order": "231-1",
+    "speaker": "Speaker_A",
+    "text": "오, 오, 오, 오."
+  },
+  {
+    "timestamp": "21:35",
+    "timestamp_order": "234-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 실제로 채널 0의 출력을 사용할 수 있습니다."
+  },
+  {
+    "timestamp": "21:43",
+    "timestamp_order": "235-1",
+    "speaker": "Speaker_E",
+    "text": "VAD용 채널 1이에요."
+  },
+  {
+    "timestamp": "21:46",
+    "timestamp_order": "238-1",
+    "speaker": "Speaker_A",
+    "text": "제 말은, 그들이 프로가 될 거라는 거예요?"
+  },
+  {
+    "timestamp": "21:48",
+    "timestamp_order": "239-1",
+    "speaker": "Speaker_A",
+    "text": "그들은 무엇을 하려고 하는 걸까요?"
+  },
+  {
+    "timestamp": "03:04",
+    "timestamp_order": "242-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 저는 몇 가지 실험을 진행 중이지만 결과는 아직 없습니다."
+  },
+  {
+    "timestamp": "03:04",
+    "timestamp_order": "243-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "03:05",
+    "timestamp_order": "244-1",
+    "speaker": "Speaker_C",
+    "text": "그 모델들은 2초, 4초, 6초 동안 계산된 평균을 빼는 방식으로 모델을 학습시켰습니다."
+  },
+  {
+    "timestamp": "03:07",
+    "timestamp_order": "246-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "03:07",
+    "timestamp_order": "247-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 저는 10개 프레임의 f 노이즈를 추정하지 않고 그의 추정을 사용합니다."
+  },
+  {
+    "timestamp": "03:11",
+    "timestamp_order": "249-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "03:13",
+    "timestamp_order": "250-1",
+    "speaker": "Speaker_D",
+    "text": "하나 ."
+  },
+  {
+    "timestamp": "03:41",
+    "timestamp_order": "258-1",
+    "speaker": "Speaker_C",
+    "text": "그런 식으로요."
+  },
+  {
+    "timestamp": "03:53",
+    "timestamp_order": "263-1",
+    "speaker": "Speaker_C",
+    "text": "보통 0."
+  },
+  {
+    "timestamp": "04:01",
+    "timestamp_order": "267-1",
+    "speaker": "Speaker_D",
+    "text": "스펙트럼은 조용한 부분에서 더 평평해집니다."
+  },
+  {
+    "timestamp": "17:22",
+    "timestamp_order": "272-1",
+    "speaker": "Speaker_D",
+    "text": "0, 7."
+  },
+  {
+    "timestamp": "17:30",
+    "timestamp_order": "276-1",
+    "speaker": "Speaker_E",
+    "text": "고맙습니다."
+  },
+  {
+    "timestamp": "17:48",
+    "timestamp_order": "282-1",
+    "speaker": "Speaker_E",
+    "text": "첫 10개 프레임."
+  },
+  {
+    "timestamp": "18:51",
+    "timestamp_order": "293-1",
+    "speaker": "Speaker_E",
+    "text": "따라서 Wiener 필터링의 또 다른 단계를 추가하면,"
+  },
+  {
+    "timestamp": "10:31",
+    "timestamp_order": "294-1",
+    "speaker": "Speaker_A",
+    "text": "당신은 할 수 있을지도 모르지만, 그렇게 많은 시간이 걸리지 않을 수도 있습니다."
+  },
+  {
+    "timestamp": "11:13",
+    "timestamp_order": "303-1",
+    "speaker": "Speaker_A",
+    "text": "하나 ."
+  },
+  {
+    "timestamp": "11:15",
+    "timestamp_order": "304-1",
+    "speaker": "Speaker_C",
+    "text": "그래서, 에,"
+  },
+  {
+    "timestamp": "11:26",
+    "timestamp_order": "306-1",
+    "speaker": "Speaker_A",
+    "text": "이 처리를 하려면 더 긴 창이 필요하기 때문에 충분한 말이 없었다는 뜻입니다."
+  },
+  {
+    "timestamp": "07:04",
+    "timestamp_order": "316-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 꽤 짧죠."
+  },
+  {
+    "timestamp": "07:06",
+    "timestamp_order": "320-1",
+    "speaker": "Speaker_C",
+    "text": "꽤 짧죠."
+  },
+  {
+    "timestamp": "07:06",
+    "timestamp_order": "321-1",
+    "speaker": "Speaker_C",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "07:12",
+    "timestamp_order": "323-1",
+    "speaker": "Speaker_E",
+    "text": "그러니 평균을 추정하려면 정말 많은 말이 필요하죠."
+  },
+  {
+    "timestamp": "07:17",
+    "timestamp_order": "325-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "07:17",
+    "timestamp_order": "326-1",
+    "speaker": "Speaker_E",
+    "text": "응."
+  },
+  {
+    "timestamp": "07:20",
+    "timestamp_order": "328-1",
+    "speaker": "Speaker_C",
+    "text": "저는 12초를 시도해 봤습니다."
+  },
+  {
+    "timestamp": "07:20",
+    "timestamp_order": "329-1",
+    "speaker": "Speaker_C",
+    "text": "그 시간이 제가 이전에 테스트했을 때 가장 좋았고, 12초를 넘으면 효과가 없는 것 같았거든요."
+  },
+  {
+    "timestamp": "07:27",
+    "timestamp_order": "333-1",
+    "speaker": "Speaker_E",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "07:27",
+    "timestamp_order": "334-1",
+    "speaker": "Speaker_D",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "07:54",
+    "timestamp_order": "339-1",
+    "speaker": "Speaker_A",
+    "text": "기본적으로 시간이 지남에 따라 축적되는 거죠."
+  },
+  {
+    "timestamp": "07:54",
+    "timestamp_order": "340-1",
+    "speaker": "Speaker_A",
+    "text": "2, 4, 6을 더한 값을 계산하면, 결국은 일종의…"
+  },
+  {
+    "timestamp": "09:40",
+    "timestamp_order": "341-1",
+    "speaker": "Speaker_A",
+    "text": "너는 할 수 없었니?"
+  },
+  {
+    "timestamp": "09:41",
+    "timestamp_order": "342-1",
+    "speaker": "Speaker_D",
+    "text": "스펙트럼 기울기, 음, 음성의 정도, 음, 우리가 Carmen과 함께 개발하기 시작한 특징들,"
+  },
+  {
+    "timestamp": "10:03",
+    "timestamp_order": "350-1",
+    "speaker": "Speaker_E",
+    "text": "에너지 또한 ."
+  },
+  {
+    "timestamp": "10:05",
+    "timestamp_order": "351-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "10:13",
+    "timestamp_order": "356-1",
+    "speaker": "Speaker_A",
+    "text": "그래서요."
+  },
+  {
+    "timestamp": "10:16",
+    "timestamp_order": "358-1",
+    "speaker": "Speaker_A",
+    "text": "그 당시에는 당신이 가지고 있던 모든 것을 기반으로 더 긴 버전을 사용했고, 그 시점에서는 그것을 구별하는 데만 사용했습니다."
+  },
+  {
+    "timestamp": "10:25",
+    "timestamp_order": "361-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "10:27",
+    "timestamp_order": "363-1",
+    "speaker": "Speaker_B",
+    "text": "계속하시겠습니까, 모건?"
+  },
+  {
+    "timestamp": "10:28",
+    "timestamp_order": "364-1",
+    "speaker": "Speaker_A",
+    "text": "확신하는 ."
+  },
+  {
+    "timestamp": "13:37",
+    "timestamp_order": "365-1",
+    "speaker": "Speaker_B",
+    "text": "기본 MFCC 시스템보다 개선되었나요?"
+  },
+  {
+    "timestamp": "13:37",
+    "timestamp_order": "366-1",
+    "speaker": "Speaker_B",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "13:39",
+    "timestamp_order": "371-1",
+    "speaker": "Speaker_E",
+    "text": "그러니까 개선 정도는 기준선 대비 30% 정도입니다."
+  },
+  {
+    "timestamp": "13:50",
+    "timestamp_order": "375-1",
+    "speaker": "Speaker_A",
+    "text": "하지만 온라인 정규화나 LDA와 함께 사용하는 거 말씀하시는 건가요?"
+  },
+  {
+    "timestamp": "13:56",
+    "timestamp_order": "379-1",
+    "speaker": "Speaker_E",
+    "text": "내 말은, 우리 시스템의 s에서, 그래서, 나는 di i di"
+  },
+  {
+    "timestamp": "14:01",
+    "timestamp_order": "382-1",
+    "speaker": "Speaker_E",
+    "text": "실제로 전체 시스템에 위너 필터가 없는 기준선보다 개선되었습니다."
+  },
+  {
+    "timestamp": "14:09",
+    "timestamp_order": "383-1",
+    "speaker": "Speaker_A",
+    "text": "응 ?"
+  },
+  {
+    "timestamp": "14:09",
+    "timestamp_order": "384-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 거기에 위너 필터를 꽂으면 위너 필터가 없는 것보다 더 좋습니다."
+  },
+  {
+    "timestamp": "14:13",
+    "timestamp_order": "385-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 개선은 되었지만 기준선보다 30% 이상 향상되지는 않았습니다."
+  },
+  {
+    "timestamp": "14:20",
+    "timestamp_order": "386-1",
+    "speaker": "Speaker_A",
+    "text": "하지만 제가 헷갈린 점은 저희 시스템이 위너 필터링 없이 40% 정도라고 생각했기 때문입니다."
+  },
+  {
+    "timestamp": "14:29",
+    "timestamp_order": "389-1",
+    "speaker": "Speaker_B",
+    "text": "이게 새로운 VAD인가요?"
+  },
+  {
+    "timestamp": "14:37",
+    "timestamp_order": "390-1",
+    "speaker": "Speaker_E",
+    "text": "9 이것은 기준선이 95."
+  },
+  {
+    "timestamp": "14:37",
+    "timestamp_order": "391-1",
+    "speaker": "Speaker_E",
+    "text": "68인 것과 같습니다."
+  },
+  {
+    "timestamp": "14:47",
+    "timestamp_order": "394-1",
+    "speaker": "Speaker_E",
+    "text": "죄송해요?"
+  },
+  {
+    "timestamp": "23:21",
+    "timestamp_order": "398-1",
+    "speaker": "Speaker_D",
+    "text": "전반적으로 개선된 부분이에요."
+  },
+  {
+    "timestamp": "23:33",
+    "timestamp_order": "404-1",
+    "speaker": "Speaker_D",
+    "text": "오른쪽 ."
+  },
+  {
+    "timestamp": "23:33",
+    "timestamp_order": "405-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "23:35",
+    "timestamp_order": "406-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 사용하여"
+  },
+  {
+    "timestamp": "23:53",
+    "timestamp_order": "414-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "23:54",
+    "timestamp_order": "415-1",
+    "speaker": "Speaker_A",
+    "text": "응, 씨"
+  },
+  {
+    "timestamp": "24:10",
+    "timestamp_order": "417-1",
+    "speaker": "Speaker_B",
+    "text": "사람들이 왜 그러는 거지?"
+  },
+  {
+    "timestamp": "24:10",
+    "timestamp_order": "418-1",
+    "speaker": "Speaker_B",
+    "text": "뭔데?"
+  },
+  {
+    "timestamp": "24:10",
+    "timestamp_order": "419-1",
+    "speaker": "Speaker_E",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "16:06",
+    "timestamp_order": "421-1",
+    "speaker": "Speaker_E",
+    "text": "18."
+  },
+  {
+    "timestamp": "16:06",
+    "timestamp_order": "422-1",
+    "speaker": "Speaker_E",
+    "text": "5"
+  },
+  {
+    "timestamp": "16:08",
+    "timestamp_order": "423-1",
+    "speaker": "Speaker_A",
+    "text": "18."
+  },
+  {
+    "timestamp": "16:08",
+    "timestamp_order": "424-1",
+    "speaker": "Speaker_A",
+    "text": "5입니다."
+  },
+  {
+    "timestamp": "16:08",
+    "timestamp_order": "425-1",
+    "speaker": "Speaker_A",
+    "text": "방금 무슨 말씀을 하셨죠?"
+  },
+  {
+    "timestamp": "16:20",
+    "timestamp_order": "430-1",
+    "speaker": "Speaker_E",
+    "text": "정말 죄송합니다."
+  },
+  {
+    "timestamp": "16:37",
+    "timestamp_order": "435-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 21."
+  },
+  {
+    "timestamp": "16:37",
+    "timestamp_order": "436-1",
+    "speaker": "Speaker_E",
+    "text": "1입니다."
+  },
+  {
+    "timestamp": "16:40",
+    "timestamp_order": "437-1",
+    "speaker": "Speaker_E",
+    "text": "이는 온라인 정규화와 LDA를 사용한 것입니다."
+  },
+  {
+    "timestamp": "16:43",
+    "timestamp_order": "438-1",
+    "speaker": "Speaker_E",
+    "text": "따라서 h well matched는 문자 그대로 온라인이나 LDA를 추가해도 변경되지 않습니다."
+  },
+  {
+    "timestamp": "16:51",
+    "timestamp_order": "439-1",
+    "speaker": "Speaker_E",
+    "text": "제 말은, 매체의 불일치조차도 거의 똑같다는 겁니다."
+  },
+  {
+    "timestamp": "16:54",
+    "timestamp_order": "440-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 높은 불일치는 절대적으로 20% 개선되었습니다."
+  },
+  {
+    "timestamp": "17:01",
+    "timestamp_order": "441-1",
+    "speaker": "Speaker_E",
+    "text": "바로 It이에요."
+  },
+  {
+    "timestamp": "17:03",
+    "timestamp_order": "445-1",
+    "speaker": "Speaker_A",
+    "text": "그리고 무엇을 했습니까?"
+  },
+  {
+    "timestamp": "17:03",
+    "timestamp_order": "446-1",
+    "speaker": "Speaker_A",
+    "text": "그래서, 무엇이었습니까?"
+  },
+  {
+    "timestamp": "17:17",
+    "timestamp_order": "451-1",
+    "speaker": "Speaker_E",
+    "text": "당신은 그것을 가지고 있나요?"
+  },
+  {
+    "timestamp": "21:50",
+    "timestamp_order": "452-1",
+    "speaker": "Speaker_A",
+    "text": "규칙은 무엇이고, 무엇을 사용할 수 있는지에 대한 내용입니다."
+  },
+  {
+    "timestamp": "22:10",
+    "timestamp_order": "456-1",
+    "speaker": "Speaker_D",
+    "text": "그리고 인식의 결과를 가져와 경계를 얻는다."
+  },
+  {
+    "timestamp": "22:16",
+    "timestamp_order": "461-1",
+    "speaker": "Speaker_A",
+    "text": "그게 다인가요?"
+  },
+  {
+    "timestamp": "22:30",
+    "timestamp_order": "463-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "22:31",
+    "timestamp_order": "464-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "22:33",
+    "timestamp_order": "465-1",
+    "speaker": "Speaker_E",
+    "text": "하지만 실제로 그들의 정렬은 모든 경우에 개선되는 것처럼 보이지는 않습니다."
+  },
+  {
+    "timestamp": "22:34",
+    "timestamp_order": "467-1",
+    "speaker": "Speaker_D",
+    "text": "오, 나"
+  },
+  {
+    "timestamp": "22:40",
+    "timestamp_order": "470-1",
+    "speaker": "Speaker_D",
+    "text": "더 정확하게 말하면, 그들이 얻은 것은 이러한 정렬을 가지고 있다는 것입니다."
+  },
+  {
+    "timestamp": "22:49",
+    "timestamp_order": "471-1",
+    "speaker": "Speaker_D",
+    "text": "그들은 시작의 침묵과 끝의 침묵을 없애지만 계속 유지합니다."
+  },
+  {
+    "timestamp": "22:55",
+    "timestamp_order": "473-1",
+    "speaker": "Speaker_D",
+    "text": "그리고 말의 멈춤도 유지해요."
+  },
+  {
+    "timestamp": "23:08",
+    "timestamp_order": "476-1",
+    "speaker": "Speaker_D",
+    "text": "14퍼센트요."
+  },
+  {
+    "timestamp": "14:53",
+    "timestamp_order": "480-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "14:56",
+    "timestamp_order": "482-1",
+    "speaker": "Speaker_D",
+    "text": "내 말은,"
+  },
+  {
+    "timestamp": "14:58",
+    "timestamp_order": "483-1",
+    "speaker": "Speaker_D",
+    "text": "당신이 말하는 기준선은 MFCC 기준선인가요?"
+  },
+  {
+    "timestamp": "15:02",
+    "timestamp_order": "485-1",
+    "speaker": "Speaker_E",
+    "text": "알겠습니다."
+  },
+  {
+    "timestamp": "15:02",
+    "timestamp_order": "486-1",
+    "speaker": "Speaker_E",
+    "text": "기준선은 MFCC 기준선입니다."
+  },
+  {
+    "timestamp": "15:02",
+    "timestamp_order": "487-1",
+    "speaker": "Speaker_E",
+    "text": "제가 30% 개선이라고 말했을 때 MFCC 기준선과 같습니다."
+  },
+  {
+    "timestamp": "15:08",
+    "timestamp_order": "491-1",
+    "speaker": "Speaker_A",
+    "text": "몇 레벨이에요?"
+  },
+  {
+    "timestamp": "15:34",
+    "timestamp_order": "497-1",
+    "speaker": "Speaker_A",
+    "text": "4."
+  },
+  {
+    "timestamp": "15:34",
+    "timestamp_order": "498-1",
+    "speaker": "Speaker_A",
+    "text": "3"
+  },
+  {
+    "timestamp": "15:35",
+    "timestamp_order": "499-1",
+    "speaker": "Speaker_E",
+    "text": "10."
+  },
+  {
+    "timestamp": "15:35",
+    "timestamp_order": "500-1",
+    "speaker": "Speaker_E",
+    "text": "7."
+  },
+  {
+    "timestamp": "15:37",
+    "timestamp_order": "501-1",
+    "speaker": "Speaker_A",
+    "text": "10."
+  },
+  {
+    "timestamp": "15:39",
+    "timestamp_order": "503-1",
+    "speaker": "Speaker_A",
+    "text": "오."
+  },
+  {
+    "timestamp": "15:48",
+    "timestamp_order": "504-1",
+    "speaker": "Speaker_E",
+    "text": "40%가 높은 불일치 수준입니다."
+  },
+  {
+    "timestamp": "15:58",
+    "timestamp_order": "508-1",
+    "speaker": "Speaker_E",
+    "text": "1 정도예요."
+  },
+  {
+    "timestamp": "08:00",
+    "timestamp_order": "511-1",
+    "speaker": "Speaker_D",
+    "text": "그래서 저는 이 데이터베이스에서 정렬을 얻기 시작했습니다."
+  },
+  {
+    "timestamp": "08:14",
+    "timestamp_order": "517-1",
+    "speaker": "Speaker_A",
+    "text": "즉, 첫 번째 발언에서 오류율이 40% 감소하는 대신 이 정책이 없다면 얻을 수 있는 것보다 더 많은 것을 얻게 된다는 뜻입니다."
+  },
+  {
+    "timestamp": "08:14",
+    "timestamp_order": "518-1",
+    "speaker": "Speaker_D",
+    "text": "그리고 훈련 발언의 Viterbi 정렬을 얻었습니다."
+  },
+  {
+    "timestamp": "08:27",
+    "timestamp_order": "521-1",
+    "speaker": "Speaker_A",
+    "text": "그리고 두 번째 발언을 하면, 지속적인 활동이라면 그 혜택을 온전히 누리게 됩니다."
+  },
+  {
+    "timestamp": "08:31",
+    "timestamp_order": "523-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 채널 0이나 채널 1을 사용해도 도움이 되지 않는 것 같습니다."
+  },
+  {
+    "timestamp": "08:34",
+    "timestamp_order": "524-1",
+    "speaker": "Speaker_D",
+    "text": "무엇 ?"
+  },
+  {
+    "timestamp": "08:38",
+    "timestamp_order": "526-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "08:39",
+    "timestamp_order": "527-1",
+    "speaker": "Speaker_C",
+    "text": "중"
+  },
+  {
+    "timestamp": "08:45",
+    "timestamp_order": "533-1",
+    "speaker": "Speaker_A",
+    "text": "라고 말할 거예요."
+  },
+  {
+    "timestamp": "08:51",
+    "timestamp_order": "535-1",
+    "speaker": "Speaker_E",
+    "text": "TI - 숫자"
+  },
+  {
+    "timestamp": "09:00",
+    "timestamp_order": "545-1",
+    "speaker": "Speaker_D",
+    "text": "그리고"
+  },
+  {
+    "timestamp": "09:07",
+    "timestamp_order": "547-1",
+    "speaker": "Speaker_D",
+    "text": "맞나요?"
+  },
+  {
+    "timestamp": "09:16",
+    "timestamp_order": "550-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "09:19",
+    "timestamp_order": "553-1",
+    "speaker": "Speaker_B",
+    "text": "사용하기 전에 스스로를 소개해야 하는 시스템이 있을 수 있습니다."
+  },
+  {
+    "timestamp": "09:24",
+    "timestamp_order": "555-1",
+    "speaker": "Speaker_B",
+    "text": "말로."
+  },
+  {
+    "timestamp": "09:24",
+    "timestamp_order": "558-1",
+    "speaker": "Speaker_B",
+    "text": "저는 blah-blah-blah 출신입니다."
+  },
+  {
+    "timestamp": "09:24",
+    "timestamp_order": "559-1",
+    "speaker": "Speaker_B",
+    "text": "그리고 이 첫 번째 연설을 사용하여 이 모든 것을 할 수 있습니다."
+  },
+  {
+    "timestamp": "09:25",
+    "timestamp_order": "561-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "09:30",
+    "timestamp_order": "563-1",
+    "speaker": "Speaker_A",
+    "text": "오른쪽 ."
+  },
+  {
+    "timestamp": "09:35",
+    "timestamp_order": "566-1",
+    "speaker": "Speaker_D",
+    "text": "그리고 우리는 시도하고 싶은 여러 가지 기능을 생각해냈습니다."
+  },
+  {
+    "timestamp": "18:59",
+    "timestamp_order": "569-1",
+    "speaker": "Speaker_E",
+    "text": "죄송해요."
+  },
+  {
+    "timestamp": "18:59",
+    "timestamp_order": "570-1",
+    "speaker": "Speaker_E",
+    "text": "하지만 전체적인 개선은 56."
+  },
+  {
+    "timestamp": "19:06",
+    "timestamp_order": "572-1",
+    "speaker": "Speaker_E",
+    "text": "여기서도 10개 프레임의 노이즈 추정과 2단계의 위너 필터링이 사용되었습니다."
+  },
+  {
+    "timestamp": "19:10",
+    "timestamp_order": "573-1",
+    "speaker": "Speaker_E",
+    "text": "나머지는 LDA 플러스와 온라인 정규화 모두 동일하게 유지됩니다."
+  },
+  {
+    "timestamp": "19:31",
+    "timestamp_order": "580-1",
+    "speaker": "Speaker_E",
+    "text": "46 정도인데,"
+  },
+  {
+    "timestamp": "19:37",
+    "timestamp_order": "581-1",
+    "speaker": "Speaker_D",
+    "text": "응."
+  },
+  {
+    "timestamp": "19:37",
+    "timestamp_order": "582-1",
+    "speaker": "Speaker_E",
+    "text": "1퍼센트도 그보다 적다"
+  },
+  {
+    "timestamp": "19:39",
+    "timestamp_order": "583-1",
+    "speaker": "Speaker_E",
+    "text": "프랑스 통신 시스템을 사용하면 무엇을 얻을 수 있나요?"
+  },
+  {
+    "timestamp": "19:44",
+    "timestamp_order": "585-1",
+    "speaker": "Speaker_E",
+    "text": "매우 비슷하죠."
+  },
+  {
+    "timestamp": "19:49",
+    "timestamp_order": "588-1",
+    "speaker": "Speaker_E",
+    "text": "그들이 하지 않는 정리된 스펙트럼을 제가 실제로 정리하고 있다는 점에서 다릅니다."
+  },
+  {
+    "timestamp": "19:55",
+    "timestamp_order": "589-1",
+    "speaker": "Speaker_E",
+    "text": "그들이 하는 일은 Wiener 필터를 추정하는 두 단계가 있다는 것입니다."
+  },
+  {
+    "timestamp": "20:00",
+    "timestamp_order": "590-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "20:08",
+    "timestamp_order": "591-1",
+    "speaker": "Speaker_A",
+    "text": "응."
+  },
+  {
+    "timestamp": "20:08",
+    "timestamp_order": "592-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 그들은 그 필터 필터를 사용하여 원래 신호를 필터링합니다."
+  },
+  {
+    "timestamp": "12:16",
+    "timestamp_order": "593-1",
+    "speaker": "Speaker_A",
+    "text": "그러니까 사람들이 더 복잡하거나 더 많은 시간을 들여 살펴봐야 하는 일을 두 번째로 하는 것은 흔한 일이라는 뜻이에요."
+  },
+  {
+    "timestamp": "12:40",
+    "timestamp_order": "598-1",
+    "speaker": "Speaker_A",
+    "text": "하지만 에너지가 매우 낮죠."
+  },
+  {
+    "timestamp": "12:46",
+    "timestamp_order": "602-1",
+    "speaker": "Speaker_A",
+    "text": "모든 레벨에서요."
+  },
+  {
+    "timestamp": "12:46",
+    "timestamp_order": "604-1",
+    "speaker": "Speaker_A",
+    "text": "하지만…"
+  },
+  {
+    "timestamp": "13:10",
+    "timestamp_order": "609-1",
+    "speaker": "Speaker_E",
+    "text": "하나, 그래서,"
+  },
+  {
+    "timestamp": "13:12",
+    "timestamp_order": "610-1",
+    "speaker": "Speaker_E",
+    "text": "지난 2주 동안은, 저는 위너 필터링에 집중해 왔습니다."
+  },
+  {
+    "timestamp": "13:18",
+    "timestamp_order": "613-1",
+    "speaker": "Speaker_E",
+    "text": "위너 필터링의 표준적인 방법처럼요."
+  },
+  {
+    "timestamp": "25:12",
+    "timestamp_order": "617-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 당신은 이것을 합니다."
+  },
+  {
+    "timestamp": "25:12",
+    "timestamp_order": "618-1",
+    "speaker": "Speaker_E",
+    "text": "이것은 전달 함수입니다."
+  },
+  {
+    "timestamp": "25:19",
+    "timestamp_order": "621-1",
+    "speaker": "Speaker_E",
+    "text": "그리고  N 은 노이즈가 있는 전력 스펙트럼입니다."
+  },
+  {
+    "timestamp": "25:21",
+    "timestamp_order": "622-1",
+    "speaker": "Speaker_E",
+    "text": "이것이 전달 함수입니다."
+  },
+  {
+    "timestamp": "25:24",
+    "timestamp_order": "623-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 ,"
+  },
+  {
+    "timestamp": "25:28",
+    "timestamp_order": "624-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "25:34",
+    "timestamp_order": "625-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 노이즈가 있는 전력 스펙트럼에 이것을 곱하면 깨끗한 전력 스펙트럼의 추정값을 얻을 수 있습니다."
+  },
+  {
+    "timestamp": "25:44",
+    "timestamp_order": "626-1",
+    "speaker": "Speaker_E",
+    "text": "하지만 문제는 노이즈가 많은 스펙트럼에서 SF를 추정해야 한다는 것입니다."
+  },
+  {
+    "timestamp": "25:49",
+    "timestamp_order": "627-1",
+    "speaker": "Speaker_E",
+    "text": "따라서 초기 노이즈 부분에서 NF를 추정합니다."
+  },
+  {
+    "timestamp": "25:53",
+    "timestamp_order": "628-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 그것을 현재의 노이즈 스펙트럼에서 빼면 SF 추정치를 얻을 수 있습니다."
+  },
+  {
+    "timestamp": "26:04",
+    "timestamp_order": "630-1",
+    "speaker": "Speaker_E",
+    "text": "따라서 f 필터는 때때로 0을 갖게 됩니다."
+  },
+  {
+    "timestamp": "26:07",
+    "timestamp_order": "632-1",
+    "speaker": "Speaker_E",
+    "text": "그 이유는 일부 주파수 값이 0으로 설정되기 때문입니다."
+  },
+  {
+    "timestamp": "26:13",
+    "timestamp_order": "634-1",
+    "speaker": "Speaker_E",
+    "text": "@ 필터 때문에 스펙트럼 전체에 걸쳐 불연속성이 발생합니다."
+  },
+  {
+    "timestamp": "26:17",
+    "timestamp_order": "635-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 ,"
+  },
+  {
+    "timestamp": "24:15",
+    "timestamp_order": "638-1",
+    "speaker": "Speaker_E",
+    "text": "위너 필터,"
+  },
+  {
+    "timestamp": "24:20",
+    "timestamp_order": "640-1",
+    "speaker": "Speaker_E",
+    "text": "최소화하려고 노력한다는 뜻입니다."
+  },
+  {
+    "timestamp": "24:20",
+    "timestamp_order": "641-1",
+    "speaker": "Speaker_E",
+    "text": "Wiener 필터의 기본 원리는 최소화하려고 노력하는 것과 같습니다."
+  },
+  {
+    "timestamp": "24:25",
+    "timestamp_order": "643-1",
+    "speaker": "Speaker_E",
+    "text": "깨끗한 신호와 다른 채널이 있다고 가정해 봅시다."
+  },
+  {
+    "timestamp": "24:34",
+    "timestamp_order": "645-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 이 두 신호 사이의 오차를 최소화하려고 노력합니다."
+  },
+  {
+    "timestamp": "24:38",
+    "timestamp_order": "648-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 그게 기본 원칙이에요."
+  },
+  {
+    "timestamp": "24:38",
+    "timestamp_order": "649-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 당신"
+  },
+  {
+    "timestamp": "24:39",
+    "timestamp_order": "650-1",
+    "speaker": "Speaker_E",
+    "text": "당신이 할 수 있다는 것을 알 수 있습니다."
+  },
+  {
+    "timestamp": "24:39",
+    "timestamp_order": "651-1",
+    "speaker": "Speaker_E",
+    "text": "내 말은, 만약 당신이 단지 c를 가지고 있다면"
+  },
+  {
+    "timestamp": "24:58",
+    "timestamp_order": "656-1",
+    "speaker": "Speaker_B",
+    "text": "응."
+  },
+  {
+    "timestamp": "24:59",
+    "timestamp_order": "657-1",
+    "speaker": "Speaker_E",
+    "text": "하지만 우리의 많은 사례에서는 그렇지 않습니다."
+  },
+  {
+    "timestamp": "24:59",
+    "timestamp_order": "658-1",
+    "speaker": "Speaker_E",
+    "text": "하지만 그것은 상당히 잘 작동합니다."
+  },
+  {
+    "timestamp": "25:02",
+    "timestamp_order": "660-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 그리고 당신"
+  },
+  {
+    "timestamp": "25:07",
+    "timestamp_order": "663-1",
+    "speaker": "Speaker_E",
+    "text": "알겠습니다."
+  },
+  {
+    "timestamp": "25:11",
+    "timestamp_order": "664-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "26:24",
+    "timestamp_order": "665-1",
+    "speaker": "Speaker_B",
+    "text": "기본적으로 일반적인 스펙트럼 뺄셈과 비슷하지 않나요?"
+  },
+  {
+    "timestamp": "26:29",
+    "timestamp_order": "667-1",
+    "speaker": "Speaker_A",
+    "text": "노이즈를 최소화하려고 하는 기술들이 다양하게 있죠."
+  },
+  {
+    "timestamp": "26:30",
+    "timestamp_order": "668-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "26:37",
+    "timestamp_order": "669-1",
+    "speaker": "Speaker_B",
+    "text": "응."
+  },
+  {
+    "timestamp": "26:37",
+    "timestamp_order": "670-1",
+    "speaker": "Speaker_A",
+    "text": "그리고 일반적으로 평균 제곱법이라고 할 수 있죠."
+  },
+  {
+    "timestamp": "26:49",
+    "timestamp_order": "672-1",
+    "speaker": "Speaker_B",
+    "text": "사람들은 일반적으로 스펙트럼 뺄셈과 함께 Wiener 필터링을 사용합니까?"
+  },
+  {
+    "timestamp": "26:54",
+    "timestamp_order": "674-1",
+    "speaker": "Speaker_B",
+    "text": "일종의"
+  },
+  {
+    "timestamp": "26:54",
+    "timestamp_order": "676-1",
+    "speaker": "Speaker_B",
+    "text": "경쟁 기술?"
+  },
+  {
+    "timestamp": "26:55",
+    "timestamp_order": "677-1",
+    "speaker": "Speaker_E",
+    "text": "두 기술은 매우 유사합니다."
+  },
+  {
+    "timestamp": "26:55",
+    "timestamp_order": "678-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 스펙트럼 감산을 이용한 위너 필터를 사용하는 사람을 본 적이 없는 것 같습니다."
+  },
+  {
+    "timestamp": "27:01",
+    "timestamp_order": "682-1",
+    "speaker": "Speaker_B",
+    "text": "알겠습니다, 알겠습니다."
+  },
+  {
+    "timestamp": "27:04",
+    "timestamp_order": "683-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "27:36",
+    "timestamp_order": "693-1",
+    "speaker": "Speaker_E",
+    "text": "그래서,"
+  },
+  {
+    "timestamp": "27:45",
+    "timestamp_order": "694-1",
+    "speaker": "Speaker_E",
+    "text": "스테판은 스펙트럼 뺄셈에 관해 연구하고 있습니다."
+  },
+  {
+    "timestamp": "27:49",
+    "timestamp_order": "696-1",
+    "speaker": "Speaker_B",
+    "text": "그러니까 당신은 모든 것에  노력하는 셈이죠."
+  },
+  {
+    "timestamp": "27:55",
+    "timestamp_order": "701-1",
+    "speaker": "Speaker_A",
+    "text": "Car-Carmen이 벡터 테일러 급수에 대한 다른 작업을 하고 있거든요."
+  },
+  {
+    "timestamp": "27:55",
+    "timestamp_order": "702-1",
+    "speaker": "Speaker_A",
+    "text": "그래서 그들은 여러 가지 다른 것들을 다루려고 했던 거예요."
+  },
+  {
+    "timestamp": "28:03",
+    "timestamp_order": "710-1",
+    "speaker": "Speaker_A",
+    "text": "."
+  },
+  {
+    "timestamp": "28:03",
+    "timestamp_order": "711-1",
+    "speaker": "Speaker_A",
+    "text": "."
+  },
+  {
+    "timestamp": "28:04",
+    "timestamp_order": "712-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "28:09",
+    "timestamp_order": "716-1",
+    "speaker": "Speaker_E",
+    "text": "제가 시도한 것 중 하나는, 제가 말했듯이, 필터를 부드럽게 해서 프라이 필터의 0을 제거하는 것이었습니다."
+  },
+  {
+    "timestamp": "28:09",
+    "timestamp_order": "717-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "33:56",
+    "timestamp_order": "721-1",
+    "speaker": "Speaker_D",
+    "text": "하지만 내가 추가하는 노이즈의 양은 모든 주파수 빈에서 동일하지 않습니다."
+  },
+  {
+    "timestamp": "34:01",
+    "timestamp_order": "723-1",
+    "speaker": "Speaker_B",
+    "text": "알겠습니다."
+  },
+  {
+    "timestamp": "34:01",
+    "timestamp_order": "724-1",
+    "speaker": "Speaker_B",
+    "text": "알겠습니다."
+  },
+  {
+    "timestamp": "34:14",
+    "timestamp_order": "726-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "34:18",
+    "timestamp_order": "727-1",
+    "speaker": "Speaker_B",
+    "text": "그래서 그게 무슨 뜻이에요?"
+  },
+  {
+    "timestamp": "34:18",
+    "timestamp_order": "729-1",
+    "speaker": "Speaker_D",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "34:22",
+    "timestamp_order": "730-1",
+    "speaker": "Speaker_B",
+    "text": "부정."
+  },
+  {
+    "timestamp": "34:24",
+    "timestamp_order": "733-1",
+    "speaker": "Speaker_B",
+    "text": "그 특정 주파수 범위에서 빼면"
+  },
+  {
+    "timestamp": "34:29",
+    "timestamp_order": "734-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "35:00",
+    "timestamp_order": "744-1",
+    "speaker": "Speaker_B",
+    "text": "너가 그것을 빼었을 때"
+  },
+  {
+    "timestamp": "31:33",
+    "timestamp_order": "745-1",
+    "speaker": "Speaker_B",
+    "text": "그게 다예요?"
+  },
+  {
+    "timestamp": "31:35",
+    "timestamp_order": "748-1",
+    "speaker": "Speaker_B",
+    "text": "시원한 ."
+  },
+  {
+    "timestamp": "31:36",
+    "timestamp_order": "749-1",
+    "speaker": "Speaker_B",
+    "text": "가고 싶니, 스테판?"
+  },
+  {
+    "timestamp": "31:44",
+    "timestamp_order": "752-1",
+    "speaker": "Speaker_D",
+    "text": "하나 ,"
+  },
+  {
+    "timestamp": "31:45",
+    "timestamp_order": "753-1",
+    "speaker": "Speaker_D",
+    "text": "그래서 내가 이전에 한 일을 조금 상기시키려면 과대평가 인자를 사용하여 일부 스펙트럼 뺄셈을 적용하면 됩니다."
+  },
+  {
+    "timestamp": "32:06",
+    "timestamp_order": "754-1",
+    "speaker": "Speaker_D",
+    "text": "하지만 SNR이 낮을 때 더 많이 빼면,"
+  },
+  {
+    "timestamp": "32:11",
+    "timestamp_order": "755-1",
+    "speaker": "Speaker_D",
+    "text": "그것은 기술입니다"
+  },
+  {
+    "timestamp": "32:14",
+    "timestamp_order": "756-1",
+    "speaker": "Speaker_D",
+    "text": "자주 사용됨."
+  },
+  {
+    "timestamp": "32:20",
+    "timestamp_order": "761-1",
+    "speaker": "Speaker_D",
+    "text": "그러니까 20dB 이상에서는"
+  },
+  {
+    "timestamp": "32:28",
+    "timestamp_order": "764-1",
+    "speaker": "Speaker_D",
+    "text": "그리고 그것은 b입니다"
+  },
+  {
+    "timestamp": "32:39",
+    "timestamp_order": "767-1",
+    "speaker": "Speaker_D",
+    "text": "SNR이 0 DB보다 낮을 때."
+  },
+  {
+    "timestamp": "28:34",
+    "timestamp_order": "770-1",
+    "speaker": "Speaker_E",
+    "text": "같은 작업인데 두 번째에는 부드러운 필터를 적용했습니다."
+  },
+  {
+    "timestamp": "28:34",
+    "timestamp_order": "771-1",
+    "speaker": "Speaker_E",
+    "text": "효과가 있는 것 같습니다."
+  },
+  {
+    "timestamp": "28:39",
+    "timestamp_order": "774-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 제가 SpeechDat-Car에서 56."
+  },
+  {
+    "timestamp": "28:39",
+    "timestamp_order": "775-1",
+    "speaker": "Speaker_E",
+    "text": "5%의 개선을 얻은 거죠."
+  },
+  {
+    "timestamp": "28:46",
+    "timestamp_order": "776-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 제가 시도한 또 다른 방법은 여전히 10개 프레임의 노이즈 추정치를 사용했지만 이 채널의 VAD를 0으로 설정하여 프레임을 삭제하는 것이었습니다."
+  },
+  {
+    "timestamp": "29:07",
+    "timestamp_order": "779-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 ."
+  },
+  {
+    "timestamp": "29:08",
+    "timestamp_order": "780-1",
+    "speaker": "Speaker_B",
+    "text": "그러니까, 그게, 최상의 성능이란 말인가요?"
+  },
+  {
+    "timestamp": "29:23",
+    "timestamp_order": "784-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 저는 채널 0 VAD를 사용하여 노이즈를 2배 작은 프레임으로 추정했습니다."
+  },
+  {
+    "timestamp": "29:34",
+    "timestamp_order": "786-1",
+    "speaker": "Speaker_A",
+    "text": "이 테스트 중에 채널 0 정보에 접근할 수 있을까요?"
+  },
+  {
+    "timestamp": "29:41",
+    "timestamp_order": "787-1",
+    "speaker": "Speaker_E",
+    "text": "응,"
+  },
+  {
+    "timestamp": "29:42",
+    "timestamp_order": "789-1",
+    "speaker": "Speaker_E",
+    "text": "이는 더 나은 VAD를 사용하면 실제로 개선될 수 있는지 테스트하기 위한 것입니다."
+  },
+  {
+    "timestamp": "38:59",
+    "timestamp_order": "796-1",
+    "speaker": "Speaker_E",
+    "text": "프레임의 경우 주파수 빈입니다."
+  },
+  {
+    "timestamp": "38:59",
+    "timestamp_order": "797-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "39:01",
+    "timestamp_order": "798-1",
+    "speaker": "Speaker_B",
+    "text": "오 ."
+  },
+  {
+    "timestamp": "39:08",
+    "timestamp_order": "799-1",
+    "speaker": "Speaker_B",
+    "text": "오 ."
+  },
+  {
+    "timestamp": "39:09",
+    "timestamp_order": "800-1",
+    "speaker": "Speaker_A",
+    "text": "반파장 대신."
+  },
+  {
+    "timestamp": "39:41",
+    "timestamp_order": "808-1",
+    "speaker": "Speaker_D",
+    "text": "사실 스펙트럼 뺄셈을 하면,"
+  },
+  {
+    "timestamp": "39:48",
+    "timestamp_order": "810-1",
+    "speaker": "Speaker_D",
+    "text": "를 계산할 수 있습니다."
+  },
+  {
+    "timestamp": "40:03",
+    "timestamp_order": "812-1",
+    "speaker": "Speaker_D",
+    "text": "신호 에너지에서 빼는 값을 뺀 후 신호 에너지로 나눕니다."
+  },
+  {
+    "timestamp": "40:26",
+    "timestamp_order": "814-1",
+    "speaker": "Speaker_D",
+    "text": "낮은 SNR 값에서는 이득이 거의 0에 가깝지만 크게 변합니다."
+  },
+  {
+    "timestamp": "40:49",
+    "timestamp_order": "817-1",
+    "speaker": "Speaker_D",
+    "text": "그래서 평활화는 실제로 이 이득 궤적에 평활화를 적용한 것입니다."
+  },
+  {
+    "timestamp": "40:55",
+    "timestamp_order": "818-1",
+    "speaker": "Speaker_D",
+    "text": "하지만 이득이 높으면 부드럽게 하지 않으려고 했기 때문에 부드럽게 하는 것은 비선형적입니다."
+  },
+  {
+    "timestamp": "40:55",
+    "timestamp_order": "819-1",
+    "speaker": "Speaker_D",
+    "text": "왜냐하면 이 경우에는 우리가 알고 있기 때문입니다."
+  },
+  {
+    "timestamp": "41:05",
+    "timestamp_order": "821-1",
+    "speaker": "Speaker_D",
+    "text": "왜냐하면 우리는 0에 가깝지 않기 때문입니다."
+  },
+  {
+    "timestamp": "43:16",
+    "timestamp_order": "822-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "43:19",
+    "timestamp_order": "824-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "43:21",
+    "timestamp_order": "825-1",
+    "speaker": "Speaker_E",
+    "text": "에스"
+  },
+  {
+    "timestamp": "43:30",
+    "timestamp_order": "827-1",
+    "speaker": "Speaker_E",
+    "text": "최종 필터에 몇 가지 평활화 기법을 적용했습니다."
+  },
+  {
+    "timestamp": "43:30",
+    "timestamp_order": "828-1",
+    "speaker": "Speaker_E",
+    "text": "실제로 시간 영역에서 필터링을 수행합니다."
+  },
+  {
+    "timestamp": "43:34",
+    "timestamp_order": "830-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "43:36",
+    "timestamp_order": "831-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 그들은 이 HF 제곱을 다시 가져와서 역푸리에 변환을 합니다."
+  },
+  {
+    "timestamp": "43:36",
+    "timestamp_order": "832-1",
+    "speaker": "Speaker_B",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "43:41",
+    "timestamp_order": "833-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 그들은 시간 영역 신호를 그것과 합성합니다."
+  },
+  {
+    "timestamp": "43:44",
+    "timestamp_order": "835-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 그들은 최종 필터인 임펄스 응답을 부드럽게 만듭니다."
+  },
+  {
+    "timestamp": "43:48",
+    "timestamp_order": "836-1",
+    "speaker": "Speaker_B",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "43:48",
+    "timestamp_order": "837-1",
+    "speaker": "Speaker_D",
+    "text": "하지만 두 가지 다른 평활화 기법도 있습니다."
+  },
+  {
+    "timestamp": "43:48",
+    "timestamp_order": "838-1",
+    "speaker": "Speaker_D",
+    "text": "하나는 시간 영역에서, 다른 하나는 주파수 영역에서 임펄스 응답의 첫 번째 계수를 취하는 것입니다."
+  },
+  {
+    "timestamp": "44:01",
+    "timestamp_order": "839-1",
+    "speaker": "Speaker_D",
+    "text": "그러니까, 기본적으로 비슷해요."
+  },
+  {
+    "timestamp": "44:01",
+    "timestamp_order": "840-1",
+    "speaker": "Speaker_D",
+    "text": "당신이 한 게 비슷한 건, 두 가지 종류의 평활화 기법이 있거든요."
+  },
+  {
+    "timestamp": "44:01",
+    "timestamp_order": "841-1",
+    "speaker": "Speaker_D",
+    "text": "하나는 시간 영역이고, 다른 하나는 주파수 영역이에요."
+  },
+  {
+    "timestamp": "44:08",
+    "timestamp_order": "842-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "44:10",
+    "timestamp_order": "843-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "44:11",
+    "timestamp_order": "844-1",
+    "speaker": "Speaker_E",
+    "text": "주파수 영역."
+  },
+  {
+    "timestamp": "44:21",
+    "timestamp_order": "848-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "44:21",
+    "timestamp_order": "849-1",
+    "speaker": "Speaker_E",
+    "text": "위너 필터링도 ."
+  },
+  {
+    "timestamp": "44:22",
+    "timestamp_order": "850-1",
+    "speaker": "Speaker_B",
+    "text": "시간 영역에서의 평활화가 도움이 되나요?"
+  },
+  {
+    "timestamp": "44:25",
+    "timestamp_order": "851-1",
+    "speaker": "Speaker_B",
+    "text": "또는"
+  },
+  {
+    "timestamp": "44:25",
+    "timestamp_order": "853-1",
+    "speaker": "Speaker_E",
+    "text": "그래도 s 스펙트럼에 0이 나오긴 하더라."
+  },
+  {
+    "timestamp": "44:25",
+    "timestamp_order": "854-1",
+    "speaker": "Speaker_E",
+    "text": "가끔은."
+  },
+  {
+    "timestamp": "44:27",
+    "timestamp_order": "855-1",
+    "speaker": "Speaker_B",
+    "text": "다른 매끄러움?"
+  },
+  {
+    "timestamp": "44:29",
+    "timestamp_order": "856-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "44:30",
+    "timestamp_order": "858-1",
+    "speaker": "Speaker_A",
+    "text": "실제로 그런지도 모르죠."
+  },
+  {
+    "timestamp": "44:30",
+    "timestamp_order": "859-1",
+    "speaker": "Speaker_A",
+    "text": "듣기에 좋지 않은 소리라는 뜻이에요."
+  },
+  {
+    "timestamp": "44:30",
+    "timestamp_order": "860-1",
+    "speaker": "Speaker_B",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "44:33",
+    "timestamp_order": "861-1",
+    "speaker": "Speaker_B",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "44:34",
+    "timestamp_order": "862-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "44:36",
+    "timestamp_order": "863-1",
+    "speaker": "Speaker_A",
+    "text": "하지만 우리는 보통 그것에 귀를 기울이지 않습니다."
+  },
+  {
+    "timestamp": "44:38",
+    "timestamp_order": "867-1",
+    "speaker": "Speaker_B",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "44:47",
+    "timestamp_order": "870-1",
+    "speaker": "Speaker_D",
+    "text": "이것은 MEL 주파수 대역에 있습니다."
+  },
+  {
+    "timestamp": "45:17",
+    "timestamp_order": "872-1",
+    "speaker": "Speaker_D",
+    "text": "침묵의 부분과 말의 시작과 끝 부분에서 스펙트로그램 위에 무작위로 분포된 높은 에너지 지점을 볼 수 있습니다."
+  },
+  {
+    "timestamp": "45:32",
+    "timestamp_order": "877-1",
+    "speaker": "Speaker_D",
+    "text": "FFT 빈에서 이 과정을 반복하면, 에너지 지점이 무작위로 분포하는 것을 볼 수 있습니다."
+  },
+  {
+    "timestamp": "45:32",
+    "timestamp_order": "878-1",
+    "speaker": "Speaker_D",
+    "text": "그리고 이 지점 소리를 다시 합성하면,"
+  },
+  {
+    "timestamp": "45:59",
+    "timestamp_order": "885-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "45:59",
+    "timestamp_order": "886-1",
+    "speaker": "Speaker_A",
+    "text": "그래서 사람들은 신경망 부분이 이전과 마찬가지로 사물을 더욱 개선할 것이라고 기대할 것입니다."
+  },
+  {
+    "timestamp": "46:15",
+    "timestamp_order": "887-1",
+    "speaker": "Speaker_D",
+    "text": "그 이유 중 하나는 신경망을 탑재한 n 시스템이"
+  },
+  {
+    "timestamp": "46:27",
+    "timestamp_order": "889-1",
+    "speaker": "Speaker_D",
+    "text": "매우 불일치하는 조건입니다."
+  },
+  {
+    "timestamp": "46:35",
+    "timestamp_order": "894-1",
+    "speaker": "Speaker_D",
+    "text": "그리고"
+  },
+  {
+    "timestamp": "46:43",
+    "timestamp_order": "896-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "42:19",
+    "timestamp_order": "898-1",
+    "speaker": "Speaker_A",
+    "text": "참고하실 수 있도록요?"
+  },
+  {
+    "timestamp": "42:21",
+    "timestamp_order": "901-1",
+    "speaker": "Speaker_D",
+    "text": "8이에요."
+  },
+  {
+    "timestamp": "42:26",
+    "timestamp_order": "902-1",
+    "speaker": "Speaker_A",
+    "text": "응."
+  },
+  {
+    "timestamp": "42:28",
+    "timestamp_order": "903-1",
+    "speaker": "Speaker_D",
+    "text": "내 말이 맞나요?"
+  },
+  {
+    "timestamp": "42:35",
+    "timestamp_order": "910-1",
+    "speaker": "Speaker_D",
+    "text": "5입니다."
+  },
+  {
+    "timestamp": "42:49",
+    "timestamp_order": "911-1",
+    "speaker": "Speaker_A",
+    "text": "온라인 정규화와 LDA요?"
+  },
+  {
+    "timestamp": "42:49",
+    "timestamp_order": "912-1",
+    "speaker": "Speaker_A",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "42:52",
+    "timestamp_order": "914-1",
+    "speaker": "Speaker_D",
+    "text": "하지만 이중 단계 위너 필터링 대신, 이렇게 평활화된 스펙트럼 뺄셈을 하는 거죠."
+  },
+  {
+    "timestamp": "42:52",
+    "timestamp_order": "916-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "43:00",
+    "timestamp_order": "917-1",
+    "speaker": "Speaker_A",
+    "text": "오른쪽 ."
+  },
+  {
+    "timestamp": "43:02",
+    "timestamp_order": "919-1",
+    "speaker": "Speaker_B",
+    "text": "프랑스 텔레콤 시스템 사용"
+  },
+  {
+    "timestamp": "43:07",
+    "timestamp_order": "920-1",
+    "speaker": "Speaker_E",
+    "text": "그들은 스펙트럼 뺄셈을 사용하죠."
+  },
+  {
+    "timestamp": "43:09",
+    "timestamp_order": "921-1",
+    "speaker": "Speaker_D",
+    "text": "무엇을 위해서?"
+  },
+  {
+    "timestamp": "43:10",
+    "timestamp_order": "922-1",
+    "speaker": "Speaker_E",
+    "text": "프랑스 텔레콤."
+  },
+  {
+    "timestamp": "43:12",
+    "timestamp_order": "924-1",
+    "speaker": "Speaker_E",
+    "text": "죄송해요."
+  },
+  {
+    "timestamp": "43:13",
+    "timestamp_order": "925-1",
+    "speaker": "Speaker_B",
+    "text": "오 ."
+  },
+  {
+    "timestamp": "37:53",
+    "timestamp_order": "929-1",
+    "speaker": "Speaker_A",
+    "text": "맞죠?"
+  },
+  {
+    "timestamp": "38:04",
+    "timestamp_order": "932-1",
+    "speaker": "Speaker_A",
+    "text": "당신이 할 일은 글쎄, 우리는 이 주파수의 효과를 확실히 줄일 것입니다라고 말하는 것입니다."
+  },
+  {
+    "timestamp": "38:17",
+    "timestamp_order": "934-1",
+    "speaker": "Speaker_E",
+    "text": "응."
+  },
+  {
+    "timestamp": "38:21",
+    "timestamp_order": "936-1",
+    "speaker": "Speaker_B",
+    "text": "그걸 빼는 건 안 돼"
+  },
+  {
+    "timestamp": "38:23",
+    "timestamp_order": "937-1",
+    "speaker": "Speaker_B",
+    "text": "빈."
+  },
+  {
+    "timestamp": "38:25",
+    "timestamp_order": "938-1",
+    "speaker": "Speaker_E",
+    "text": "그건 사실이에요."
+  },
+  {
+    "timestamp": "38:27",
+    "timestamp_order": "940-1",
+    "speaker": "Speaker_B",
+    "text": "그건 거의 그 반대일 거예요, 그렇죠?"
+  },
+  {
+    "timestamp": "38:30",
+    "timestamp_order": "941-1",
+    "speaker": "Speaker_B",
+    "text": "부정적으로 두는 대신, 그렇게 하지 마세요."
+  },
+  {
+    "timestamp": "38:38",
+    "timestamp_order": "943-1",
+    "speaker": "Speaker_B",
+    "text": "그것에 ."
+  },
+  {
+    "timestamp": "38:39",
+    "timestamp_order": "944-1",
+    "speaker": "Speaker_A",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "38:45",
+    "timestamp_order": "946-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "41:19",
+    "timestamp_order": "957-1",
+    "speaker": "Speaker_D",
+    "text": "하나 ."
+  },
+  {
+    "timestamp": "41:41",
+    "timestamp_order": "963-1",
+    "speaker": "Speaker_E",
+    "text": "."
+  },
+  {
+    "timestamp": "41:41",
+    "timestamp_order": "964-1",
+    "speaker": "Speaker_E",
+    "text": "."
+  },
+  {
+    "timestamp": "41:43",
+    "timestamp_order": "966-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "41:49",
+    "timestamp_order": "969-1",
+    "speaker": "Speaker_E",
+    "text": "여기에 최종 숫자만 있습니다."
+  },
+  {
+    "timestamp": "41:52",
+    "timestamp_order": "970-1",
+    "speaker": "Speaker_A",
+    "text": "그러니까 그가 이전에 제시했던 4."
+  },
+  {
+    "timestamp": "41:52",
+    "timestamp_order": "971-1",
+    "speaker": "Speaker_A",
+    "text": "3, 10."
+  },
+  {
+    "timestamp": "41:58",
+    "timestamp_order": "975-1",
+    "speaker": "Speaker_E",
+    "text": "위너 필터링을 두 단계 거친 후 나온 숫자죠."
+  },
+  {
+    "timestamp": "41:58",
+    "timestamp_order": "976-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "42:04",
+    "timestamp_order": "978-1",
+    "speaker": "Speaker_E",
+    "text": "5 정도라는 거예요."
+  },
+  {
+    "timestamp": "42:08",
+    "timestamp_order": "979-1",
+    "speaker": "Speaker_A",
+    "text": "오른쪽 ."
+  },
+  {
+    "timestamp": "42:08",
+    "timestamp_order": "980-1",
+    "speaker": "Speaker_E",
+    "text": "그러니까, 제가 말하고자 하는 건, 그의 숫자가 제가 위너 필터링의 두 단계에서 얻은 숫자보다 여전히 더 좋다는 겁니다."
+  },
+  {
+    "timestamp": "42:10",
+    "timestamp_order": "982-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "42:13",
+    "timestamp_order": "983-1",
+    "speaker": "Speaker_A",
+    "text": "오른쪽 ."
+  },
+  {
+    "timestamp": "49:00",
+    "timestamp_order": "990-1",
+    "speaker": "Speaker_A",
+    "text": "알겠죠?"
+  },
+  {
+    "timestamp": "49:04",
+    "timestamp_order": "992-1",
+    "speaker": "Speaker_D",
+    "text": "하나 ,"
+  },
+  {
+    "timestamp": "49:10",
+    "timestamp_order": "993-1",
+    "speaker": "Speaker_D",
+    "text": "사실, 이건 스펙트럼 뺄셈과 평활화를 결합한 첫 번째 시도였고, 저는 그 결과에 꽤 흥분했습니다."
+  },
+  {
+    "timestamp": "49:20",
+    "timestamp_order": "997-1",
+    "speaker": "Speaker_D",
+    "text": "그리고,"
+  },
+  {
+    "timestamp": "49:36",
+    "timestamp_order": "1000-1",
+    "speaker": "Speaker_D",
+    "text": "첫 번째 실험은"
+  },
+  {
+    "timestamp": "49:50",
+    "timestamp_order": "1001-1",
+    "speaker": "Speaker_D",
+    "text": "여기서 언급하는 게 중요한 건, 이게 약간의 추가 지연 시간을 가지고 있다는 거예요."
+  },
+  {
+    "timestamp": "49:58",
+    "timestamp_order": "1002-1",
+    "speaker": "Speaker_D",
+    "text": "하나 ."
+  },
+  {
+    "timestamp": "50:01",
+    "timestamp_order": "1003-1",
+    "speaker": "Speaker_D",
+    "text": "왜냐하면 내가 스무딩을 할 때,"
+  },
+  {
+    "timestamp": "50:04",
+    "timestamp_order": "1005-1",
+    "speaker": "Speaker_D",
+    "text": "그리고"
+  },
+  {
+    "timestamp": "50:12",
+    "timestamp_order": "1006-1",
+    "speaker": "Speaker_D",
+    "text": "이 필터에는 약간의 지연 시간이 있습니다."
+  },
+  {
+    "timestamp": "50:12",
+    "timestamp_order": "1007-1",
+    "speaker": "Speaker_D",
+    "text": "그리고 이 지연 시간을 고려하는 것이 더 좋다는 것을 알았습니다."
+  },
+  {
+    "timestamp": "50:34",
+    "timestamp_order": "1009-1",
+    "speaker": "Speaker_B",
+    "text": "그러면 지연의 원인은 무엇입니까?"
+  },
+  {
+    "timestamp": "50:35",
+    "timestamp_order": "1010-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "36:19",
+    "timestamp_order": "1011-1",
+    "speaker": "Speaker_A",
+    "text": "하지만 1/4초만 살펴보면,"
+  },
+  {
+    "timestamp": "36:24",
+    "timestamp_order": "1013-1",
+    "speaker": "Speaker_A",
+    "text": "그래서 사실, 두 값은"
+  },
+  {
+    "timestamp": "36:34",
+    "timestamp_order": "1015-1",
+    "speaker": "Speaker_A",
+    "text": "그래서 여기에는 이상적인 것과는 온갖 편차가 있습니다."
+  },
+  {
+    "timestamp": "36:34",
+    "timestamp_order": "1016-1",
+    "speaker": "Speaker_A",
+    "text": "그리고 이 모든 것을 고려하면 분명히 부정적인 결과가 나올 수 있습니다."
+  },
+  {
+    "timestamp": "36:45",
+    "timestamp_order": "1017-1",
+    "speaker": "Speaker_A",
+    "text": "하지만 앞으로 당신이 마치 파워 스펙트럼인 것처럼 무언가를 활용한다면,"
+  },
+  {
+    "timestamp": "36:51",
+    "timestamp_order": "1018-1",
+    "speaker": "Speaker_A",
+    "text": "하나 ,"
+  },
+  {
+    "timestamp": "37:02",
+    "timestamp_order": "1021-1",
+    "speaker": "Speaker_E",
+    "text": "이게 통나무예요?"
+  },
+  {
+    "timestamp": "37:06",
+    "timestamp_order": "1023-1",
+    "speaker": "Speaker_E",
+    "text": "이후 ."
+  },
+  {
+    "timestamp": "37:09",
+    "timestamp_order": "1025-1",
+    "speaker": "Speaker_A",
+    "text": "맞습니다."
+  },
+  {
+    "timestamp": "37:09",
+    "timestamp_order": "1027-1",
+    "speaker": "Speaker_A",
+    "text": "얼마나 자주"
+  },
+  {
+    "timestamp": "37:19",
+    "timestamp_order": "1029-1",
+    "speaker": "Speaker_E",
+    "text": "하지만 평균적으로 일부 인접한 주파수 빈을 줄이는 결과를 낳게 되죠?"
+  },
+  {
+    "timestamp": "37:28",
+    "timestamp_order": "1031-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "37:36",
+    "timestamp_order": "1033-1",
+    "speaker": "Speaker_A",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "37:53",
+    "timestamp_order": "1036-1",
+    "speaker": "Speaker_E",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "47:50",
+    "timestamp_order": "1037-1",
+    "speaker": "Speaker_A",
+    "text": "특정 노이즈를 클린으로 매핑하는 데는 좋지만 그러면 다른 노이즈가 나오죠."
+  },
+  {
+    "timestamp": "48:11",
+    "timestamp_order": "1041-1",
+    "speaker": "Speaker_A",
+    "text": "다른 방법으로 갈 수 있습니다."
+  },
+  {
+    "timestamp": "48:15",
+    "timestamp_order": "1043-1",
+    "speaker": "Speaker_B",
+    "text": "꽤 잘했나?"
+  },
+  {
+    "timestamp": "48:19",
+    "timestamp_order": "1044-1",
+    "speaker": "Speaker_A",
+    "text": "오, 그렇죠."
+  },
+  {
+    "timestamp": "48:20",
+    "timestamp_order": "1047-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "48:27",
+    "timestamp_order": "1051-1",
+    "speaker": "Speaker_A",
+    "text": "우리가 하는 일의 종류입니다."
+  },
+  {
+    "timestamp": "48:27",
+    "timestamp_order": "1052-1",
+    "speaker": "Speaker_A",
+    "text": "제 말은, 우리는 정확히 그런 일을 하고 있지 않습니다."
+  },
+  {
+    "timestamp": "48:32",
+    "timestamp_order": "1053-1",
+    "speaker": "Speaker_A",
+    "text": "좋은 예를 생성하려고 노력하지만 가능한 한 최고의 분류기를 사용하려고 노력함으로써,"
+  },
+  {
+    "timestamp": "48:40",
+    "timestamp_order": "1056-1",
+    "speaker": "Speaker_B",
+    "text": "일종의 내장이라고 할 수 있겠습니다."
+  },
+  {
+    "timestamp": "48:43",
+    "timestamp_order": "1059-1",
+    "speaker": "Speaker_B",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "32:44",
+    "timestamp_order": "1062-1",
+    "speaker": "Speaker_A",
+    "text": "오 !"
+  },
+  {
+    "timestamp": "32:54",
+    "timestamp_order": "1065-1",
+    "speaker": "Speaker_D",
+    "text": "그만큼"
+  },
+  {
+    "timestamp": "33:14",
+    "timestamp_order": "1070-1",
+    "speaker": "Speaker_D",
+    "text": "지금은 말의 형태입니다."
+  },
+  {
+    "timestamp": "33:20",
+    "timestamp_order": "1071-1",
+    "speaker": "Speaker_B",
+    "text": "말 모양?"
+  },
+  {
+    "timestamp": "33:31",
+    "timestamp_order": "1073-1",
+    "speaker": "Speaker_B",
+    "text": "그래서 y가 노이즈를 뺀 후 0보다 작은 것이 있다고 말할 때, 그것은 특정 시점에서의 y입니까?"
+  },
+  {
+    "timestamp": "33:32",
+    "timestamp_order": "1074-1",
+    "speaker": "Speaker_D",
+    "text": "나"
+  },
+  {
+    "timestamp": "33:36",
+    "timestamp_order": "1075-1",
+    "speaker": "Speaker_D",
+    "text": "응."
+  },
+  {
+    "timestamp": "33:37",
+    "timestamp_order": "1076-1",
+    "speaker": "Speaker_B",
+    "text": "주파수 빈?"
+  },
+  {
+    "timestamp": "33:41",
+    "timestamp_order": "1080-1",
+    "speaker": "Speaker_B",
+    "text": "그래서 당신이 말의 전체적인 형태를 갖는 무언가를 추가한다고 말할 때,"
+  },
+  {
+    "timestamp": "33:45",
+    "timestamp_order": "1081-1",
+    "speaker": "Speaker_B",
+    "text": "그건 특정 주파수 영역에 있는 건가요?"
+  },
+  {
+    "timestamp": "35:02",
+    "timestamp_order": "1082-1",
+    "speaker": "Speaker_B",
+    "text": "가장 나쁜 결과는 0이 될 것입니다."
+  },
+  {
+    "timestamp": "35:04",
+    "timestamp_order": "1083-1",
+    "speaker": "Speaker_B",
+    "text": "내 말은, 당신이 얻을 수 있는 가장 낮은 금액은 0이 될 것입니다."
+  },
+  {
+    "timestamp": "35:25",
+    "timestamp_order": "1090-1",
+    "speaker": "Speaker_A",
+    "text": "따라서,"
+  },
+  {
+    "timestamp": "35:51",
+    "timestamp_order": "1098-1",
+    "speaker": "Speaker_A",
+    "text": "당신은 확실히 노이즈로 인해 발생하는 것보다 더 큰 숫자를 빼었습니다."
+  },
+  {
+    "timestamp": "36:02",
+    "timestamp_order": "1101-1",
+    "speaker": "Speaker_A",
+    "text": "그리고 그것은 통계적 해석에서 확실히 의미가 있습니다."
+  },
+  {
+    "timestamp": "36:02",
+    "timestamp_order": "1102-1",
+    "speaker": "Speaker_A",
+    "text": "즉, 모든 가능한 실현에 대해 상관관계가 없거나"
+  },
+  {
+    "timestamp": "36:13",
+    "timestamp_order": "1104-1",
+    "speaker": "Speaker_A",
+    "text": "가정하자면, 에르고딕성은 시간에 따라 변하지 않습니다."
+  },
+  {
+    "timestamp": "53:28",
+    "timestamp_order": "1105-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "53:28",
+    "timestamp_order": "1106-1",
+    "speaker": "Speaker_B",
+    "text": "모든 것이 그 버퍼를 사용합니까?"
+  },
+  {
+    "timestamp": "53:28",
+    "timestamp_order": "1107-1",
+    "speaker": "Speaker_B",
+    "text": "그리고 그렇게"
+  },
+  {
+    "timestamp": "53:31",
+    "timestamp_order": "1108-1",
+    "speaker": "Speaker_B",
+    "text": "첨가적이지 않은 건가요?"
+  },
+  {
+    "timestamp": "53:33",
+    "timestamp_order": "1109-1",
+    "speaker": "Speaker_A",
+    "text": "사실 모든 것이 버퍼에 전송됩니다."
+  },
+  {
+    "timestamp": "53:39",
+    "timestamp_order": "1111-1",
+    "speaker": "Speaker_E",
+    "text": "데이터, 슈퍼 프레임 같은 걸 말하는 거예요?"
+  },
+  {
+    "timestamp": "53:42",
+    "timestamp_order": "1114-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "53:53",
+    "timestamp_order": "1118-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "53:54",
+    "timestamp_order": "1119-1",
+    "speaker": "Speaker_E",
+    "text": "제가 말하는 건 무선 인터페이스를 통한 전송이 버퍼와 같다는 겁니다."
+  },
+  {
+    "timestamp": "53:54",
+    "timestamp_order": "1120-1",
+    "speaker": "Speaker_E",
+    "text": "20프레임, 24프레임."
+  },
+  {
+    "timestamp": "53:55",
+    "timestamp_order": "1121-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "53:59",
+    "timestamp_order": "1122-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "54:00",
+    "timestamp_order": "1123-1",
+    "speaker": "Speaker_B",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "54:01",
+    "timestamp_order": "1124-1",
+    "speaker": "Speaker_E",
+    "text": "그런데 문제는 그 24프레임 버퍼의 첫 번째 프레임에는 24프레임 지연 시간이 있다는 겁니다."
+  },
+  {
+    "timestamp": "54:01",
+    "timestamp_order": "1125-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 마지막 프레임에는 지연 시간이 전혀 없습니다."
+  },
+  {
+    "timestamp": "54:15",
+    "timestamp_order": "1128-1",
+    "speaker": "Speaker_A",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "51:17",
+    "timestamp_order": "1130-1",
+    "speaker": "Speaker_A",
+    "text": "얼마예요?"
+  },
+  {
+    "timestamp": "51:17",
+    "timestamp_order": "1131-1",
+    "speaker": "Speaker_A",
+    "text": "얼마예요?"
+  },
+  {
+    "timestamp": "51:20",
+    "timestamp_order": "1132-1",
+    "speaker": "Speaker_A",
+    "text": "얼마만큼?"
+  },
+  {
+    "timestamp": "51:22",
+    "timestamp_order": "1133-1",
+    "speaker": "Speaker_D",
+    "text": "상대적 수치로는 3% 정도입니다."
+  },
+  {
+    "timestamp": "51:30",
+    "timestamp_order": "1134-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "51:32",
+    "timestamp_order": "1135-1",
+    "speaker": "Speaker_A",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "51:46",
+    "timestamp_order": "1139-1",
+    "speaker": "Speaker_D",
+    "text": "상황에 따라 다르죠."
+  },
+  {
+    "timestamp": "51:46",
+    "timestamp_order": "1140-1",
+    "speaker": "Speaker_D",
+    "text": "사실 3% 정도예요."
+  },
+  {
+    "timestamp": "52:07",
+    "timestamp_order": "1145-1",
+    "speaker": "Speaker_A",
+    "text": "왜냐하면 우리가 지연을 완전히 무시한다면,"
+  },
+  {
+    "timestamp": "52:11",
+    "timestamp_order": "1146-1",
+    "speaker": "Speaker_A",
+    "text": "그리고 우리는 그것에 대해 정말로 뭔가를 해야 한다는 것을 깨닫게 되고, 우리는 곤경에 빠지게 됩니다."
+  },
+  {
+    "timestamp": "52:20",
+    "timestamp_order": "1149-1",
+    "speaker": "Speaker_A",
+    "text": "25로 해."
+  },
+  {
+    "timestamp": "52:20",
+    "timestamp_order": "1150-1",
+    "speaker": "Speaker_A",
+    "text": "무슨 말인지 알겠지?"
+  },
+  {
+    "timestamp": "52:21",
+    "timestamp_order": "1151-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "52:23",
+    "timestamp_order": "1154-1",
+    "speaker": "Speaker_A",
+    "text": "갑자기 지연 시간을 절반으로 줄여야 하는 상황이 생길 수도 있거든요."
+  },
+  {
+    "timestamp": "52:25",
+    "timestamp_order": "1155-1",
+    "speaker": "Speaker_D",
+    "text": "에스"
+  },
+  {
+    "timestamp": "29:56",
+    "timestamp_order": "1156-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 우리는 c"
+  },
+  {
+    "timestamp": "29:57",
+    "timestamp_order": "1157-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 내 말은, 그게 무슨 뜻인지,"
+  },
+  {
+    "timestamp": "29:59",
+    "timestamp_order": "1158-1",
+    "speaker": "Speaker_E",
+    "text": "이 기술을 사용하면 VAD만 개선할 뿐 성능도 10% 이상 향상될 수 있습니다."
+  },
+  {
+    "timestamp": "30:18",
+    "timestamp_order": "1161-1",
+    "speaker": "Speaker_E",
+    "text": "TI 숫자에 많은 것이 있으므로, 왜 그렇지 않은지 조사하고 싶습니다."
+  },
+  {
+    "timestamp": "30:37",
+    "timestamp_order": "1163-1",
+    "speaker": "Speaker_E",
+    "text": "멜과 크기, 멜 크기 등등."
+  },
+  {
+    "timestamp": "30:45",
+    "timestamp_order": "1165-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 제가 생각한 이유 중 하나는 Mel 필터 뱅크를 사용하여 필터링한 후 평균화를 하는 것이 Mel 필터 BA 필터링된 출력에서 시도하는 것보다 도움이 될 수 있다는 것입니다."
+  },
+  {
+    "timestamp": "30:54",
+    "timestamp_order": "1168-1",
+    "speaker": "Speaker_A",
+    "text": "그리고 -"
+  },
+  {
+    "timestamp": "30:55",
+    "timestamp_order": "1170-1",
+    "speaker": "Speaker_A",
+    "text": "이해가 됩니다."
+  },
+  {
+    "timestamp": "31:01",
+    "timestamp_order": "1172-1",
+    "speaker": "Speaker_E",
+    "text": "그게 다예요."
+  },
+  {
+    "timestamp": "31:07",
+    "timestamp_order": "1175-1",
+    "speaker": "Speaker_E",
+    "text": "왜냐하면 내가 그랬기 때문이죠."
+  },
+  {
+    "timestamp": "31:11",
+    "timestamp_order": "1176-1",
+    "speaker": "Speaker_E",
+    "text": "p는 이 문제를 해결하기 위해 많은 노력을 기울였습니다."
+  },
+  {
+    "timestamp": "31:11",
+    "timestamp_order": "1177-1",
+    "speaker": "Speaker_E",
+    "text": "튜닝과 다른 것들도요."
+  },
+  {
+    "timestamp": "31:11",
+    "timestamp_order": "1178-1",
+    "speaker": "Speaker_E",
+    "text": "그래서"
+  },
+  {
+    "timestamp": "31:16",
+    "timestamp_order": "1179-1",
+    "speaker": "Speaker_E",
+    "text": "나는 ~와 같았다"
+  },
+  {
+    "timestamp": "52:29",
+    "timestamp_order": "1184-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "52:40",
+    "timestamp_order": "1186-1",
+    "speaker": "Speaker_B",
+    "text": "죄송합니다."
+  },
+  {
+    "timestamp": "52:40",
+    "timestamp_order": "1187-1",
+    "speaker": "Speaker_B",
+    "text": "지연 시간에 대한 간단한 질문이 있습니다."
+  },
+  {
+    "timestamp": "52:40",
+    "timestamp_order": "1188-1",
+    "speaker": "Speaker_B",
+    "text": "시스템의 다른 부분에서 지연 시간이 발생하는 경우"
+  },
+  {
+    "timestamp": "52:45",
+    "timestamp_order": "1189-1",
+    "speaker": "Speaker_B",
+    "text": "백 밀리초,"
+  },
+  {
+    "timestamp": "52:47",
+    "timestamp_order": "1190-1",
+    "speaker": "Speaker_B",
+    "text": "이게 첨가되는 건가요?"
+  },
+  {
+    "timestamp": "52:52",
+    "timestamp_order": "1194-1",
+    "speaker": "Speaker_B",
+    "text": "첨가되는 거죠."
+  },
+  {
+    "timestamp": "52:54",
+    "timestamp_order": "1197-1",
+    "speaker": "Speaker_E",
+    "text": "알겠습니다."
+  },
+  {
+    "timestamp": "53:01",
+    "timestamp_order": "1200-1",
+    "speaker": "Speaker_B",
+    "text": "응."
+  },
+  {
+    "timestamp": "53:02",
+    "timestamp_order": "1201-1",
+    "speaker": "Speaker_E",
+    "text": "그리고 우리는 여러분이 할 수 있는 다른 필터링과 병행해서 그것을 할 수 있습니다."
+  },
+  {
+    "timestamp": "53:02",
+    "timestamp_order": "1202-1",
+    "speaker": "Speaker_E",
+    "text": "그래서 여러분은 그것에 대한 결정을 내릴 수 있습니다."
+  },
+  {
+    "timestamp": "53:09",
+    "timestamp_order": "1204-1",
+    "speaker": "Speaker_E",
+    "text": "음성 활동 감지 후 필터링 여부를 결정해야 합니다."
+  },
+  {
+    "timestamp": "53:09",
+    "timestamp_order": "1206-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "53:16",
+    "timestamp_order": "1208-1",
+    "speaker": "Speaker_E",
+    "text": "그러니까, 때로는 그래도 할 수 있는 때도 있죠."
+  },
+  {
+    "timestamp": "53:20",
+    "timestamp_order": "1209-1",
+    "speaker": "Speaker_B",
+    "text": "또한, 시스템에서 가장 큰 지연 시간이 무엇인지 알고 있다면,"
+  },
+  {
+    "timestamp": "56:10",
+    "timestamp_order": "1212-1",
+    "speaker": "Speaker_D",
+    "text": "2단계 위너 필터링을 적용한 결과는 10프레임이지만, 그 이상일 수도 있습니다."
+  },
+  {
+    "timestamp": "56:11",
+    "timestamp_order": "1214-1",
+    "speaker": "Speaker_E",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "56:18",
+    "timestamp_order": "1215-1",
+    "speaker": "Speaker_E",
+    "text": "에프"
+  },
+  {
+    "timestamp": "56:19",
+    "timestamp_order": "1216-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "56:21",
+    "timestamp_order": "1217-1",
+    "speaker": "Speaker_E",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "56:36",
+    "timestamp_order": "1219-1",
+    "speaker": "Speaker_D",
+    "text": "하나 ."
+  },
+  {
+    "timestamp": "57:06",
+    "timestamp_order": "1222-1",
+    "speaker": "Speaker_D",
+    "text": "이것은 프레임을 많이 가져와서 이 프레임의 각 주파수 대역에 대해 최소값을 살펴보는 기술입니다."
+  },
+  {
+    "timestamp": "57:31",
+    "timestamp_order": "1223-1",
+    "speaker": "Speaker_D",
+    "text": "그리고 사실 이것에는 더 많은 것이 있습니다."
+  },
+  {
+    "timestamp": "57:59",
+    "timestamp_order": "1226-1",
+    "speaker": "Speaker_D",
+    "text": "제가 실제로 하는 일은 스펙트로그램에서 타일을 가져오는 것입니다."
+  },
+  {
+    "timestamp": "57:59",
+    "timestamp_order": "1227-1",
+    "speaker": "Speaker_D",
+    "text": "이 타일은 길이가 500밀리초이고 너비가 200헤르츠입니다."
+  },
+  {
+    "timestamp": "58:16",
+    "timestamp_order": "1230-1",
+    "speaker": "Speaker_D",
+    "text": "그리고 이 타일의 최소값을 m으로 하면,"
+  },
+  {
+    "timestamp": "58:41",
+    "timestamp_order": "1232-1",
+    "speaker": "Speaker_D",
+    "text": "그리고 다른 종류의 말소리가 있다면 그렇지 않지만 시간 프레임이 충분히 길다면,"
+  },
+  {
+    "timestamp": "58:49",
+    "timestamp_order": "1234-1",
+    "speaker": "Speaker_D",
+    "text": "하지만 여전히 노이즈 에너지와 매우 가까운 부분이 있습니다."
+  },
+  {
+    "timestamp": "59:11",
+    "timestamp_order": "1242-1",
+    "speaker": "Speaker_D",
+    "text": "왜냐하면 30밀리초를 사용하면 짧은 윈도잉과 낮은 피치 때문에"
+  },
+  {
+    "timestamp": "59:43",
+    "timestamp_order": "1247-1",
+    "speaker": "Speaker_D",
+    "text": "그래서 저는 64밀리초 프레임을 여러 개 사용하여 500밀리초를 다루었습니다."
+  },
+  {
+    "timestamp": "59:50",
+    "timestamp_order": "1250-1",
+    "speaker": "Speaker_D",
+    "text": "그리고 나는 최소값을 찾습니다."
+  },
+  {
+    "timestamp": "59:54",
+    "timestamp_order": "1253-1",
+    "speaker": "Speaker_D",
+    "text": "50개 프레임이 모여있는 거 맞지?"
+  },
+  {
+    "timestamp": "50:41",
+    "timestamp_order": "1258-1",
+    "speaker": "Speaker_D",
+    "text": "재귀니까 중심 재귀인 거죠?"
+  },
+  {
+    "timestamp": "50:50",
+    "timestamp_order": "1261-1",
+    "speaker": "Speaker_A",
+    "text": "일오?"
+  },
+  {
+    "timestamp": "50:52",
+    "timestamp_order": "1262-1",
+    "speaker": "Speaker_A",
+    "text": "일오?"
+  },
+  {
+    "timestamp": "50:52",
+    "timestamp_order": "1263-1",
+    "speaker": "Speaker_A",
+    "text": "오영?"
+  },
+  {
+    "timestamp": "50:54",
+    "timestamp_order": "1265-1",
+    "speaker": "Speaker_A",
+    "text": "50."
+  },
+  {
+    "timestamp": "50:58",
+    "timestamp_order": "1268-1",
+    "speaker": "Speaker_E",
+    "text": "죄송한데, 왜 이렇게 지연되는 거죠?"
+  },
+  {
+    "timestamp": "51:02",
+    "timestamp_order": "1270-1",
+    "speaker": "Speaker_D",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "51:02",
+    "timestamp_order": "1271-1",
+    "speaker": "Speaker_D",
+    "text": "평균 추정에는 약간의 지연이 있죠?"
+  },
+  {
+    "timestamp": "51:05",
+    "timestamp_order": "1272-1",
+    "speaker": "Speaker_D",
+    "text": "즉, 평균을 추정하는 필터에는 시간 상수가 있습니다."
+  },
+  {
+    "timestamp": "51:06",
+    "timestamp_order": "1273-1",
+    "speaker": "Speaker_E",
+    "text": "오, 그렇군요."
+  },
+  {
+    "timestamp": "51:08",
+    "timestamp_order": "1274-1",
+    "speaker": "Speaker_E",
+    "text": "괜찮지 않으니까 미래를 내다보는 듯한 느낌이에요."
+  },
+  {
+    "timestamp": "51:10",
+    "timestamp_order": "1275-1",
+    "speaker": "Speaker_D",
+    "text": "응 ."
+  },
+  {
+    "timestamp": "47:04",
+    "timestamp_order": "1281-1",
+    "speaker": "Speaker_B",
+    "text": "신경망을 스펙트럼 뺄셈을 하도록 훈련시킬 수 있을까요?"
+  },
+  {
+    "timestamp": "47:17",
+    "timestamp_order": "1285-1",
+    "speaker": "Speaker_B",
+    "text": "신호의 깨끗한 버전과 노이즈가 있는 버전,"
+  },
+  {
+    "timestamp": "47:20",
+    "timestamp_order": "1287-1",
+    "speaker": "Speaker_A",
+    "text": "오른쪽 ."
+  },
+  {
+    "timestamp": "47:30",
+    "timestamp_order": "1291-1",
+    "speaker": "Speaker_B",
+    "text": "사람들이 그런 짓을 하나요?"
+  },
+  {
+    "timestamp": "47:36",
+    "timestamp_order": "1294-1",
+    "speaker": "Speaker_B",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "47:36",
+    "timestamp_order": "1297-1",
+    "speaker": "Speaker_A",
+    "text": "또 다른 접근 방식입니다."
+  },
+  {
+    "timestamp": "47:43",
+    "timestamp_order": "1298-1",
+    "speaker": "Speaker_B",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "54:21",
+    "timestamp_order": "1302-1",
+    "speaker": "Speaker_A",
+    "text": "그게 바로 그들이 표준 위원회에서 논의하는 모든 것 중 하나입니다."
+  },
+  {
+    "timestamp": "54:28",
+    "timestamp_order": "1303-1",
+    "speaker": "Speaker_B",
+    "text": "오 !"
+  },
+  {
+    "timestamp": "54:30",
+    "timestamp_order": "1304-1",
+    "speaker": "Speaker_B",
+    "text": "흠 ."
+  },
+  {
+    "timestamp": "54:50",
+    "timestamp_order": "1311-1",
+    "speaker": "Speaker_D",
+    "text": "제가 추가하는 노이즈 수준을요."
+  },
+  {
+    "timestamp": "55:01",
+    "timestamp_order": "1314-1",
+    "speaker": "Speaker_D",
+    "text": "하지만 저는 잘 모르겠습니다."
+  },
+  {
+    "timestamp": "55:09",
+    "timestamp_order": "1316-1",
+    "speaker": "Speaker_D",
+    "text": "노이즈의 모양도 마찬가지입니다."
+  },
+  {
+    "timestamp": "55:24",
+    "timestamp_order": "1319-1",
+    "speaker": "Speaker_A",
+    "text": "그렇죠."
+  },
+  {
+    "timestamp": "55:46",
+    "timestamp_order": "1325-1",
+    "speaker": "Speaker_E",
+    "text": "대부분 20개 프레임을 사용했죠."
+  },
+  {
+    "timestamp": "55:48",
+    "timestamp_order": "1326-1",
+    "speaker": "Speaker_D",
+    "text": "10개의 프레임?"
+  },
+  {
+    "timestamp": "55:54",
+    "timestamp_order": "1329-1",
+    "speaker": "Speaker_D",
+    "text": "그런데, 당신이 나에게 말한 그 결과는 무엇입니까?"
+  },
+  {
+    "timestamp": "55:54",
+    "timestamp_order": "1330-1",
+    "speaker": "Speaker_D",
+    "text": "10개 이상의 프레임을 사용하면 t만큼 개선될 수 있다는 사실입니다."
+  },
+  {
+    "timestamp": "56:05",
+    "timestamp_order": "1333-1",
+    "speaker": "Speaker_D",
+    "text": "하지만 이건 10프레임 이상이에요."
+  }
+]

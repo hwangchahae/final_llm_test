@@ -1,0 +1,400 @@
+{"timestamp": "00:38", "timestamp_order": "2-1", "speaker": "Speaker_A", "text": "좋아요.", "label": 1}
+{"timestamp": "00:59", "timestamp_order": "7-1", "speaker": "Speaker_A", "text": "좋아요.", "label": 1}
+{"timestamp": "00:59", "timestamp_order": "9-1", "speaker": "Speaker_A", "text": "디자인에 대한 전반적인 아이디어를 낸 후에요.", "label": 1}
+{"timestamp": "01:24", "timestamp_order": "15-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "01:30", "timestamp_order": "16-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "01:37", "timestamp_order": "17-1", "speaker": "Speaker_B", "text": "감사합니다 .", "label": 1}
+{"timestamp": "01:40", "timestamp_order": "18-1", "speaker": "Speaker_A", "text": "좋아요 .", "label": 1}
+{"timestamp": "01:53", "timestamp_order": "20-1", "speaker": "Speaker_B", "text": "아, 하지만 화면에서는 볼 수 없네요.", "label": 1}
+{"timestamp": "01:58", "timestamp_order": "21-1", "speaker": "Speaker_B", "text": "여기로 가라고 적혀 있네요.", "label": 1}
+{"timestamp": "02:02", "timestamp_order": "22-1", "speaker": "Speaker_B", "text": "좋아요.", "label": 1}
+{"timestamp": "02:02", "timestamp_order": "24-1", "speaker": "Speaker_B", "text": "음, 우선 리모컨이 실제로 어떻게 만들어지는지, 그리고 케이스 내부에서 무슨 일이 일어나는지 살펴봐야 하는데, 그건 여러분의 분야일 겁니다.", "label": 1}
+{"timestamp": "02:02", "timestamp_order": "25-1", "speaker": "Speaker_B", "text": "음, 주요 내부 기능은 모든 전자 장치와 전원과의 접점을 포함하는 회로 기판입니다.", "label": 1}
+{"timestamp": "02:02", "timestamp_order": "27-1", "speaker": "Speaker_B", "text": "음, 회로 기판에는 여러 구성 요소가 있는데, 어디서 구할지, 무엇으로 만들어졌는지 고려해야 합니다.", "label": 1}
+{"timestamp": "02:02", "timestamp_order": "28-1", "speaker": "Speaker_B", "text": "음, 칩이라고도 하는 집적 회로를 포함합니다.", "label": 1}
+{"timestamp": "02:02", "timestamp_order": "30-1", "speaker": "Speaker_B", "text": "음, 다이오드, 트랜지스터, 공진기, 저항기, 커패시터도 모두 고려해야 합니다.", "label": 1}
+{"timestamp": "02:02", "timestamp_order": "31-1", "speaker": "Speaker_B", "text": "음, 그리고 회로 내의 모든 위치.", "label": 1}
+{"timestamp": "03:02", "timestamp_order": "32-1", "speaker": "Speaker_A", "text": "모두 필수적으로 포함되는 건가요, 아니면 다른 옵션인가요?", "label": 1}
+{"timestamp": "03:07", "timestamp_order": "33-1", "speaker": "Speaker_B", "text": "음, 이건 모두 다른 옵션이에요.", "label": 1}
+{"timestamp": "03:07", "timestamp_order": "37-1", "speaker": "Speaker_B", "text": "음, 다른 모든 것들은 개별 부품이라 따로따로 구매해야 하고, 전선 같은 걸 다 포함해서 가장 효과적인 회로를 설계해야 해요.", "label": 1}
+{"timestamp": "03:37", "timestamp_order": "42-1", "speaker": "Speaker_B", "text": "좋아요, 에너지원은 아주 다양합니다.", "label": 1}
+{"timestamp": "03:37", "timestamp_order": "45-1", "speaker": "Speaker_B", "text": "50년 전에 횃불에 사용했던 것과 비슷한 수동식 발전기도 있는데, 좀 시대에 뒤떨어진 기술입니다.", "label": 1}
+{"timestamp": "04:13", "timestamp_order": "49-1", "speaker": "Speaker_A", "text": "가끔씩인가, 아니면 끊임없이인가?", "label": 1}
+{"timestamp": "04:15", "timestamp_order": "51-1", "speaker": "Speaker_A", "text": "항상 크랭크업하는 건 좀 이상할 것 같아요.", "label": 1}
+{"timestamp": "04:17", "timestamp_order": "52-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "04:17", "timestamp_order": "55-1", "speaker": "Speaker_B", "text": "운동 에너지는 시계나 다른 기기에서 사용되는 새로운 아이디어인데, 기기를 흔들기만 하면 전원이 공급되는 거죠.", "label": 1}
+{"timestamp": "04:17", "timestamp_order": "56-1", "speaker": "Speaker_B", "text": "운동 에너지가 전력으로 변환되어 회로를 작동시키는 거죠.", "label": 1}
+{"timestamp": "04:17", "timestamp_order": "57-1", "speaker": "Speaker_B", "text": "음, 그리고 건물 내부에 설치하는 태양열 발전도 있는데, 그렇게 유용하지는 않을 것 같아요.", "label": 1}
+{"timestamp": "04:56", "timestamp_order": "60-1", "speaker": "Speaker_B", "text": "음, 케이스에 대해 고려해야 할 사항이 많습니다.", "label": 1}
+{"timestamp": "04:56", "timestamp_order": "66-1", "speaker": "Speaker_B", "text": "전에 리모컨을 써 본 적이 있는데 버튼이 너무 많아서 앞면인지 뒷면인지 알 수 없었어요.", "label": 1}
+{"timestamp": "04:56", "timestamp_order": "67-1", "speaker": "Speaker_B", "text": "모양이 너무 대칭적이어서 전원 버튼 대신 볼륨 버튼을 누르게 됐거든요.", "label": 1}
+{"timestamp": "04:56", "timestamp_order": "68-1", "speaker": "Speaker_B", "text": "어느 쪽인지 알 수 없었거든요.", "label": 1}
+{"timestamp": "05:30", "timestamp_order": "71-1", "speaker": "Speaker_B", "text": "음, 재료를 선택할 수도 있는데, 금속을 사용할 수도 있고, 고무를 사용할 수도 있는데, 아마 안티-RSI에 더 적합할 거예요.", "label": 1}
+{"timestamp": "05:30", "timestamp_order": "72-1", "speaker": "Speaker_B", "text": "스트레스 볼 같은 데 사용하는 고무와 비슷해서 아주 부드럽고 손에 부담이 덜해요.", "label": 1}
+{"timestamp": "05:30", "timestamp_order": "74-1", "speaker": "Speaker_B", "text": "음, 다시 시간을 거슬러 올라가는 거죠.", "label": 1}
+{"timestamp": "05:30", "timestamp_order": "75-1", "speaker": "Speaker_B", "text": "지금 우리가 찾고 있는 것과는 좀 다른 것 같아요.", "label": 1}
+{"timestamp": "05:30", "timestamp_order": "76-1", "speaker": "Speaker_B", "text": "음, 티타늄은 예산이 좀 초과하더라도 불가능할 것 같아요.", "label": 1}
+{"timestamp": "05:46", "timestamp_order": "78-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "06:08", "timestamp_order": "80-1", "speaker": "Speaker_B", "text": "음, 맞아요.", "label": 1}
+{"timestamp": "06:08", "timestamp_order": "83-1", "speaker": "Speaker_B", "text": "아마 이 버튼들이 꽤 유연하고 현대적인 디자인이라서, 개별 버튼을 사용할 필요가 없어요.", "label": 1}
+{"timestamp": "06:08", "timestamp_order": "84-1", "speaker": "Speaker_B", "text": "그냥 위아래로 슬라이드하면 되죠.", "label": 1}
+{"timestamp": "06:37", "timestamp_order": "87-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "06:39", "timestamp_order": "88-1", "speaker": "Speaker_A", "text": "음, 스크롤 버튼에 문제가 하나 있어요.", "label": 1}
+{"timestamp": "06:39", "timestamp_order": "89-1", "speaker": "Speaker_A", "text": "LCD가 있어야 할 것 같아요.", "label": 1}
+{"timestamp": "06:46", "timestamp_order": "90-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "06:46", "timestamp_order": "91-1", "speaker": "Speaker_B", "text": "맞아요.", "label": 1}
+{"timestamp": "06:46", "timestamp_order": "94-1", "speaker": "Speaker_B", "text": "나중에 LCD를 이용한 고급 칩으로 넘어가겠습니다.", "label": 1}
+{"timestamp": "06:46", "timestamp_order": "97-1", "speaker": "Speaker_B", "text": "음, 그리고 우리에게 가장 익숙한 통합 푸시 버튼도 있습니다.", "label": 1}
+{"timestamp": "06:46", "timestamp_order": "103-1", "speaker": "Speaker_B", "text": "음, 간단하게 말하면 푸시 버튼을 사용하는 게 좋을 것 같습니다.", "label": 1}
+{"timestamp": "06:46", "timestamp_order": "104-1", "speaker": "Speaker_A", "text": "디스플레이, 그리고 어둠 속에서 빛나는 것", "label": 1}
+{"timestamp": "06:51", "timestamp_order": "105-1", "speaker": "Speaker_A", "text": "어려울 수도 있겠네요.", "label": 1}
+{"timestamp": "06:58", "timestamp_order": "107-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "07:22", "timestamp_order": "108-1", "speaker": "Speaker_B", "text": "음, 일반 버전은 스크롤 버튼과 연결할 수 있고, 고급 버전은 LCD 디스플레이를 사용해야 할 것 같습니다.", "label": 1}
+{"timestamp": "07:22", "timestamp_order": "112-1", "speaker": "Speaker_B", "text": "전에 본 적이 없어서 참신하고 매력적일 수도 있겠네요.", "label": 1}
+{"timestamp": "07:22", "timestamp_order": "115-1", "speaker": "Speaker_B", "text": "그냥 흔들기만 하면 되니까요.", "label": 1}
+{"timestamp": "07:22", "timestamp_order": "116-1", "speaker": "Speaker_B", "text": "정말 멋진 아이디어인 것 같습니다.", "label": 1}
+{"timestamp": "08:00", "timestamp_order": "119-1", "speaker": "Speaker_B", "text": "RSI 방지를 원하고 미적인 면에서 더 많은 선택지를 원한다면 고무 케이스가 아마 가장 좋을 것 같아요.", "label": 1}
+{"timestamp": "08:00", "timestamp_order": "121-1", "speaker": "Speaker_B", "text": "음, 그리고 네, 더 유연하게 쓸 수 있죠.", "label": 1}
+{"timestamp": "08:00", "timestamp_order": "123-1", "speaker": "Speaker_B", "text": "아마 LCD는 살 여유가 없을 테니까요.", "label": 1}
+{"timestamp": "08:00", "timestamp_order": "124-1", "speaker": "Speaker_A", "text": "음 .", "label": 1}
+{"timestamp": "08:27", "timestamp_order": "125-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "08:27", "timestamp_order": "126-1", "speaker": "Speaker_A", "text": "음, 고무 케이스에 대한 한 가지 우려는 이 모든 칩과 다이오드 및 정밀 기술을 고무로 캡슐화한다는 것입니다.", "label": 1}
+{"timestamp": "08:29", "timestamp_order": "127-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "08:44", "timestamp_order": "130-1", "speaker": "Speaker_B", "text": "음, 그러면 내부 케이스 같은 게 더 들어갈 것 같아요.", "label": 1}
+{"timestamp": "08:44", "timestamp_order": "131-1", "speaker": "Speaker_B", "text": "그리고 고무는 그냥 사람과 접촉하는 부분일 거예요.", "label": 1}
+{"timestamp": "08:44", "timestamp_order": "132-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "08:52", "timestamp_order": "133-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "08:52", "timestamp_order": "134-1", "speaker": "Speaker_A", "text": "또 다른 문제는 고무 재질의 외장이라면 교체 가능한 플레이트를 장착하는 게 더 어려울 수 있다는 겁니다.", "label": 1}
+{"timestamp": "08:52", "timestamp_order": "135-1", "speaker": "Speaker_A", "text": "음, 고무 플레이트 같은 걸 위에 얹으면 어떻게 고정될지 모르겠네요.", "label": 1}
+{"timestamp": "08:52", "timestamp_order": "136-1", "speaker": "Speaker_A", "text": "클립형 플라스틱 플레이트 같은 거라면 그럴 수 있을 것 같아요.", "label": 1}
+{"timestamp": "09:01", "timestamp_order": "137-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "09:12", "timestamp_order": "139-1", "speaker": "Speaker_B", "text": "어쩌면, 음, 그냥 케이스에 붙인 고무 코팅 같은 거라면 어땠을까 싶어요.", "label": 1}
+{"timestamp": "09:24", "timestamp_order": "141-1", "speaker": "Speaker_C", "text": "고무가 들어간 플라스틱 같은 것, 위에 올려진 것 같은 것", "label": 1}
+{"timestamp": "09:25", "timestamp_order": "142-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "09:25", "timestamp_order": "143-1", "speaker": "Speaker_B", "text": "뭐라고 해야 할지 전혀 생각이 안 나네요.", "label": 1}
+{"timestamp": "09:28", "timestamp_order": "145-1", "speaker": "Speaker_C", "text": "음, 고무 케이스 같은 게 있는 휴대폰이 있는데, 노키아 같은 거예요.", "label": 1}
+{"timestamp": "09:28", "timestamp_order": "146-1", "speaker": "Speaker_C", "text": "네.", "label": 1}
+{"timestamp": "09:32", "timestamp_order": "147-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "09:32", "timestamp_order": "148-1", "speaker": "Speaker_B", "text": "아니면 아이팟 같은 거에 쓸 외부 케이스 같은 걸 쓸 수도 있는데, 그것도 보호 기능이에요.", "label": 1}
+{"timestamp": "09:32", "timestamp_order": "149-1", "speaker": "Speaker_B", "text": "충격을 막아주는 거죠.", "label": 1}
+{"timestamp": "09:32", "timestamp_order": "150-1", "speaker": "Speaker_B", "text": "떨어뜨리거나 하면 충격도 덜하고, 쉽게 손상되지 않거든요.", "label": 1}
+{"timestamp": "09:32", "timestamp_order": "151-1", "speaker": "Speaker_B", "text": "아마 둘 다 섞인 것 같아요.", "label": 1}
+{"timestamp": "09:32", "timestamp_order": "152-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "09:32", "timestamp_order": "154-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "09:37", "timestamp_order": "156-1", "speaker": "Speaker_D", "text": "피부 좋아해?", "label": 1}
+{"timestamp": "09:47", "timestamp_order": "159-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "09:49", "timestamp_order": "162-1", "speaker": "Speaker_D", "text": "네.", "label": 1}
+{"timestamp": "09:52", "timestamp_order": "164-1", "speaker": "Speaker_B", "text": "그리고 네.", "label": 1}
+{"timestamp": "09:52", "timestamp_order": "165-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "09:56", "timestamp_order": "170-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "09:59", "timestamp_order": "173-1", "speaker": "Speaker_A", "text": "음, 이런 종류의 고무에 디자인을 넣는 게 가능할까요?", "label": 1}
+{"timestamp": "10:06", "timestamp_order": "174-1", "speaker": "Speaker_B", "text": "제가 아는 한, 그래야 합니다.", "label": 1}
+{"timestamp": "10:08", "timestamp_order": "175-1", "speaker": "Speaker_A", "text": "좋아요, 그냥 네라고 할게요.", "label": 1}
+{"timestamp": "10:08", "timestamp_order": "176-1", "speaker": "Speaker_A", "text": "네, 그냥 안 될 이유가 없죠.", "label": 1}
+{"timestamp": "10:08", "timestamp_order": "177-1", "speaker": "Speaker_A", "text": "좋아요.", "label": 1}
+{"timestamp": "10:08", "timestamp_order": "178-1", "speaker": "Speaker_A", "text": "운동 에너지원 아이디어가 마음에 들어요.", "label": 1}
+{"timestamp": "10:08", "timestamp_order": "179-1", "speaker": "Speaker_A", "text": "음, 사람들이 언제쯤 리모컨을 많이 움직일지는 모르겠지만, 그럴 만한 가치가 있다고 생각해요.", "label": 1}
+{"timestamp": "10:08", "timestamp_order": "180-1", "speaker": "Speaker_A", "text": "운동 에너지, 운동 에너지, 음", "label": 1}
+{"timestamp": "10:21", "timestamp_order": "181-1", "speaker": "Speaker_C", "text": "네, 그렇죠", "label": 1}
+{"timestamp": "10:22", "timestamp_order": "182-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "10:32", "timestamp_order": "185-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "10:36", "timestamp_order": "188-1", "speaker": "Speaker_D", "text": "이전에 한 번도 시도된 적이 없어서 좀 무섭기도 하죠.", "label": 1}
+{"timestamp": "10:39", "timestamp_order": "190-1", "speaker": "Speaker_D", "text": "그래서 좀 더 조사해 봐야 할 것 같네요.", "label": 1}
+{"timestamp": "10:39", "timestamp_order": "191-1", "speaker": "Speaker_D", "text": "아니면 배터리 팩을 가져가실 수 있을지도 모르겠네요.", "label": 1}
+{"timestamp": "10:42", "timestamp_order": "192-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "10:51", "timestamp_order": "199-1", "speaker": "Speaker_C", "text": "좋을 것 같아요.", "label": 1}
+{"timestamp": "10:53", "timestamp_order": "200-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "11:06", "timestamp_order": "203-1", "speaker": "Speaker_B", "text": "맞아요.", "label": 1}
+{"timestamp": "11:06", "timestamp_order": "204-1", "speaker": "Speaker_B", "text": "방금 그 생각이 났어요.", "label": 1}
+{"timestamp": "11:06", "timestamp_order": "205-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "11:06", "timestamp_order": "206-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "11:06", "timestamp_order": "207-1", "speaker": "Speaker_B", "text": "어쩌면 그게 백업이 될 수도 있겠네요.", "label": 1}
+{"timestamp": "11:14", "timestamp_order": "212-1", "speaker": "Speaker_D", "text": "하지만 약간의 빛이 필요하잖아요?", "label": 1}
+{"timestamp": "11:17", "timestamp_order": "214-1", "speaker": "Speaker_A", "text": "네, 그러면 어둠 속에서도 TV를 볼 수 있겠죠.", "label": 1}
+{"timestamp": "11:21", "timestamp_order": "215-1", "speaker": "Speaker_B", "text": "하지만 중요한 건, 태양 에너지가 항상 필요한 건 아니라는 거예요.", "label": 1}
+{"timestamp": "11:21", "timestamp_order": "217-1", "speaker": "Speaker_B", "text": "태양 에너지를 받아서 저장해 두었다가 사용할 수도 있죠.", "label": 1}
+{"timestamp": "11:21", "timestamp_order": "220-1", "speaker": "Speaker_C", "text": "어떻게 작동하는지 모르겠어요.", "label": 1}
+{"timestamp": "11:36", "timestamp_order": "226-1", "speaker": "Speaker_D", "text": "네.", "label": 1}
+{"timestamp": "11:36", "timestamp_order": "227-1", "speaker": "Speaker_D", "text": "가끔은 쿠션 밑에 밀어 넣어두는 경우도 있는 것 같아요.", "label": 1}
+{"timestamp": "11:42", "timestamp_order": "230-1", "speaker": "Speaker_A", "text": "사람들은 그런 걱정을 하고 싶어하지 않아요.", "label": 1}
+{"timestamp": "11:43", "timestamp_order": "231-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "11:43", "timestamp_order": "232-1", "speaker": "Speaker_B", "text": "아, 오늘 리모컨 충전하는 걸 깜빡했네.", "label": 1}
+{"timestamp": "11:43", "timestamp_order": "233-1", "speaker": "Speaker_B", "text": "라고 생각하게 된다면 정말 짜증 날 것 같아요.", "label": 1}
+{"timestamp": "11:43", "timestamp_order": "238-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "11:57", "timestamp_order": "244-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "11:57", "timestamp_order": "245-1", "speaker": "Speaker_A", "text": "아니면 쓸 때 집어서 가져가는 것도 좋아요.", "label": 1}
+{"timestamp": "12:00", "timestamp_order": "246-1", "speaker": "Speaker_C", "text": "네, 그럴 것 같아요.", "label": 1}
+{"timestamp": "12:05", "timestamp_order": "249-1", "speaker": "Speaker_A", "text": "좋아요.", "label": 1}
+{"timestamp": "12:05", "timestamp_order": "250-1", "speaker": "Speaker_A", "text": "멋지네요.", "label": 1}
+{"timestamp": "12:06", "timestamp_order": "251-1", "speaker": "Speaker_B", "text": "알았어요.", "label": 1}
+{"timestamp": "12:08", "timestamp_order": "252-1", "speaker": "Speaker_A", "text": "이제 프레젠테이션을 마칩니다.", "label": 1}
+{"timestamp": "12:08", "timestamp_order": "254-1", "speaker": "Speaker_A", "text": "감사합니다.", "label": 1}
+{"timestamp": "12:16", "timestamp_order": "257-1", "speaker": "Speaker_B", "text": "이제 시작입니다.", "label": 1}
+{"timestamp": "12:17", "timestamp_order": "258-1", "speaker": "Speaker_C", "text": "감사해요 .", "label": 1}
+{"timestamp": "12:48", "timestamp_order": "260-1", "speaker": "Speaker_C", "text": "왜 그런지 모르겠어?", "label": 1}
+{"timestamp": "12:48", "timestamp_order": "261-1", "speaker": "Speaker_C", "text": "아, 알겠어.", "label": 1}
+{"timestamp": "12:53", "timestamp_order": "262-1", "speaker": "Speaker_C", "text": "저거 맞아요?", "label": 1}
+{"timestamp": "12:56", "timestamp_order": "264-1", "speaker": "Speaker_C", "text": "음, 이제 인터페이스 개념에 대해 간단히 설명드리겠습니다.", "label": 1}
+{"timestamp": "13:19", "timestamp_order": "267-1", "speaker": "Speaker_C", "text": "또한 사용자가 작동을 제어하고 데이터를 입력하는 데 사용하는 명령이기도 합니다.", "label": 1}
+{"timestamp": "13:30", "timestamp_order": "268-1", "speaker": "Speaker_C", "text": "음, 사용자 인터페이스에는 두 가지 유형이 있습니다.", "label": 1}
+{"timestamp": "13:30", "timestamp_order": "269-1", "speaker": "Speaker_C", "text": "하나는 그래픽 사용자 인터페이스로, 출력 시 그림을 사용하는 방식이고, 다른 하나는 입력 제어를 위해 마우스와 같은 포인팅 장치를 사용하는 방식입니다.", "label": 1}
+{"timestamp": "13:46", "timestamp_order": "271-1", "speaker": "Speaker_A", "text": "아.", "label": 1}
+{"timestamp": "13:46", "timestamp_order": "272-1", "speaker": "Speaker_A", "text": "알았어요.", "label": 1}
+{"timestamp": "13:49", "timestamp_order": "275-1", "speaker": "Speaker_C", "text": "LCD 화면에 있는 사진인지 잘 모르겠어요.", "label": 1}
+{"timestamp": "13:49", "timestamp_order": "276-1", "speaker": "Speaker_C", "text": "아니면", "label": 1}
+{"timestamp": "14:05", "timestamp_order": "279-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "14:05", "timestamp_order": "280-1", "speaker": "Speaker_A", "text": "네, 죄송한데요?", "label": 1}
+{"timestamp": "14:05", "timestamp_order": "281-1", "speaker": "Speaker_A", "text": "음, 명령 인터페이스는 텍스트 명령을 키보드로 입력해야 하니까 숫자는 키보드와 비슷해요.", "label": 1}
+{"timestamp": "14:16", "timestamp_order": "283-1", "speaker": "Speaker_C", "text": "네.", "label": 1}
+{"timestamp": "14:16", "timestamp_order": "284-1", "speaker": "Speaker_C", "text": "네.", "label": 1}
+{"timestamp": "14:19", "timestamp_order": "287-1", "speaker": "Speaker_C", "text": "예를 들어 LCD 화면 같은 것이요.", "label": 1}
+{"timestamp": "14:26", "timestamp_order": "288-1", "speaker": "Speaker_B", "text": "음, 어떤 버튼에는 전원 버튼과 같은 기호가 있을 것 같아요.", "label": 1}
+{"timestamp": "14:26", "timestamp_order": "289-1", "speaker": "Speaker_B", "text": "텔레텍스트나, 그런 기능은 없지만 비슷한 기능을 하고 싶다면, 화면에 줄이 그어진 작은 그림 같은 게 있는데, 버튼에 있는 기호 같은 것 같아요.", "label": 1}
+{"timestamp": "14:26", "timestamp_order": "290-1", "speaker": "Speaker_B", "text": "하지만 어차피 간소화된 디스플레이를 사용한다면, 아마 그런 것에 그렇게 집중할 필요는 없을 거예요.", "label": 1}
+{"timestamp": "14:57", "timestamp_order": "298-1", "speaker": "Speaker_B", "text": "볼륨, 디스플레이 등과 같은 기호를 생각해야 할 것 같아요.", "label": 1}
+{"timestamp": "15:02", "timestamp_order": "300-1", "speaker": "Speaker_D", "text": "그럼 그것은 단지 포인팅 측면을 위한 초안 그래픽인가요?", "label": 1}
+{"timestamp": "15:08", "timestamp_order": "302-1", "speaker": "Speaker_C", "text": "아니요, 저는 그것이 리모컨 버튼에 있는 실제 기호와 관련이 있다고 생각합니다.", "label": 1}
+{"timestamp": "15:17", "timestamp_order": "304-1", "speaker": "Speaker_C", "text": "글쎄요, 작은 스크롤러 같은 것일 수도 있고, 화면에 뭔가 나타날 수도 있어요.", "label": 1}
+{"timestamp": "15:20", "timestamp_order": "305-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "15:20", "timestamp_order": "306-1", "speaker": "Speaker_A", "text": "LCD 유형의 것에 대해 이야기하고 있는 것 같아요.", "label": 1}
+{"timestamp": "15:23", "timestamp_order": "308-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "15:24", "timestamp_order": "310-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "15:26", "timestamp_order": "312-1", "speaker": "Speaker_C", "text": "하지만 음", "label": 1}
+{"timestamp": "15:33", "timestamp_order": "314-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "15:58", "timestamp_order": "319-1", "speaker": "Speaker_A", "text": "네, 버튼으로요.", "label": 1}
+{"timestamp": "15:58", "timestamp_order": "321-1", "speaker": "Speaker_A", "text": "알겠어요.", "label": 1}
+{"timestamp": "15:58", "timestamp_order": "322-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "15:58", "timestamp_order": "323-1", "speaker": "Speaker_A", "text": "그 아이디어 좋네요.", "label": 1}
+{"timestamp": "16:02", "timestamp_order": "325-1", "speaker": "Speaker_C", "text": "네, 아마도 그렇겠죠.", "label": 1}
+{"timestamp": "16:02", "timestamp_order": "326-1", "speaker": "Speaker_C", "text": "네.", "label": 1}
+{"timestamp": "16:02", "timestamp_order": "327-1", "speaker": "Speaker_C", "text": "아마도요.", "label": 1}
+{"timestamp": "16:06", "timestamp_order": "328-1", "speaker": "Speaker_C", "text": "음, 저희는 원격 제어에 명령 인터페이스가 가장 유용할 것이라고 결정했습니다.", "label": 1}
+{"timestamp": "16:06", "timestamp_order": "329-1", "speaker": "Speaker_C", "text": "덜 복잡하고 제어가 더 사용자 친화적이기 때문이죠.", "label": 1}
+{"timestamp": "16:33", "timestamp_order": "334-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "16:45", "timestamp_order": "338-1", "speaker": "Speaker_C", "text": "사용자 친화적인 리모컨을 디자인할 때 우리는 많은 인터페이스가 버튼이 너무 많아서 기능, 색상, 모양이 항상 도움이 되는 것은 아니라는 점을 명심해야 합니다.", "label": 1}
+{"timestamp": "17:13", "timestamp_order": "342-1", "speaker": "Speaker_C", "text": "그러니까, 음, 그렇다고 해서 제품 사용에 도움이 되는 건 아니잖아요.", "label": 1}
+{"timestamp": "17:35", "timestamp_order": "345-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "17:37", "timestamp_order": "346-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "17:42", "timestamp_order": "348-1", "speaker": "Speaker_A", "text": "모든 버튼을 동일한 색상으로 유지하여 단순해 보이게 하는 게 어떨까요?", "label": 1}
+{"timestamp": "17:50", "timestamp_order": "350-1", "speaker": "Speaker_D", "text": "음, 디자인 플레이트로 가면 어쩔 수 없을 것 같아요.", "label": 1}
+{"timestamp": "17:50", "timestamp_order": "351-1", "speaker": "Speaker_D", "text": "색상 충돌 때문에, 그리고 원한다면, 그래서, 그리고, 어쩌면, 디자인 결과에 따라 검은색 버튼만 고집해야 할 수도 있어요.", "label": 1}
+{"timestamp": "17:56", "timestamp_order": "352-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "17:56", "timestamp_order": "353-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "18:04", "timestamp_order": "354-1", "speaker": "Speaker_A", "text": "하지만 조명 효과는 어떨까요?", "label": 1}
+{"timestamp": "18:09", "timestamp_order": "355-1", "speaker": "Speaker_A", "text": "음, 음, 음, 버튼 하나만 건드리면 모든 버튼에 불이 들어오도록 정해 놓은 줄 알았는데.", "label": 1}
+{"timestamp": "18:09", "timestamp_order": "356-1", "speaker": "Speaker_A", "text": "만약 버튼이 검은색이면 불이 들어올 수가 없겠죠.", "label": 1}
+{"timestamp": "18:17", "timestamp_order": "357-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "18:22", "timestamp_order": "358-1", "speaker": "Speaker_D", "text": "아, 무슨 말씀인지 알겠습니다.", "label": 1}
+{"timestamp": "18:24", "timestamp_order": "360-1", "speaker": "Speaker_A", "text": "흰색이었다면 아마 빛났을 거예요.", "label": 1}
+{"timestamp": "18:24", "timestamp_order": "361-1", "speaker": "Speaker_A", "text": "고무로 만들어졌다면 말이죠.", "label": 1}
+{"timestamp": "18:26", "timestamp_order": "362-1", "speaker": "Speaker_D", "text": "아, 그럼 빛이 뒤쪽에서 오는 걸 상상하시는 거군요.", "label": 1}
+{"timestamp": "18:26", "timestamp_order": "363-1", "speaker": "Speaker_D", "text": "저는 빛이 측면에서 와서 앞쪽으로 비추는 걸 상상했어요.", "label": 1}
+{"timestamp": "18:35", "timestamp_order": "368-1", "speaker": "Speaker_A", "text": "빛은 어디서 오는 걸까?", "label": 1}
+{"timestamp": "18:38", "timestamp_order": "369-1", "speaker": "Speaker_B", "text": "내부에서 들어오는 빛 같은 게 있을 것 같아요.", "label": 1}
+{"timestamp": "18:38", "timestamp_order": "370-1", "speaker": "Speaker_B", "text": "그러니까 버튼 주변에 투명한 부분이 있거나 그런 게 있어야 할 것 같아요.", "label": 1}
+{"timestamp": "18:41", "timestamp_order": "371-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "18:47", "timestamp_order": "375-1", "speaker": "Speaker_A", "text": "네, 그리고 고무는 더 반투명한 제품이기 때문에 우리는 그것을 처리했습니다.", "label": 1}
+{"timestamp": "18:50", "timestamp_order": "376-1", "speaker": "Speaker_B", "text": "네, 네.", "label": 1}
+{"timestamp": "18:51", "timestamp_order": "377-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "18:52", "timestamp_order": "378-1", "speaker": "Speaker_B", "text": "음-음으로 대답할 수 있어야 합니다.", "label": 1}
+{"timestamp": "18:55", "timestamp_order": "381-1", "speaker": "Speaker_C", "text": "무슨 말인지 아시겠어요?", "label": 1}
+{"timestamp": "18:55", "timestamp_order": "382-1", "speaker": "Speaker_C", "text": "그냥 뒤에 있는 작은 컨트롤 버튼이거든요.", "label": 1}
+{"timestamp": "19:15", "timestamp_order": "385-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "19:20", "timestamp_order": "387-1", "speaker": "Speaker_C", "text": "그러니까, 꼭 한 가지 색깔로만 정할 필요는 없어요.", "label": 1}
+{"timestamp": "19:20", "timestamp_order": "388-1", "speaker": "Speaker_C", "text": "각 면마다 버튼 색깔을 다르게 하면 어떨까요?", "label": 1}
+{"timestamp": "19:25", "timestamp_order": "389-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "19:27", "timestamp_order": "390-1", "speaker": "Speaker_A", "text": "음, 만약 버튼이 위로 올라와 있다면요.", "label": 1}
+{"timestamp": "20:28", "timestamp_order": "398-1", "speaker": "Speaker_A", "text": "알았어요.", "label": 1}
+{"timestamp": "20:28", "timestamp_order": "399-1", "speaker": "Speaker_A", "text": "좋아요.", "label": 1}
+{"timestamp": "20:31", "timestamp_order": "401-1", "speaker": "Speaker_A", "text": "가능하다면 할 수 있을 것 같아요.", "label": 1}
+{"timestamp": "20:31", "timestamp_order": "402-1", "speaker": "Speaker_A", "text": "네, 좋은 것 같아요.", "label": 1}
+{"timestamp": "20:34", "timestamp_order": "403-1", "speaker": "Speaker_C", "text": "그럼 이게 전부예요?", "label": 1}
+{"timestamp": "20:37", "timestamp_order": "404-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "20:42", "timestamp_order": "407-1", "speaker": "Speaker_D", "text": "그럼 이제 제 차례인가요?", "label": 1}
+{"timestamp": "20:43", "timestamp_order": "408-1", "speaker": "Speaker_A", "text": "그 말은 당신이 일어났다는 뜻이에요.", "label": 1}
+{"timestamp": "20:56", "timestamp_order": "412-1", "speaker": "Speaker_D", "text": "음 .", "label": 1}
+{"timestamp": "21:02", "timestamp_order": "413-1", "speaker": "Speaker_B", "text": "아직 연결되지 않았습니다.", "label": 1}
+{"timestamp": "21:26", "timestamp_order": "414-1", "speaker": "Speaker_D", "text": "좋아요, 음, 이 보고서는 트렌드 관찰에 관한 거예요.", "label": 1}
+{"timestamp": "21:26", "timestamp_order": "415-1", "speaker": "Speaker_D", "text": "음, 기본적으로 아주 세련된 리모컨을 만든다는 저희의 목적을 달성하기 위해서죠.", "label": 1}
+{"timestamp": "21:26", "timestamp_order": "417-1", "speaker": "Speaker_D", "text": "자, 됐어요.", "label": 1}
+{"timestamp": "21:38", "timestamp_order": "418-1", "speaker": "Speaker_D", "text": "음, 알려드리자면, 이번에는 주로 웹 기반 리서치를 활용했어요.", "label": 1}
+{"timestamp": "21:38", "timestamp_order": "421-1", "speaker": "Speaker_D", "text": "음, 그 보고서들을 참고해서 패션이 어떻게 변했는지 살펴보려고요.", "label": 1}
+{"timestamp": "21:55", "timestamp_order": "422-1", "speaker": "Speaker_D", "text": "음, 제가 접한 가장 중요한 세 가지 측면을 나열해 보겠습니다.", "label": 1}
+{"timestamp": "21:55", "timestamp_order": "423-1", "speaker": "Speaker_D", "text": "음, 그리고 그 세 가지 측면은 각각 그 뒤에 오는 것보다 더 중요합니다.", "label": 1}
+{"timestamp": "21:55", "timestamp_order": "424-1", "speaker": "Speaker_D", "text": "음, 첫 번째는 현재의 기능적인 룩앤필 대신 세련된 룩앤필을 갖춰야 한다는 것입니다.", "label": 1}
+{"timestamp": "21:55", "timestamp_order": "425-1", "speaker": "Speaker_D", "text": "음, 앞서 말씀드렸듯이 이것이 우리의 최우선 과제가 되어야 합니다.", "label": 1}
+{"timestamp": "22:20", "timestamp_order": "427-1", "speaker": "Speaker_D", "text": "음, 그 부분은 잘 따라갈 수 있을 것 같습니다.", "label": 1}
+{"timestamp": "22:40", "timestamp_order": "429-1", "speaker": "Speaker_D", "text": "음, 그리고 작년과는 반대로, 소재의 질감이 스펀지처럼 부드러울 것으로 예상됩니다.", "label": 1}
+{"timestamp": "22:55", "timestamp_order": "432-1", "speaker": "Speaker_D", "text": "음, 물론이죠.", "label": 1}
+{"timestamp": "22:55", "timestamp_order": "434-1", "speaker": "Speaker_D", "text": "과일과 채소 테마는 저희에게 어울릴지 잘 모르겠네요.", "label": 1}
+{"timestamp": "22:55", "timestamp_order": "438-1", "speaker": "Speaker_D", "text": "부엌에 있는 TV에도 적용해 보는 건 어떨까요?", "label": 1}
+{"timestamp": "23:09", "timestamp_order": "440-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "23:12", "timestamp_order": "441-1", "speaker": "Speaker_D", "text": "음, 임시 점등 아이디어는 그대로 유지할 것 같네요.", "label": 1}
+{"timestamp": "23:12", "timestamp_order": "442-1", "speaker": "Speaker_D", "text": "그리고, 음, 트렌디한 디자인과 사용자 친화성을 결합하는 거죠.", "label": 1}
+{"timestamp": "23:21", "timestamp_order": "443-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "23:21", "timestamp_order": "444-1", "speaker": "Speaker_A", "text": "네, 과일과 채소가 유일한", "label": 1}
+{"timestamp": "23:29", "timestamp_order": "447-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "23:29", "timestamp_order": "448-1", "speaker": "Speaker_B", "text": "이상하네요.", "label": 1}
+{"timestamp": "23:33", "timestamp_order": "450-1", "speaker": "Speaker_A", "text": "하지만 과일과 채소를 리모컨으로 사용하는 건 좀 이상한 생각인 것 같습니다.", "label": 1}
+{"timestamp": "23:51", "timestamp_order": "455-1", "speaker": "Speaker_A", "text": "하지만 그래도 사람들의 장식에 잘 어울려야 해요.", "label": 1}
+{"timestamp": "23:55", "timestamp_order": "458-1", "speaker": "Speaker_B", "text": "저는 우리가 더 추상적인 디자인을 할 수 있을 것 같아요.", "label": 1}
+{"timestamp": "23:55", "timestamp_order": "461-1", "speaker": "Speaker_B", "text": "딸기 모양으로 꼭 만들 필요는 없지만 딸기의 곡선이나 다른 것을 가질 수 있어요.", "label": 1}
+{"timestamp": "23:55", "timestamp_order": "462-1", "speaker": "Speaker_B", "text": "아니면 딸기 씨앗이나 잎사귀.", "label": 1}
+{"timestamp": "23:55", "timestamp_order": "463-1", "speaker": "Speaker_B", "text": "아니면 정말 추상적으로 만들 수도 있는데, 그것이 우리가 하는 것과 더 잘 맞는다면요.", "label": 1}
+{"timestamp": "23:55", "timestamp_order": "464-1", "speaker": "Speaker_B", "text": "과일과 채소 대신, 그냥 단순하게 보면, 조금 그렇죠.", "label": 1}
+{"timestamp": "23:55", "timestamp_order": "465-1", "speaker": "Speaker_B", "text": "유행과는 잘 맞지 않아요.", "label": 1}
+{"timestamp": "23:55", "timestamp_order": "467-1", "speaker": "Speaker_B", "text": "하지만 어쩌면 더 직접적으로 갈 수도 있을 것 같아요.", "label": 1}
+{"timestamp": "23:55", "timestamp_order": "468-1", "speaker": "Speaker_B", "text": "잘 모르겠어요.", "label": 1}
+{"timestamp": "23:55", "timestamp_order": "469-1", "speaker": "Speaker_B", "text": "하지만 처음에는 잘 모르겠어요.", "label": 1}
+{"timestamp": "23:55", "timestamp_order": "470-1", "speaker": "Speaker_B", "text": "그냥 조금 더 차분하게 하면 될 것 같아요.", "label": 1}
+{"timestamp": "24:16", "timestamp_order": "471-1", "speaker": "Speaker_C", "text": "네, 네.", "label": 1}
+{"timestamp": "24:46", "timestamp_order": "478-1", "speaker": "Speaker_A", "text": "좀 더 차분하게 하세요.", "label": 1}
+{"timestamp": "24:46", "timestamp_order": "479-1", "speaker": "Speaker_A", "text": "네, 우리 제품에 과일 사진 같은 걸 더 많이 넣는 게 좋을 것 같아요.", "label": 1}
+{"timestamp": "24:50", "timestamp_order": "482-1", "speaker": "Speaker_D", "text": "그런데 한 가지 생각난 게 있는데, 혹시 여러분 기억하실지 모르겠지만, 킥오프 미팅에서 우리가 가장 좋아하는 동물에 대해 이야기했었어요.", "label": 1}
+{"timestamp": "24:50", "timestamp_order": "483-1", "speaker": "Speaker_D", "text": "그러니까 동물을 기반으로 한 것도 있을 수 있을 것 같아요.", "label": 1}
+{"timestamp": "24:50", "timestamp_order": "484-1", "speaker": "Speaker_D", "text": "많은 사람들이 집고양이나 강아지를 키우니까요.", "label": 1}
+{"timestamp": "25:01", "timestamp_order": "486-1", "speaker": "Speaker_D", "text": "음, 너무 구체적으로 말씀하시는 것 같네요.", "label": 1}
+{"timestamp": "25:08", "timestamp_order": "489-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "25:19", "timestamp_order": "492-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "25:31", "timestamp_order": "496-1", "speaker": "Speaker_A", "text": "그러면 파워포인트를 다시 연결해야 할 것 같아요.", "label": 1}
+{"timestamp": "25:57", "timestamp_order": "499-1", "speaker": "Speaker_A", "text": "하지만 아직도 존재하잖아요, 그렇죠?", "label": 1}
+{"timestamp": "25:57", "timestamp_order": "500-1", "speaker": "Speaker_A", "text": "알겠어요.", "label": 1}
+{"timestamp": "25:59", "timestamp_order": "501-1", "speaker": "Speaker_C", "text": "어디에 저장해야 하나요?", "label": 1}
+{"timestamp": "26:03", "timestamp_order": "502-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "26:17", "timestamp_order": "503-1", "speaker": "Speaker_A", "text": "좋아요 .", "label": 1}
+{"timestamp": "26:20", "timestamp_order": "504-1", "speaker": "Speaker_A", "text": "지금 당장 이것을 팝업으로 만들려고 노력하고 있어요.", "label": 1}
+{"timestamp": "26:31", "timestamp_order": "505-1", "speaker": "Speaker_A", "text": "좋아요.", "label": 1}
+{"timestamp": "26:34", "timestamp_order": "507-1", "speaker": "Speaker_A", "text": "좋아요, 그럼 이제 정확히 뭘 할지 결정해야 해요.", "label": 1}
+{"timestamp": "26:39", "timestamp_order": "511-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "26:43", "timestamp_order": "512-1", "speaker": "Speaker_A", "text": "아, 이런 설정에서는 쓸 수가 없어요.", "label": 1}
+{"timestamp": "26:50", "timestamp_order": "514-1", "speaker": "Speaker_A", "text": "음, 그렇죠.", "label": 1}
+{"timestamp": "26:51", "timestamp_order": "515-1", "speaker": "Speaker_C", "text": "그냥 탈출하는 게 좋을 것 같아.", "label": 1}
+{"timestamp": "26:55", "timestamp_order": "517-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "26:55", "timestamp_order": "518-1", "speaker": "Speaker_A", "text": "좋아요.", "label": 1}
+{"timestamp": "26:55", "timestamp_order": "519-1", "speaker": "Speaker_A", "text": "음, 다시 결정으로 돌아가서, 에너지, 운동으로 결정했죠?", "label": 1}
+{"timestamp": "26:55", "timestamp_order": "520-1", "speaker": "Speaker_A", "text": "좋아요, 좋아요.", "label": 1}
+{"timestamp": "27:01", "timestamp_order": "521-1", "speaker": "Speaker_B", "text": "키네틱 맞아요.", "label": 1}
+{"timestamp": "27:18", "timestamp_order": "526-1", "speaker": "Speaker_A", "text": "내 말은, 배터리가 없다면 사람들은 그냥 배터리를 쓸까요?", "label": 1}
+{"timestamp": "27:22", "timestamp_order": "527-1", "speaker": "Speaker_B", "text": "아마도 우리는 운동 에너지를 사용할 수 있을 것 같아요.", "label": 1}
+{"timestamp": "27:29", "timestamp_order": "531-1", "speaker": "Speaker_B", "text": "네, 그럴 것 같아요.", "label": 1}
+{"timestamp": "27:29", "timestamp_order": "532-1", "speaker": "Speaker_B", "text": "하지만 아닐 것 같아요.", "label": 1}
+{"timestamp": "27:29", "timestamp_order": "534-1", "speaker": "Speaker_B", "text": "어서 해내세요.", "label": 1}
+{"timestamp": "27:33", "timestamp_order": "536-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "27:33", "timestamp_order": "537-1", "speaker": "Speaker_A", "text": "안 될 이유가 없잖아요, 그렇죠?", "label": 1}
+{"timestamp": "27:42", "timestamp_order": "538-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "27:42", "timestamp_order": "539-1", "speaker": "Speaker_A", "text": "그게 우리의 판매 포인트 중 하나가 될 수도 있겠네요.", "label": 1}
+{"timestamp": "27:44", "timestamp_order": "541-1", "speaker": "Speaker_B", "text": "완전히 운동 에너지일 수도 있겠네요.", "label": 1}
+{"timestamp": "27:45", "timestamp_order": "543-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "27:45", "timestamp_order": "544-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "27:45", "timestamp_order": "545-1", "speaker": "Speaker_A", "text": "환경을 생각하는 것 같아요.", "label": 1}
+{"timestamp": "27:48", "timestamp_order": "546-1", "speaker": "Speaker_D", "text": "그럼 효과가 없으면 살짝 흔들어 주면 다시 살아나는 건가요?", "label": 1}
+{"timestamp": "27:48", "timestamp_order": "547-1", "speaker": "Speaker_D", "text": "알겠어요.", "label": 1}
+{"timestamp": "27:55", "timestamp_order": "551-1", "speaker": "Speaker_A", "text": "좋아요, 다음 결정은 칩 온 프린트입니다.", "label": 1}
+{"timestamp": "27:55", "timestamp_order": "552-1", "speaker": "Speaker_A", "text": "정확히 무슨 뜻인지는 잘 모르겠네요.", "label": 1}
+{"timestamp": "28:11", "timestamp_order": "555-1", "speaker": "Speaker_B", "text": "네, LCD가 없는 거였죠.", "label": 1}
+{"timestamp": "28:11", "timestamp_order": "557-1", "speaker": "Speaker_B", "text": "스크롤 버튼을 원하는지, 아니면 푸시 버튼만 원하는지에 따라 다르겠죠.", "label": 1}
+{"timestamp": "28:22", "timestamp_order": "561-1", "speaker": "Speaker_C", "text": "네.", "label": 1}
+{"timestamp": "28:22", "timestamp_order": "562-1", "speaker": "Speaker_C", "text": "저는 그렇지 않아요.", "label": 1}
+{"timestamp": "28:23", "timestamp_order": "563-1", "speaker": "Speaker_B", "text": "음, 그게 간단한 거죠.", "label": 1}
+{"timestamp": "28:23", "timestamp_order": "564-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "28:24", "timestamp_order": "565-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "28:33", "timestamp_order": "568-1", "speaker": "Speaker_A", "text": "좋아요.", "label": 1}
+{"timestamp": "28:33", "timestamp_order": "569-1", "speaker": "Speaker_A", "text": "중간이라고 하나요, 아니면 보통이라고 하나요?", "label": 1}
+{"timestamp": "28:41", "timestamp_order": "572-1", "speaker": "Speaker_D", "text": "아, 규칙적인 것은 간단하지 않은가요?", "label": 1}
+{"timestamp": "28:43", "timestamp_order": "573-1", "speaker": "Speaker_C", "text": "네.", "label": 1}
+{"timestamp": "28:43", "timestamp_order": "576-1", "speaker": "Speaker_B", "text": "네, 조명도 설치하기로 했기 때문에 그렇습니다.", "label": 1}
+{"timestamp": "28:46", "timestamp_order": "577-1", "speaker": "Speaker_D", "text": "맞아 맞아 맞아.", "label": 1}
+{"timestamp": "28:48", "timestamp_order": "578-1", "speaker": "Speaker_A", "text": "좋아요, 그리고 케이스도요.", "label": 1}
+{"timestamp": "28:48", "timestamp_order": "579-1", "speaker": "Speaker_A", "text": "음, 이건 모양이나 재질에 따라 달라지는 건가요?", "label": 1}
+{"timestamp": "28:55", "timestamp_order": "581-1", "speaker": "Speaker_B", "text": "저는 이것이 고무로 된 아주 바깥쪽 케이스와 같다고 생각합니다.", "label": 1}
+{"timestamp": "29:01", "timestamp_order": "583-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "29:01", "timestamp_order": "584-1", "speaker": "Speaker_A", "text": "음, 플라스틱에 고무 코팅을 한 것 같아요.", "label": 1}
+{"timestamp": "29:01", "timestamp_order": "585-1", "speaker": "Speaker_A", "text": "플라스틱에 고무를 입힌 것 같아요.", "label": 1}
+{"timestamp": "29:04", "timestamp_order": "587-1", "speaker": "Speaker_B", "text": "맞아요.", "label": 1}
+{"timestamp": "29:04", "timestamp_order": "589-1", "speaker": "Speaker_C", "text": "네, 플라스틱 코트예요.", "label": 1}
+{"timestamp": "29:14", "timestamp_order": "592-1", "speaker": "Speaker_B", "text": "아직도 그걸 위해 노력하고 있어요.", "label": 1}
+{"timestamp": "29:14", "timestamp_order": "593-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "29:15", "timestamp_order": "594-1", "speaker": "Speaker_A", "text": "네, 교체 가능한 접시요.", "label": 1}
+{"timestamp": "29:27", "timestamp_order": "597-1", "speaker": "Speaker_A", "text": "이제 당신이 빛날 시간입니다.", "label": 1}
+{"timestamp": "29:29", "timestamp_order": "600-1", "speaker": "Speaker_C", "text": "음", "label": 1}
+{"timestamp": "29:38", "timestamp_order": "602-1", "speaker": "Speaker_D", "text": "명령 인터페이스라고 불렸던 것 같아요.", "label": 1}
+{"timestamp": "29:43", "timestamp_order": "608-1", "speaker": "Speaker_B", "text": "아야야.", "label": 1}
+{"timestamp": "29:56", "timestamp_order": "614-1", "speaker": "Speaker_A", "text": "좋아요, 보충제도요.", "label": 1}
+{"timestamp": "30:02", "timestamp_order": "617-1", "speaker": "Speaker_C", "text": "나는 그것이 잘 된 것 같아요.", "label": 1}
+{"timestamp": "30:02", "timestamp_order": "618-1", "speaker": "Speaker_C", "text": "우리는 아직 아무런 결정도 내리지 않았어요.", "label": 1}
+{"timestamp": "30:08", "timestamp_order": "619-1", "speaker": "Speaker_C", "text": "버튼 기능, 색상, 형태가 일관되게 사용되지 않는 부분에 대해 어떻게 할 건가요?", "label": 1}
+{"timestamp": "30:08", "timestamp_order": "620-1", "speaker": "Speaker_C", "text": "이런 문제를 해결할 아이디어는 무엇인가요?", "label": 1}
+{"timestamp": "30:08", "timestamp_order": "621-1", "speaker": "Speaker_C", "text": "인터페이스마다 매우 다르고, 인터페이스의 차이와 버튼 구성이 달라서 혼란스러울 수 있다는 걸 아시죠?", "label": 1}
+{"timestamp": "30:27", "timestamp_order": "622-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "30:35", "timestamp_order": "624-1", "speaker": "Speaker_A", "text": "음, 여기서 우리의 선택은 무엇일까요?", "label": 1}
+{"timestamp": "30:43", "timestamp_order": "625-1", "speaker": "Speaker_C", "text": "버튼은 어디에 위치해야 할까요?", "label": 1}
+{"timestamp": "30:43", "timestamp_order": "626-1", "speaker": "Speaker_C", "text": "어떤 기능을 할 수 있을까요?", "label": 1}
+{"timestamp": "30:56", "timestamp_order": "630-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "30:58", "timestamp_order": "631-1", "speaker": "Speaker_C", "text": "참 예쁘네요.", "label": 1}
+{"timestamp": "30:58", "timestamp_order": "632-1", "speaker": "Speaker_C", "text": "기본적인 버튼 기능만 있어요.", "label": 1}
+{"timestamp": "31:09", "timestamp_order": "633-1", "speaker": "Speaker_A", "text": "음, 그렇죠.", "label": 1}
+{"timestamp": "31:17", "timestamp_order": "637-1", "speaker": "Speaker_B", "text": "네, 최소한이었어요.", "label": 1}
+{"timestamp": "31:17", "timestamp_order": "638-1", "speaker": "Speaker_B", "text": "그게 전부는 아니었어요.", "label": 1}
+{"timestamp": "31:17", "timestamp_order": "639-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "31:19", "timestamp_order": "641-1", "speaker": "Speaker_A", "text": "네, 실제로는 거의 사용되지 않았습니다.", "label": 1}
+{"timestamp": "31:23", "timestamp_order": "642-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "31:29", "timestamp_order": "644-1", "speaker": "Speaker_C", "text": "네, 각 텔레비전마다요.", "label": 1}
+{"timestamp": "31:45", "timestamp_order": "649-1", "speaker": "Speaker_D", "text": "음, 관련성은 10점 만점에 1.", "label": 1}
+{"timestamp": "31:45", "timestamp_order": "650-1", "speaker": "Speaker_D", "text": "5점으로 평가됐어요.", "label": 1}
+{"timestamp": "31:50", "timestamp_order": "652-1", "speaker": "Speaker_B", "text": "음.", "label": 1}
+{"timestamp": "31:50", "timestamp_order": "654-1", "speaker": "Speaker_B", "text": "자체 버튼이 있어서 리모컨에 따로 있을 필요는 없을 것 같아요.", "label": 1}
+{"timestamp": "31:52", "timestamp_order": "655-1", "speaker": "Speaker_C", "text": "그렇게 자주 바뀌지는 않잖아요.", "label": 1}
+{"timestamp": "31:57", "timestamp_order": "656-1", "speaker": "Speaker_A", "text": "네, 그렇습니다.", "label": 1}
+{"timestamp": "31:57", "timestamp_order": "657-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "32:03", "timestamp_order": "658-1", "speaker": "Speaker_A", "text": "네, 그리고 TV도 다양하죠.", "label": 1}
+{"timestamp": "32:03", "timestamp_order": "659-1", "speaker": "Speaker_A", "text": "우리처럼 모든 종류의 TV에 공통으로 사용할 수 있는 리모컨을 만들 수 있을지는 모르겠네요.", "label": 1}
+{"timestamp": "32:07", "timestamp_order": "661-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "32:07", "timestamp_order": "662-1", "speaker": "Speaker_B", "text": "그래서 우리는 전력, 채널, 볼륨만 고려하고 있어요.", "label": 1}
+{"timestamp": "32:15", "timestamp_order": "665-1", "speaker": "Speaker_D", "text": "다른 하나는 오디오 설정이었어요.", "label": 1}
+{"timestamp": "32:15", "timestamp_order": "668-1", "speaker": "Speaker_D", "text": "어떤 TV에는 거실 스타일, 영화 스타일 같은 옵션이 있는데, 음, 한 시간에 여덟 번 정도 사용한다고 하더라고요.", "label": 1}
+{"timestamp": "32:15", "timestamp_order": "671-1", "speaker": "Speaker_D", "text": "음, 두 가지의 관련성이 있네요.", "label": 1}
+{"timestamp": "32:35", "timestamp_order": "675-1", "speaker": "Speaker_A", "text": "아.", "label": 1}
+{"timestamp": "32:42", "timestamp_order": "677-1", "speaker": "Speaker_D", "text": "글쎄, 그건 내 것보다 별로 좋지 않아.", "label": 1}
+{"timestamp": "32:47", "timestamp_order": "680-1", "speaker": "Speaker_C", "text": "다른 기능이 있다면 어리석은 것 같지만, 오디오 버튼만 있으면 좋겠습니다.", "label": 1}
+{"timestamp": "32:54", "timestamp_order": "683-1", "speaker": "Speaker_A", "text": "네, 저는 그렇게 생각하지 않아요.", "label": 1}
+{"timestamp": "32:54", "timestamp_order": "684-1", "speaker": "Speaker_A", "text": "국제적인 인기에 문제가 있는 것 같아요.", "label": 1}
+{"timestamp": "32:54", "timestamp_order": "686-1", "speaker": "Speaker_A", "text": "하지만 다들 이런 걸 가지고 있고, 다 똑같다는 걸 알고 있어요.", "label": 1}
+{"timestamp": "33:08", "timestamp_order": "687-1", "speaker": "Speaker_D", "text": "네, 마케팅에 영향을 미칠 것 같아요.", "label": 1}
+{"timestamp": "33:08", "timestamp_order": "688-1", "speaker": "Speaker_D", "text": "음, 이렇게 하면 리모컨에 버튼이 너무 많아서 짜증 나지 않니?", "label": 1}
+{"timestamp": "33:08", "timestamp_order": "690-1", "speaker": "Speaker_D", "text": "이 리모컨에는 채널, 볼륨, 채널, 전원 버튼이 다 있잖아요.", "label": 1}
+{"timestamp": "33:15", "timestamp_order": "692-1", "speaker": "Speaker_B", "text": "네, 맞아요.", "label": 1}
+{"timestamp": "33:15", "timestamp_order": "693-1", "speaker": "Speaker_B", "text": "그냥 기본이라는 점을 강조해서 판매 포인트를 만들면 돼요.", "label": 1}
+{"timestamp": "33:15", "timestamp_order": "694-1", "speaker": "Speaker_B", "text": "네, 정말 훌륭해요.", "label": 1}
+{"timestamp": "33:16", "timestamp_order": "695-1", "speaker": "Speaker_C", "text": "그건 영업용일 수도 있겠네요.", "label": 1}
+{"timestamp": "33:21", "timestamp_order": "699-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "33:23", "timestamp_order": "702-1", "speaker": "Speaker_A", "text": "좋아요.", "label": 1}
+{"timestamp": "33:23", "timestamp_order": "703-1", "speaker": "Speaker_A", "text": "그리고, 좋아요, 마무리로, 5분밖에 안 남았으니까.", "label": 1}
+{"timestamp": "33:23", "timestamp_order": "705-1", "speaker": "Speaker_A", "text": "음,", "label": 1}
+{"timestamp": "33:37", "timestamp_order": "707-1", "speaker": "Speaker_A", "text": "잠깐만요.", "label": 1}
+{"timestamp": "33:39", "timestamp_order": "709-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "33:40", "timestamp_order": "710-1", "speaker": "Speaker_A", "text": "네, 그리고 음, 사용자 인터페이스 디자인이요.", "label": 1}
+{"timestamp": "33:54", "timestamp_order": "715-1", "speaker": "Speaker_A", "text": "그리고, 음, 귀하의 개인 코치가 무슨 일이 일어나야 하는지에 대한 나머지 정보를 알려줄 것입니다.", "label": 1}
+{"timestamp": "33:59", "timestamp_order": "717-1", "speaker": "Speaker_B", "text": "음, 과일과 채소에 대해 질문이 하나 있습니다.", "label": 1}
+{"timestamp": "33:59", "timestamp_order": "719-1", "speaker": "Speaker_B", "text": "비록 저희에게는 명확하지 않더라도 설문조사 결과가 그렇게 나왔다면, 아마 과일과 채소를 사용하는 방향으로 나아가야 할 것 같습니다.", "label": 1}
+{"timestamp": "34:01", "timestamp_order": "722-1", "speaker": "Speaker_A", "text": "좋아요.", "label": 1}
+{"timestamp": "34:01", "timestamp_order": "723-1", "speaker": "Speaker_A", "text": "그럼, 다른 분도 말씀해주실 분 계신가요?", "label": 1}
+{"timestamp": "34:08", "timestamp_order": "726-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "34:38", "timestamp_order": "730-1", "speaker": "Speaker_B", "text": "네, 그렇죠.", "label": 1}
+{"timestamp": "34:40", "timestamp_order": "732-1", "speaker": "Speaker_C", "text": "제 생각엔 이거 어떻게 생각하세요?", "label": 1}
+{"timestamp": "34:40", "timestamp_order": "733-1", "speaker": "Speaker_C", "text": "음, 숫자가 포도송이처럼 생긴 게 아니라 보라색에 삼각형 모양인 것 같아요.", "label": 1}
+{"timestamp": "34:50", "timestamp_order": "734-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "34:52", "timestamp_order": "735-1", "speaker": "Speaker_D", "text": "네, 버튼으로 재미있게 놀 수도 있어요.", "label": 1}
+{"timestamp": "34:54", "timestamp_order": "737-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "35:11", "timestamp_order": "743-1", "speaker": "Speaker_B", "text": "까다롭네요.", "label": 1}
+{"timestamp": "35:11", "timestamp_order": "744-1", "speaker": "Speaker_B", "text": "고려해야 할 사항이 많네요.", "label": 1}
+{"timestamp": "35:11", "timestamp_order": "745-1", "speaker": "Speaker_B", "text": "음.", "label": 1}
+{"timestamp": "35:14", "timestamp_order": "747-1", "speaker": "Speaker_A", "text": "네, 그렇습니다.", "label": 1}
+{"timestamp": "35:19", "timestamp_order": "750-1", "speaker": "Speaker_A", "text": "좋아요, 그럼 과일과 채소 테마로 할게요.", "label": 1}
+{"timestamp": "35:19", "timestamp_order": "751-1", "speaker": "Speaker_A", "text": "좋아요.", "label": 1}
+{"timestamp": "35:19", "timestamp_order": "752-1", "speaker": "Speaker_A", "text": "그리고, 음, 30분 후에 다시 모이겠습니다.", "label": 1}
+{"timestamp": "35:19", "timestamp_order": "753-1", "speaker": "Speaker_A", "text": "좋아요.", "label": 1}
+{"timestamp": "35:19", "timestamp_order": "754-1", "speaker": "Speaker_A", "text": "안녕.", "label": 1}
+{"timestamp": "35:19", "timestamp_order": "756-1", "speaker": "Speaker_A", "text": "아, 내가 방금 뭐 했지?", "label": 1}
+{"timestamp": "35:19", "timestamp_order": "757-1", "speaker": "Speaker_A", "text": "알았어요.", "label": 1}
+{"timestamp": "35:25", "timestamp_order": "758-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "35:25", "timestamp_order": "759-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}

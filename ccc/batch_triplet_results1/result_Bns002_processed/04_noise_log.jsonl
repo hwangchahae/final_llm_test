@@ -1,0 +1,763 @@
+{"timestamp": "00:03", "timestamp_order": "3-1", "speaker": "Speaker_A", "text": "감사합니다.", "label": 1}
+{"timestamp": "00:03", "timestamp_order": "4-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "00:04", "timestamp_order": "7-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "00:05", "timestamp_order": "10-1", "speaker": "Speaker_F", "text": "오늘은 미구엘 산체스 씨가 애드혹 네트워크 관련 연구에 대해 발표해 주시겠습니다.", "label": 1}
+{"timestamp": "00:26", "timestamp_order": "13-1", "speaker": "Speaker_F", "text": "그리고 조르디, 당신의 작업에 대해 한두 문장 정도 말씀해 주시겠어요?", "label": 1}
+{"timestamp": "00:40", "timestamp_order": "16-1", "speaker": "Speaker_F", "text": "네, 짧은 자기소개만 해주세요.", "label": 1}
+{"timestamp": "00:40", "timestamp_order": "17-1", "speaker": "Speaker_F", "text": "아주 짧은 자기소개를 해주세요.", "label": 1}
+{"timestamp": "00:42", "timestamp_order": "19-1", "speaker": "Speaker_E", "text": "음, 저는 광대역 통신 분야에서 일하고 있어요.", "label": 1}
+{"timestamp": "00:46", "timestamp_order": "20-1", "speaker": "Speaker_F", "text": "아, 죄송합니다.", "label": 1}
+{"timestamp": "00:46", "timestamp_order": "21-1", "speaker": "Speaker_F", "text": "잠깐 방해가 됐습니다.", "label": 1}
+{"timestamp": "00:57", "timestamp_order": "27-1", "speaker": "Speaker_F", "text": "이거처럼.", "label": 1}
+{"timestamp": "01:00", "timestamp_order": "29-1", "speaker": "Speaker_E", "text": "아, 훨씬 더 편안하네요.", "label": 1}
+{"timestamp": "01:01", "timestamp_order": "30-1", "speaker": "Speaker_F", "text": "네?", "label": 1}
+{"timestamp": "01:01", "timestamp_order": "31-1", "speaker": "Speaker_F", "text": "알았어요.", "label": 1}
+{"timestamp": "01:01", "timestamp_order": "32-1", "speaker": "Speaker_B", "text": "그런 다음 ,", "label": 1}
+{"timestamp": "01:06", "timestamp_order": "33-1", "speaker": "Speaker_E", "text": "저는 광대역 통신 그룹에서 일하고 있어요.", "label": 1}
+{"timestamp": "01:30", "timestamp_order": "38-1", "speaker": "Speaker_B", "text": "이 제안들은 다음을 얻으려고 노력하고 있습니다.", "label": 1}
+{"timestamp": "01:37", "timestamp_order": "40-1", "speaker": "Speaker_F", "text": "감사합니다.", "label": 1}
+{"timestamp": "02:05", "timestamp_order": "42-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "02:20", "timestamp_order": "45-1", "speaker": "Speaker_F", "text": "음.", "label": 1}
+{"timestamp": "02:21", "timestamp_order": "48-1", "speaker": "Speaker_F", "text": "음, 오늘은 그렇게 어려운 기술적인 논의는 없을 것 같습니다.", "label": 1}
+{"timestamp": "02:24", "timestamp_order": "52-1", "speaker": "Speaker_F", "text": "알았어요.", "label": 1}
+{"timestamp": "02:24", "timestamp_order": "53-1", "speaker": "Speaker_F", "text": "네.", "label": 1}
+{"timestamp": "02:26", "timestamp_order": "54-1", "speaker": "Speaker_F", "text": "알았어요.", "label": 1}
+{"timestamp": "02:26", "timestamp_order": "55-1", "speaker": "Speaker_F", "text": "네.", "label": 1}
+{"timestamp": "02:31", "timestamp_order": "57-1", "speaker": "Speaker_B", "text": "음, 글쎄요,", "label": 1}
+{"timestamp": "02:35", "timestamp_order": "59-1", "speaker": "Speaker_F", "text": "모든 게 끝났어요.", "label": 1}
+{"timestamp": "02:35", "timestamp_order": "60-1", "speaker": "Speaker_F", "text": "그럼, 음, 이 숫자를 읽어야 해요.", "label": 1}
+{"timestamp": "06:21", "timestamp_order": "63-1", "speaker": "Speaker_F", "text": "하지만 임시 네트워크를 구성하여 한 노드를 외부 세계에 연결하는 것도 가능할 것 같습니다.", "label": 1}
+{"timestamp": "06:28", "timestamp_order": "64-1", "speaker": "Speaker_B", "text": "nnn, 패킷을 전송할 네트워크", "label": 1}
+{"timestamp": "06:29", "timestamp_order": "65-1", "speaker": "Speaker_F", "text": "예를 들어, 내가 생각하는 것은 자동차가 있고 거기에 다양한 장치를 연결하면 서로 통신할 수 있다는 것입니다.", "label": 1}
+{"timestamp": "06:40", "timestamp_order": "68-1", "speaker": "Speaker_F", "text": "그래서 어떤 종류의 작업이 있어요", "label": 1}
+{"timestamp": "06:42", "timestamp_order": "69-1", "speaker": "Speaker_F", "text": "어, 임시 네트워크 내의 한 노드가 외부 세계로의 연결을 제공하는 거 맞죠?", "label": 1}
+{"timestamp": "06:42", "timestamp_order": "70-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "06:46", "timestamp_order": "73-1", "speaker": "Speaker_B", "text": "괜찮아요.", "label": 1}
+{"timestamp": "06:47", "timestamp_order": "76-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "06:54", "timestamp_order": "78-1", "speaker": "Speaker_B", "text": "이 네트워크에서 다른 네트워크에 연결하려면", "label": 1}
+{"timestamp": "06:54", "timestamp_order": "80-1", "speaker": "Speaker_B", "text": "제가 s를 사용하거나 어떤 종류의 전원 제어 기능을 가지고 있다고 가정해 보겠습니다.", "label": 1}
+{"timestamp": "07:04", "timestamp_order": "82-1", "speaker": "Speaker_B", "text": "음, 알겠습니다.", "label": 1}
+{"timestamp": "07:04", "timestamp_order": "83-1", "speaker": "Speaker_B", "text": "여기 이 네트워크를 사용하기 위한 여러 가지 제안된 시나리오가 있습니다.", "label": 1}
+{"timestamp": "07:11", "timestamp_order": "84-1", "speaker": "Speaker_B", "text": "네트워크를 사용할 수 없습니다.", "label": 1}
+{"timestamp": "07:11", "timestamp_order": "85-1", "speaker": "Speaker_B", "text": "알겠어요?", "label": 1}
+{"timestamp": "08:47", "timestamp_order": "87-1", "speaker": "Speaker_B", "text": "예를 들어, 숲이라고 합시다.", "label": 1}
+{"timestamp": "08:49", "timestamp_order": "88-1", "speaker": "Speaker_B", "text": "그리고 우리는 할 수 있어요", "label": 1}
+{"timestamp": "08:52", "timestamp_order": "89-1", "speaker": "Speaker_B", "text": "정보를 좀 가져가다", "label": 1}
+{"timestamp": "08:53", "timestamp_order": "90-1", "speaker": "Speaker_B", "text": "어, 예를 들어 소방의 경우,", "label": 1}
+{"timestamp": "09:02", "timestamp_order": "92-1", "speaker": "Speaker_B", "text": "그리고 어", "label": 1}
+{"timestamp": "09:03", "timestamp_order": "93-1", "speaker": "Speaker_B", "text": "이러한 센서는 예를 들어 다음과 같습니다.", "label": 1}
+{"timestamp": "09:22", "timestamp_order": "97-1", "speaker": "Speaker_C", "text": "음, 정말 임시 네트워크인가요?", "label": 1}
+{"timestamp": "09:27", "timestamp_order": "100-1", "speaker": "Speaker_C", "text": "그러면 센서가 어디에 있는지 알 수 없기 때문입니다.", "label": 1}
+{"timestamp": "09:34", "timestamp_order": "105-1", "speaker": "Speaker_B", "text": "흥미로운 질문이네요.", "label": 1}
+{"timestamp": "09:34", "timestamp_order": "106-1", "speaker": "Speaker_B", "text": "어, 애드혹 네트워크의 가장 중요한 점은 노드가 이동한다는 게 아니에요.", "label": 1}
+{"timestamp": "09:46", "timestamp_order": "109-1", "speaker": "Speaker_B", "text": "그 아이디어는", "label": 1}
+{"timestamp": "05:09", "timestamp_order": "110-1", "speaker": "Speaker_B", "text": "그리고 이게 다른 종류의 네트워크와 다른 점이죠.", "label": 1}
+{"timestamp": "05:09", "timestamp_order": "111-1", "speaker": "Speaker_F", "text": "음, 미구엘, 이런 종류의 제안에 대해 알고 있나요?", "label": 1}
+{"timestamp": "05:16", "timestamp_order": "113-1", "speaker": "Speaker_B", "text": "알잖아 ,", "label": 1}
+{"timestamp": "05:22", "timestamp_order": "114-1", "speaker": "Speaker_B", "text": "음, 셀룰러 네트워크는 인프라 기반 네트워크라고 할 수 있겠네요.", "label": 1}
+{"timestamp": "05:30", "timestamp_order": "115-1", "speaker": "Speaker_B", "text": "이런 종류의 애드혹 네트워크에서는 네트워크 노드를 제외하고는 아무것도 없습니다.", "label": 1}
+{"timestamp": "05:30", "timestamp_order": "116-1", "speaker": "Speaker_B", "text": "따라서 이 네트워크는 다음과 같은 경우에 유용할 수 있습니다.", "label": 1}
+{"timestamp": "05:43", "timestamp_order": "118-1", "speaker": "Speaker_F", "text": "확실히 보장된 수준은 아닙니다.", "label": 1}
+{"timestamp": "05:46", "timestamp_order": "119-1", "speaker": "Speaker_F", "text": "하지만 제어 부하 수준 같은 게 가능할 것 같아요.", "label": 1}
+{"timestamp": "05:53", "timestamp_order": "122-1", "speaker": "Speaker_B", "text": "음 재앙 재앙적인 사건,", "label": 1}
+{"timestamp": "05:57", "timestamp_order": "123-1", "speaker": "Speaker_B", "text": "또는 네트워크를 사용할 수 있는 경우에도 여러 가지 이유로 사용 가능한 네트워크를 사용하고 싶지 않은 경우도 있습니다.", "label": 1}
+{"timestamp": "05:59", "timestamp_order": "125-1", "speaker": "Speaker_F", "text": "네, 나중에 오프라인에서 이야기하면 돼요.", "label": 1}
+{"timestamp": "05:59", "timestamp_order": "126-1", "speaker": "Speaker_F", "text": "알겠어요.", "label": 1}
+{"timestamp": "06:07", "timestamp_order": "129-1", "speaker": "Speaker_B", "text": "이 후기 사례는 예를 들어 군사 시스템에서의 사용이 될 수 있습니다.", "label": 1}
+{"timestamp": "06:12", "timestamp_order": "131-1", "speaker": "Speaker_B", "text": "분명한 이유 때문에 다른 적의 네트워크 인프라를 사용하고 싶지 않을 수도 있습니다.", "label": 1}
+{"timestamp": "06:18", "timestamp_order": "132-1", "speaker": "Speaker_B", "text": "라우팅 기능은 다음과 같습니다.", "label": 1}
+{"timestamp": "07:17", "timestamp_order": "133-1", "speaker": "Speaker_B", "text": "예를 들어, NASA는 이러한 네트워크, 이러한 임시 네트워크를 사용하여 여러 개의 프로브를 보내는 임무를 연구하고 있습니다.", "label": 1}
+{"timestamp": "07:26", "timestamp_order": "134-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "07:31", "timestamp_order": "135-1", "speaker": "Speaker_B", "text": "그래서 예를 들어, 여러분 모두는 이것을 알고 있습니다.", "label": 1}
+{"timestamp": "07:31", "timestamp_order": "136-1", "speaker": "Speaker_B", "text": "마지막 아틀라스, 마지막 성공적인 화성 임무, 세포 우주선은 단 하나였습니다.", "label": 1}
+{"timestamp": "07:43", "timestamp_order": "137-1", "speaker": "Speaker_B", "text": "그리고 기지국 주변을 돌아다니고 있었습니다.", "label": 1}
+{"timestamp": "07:51", "timestamp_order": "139-1", "speaker": "Speaker_B", "text": "이 네트워크의 게이트웨이 노드는 물론 모바일 노드 하나뿐이었습니다.", "label": 1}
+{"timestamp": "07:51", "timestamp_order": "140-1", "speaker": "Speaker_B", "text": "아무것도 막을 수 없습니다.", "label": 1}
+{"timestamp": "08:14", "timestamp_order": "142-1", "speaker": "Speaker_F", "text": "네, 하지만 폭동 사건에서도 실제로 그런 일이 일어났어요.", "label": 1}
+{"timestamp": "08:15", "timestamp_order": "143-1", "speaker": "Speaker_B", "text": "그리고 물론 모든 다른 노드도 일종의 임시 네트워킹, 임시 라우팅을 사용할 수 있습니다.", "label": 1}
+{"timestamp": "08:21", "timestamp_order": "147-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "08:21", "timestamp_order": "148-1", "speaker": "Speaker_B", "text": "괜찮아요.", "label": 1}
+{"timestamp": "08:22", "timestamp_order": "150-1", "speaker": "Speaker_F", "text": "네, 네.", "label": 1}
+{"timestamp": "08:24", "timestamp_order": "151-1", "speaker": "Speaker_B", "text": "그래서, 이것들은 다소 어", "label": 1}
+{"timestamp": "08:30", "timestamp_order": "153-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "08:34", "timestamp_order": "155-1", "speaker": "Speaker_B", "text": "또는 다른 응용 분야는 소위 센서 네트워크입니다.", "label": 1}
+{"timestamp": "03:44", "timestamp_order": "157-1", "speaker": "Speaker_B", "text": "아시다시피, 임시 네트워크는 무선 노드로 구성되어 있습니다.", "label": 1}
+{"timestamp": "03:54", "timestamp_order": "160-1", "speaker": "Speaker_B", "text": "그리고, 이 네트워크에는 네트워크 인프라가 없습니다.", "label": 1}
+{"timestamp": "03:56", "timestamp_order": "163-1", "speaker": "Speaker_C", "text": "그러니까 먼저 노드 2를 찾고, 그다음 노드 3을 찾는 식으로 하면 됩니다.", "label": 1}
+{"timestamp": "04:03", "timestamp_order": "168-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "04:05", "timestamp_order": "170-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "04:26", "timestamp_order": "177-1", "speaker": "Speaker_F", "text": "예를 들어, 이것은 다른 부분이 1에서 4까지일 수 있다는 것입니다.", "label": 1}
+{"timestamp": "04:29", "timestamp_order": "178-1", "speaker": "Speaker_B", "text": "음, 너무 멀리 떨어져 있어요.", "label": 1}
+{"timestamp": "04:31", "timestamp_order": "180-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "04:31", "timestamp_order": "181-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "04:35", "timestamp_order": "183-1", "speaker": "Speaker_F", "text": "네, 하지만 그럼에도 불구하고 이 사람은", "label": 1}
+{"timestamp": "04:43", "timestamp_order": "189-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "04:44", "timestamp_order": "192-1", "speaker": "Speaker_F", "text": "그게 전체 경로가 아니어야 해요.", "label": 1}
+{"timestamp": "04:54", "timestamp_order": "195-1", "speaker": "Speaker_B", "text": "어떤 의미에서 이런 종류의 네트워크에서 우리가 가지고 있는 것은 노드가 모두 아크로 되어 있다는 것입니다.", "label": 1}
+{"timestamp": "05:04", "timestamp_order": "196-1", "speaker": "Speaker_B", "text": "어, 엔드포인트와 다른 인접 노드의 라우터도 있죠.", "label": 1}
+{"timestamp": "09:48", "timestamp_order": "198-1", "speaker": "Speaker_B", "text": "음, 어떤 변화든 언제든지 일어날 수 있죠.", "label": 1}
+{"timestamp": "09:53", "timestamp_order": "199-1", "speaker": "Speaker_B", "text": "하지만 물론 라고 물을 수 있지만 노드가 움직이지 않으면 어떻게 됩니까?", "label": 1}
+{"timestamp": "09:55", "timestamp_order": "200-1", "speaker": "Speaker_F", "text": "네, 원칙적으로는 기지국이죠.", "label": 1}
+{"timestamp": "09:56", "timestamp_order": "201-1", "speaker": "Speaker_B", "text": "어떤 종류의 토폴로지 변경을 기대할 수 있나요?", "label": 1}
+{"timestamp": "09:57", "timestamp_order": "202-1", "speaker": "Speaker_B", "text": "네, 네, 기지국이라고 부를 수 있겠네요.", "label": 1}
+{"timestamp": "09:59", "timestamp_order": "204-1", "speaker": "Speaker_C", "text": "네.", "label": 1}
+{"timestamp": "09:59", "timestamp_order": "205-1", "speaker": "Speaker_C", "text": "그거예요.", "label": 1}
+{"timestamp": "09:59", "timestamp_order": "206-1", "speaker": "Speaker_B", "text": "글쎄요, 문제는 일반적으로 센서 네트워크에서 우리가 가지고 있는 것, 또는 아이디어가 있다는 것입니다.", "label": 1}
+{"timestamp": "10:07", "timestamp_order": "209-1", "speaker": "Speaker_B", "text": "음, 중요한 수의 센서,", "label": 1}
+{"timestamp": "10:11", "timestamp_order": "210-1", "speaker": "Speaker_B", "text": "그리고 아마도 높은 신고율을 보일 수도 있습니다.", "label": 1}
+{"timestamp": "10:14", "timestamp_order": "211-1", "speaker": "Speaker_B", "text": "아마도 배터리일 수도", "label": 1}
+{"timestamp": "10:17", "timestamp_order": "212-1", "speaker": "Speaker_B", "text": "음", "label": 1}
+{"timestamp": "10:21", "timestamp_order": "214-1", "speaker": "Speaker_C", "text": "좋아요.", "label": 1}
+{"timestamp": "10:21", "timestamp_order": "215-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "10:21", "timestamp_order": "216-1", "speaker": "Speaker_B", "text": "음, 그들은 음, 예를 들어 태양을 이용해 세포를 재충전할 수 없습니다.", "label": 1}
+{"timestamp": "10:21", "timestamp_order": "217-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "10:27", "timestamp_order": "218-1", "speaker": "Speaker_B", "text": "어, 어쩌면 그 중 몇몇은 그냥 어, 어", "label": 1}
+{"timestamp": "02:40", "timestamp_order": "220-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "02:43", "timestamp_order": "221-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "02:45", "timestamp_order": "222-1", "speaker": "Speaker_B", "text": "감사합니다 .", "label": 1}
+{"timestamp": "02:45", "timestamp_order": "223-1", "speaker": "Speaker_B", "text": "음, 어, 저는 준비했어요, 어, 정말 짧은 이야기", "label": 1}
+{"timestamp": "03:04", "timestamp_order": "225-1", "speaker": "Speaker_B", "text": "임시 네트워크가 무엇인지에 대한 몇 가지 아이디어와 개념을 제시하겠습니다.", "label": 1}
+{"timestamp": "03:18", "timestamp_order": "229-1", "speaker": "Speaker_F", "text": "직접적인 이웃이 아니더라도,", "label": 1}
+{"timestamp": "03:20", "timestamp_order": "230-1", "speaker": "Speaker_B", "text": "그리고, 음, 저는 또한 무선 LAN의 현재 표준에 대해서도 몇 가지 의견을 말씀드리겠습니다.", "label": 1}
+{"timestamp": "03:25", "timestamp_order": "232-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "03:26", "timestamp_order": "234-1", "speaker": "Speaker_F", "text": "이거", "label": 1}
+{"timestamp": "03:27", "timestamp_order": "235-1", "speaker": "Speaker_F", "text": "그러면 이 사람에게로 가는 것이고, 이런 식으로 계속 이어지다가 마침내 목적지에 도착하게 되는 것입니다.", "label": 1}
+{"timestamp": "03:36", "timestamp_order": "236-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "03:38", "timestamp_order": "237-1", "speaker": "Speaker_B", "text": "그래서 가장 먼저 알아야 할 것은 임시 네트워크가 무엇인가입니다.", "label": 1}
+{"timestamp": "03:40", "timestamp_order": "238-1", "speaker": "Speaker_C", "text": "그러니까 헤더에 두 개 이상의 IP 주소가 있는 셈이네요.", "label": 1}
+{"timestamp": "03:43", "timestamp_order": "240-1", "speaker": "Speaker_F", "text": "네, 네, 네, 네, 네.", "label": 1}
+{"timestamp": "10:34", "timestamp_order": "241-1", "speaker": "Speaker_B", "text": "좋아, 우리는 이것 위에 뭔가를 더 구축할 수 있습니다.", "label": 1}
+{"timestamp": "10:36", "timestamp_order": "242-1", "speaker": "Speaker_B", "text": "그래서 아이디어는 다음과 같습니다.", "label": 1}
+{"timestamp": "10:43", "timestamp_order": "245-1", "speaker": "Speaker_B", "text": "음, 더 빠른 속도로 말해보자.", "label": 1}
+{"timestamp": "10:45", "timestamp_order": "246-1", "speaker": "Speaker_F", "text": "음-음.", "label": 1}
+{"timestamp": "10:46", "timestamp_order": "247-1", "speaker": "Speaker_B", "text": "그럼, 일반 네트워크에서는 무슨 일이 일어날까요?", "label": 1}
+{"timestamp": "10:46", "timestamp_order": "248-1", "speaker": "Speaker_B", "text": "네트워크에서", "label": 1}
+{"timestamp": "10:48", "timestamp_order": "252-1", "speaker": "Speaker_F", "text": "아시죠,", "label": 1}
+{"timestamp": "10:52", "timestamp_order": "253-1", "speaker": "Speaker_B", "text": "아니면 이동성이든 아니면 이 온-오프 속도든, 높은 속도든.", "label": 1}
+{"timestamp": "10:52", "timestamp_order": "254-1", "speaker": "Speaker_F", "text": "주파수 호핑, 음, 두 가지 모드, 그리고 그리고 적외선도 있죠.", "label": 1}
+{"timestamp": "10:56", "timestamp_order": "257-1", "speaker": "Speaker_F", "text": "음-음.", "label": 1}
+{"timestamp": "11:03", "timestamp_order": "261-1", "speaker": "Speaker_F", "text": "여기, ICSI나 다른 어떤 곳에서도 고정 네트워크에서는 무슨 일이 일어날까요?", "label": 1}
+{"timestamp": "11:06", "timestamp_order": "262-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "13:06", "timestamp_order": "263-1", "speaker": "Speaker_F", "text": "음, 서로 영향을 미친다는 거죠.", "label": 1}
+{"timestamp": "13:08", "timestamp_order": "266-1", "speaker": "Speaker_B", "text": "문제는 쉬운 것이 아닌 것 같습니다.", "label": 1}
+{"timestamp": "13:11", "timestamp_order": "268-1", "speaker": "Speaker_B", "text": "음.", "label": 1}
+{"timestamp": "13:13", "timestamp_order": "270-1", "speaker": "Speaker_B", "text": "알잖아 ,", "label": 1}
+{"timestamp": "13:35", "timestamp_order": "276-1", "speaker": "Speaker_B", "text": "각 노드의 전력 요구 사항이 증가하고 있으며 네트워크 처리량도 감소하고 있습니다.", "label": 1}
+{"timestamp": "13:47", "timestamp_order": "278-1", "speaker": "Speaker_F", "text": "네, 맞아요.", "label": 1}
+{"timestamp": "13:47", "timestamp_order": "279-1", "speaker": "Speaker_F", "text": "네.", "label": 1}
+{"timestamp": "13:48", "timestamp_order": "280-1", "speaker": "Speaker_B", "text": "왜냐하면, 음, 우리는 여러 번의 전송을 허용할 수 없기 때문입니다.", "label": 1}
+{"timestamp": "15:39", "timestamp_order": "288-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "15:40", "timestamp_order": "290-1", "speaker": "Speaker_B", "text": "음", "label": 1}
+{"timestamp": "15:50", "timestamp_order": "294-1", "speaker": "Speaker_B", "text": "어, 이건 우리의 simpllife 단순화된 모델일 뿐이야", "label": 1}
+{"timestamp": "15:55", "timestamp_order": "296-1", "speaker": "Speaker_B", "text": "그 아이디어는 다음과 같다", "label": 1}
+{"timestamp": "15:59", "timestamp_order": "297-1", "speaker": "Speaker_B", "text": "알겠어요?", "label": 1}
+{"timestamp": "16:01", "timestamp_order": "299-1", "speaker": "Speaker_B", "text": "실제 행동은 정확히 이것이 아니지만", "label": 1}
+{"timestamp": "16:04", "timestamp_order": "300-1", "speaker": "Speaker_B", "text": "어 뭐 때문에?", "label": 1}
+{"timestamp": "16:09", "timestamp_order": "303-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "14:54", "timestamp_order": "307-1", "speaker": "Speaker_B", "text": "주어진 순간에", "label": 1}
+{"timestamp": "15:00", "timestamp_order": "309-1", "speaker": "Speaker_B", "text": "그리고 어,", "label": 1}
+{"timestamp": "15:02", "timestamp_order": "310-1", "speaker": "Speaker_B", "text": "화살표는 다음을 나타냅니다.", "label": 1}
+{"timestamp": "15:12", "timestamp_order": "316-1", "speaker": "Speaker_B", "text": "나는 보여주려고 노력하고 있어요", "label": 1}
+{"timestamp": "15:22", "timestamp_order": "319-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "15:23", "timestamp_order": "320-1", "speaker": "Speaker_B", "text": "그래서, 어, 모든 전송", "label": 1}
+{"timestamp": "15:29", "timestamp_order": "324-1", "speaker": "Speaker_B", "text": "그리고 어", "label": 1}
+{"timestamp": "11:06", "timestamp_order": "327-1", "speaker": "Speaker_F", "text": "알았어, DSS.", "label": 1}
+{"timestamp": "11:06", "timestamp_order": "328-1", "speaker": "Speaker_F", "text": "알았어.", "label": 1}
+{"timestamp": "11:06", "timestamp_order": "329-1", "speaker": "Speaker_F", "text": "알았어.", "label": 1}
+{"timestamp": "11:08", "timestamp_order": "331-1", "speaker": "Speaker_F", "text": "따라서 일부 센서가 서비스를 중단하거나 어떤 일이 발생하면 노드가 움직이지 않더라도 토폴로지가 변경됩니다.", "label": 1}
+{"timestamp": "11:15", "timestamp_order": "332-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "11:17", "timestamp_order": "333-1", "speaker": "Speaker_C", "text": "음, 알겠습니다.", "label": 1}
+{"timestamp": "11:18", "timestamp_order": "335-1", "speaker": "Speaker_F", "text": "그리고 이 네트워크 내에서 연결성과 상호통신을 제공하는 방법은 무엇입니까?", "label": 1}
+{"timestamp": "11:21", "timestamp_order": "336-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "11:24", "timestamp_order": "338-1", "speaker": "Speaker_C", "text": "네, 알겠습니다.", "label": 1}
+{"timestamp": "11:24", "timestamp_order": "339-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "11:26", "timestamp_order": "340-1", "speaker": "Speaker_B", "text": "글쎄요, 음, 아시다시피, 마지막으로, 음, 또 다른 비군사적 응용 프로그램이 있습니다.", "label": 1}
+{"timestamp": "11:32", "timestamp_order": "341-1", "speaker": "Speaker_B", "text": "어, 어쩌면 이런 방 같은 네트워크가 있을 수도 있겠네요.", "label": 1}
+{"timestamp": "11:39", "timestamp_order": "343-1", "speaker": "Speaker_B", "text": "하지만 이 임시 네트워크의 가능한 응용 프로그램은 다음과 같습니다.", "label": 1}
+{"timestamp": "11:51", "timestamp_order": "345-1", "speaker": "Speaker_B", "text": "그리고 우리는 그냥 소통할 수 있어요", "label": 1}
+{"timestamp": "11:53", "timestamp_order": "347-1", "speaker": "Speaker_F", "text": "음-음.", "label": 1}
+{"timestamp": "11:54", "timestamp_order": "348-1", "speaker": "Speaker_B", "text": "어떠한 종류의 접근 지점도 없이, 어떠한 종류의 uh도 없이 서로 원활하게 연결됩니다.", "label": 1}
+{"timestamp": "11:58", "timestamp_order": "349-1", "speaker": "Speaker_B", "text": "하지만 오래된 것들은 아니고 가장 오래된 것들은,", "label": 1}
+{"timestamp": "18:25", "timestamp_order": "350-1", "speaker": "Speaker_B", "text": "유선 UH 미디어 접근 제어.", "label": 1}
+{"timestamp": "18:25", "timestamp_order": "351-1", "speaker": "Speaker_B", "text": "음, 글쎄요,", "label": 1}
+{"timestamp": "18:28", "timestamp_order": "352-1", "speaker": "Speaker_B", "text": "그리고, 음, 글쎄요,", "label": 1}
+{"timestamp": "18:40", "timestamp_order": "359-1", "speaker": "Speaker_B", "text": "그리고 주요 아이디어", "label": 1}
+{"timestamp": "18:43", "timestamp_order": "361-1", "speaker": "Speaker_B", "text": "어떤 종류의 예약 메커니즘.", "label": 1}
+{"timestamp": "18:51", "timestamp_order": "366-1", "speaker": "Speaker_B", "text": "특정한, 그리고 특정한 어,", "label": 1}
+{"timestamp": "18:54", "timestamp_order": "368-1", "speaker": "Speaker_B", "text": "그래서 우리는 할 수 있어요", "label": 1}
+{"timestamp": "17:06", "timestamp_order": "372-1", "speaker": "Speaker_B", "text": "아무것도 들을 수 없을 거야", "label": 1}
+{"timestamp": "17:12", "timestamp_order": "376-1", "speaker": "Speaker_F", "text": "음, 좋은 소식이에요, 알겠죠?", "label": 1}
+{"timestamp": "17:12", "timestamp_order": "377-1", "speaker": "Speaker_F", "text": "하지만 어쨌든, 음, 음, 당신의 초기 시나리오를 기반으로", "label": 1}
+{"timestamp": "17:14", "timestamp_order": "379-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "17:17", "timestamp_order": "382-1", "speaker": "Speaker_B", "text": "만약 그가 그렇게 한다면 무슨 일이 일어날까?", "label": 1}
+{"timestamp": "17:24", "timestamp_order": "387-1", "speaker": "Speaker_B", "text": "그리고 이것은 적어도 이 두 노드에서 다음을 생성합니다.", "label": 1}
+{"timestamp": "17:29", "timestamp_order": "391-1", "speaker": "Speaker_B", "text": "아니면 엄마가 나쁜 반응을 얻고 있는 거예요.", "label": 1}
+{"timestamp": "17:30", "timestamp_order": "392-1", "speaker": "Speaker_F", "text": "네, 그리고 노트북에 연결된 어떤 종류의 물건이든, 마이크든, 그리고 당신이 가질 수 있는 무엇이든,", "label": 1}
+{"timestamp": "19:01", "timestamp_order": "394-1", "speaker": "Speaker_B", "text": "알겠어요?", "label": 1}
+{"timestamp": "19:01", "timestamp_order": "395-1", "speaker": "Speaker_B", "text": "이게 기본 아이디어예요.", "label": 1}
+{"timestamp": "19:02", "timestamp_order": "396-1", "speaker": "Speaker_F", "text": "음-음.", "label": 1}
+{"timestamp": "19:03", "timestamp_order": "397-1", "speaker": "Speaker_F", "text": "미구엘, 이런 종류의 프로토콜에 대한 몇 가지 예를 들어줄 수 있나요?", "label": 1}
+{"timestamp": "19:09", "timestamp_order": "400-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "19:10", "timestamp_order": "402-1", "speaker": "Speaker_F", "text": "네, 네.", "label": 1}
+{"timestamp": "19:10", "timestamp_order": "403-1", "speaker": "Speaker_F", "text": "알았어요.", "label": 1}
+{"timestamp": "19:11", "timestamp_order": "404-1", "speaker": "Speaker_B", "text": "좋아, 그게 주요 아이디어야", "label": 1}
+{"timestamp": "19:12", "timestamp_order": "405-1", "speaker": "Speaker_B", "text": "음, 어쩌면 그럴 수도 있겠지", "label": 1}
+{"timestamp": "19:14", "timestamp_order": "406-1", "speaker": "Speaker_B", "text": "그리고 이 프로토콜의 대부분 기본은 다음과 같습니다.", "label": 1}
+{"timestamp": "19:21", "timestamp_order": "408-1", "speaker": "Speaker_B", "text": "그 아이디어는, 음,", "label": 1}
+{"timestamp": "16:15", "timestamp_order": "416-1", "speaker": "Speaker_B", "text": "어, 이 무선 전송에서,", "label": 1}
+{"timestamp": "16:19", "timestamp_order": "418-1", "speaker": "Speaker_B", "text": "음", "label": 1}
+{"timestamp": "16:25", "timestamp_order": "422-1", "speaker": "Speaker_B", "text": "글쎄요, 주요 차이점은 다음과 같습니다.", "label": 1}
+{"timestamp": "16:28", "timestamp_order": "423-1", "speaker": "Speaker_B", "text": "사실에서 나온 거야, 어", "label": 1}
+{"timestamp": "16:31", "timestamp_order": "425-1", "speaker": "Speaker_B", "text": "어, 음,", "label": 1}
+{"timestamp": "16:44", "timestamp_order": "429-1", "speaker": "Speaker_B", "text": "그게 그거예요?", "label": 1}
+{"timestamp": "16:44", "timestamp_order": "430-1", "speaker": "Speaker_B", "text": "예를 들어,", "label": 1}
+{"timestamp": "16:51", "timestamp_order": "433-1", "speaker": "Speaker_B", "text": "예를 들어 CSMA와 같은 어떤 종류의 캐리 감지 방식을 사용하는 경우,", "label": 1}
+{"timestamp": "16:56", "timestamp_order": "434-1", "speaker": "Speaker_B", "text": "아니면 그것에서 파생된 뭔가,", "label": 1}
+{"timestamp": "19:36", "timestamp_order": "436-1", "speaker": "Speaker_B", "text": "어, 모든 노드에.", "label": 1}
+{"timestamp": "19:38", "timestamp_order": "437-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "19:55", "timestamp_order": "446-1", "speaker": "Speaker_B", "text": "다시 돌아가다", "label": 1}
+{"timestamp": "20:16", "timestamp_order": "454-1", "speaker": "Speaker_B", "text": "어, 뒤로 물러나면 다시 시도할 거예요.", "label": 1}
+{"timestamp": "20:18", "timestamp_order": "455-1", "speaker": "Speaker_B", "text": "어, 나중에요.", "label": 1}
+{"timestamp": "22:18", "timestamp_order": "458-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "22:18", "timestamp_order": "459-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "22:20", "timestamp_order": "460-1", "speaker": "Speaker_B", "text": "그리고 그리고 당신은 알았어라고 말할 수 있습니다.", "label": 1}
+{"timestamp": "22:33", "timestamp_order": "467-1", "speaker": "Speaker_F", "text": "그럴 것 같아요.", "label": 1}
+{"timestamp": "22:33", "timestamp_order": "468-1", "speaker": "Speaker_F", "text": "네.", "label": 1}
+{"timestamp": "22:36", "timestamp_order": "469-1", "speaker": "Speaker_B", "text": "데이터 패킷은 다음과 같습니다.", "label": 1}
+{"timestamp": "22:38", "timestamp_order": "471-1", "speaker": "Speaker_B", "text": "예를 들어 1-K, 5-K-s라고 해 봅시다.", "label": 1}
+{"timestamp": "22:42", "timestamp_order": "472-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "22:52", "timestamp_order": "477-1", "speaker": "Speaker_B", "text": "그리고, 어", "label": 1}
+{"timestamp": "20:20", "timestamp_order": "480-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "20:21", "timestamp_order": "481-1", "speaker": "Speaker_F", "text": "그리고 미디어는 여전히 그렇습니다", "label": 1}
+{"timestamp": "20:26", "timestamp_order": "482-1", "speaker": "Speaker_B", "text": "어.", "label": 1}
+{"timestamp": "20:26", "timestamp_order": "483-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "20:27", "timestamp_order": "485-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "20:28", "timestamp_order": "486-1", "speaker": "Speaker_B", "text": "아이디어는", "label": 1}
+{"timestamp": "20:29", "timestamp_order": "487-1", "speaker": "Speaker_B", "text": "어, 내가 너한테 뭔가 보내고 싶은 게 있다면,", "label": 1}
+{"timestamp": "20:37", "timestamp_order": "491-1", "speaker": "Speaker_B", "text": "지금 내 이웃인데, 아마 당신이 떠났거나 어쩌면 당신이", "label": 1}
+{"timestamp": "20:41", "timestamp_order": "492-1", "speaker": "Speaker_B", "text": "어 너무 멀어요", "label": 1}
+{"timestamp": "20:41", "timestamp_order": "493-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "20:42", "timestamp_order": "495-1", "speaker": "Speaker_B", "text": "물론 이 아이디어", "label": 1}
+{"timestamp": "20:45", "timestamp_order": "496-1", "speaker": "Speaker_B", "text": "예를 들어 미구엘은 나의 말을 듣지 못할 수도 있습니다.", "label": 1}
+{"timestamp": "20:46", "timestamp_order": "497-1", "speaker": "Speaker_B", "text": "음,", "label": 1}
+{"timestamp": "20:53", "timestamp_order": "500-1", "speaker": "Speaker_B", "text": "어, 나한테서 데이터를 받았어.", "label": 1}
+{"timestamp": "20:55", "timestamp_order": "501-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "21:02", "timestamp_order": "506-1", "speaker": "Speaker_F", "text": "네, 예를 들어 차가 인프라라면 그렇죠.", "label": 1}
+{"timestamp": "21:02", "timestamp_order": "507-1", "speaker": "Speaker_F", "text": "네.", "label": 1}
+{"timestamp": "21:04", "timestamp_order": "510-1", "speaker": "Speaker_B", "text": "어, 모든 것을 신호하는 데 사용됩니다", "label": 1}
+{"timestamp": "21:06", "timestamp_order": "511-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "21:07", "timestamp_order": "512-1", "speaker": "Speaker_B", "text": "어 리시버", "label": 1}
+{"timestamp": "21:14", "timestamp_order": "517-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "21:14", "timestamp_order": "518-1", "speaker": "Speaker_F", "text": "네.", "label": 1}
+{"timestamp": "21:14", "timestamp_order": "519-1", "speaker": "Speaker_F", "text": "이해가 안 되네요.", "label": 1}
+{"timestamp": "21:14", "timestamp_order": "520-1", "speaker": "Speaker_F", "text": "음, RTS 패킷을 보냈을 때 무슨 일이 일어났나요?", "label": 1}
+{"timestamp": "21:15", "timestamp_order": "521-1", "speaker": "Speaker_B", "text": "동일한 아이디어의 가능한 확장 중 하나", "label": 1}
+{"timestamp": "21:19", "timestamp_order": "522-1", "speaker": "Speaker_F", "text": "그럼 미디어는 아직도 나를 위해 바쁘게 돌아가고 있는 건가요?", "label": 1}
+{"timestamp": "22:59", "timestamp_order": "524-1", "speaker": "Speaker_B", "text": "음", "label": 1}
+{"timestamp": "23:00", "timestamp_order": "525-1", "speaker": "Speaker_B", "text": "어, 데이터 패킷 사이에,", "label": 1}
+{"timestamp": "23:03", "timestamp_order": "526-1", "speaker": "Speaker_B", "text": "음, 이건 이게 엄청난 증가를 뜻해요", "label": 1}
+{"timestamp": "23:07", "timestamp_order": "527-1", "speaker": "Speaker_B", "text": "네트워크 처리량에서", "label": 1}
+{"timestamp": "23:07", "timestamp_order": "528-1", "speaker": "Speaker_B", "text": "이거 뭔가 알아요, 음, 제가 테이블에 올려놓은 거지만 잘 모르겠어요.", "label": 1}
+{"timestamp": "23:16", "timestamp_order": "532-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "23:26", "timestamp_order": "538-1", "speaker": "Speaker_F", "text": "음-음.", "label": 1}
+{"timestamp": "23:27", "timestamp_order": "540-1", "speaker": "Speaker_F", "text": "감사합니다, 미구엘.", "label": 1}
+{"timestamp": "23:29", "timestamp_order": "542-1", "speaker": "Speaker_B", "text": "아, 천만에요.", "label": 1}
+{"timestamp": "23:38", "timestamp_order": "545-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "23:38", "timestamp_order": "546-1", "speaker": "Speaker_B", "text": "예약 메커니즘이거든요.", "label": 1}
+{"timestamp": "17:53", "timestamp_order": "551-1", "speaker": "Speaker_F", "text": "네, 이거예요.", "label": 1}
+{"timestamp": "17:55", "timestamp_order": "554-1", "speaker": "Speaker_B", "text": "뭐라고", "label": 1}
+{"timestamp": "17:59", "timestamp_order": "556-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "18:00", "timestamp_order": "558-1", "speaker": "Speaker_B", "text": "음, 음", "label": 1}
+{"timestamp": "18:09", "timestamp_order": "562-1", "speaker": "Speaker_B", "text": "어, 이 문제는,", "label": 1}
+{"timestamp": "18:11", "timestamp_order": "564-1", "speaker": "Speaker_F", "text": "알았어.", "label": 1}
+{"timestamp": "18:13", "timestamp_order": "566-1", "speaker": "Speaker_B", "text": "이 두 노드에서 적어도 약간의 수신 문제가 발생하고 있나요?", "label": 1}
+{"timestamp": "18:17", "timestamp_order": "567-1", "speaker": "Speaker_B", "text": "좋아, 그럼", "label": 1}
+{"timestamp": "25:17", "timestamp_order": "574-1", "speaker": "Speaker_F", "text": "조르디는 여기 잠깐만 머물기 때문에 색깔이 있는 것을 얻을 것입니다.", "label": 1}
+{"timestamp": "25:19", "timestamp_order": "577-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "25:20", "timestamp_order": "579-1", "speaker": "Speaker_B", "text": "나는 어느 쪽인가", "label": 1}
+{"timestamp": "25:22", "timestamp_order": "582-1", "speaker": "Speaker_F", "text": "그러니까 그가 먼저 멈춰야 할 것 같아요.", "label": 1}
+{"timestamp": "25:22", "timestamp_order": "584-1", "speaker": "Speaker_B", "text": "하지만 그 전에는 아니었어요.", "label": 1}
+{"timestamp": "25:24", "timestamp_order": "586-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "25:26", "timestamp_order": "590-1", "speaker": "Speaker_B", "text": "어느 것이 정답인가요?", "label": 1}
+{"timestamp": "25:28", "timestamp_order": "591-1", "speaker": "Speaker_F", "text": "음", "label": 1}
+{"timestamp": "25:29", "timestamp_order": "594-1", "speaker": "Speaker_B", "text": "이거요?", "label": 1}
+{"timestamp": "25:29", "timestamp_order": "596-1", "speaker": "Speaker_B", "text": "감사합니다.", "label": 1}
+{"timestamp": "24:12", "timestamp_order": "598-1", "speaker": "Speaker_F", "text": "네, 네.", "label": 1}
+{"timestamp": "24:12", "timestamp_order": "599-1", "speaker": "Speaker_F", "text": "알았어요.", "label": 1}
+{"timestamp": "24:13", "timestamp_order": "600-1", "speaker": "Speaker_F", "text": "하지만 - 어쨌든, 저는 임시 네트워크에서 이 작업을 하고 싶습니다.", "label": 1}
+{"timestamp": "24:13", "timestamp_order": "601-1", "speaker": "Speaker_F", "text": "이것이 아마도 목표 범위 내에 있을 것입니다.", "label": 1}
+{"timestamp": "24:19", "timestamp_order": "602-1", "speaker": "Speaker_F", "text": "이, 어, 특수 네트워크.", "label": 1}
+{"timestamp": "24:24", "timestamp_order": "604-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "24:29", "timestamp_order": "608-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "24:33", "timestamp_order": "609-1", "speaker": "Speaker_F", "text": "그럼 그는 데이터를 보낼 수 있는 거 맞죠?", "label": 1}
+{"timestamp": "24:38", "timestamp_order": "613-1", "speaker": "Speaker_F", "text": "음-음.", "label": 1}
+{"timestamp": "24:41", "timestamp_order": "614-1", "speaker": "Speaker_F", "text": "그리고 CTS는 전송 영역의 다음 범위이기 때문에 데이터를 보낼 수 있죠?", "label": 1}
+{"timestamp": "24:44", "timestamp_order": "615-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "24:45", "timestamp_order": "616-1", "speaker": "Speaker_F", "text": "아, 알겠습니다.", "label": 1}
+{"timestamp": "24:46", "timestamp_order": "617-1", "speaker": "Speaker_F", "text": "다시 한번, 미구엘에게 감사드립니다.", "label": 1}
+{"timestamp": "24:48", "timestamp_order": "618-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "25:31", "timestamp_order": "621-1", "speaker": "Speaker_F", "text": "그는 어딘가에 전달하기 전에 모든 바이트를 수집해야 합니다.", "label": 1}
+{"timestamp": "25:35", "timestamp_order": "623-1", "speaker": "Speaker_F", "text": "뭐 ?", "label": 1}
+{"timestamp": "25:35", "timestamp_order": "624-1", "speaker": "Speaker_F", "text": "음 ,", "label": 1}
+{"timestamp": "25:39", "timestamp_order": "628-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "25:42", "timestamp_order": "629-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "25:43", "timestamp_order": "630-1", "speaker": "Speaker_F", "text": "내 생각엔, 우선 윌버트가 여기 없고, 둘째로, 음, 음", "label": 1}
+{"timestamp": "25:49", "timestamp_order": "631-1", "speaker": "Speaker_F", "text": "다음 데이터 패킷에도 동일한 것이 적용됩니다.", "label": 1}
+{"timestamp": "25:52", "timestamp_order": "635-1", "speaker": "Speaker_F", "text": "하지만 어쨌든 그는 그동안 패킷을 최종 목적지로 전달해야 합니다.", "label": 1}
+{"timestamp": "25:59", "timestamp_order": "640-1", "speaker": "Speaker_B", "text": "하지만 지금은 아닙니다.", "label": 1}
+{"timestamp": "24:51", "timestamp_order": "641-1", "speaker": "Speaker_F", "text": "네?", "label": 1}
+{"timestamp": "24:51", "timestamp_order": "642-1", "speaker": "Speaker_F", "text": "제 말은 바로 그거죠.", "label": 1}
+{"timestamp": "24:54", "timestamp_order": "645-1", "speaker": "Speaker_D", "text": "괜찮아요 .", "label": 1}
+{"timestamp": "24:56", "timestamp_order": "646-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "25:05", "timestamp_order": "651-1", "speaker": "Speaker_D", "text": "음, 그냥 로그아웃하세요.", "label": 1}
+{"timestamp": "25:07", "timestamp_order": "653-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "25:08", "timestamp_order": "655-1", "speaker": "Speaker_D", "text": "아뇨.", "label": 1}
+{"timestamp": "25:08", "timestamp_order": "656-1", "speaker": "Speaker_D", "text": "로그아웃하세요.", "label": 1}
+{"timestamp": "25:10", "timestamp_order": "659-1", "speaker": "Speaker_B", "text": "아, 알겠습니다.", "label": 1}
+{"timestamp": "25:11", "timestamp_order": "662-1", "speaker": "Speaker_B", "text": "음, CTS로 대답해 주세요.", "label": 1}
+{"timestamp": "26:48", "timestamp_order": "666-1", "speaker": "Speaker_F", "text": "그리고 음 또한", "label": 1}
+{"timestamp": "26:54", "timestamp_order": "669-1", "speaker": "Speaker_C", "text": "음, 전송 범위 내에 있는 다른 노드의 방해는, 네, N-1입니다.", "label": 1}
+{"timestamp": "26:58", "timestamp_order": "670-1", "speaker": "Speaker_F", "text": "이 네트워크 내에서 새로운 것과 새로운 프로토콜, 새로운 기술을 사용합니다.", "label": 1}
+{"timestamp": "27:01", "timestamp_order": "671-1", "speaker": "Speaker_B", "text": "네, 내가 좀 넣어볼게요", "label": 1}
+{"timestamp": "27:19", "timestamp_order": "683-1", "speaker": "Speaker_B", "text": "어", "label": 1}
+{"timestamp": "27:20", "timestamp_order": "685-1", "speaker": "Speaker_F", "text": "어, 정말 융통성이 없어요.", "label": 1}
+{"timestamp": "29:29", "timestamp_order": "686-1", "speaker": "Speaker_F", "text": "그러면 우리는 더 큰 범위에서 설명된 대로 아무것도 할 수 없게 됩니다.", "label": 1}
+{"timestamp": "29:33", "timestamp_order": "687-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "29:34", "timestamp_order": "690-1", "speaker": "Speaker_F", "text": "그래서 요점은 음", "label": 1}
+{"timestamp": "29:36", "timestamp_order": "691-1", "speaker": "Speaker_B", "text": "어 CTS 또는 하나의 어 RTS 패킷,", "label": 1}
+{"timestamp": "29:40", "timestamp_order": "694-1", "speaker": "Speaker_B", "text": "알잖아", "label": 1}
+{"timestamp": "29:40", "timestamp_order": "695-1", "speaker": "Speaker_F", "text": "제가 몇 마디로 설명한 전반적인 그림은 다음과 같습니다.", "label": 1}
+{"timestamp": "29:47", "timestamp_order": "698-1", "speaker": "Speaker_F", "text": "아직도 큰 그림에 맞춰 들어가고 있습니다.", "label": 1}
+{"timestamp": "29:50", "timestamp_order": "701-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "27:49", "timestamp_order": "709-1", "speaker": "Speaker_F", "text": "음 요점은", "label": 1}
+{"timestamp": "27:55", "timestamp_order": "711-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "27:55", "timestamp_order": "712-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "27:58", "timestamp_order": "715-1", "speaker": "Speaker_B", "text": "어떤 것도 피할 것이다", "label": 1}
+{"timestamp": "28:01", "timestamp_order": "718-1", "speaker": "Speaker_B", "text": "어, 이 리셉션은", "label": 1}
+{"timestamp": "28:07", "timestamp_order": "723-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "28:07", "timestamp_order": "724-1", "speaker": "Speaker_F", "text": "다음에는 실행 가능하지 않을 것 같습니다.", "label": 1}
+{"timestamp": "28:48", "timestamp_order": "726-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "28:48", "timestamp_order": "728-1", "speaker": "Speaker_F", "text": "관심은 많지만, 실제로 뒷받침되는 자금이 없다면 초기 단계에 도달하기가 매우 어렵습니다.", "label": 1}
+{"timestamp": "28:50", "timestamp_order": "729-1", "speaker": "Speaker_B", "text": "전에 들어봐야지.", "label": 1}
+{"timestamp": "28:50", "timestamp_order": "731-1", "speaker": "Speaker_F", "text": "네.", "label": 1}
+{"timestamp": "28:50", "timestamp_order": "732-1", "speaker": "Speaker_F", "text": "네.", "label": 1}
+{"timestamp": "28:51", "timestamp_order": "733-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "28:51", "timestamp_order": "734-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "28:52", "timestamp_order": "735-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "28:56", "timestamp_order": "739-1", "speaker": "Speaker_B", "text": "어 CTS 패킷", "label": 1}
+{"timestamp": "28:59", "timestamp_order": "742-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "28:59", "timestamp_order": "743-1", "speaker": "Speaker_B", "text": "그러니 이 전송은 일어나지 않을 겁니다.", "label": 1}
+{"timestamp": "29:01", "timestamp_order": "744-1", "speaker": "Speaker_C", "text": "알았어요.", "label": 1}
+{"timestamp": "29:02", "timestamp_order": "746-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "26:22", "timestamp_order": "747-1", "speaker": "Speaker_B", "text": "일반적으로 네트워크 하드웨어는", "label": 1}
+{"timestamp": "26:22", "timestamp_order": "748-1", "speaker": "Speaker_F", "text": "차세대 무선 접속 네트워크", "label": 1}
+{"timestamp": "26:30", "timestamp_order": "752-1", "speaker": "Speaker_F", "text": "이 네트워크 내의 변화.", "label": 1}
+{"timestamp": "26:32", "timestamp_order": "754-1", "speaker": "Speaker_B", "text": "수신이 성공적이라는 걸 알고 있어요", "label": 1}
+{"timestamp": "26:40", "timestamp_order": "758-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "26:40", "timestamp_order": "759-1", "speaker": "Speaker_B", "text": "이 프레임이 수신되었음을 확인했습니다.", "label": 1}
+{"timestamp": "26:41", "timestamp_order": "760-1", "speaker": "Speaker_F", "text": "나자 이거", "label": 1}
+{"timestamp": "26:45", "timestamp_order": "762-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "26:45", "timestamp_order": "763-1", "speaker": "Speaker_F", "text": "음-음.", "label": 1}
+{"timestamp": "26:45", "timestamp_order": "764-1", "speaker": "Speaker_F", "text": "네,  .", "label": 1}
+{"timestamp": "26:46", "timestamp_order": "766-1", "speaker": "Speaker_F", "text": "그리고 음", "label": 1}
+{"timestamp": "26:47", "timestamp_order": "768-1", "speaker": "Speaker_C", "text": "음, 추가 질문이 있습니다.", "label": 1}
+{"timestamp": "26:47", "timestamp_order": "769-1", "speaker": "Speaker_C", "text": "음.", "label": 1}
+{"timestamp": "26:47", "timestamp_order": "770-1", "speaker": "Speaker_C", "text": "이 음 대화가 방해하지 않는다는 게 맞나요?", "label": 1}
+{"timestamp": "28:11", "timestamp_order": "773-1", "speaker": "Speaker_C", "text": "그래서 데이터 패킷에 의해 중단되면 아무런 이점이 없습니다.", "label": 1}
+{"timestamp": "28:19", "timestamp_order": "776-1", "speaker": "Speaker_F", "text": "그럼에도 불구하고 저는 많은 파트너들과 이런 것들을 논의했습니다.", "label": 1}
+{"timestamp": "28:27", "timestamp_order": "780-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "28:40", "timestamp_order": "787-1", "speaker": "Speaker_F", "text": "NSF, 음, 이거 괜찮네", "label": 1}
+{"timestamp": "28:41", "timestamp_order": "788-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "28:42", "timestamp_order": "790-1", "speaker": "Speaker_B", "text": "음", "label": 1}
+{"timestamp": "28:43", "timestamp_order": "791-1", "speaker": "Speaker_B", "text": "RTS 패킷을 미리 전송했어야지, 알았지?", "label": 1}
+{"timestamp": "28:43", "timestamp_order": "792-1", "speaker": "Speaker_F", "text": "지능형 교실이라는 표현은 조금 과장된 표현인 듯하지만, 그 방향으로 나아가고 있습니다.", "label": 1}
+{"timestamp": "29:55", "timestamp_order": "793-1", "speaker": "Speaker_B", "text": "제어권을 얻으려고 노력하거나, 자신의 전송을 보내려고 노력하세요.", "label": 1}
+{"timestamp": "29:59", "timestamp_order": "795-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "30:00", "timestamp_order": "796-1", "speaker": "Speaker_C", "text": "알았어, 하지만", "label": 1}
+{"timestamp": "30:03", "timestamp_order": "799-1", "speaker": "Speaker_F", "text": "어쩌면 우리는 N S A 그룹으로만 여기서 시작할 수 있을지도 모릅니다.", "label": 1}
+{"timestamp": "30:10", "timestamp_order": "802-1", "speaker": "Speaker_F", "text": "음, 약간의 작업으로", "label": 1}
+{"timestamp": "30:14", "timestamp_order": "804-1", "speaker": "Speaker_B", "text": "음, 그렇죠.", "label": 1}
+{"timestamp": "30:24", "timestamp_order": "807-1", "speaker": "Speaker_B", "text": "음, 음, 우리는 음 음이라고 가정하고 있습니다.", "label": 1}
+{"timestamp": "30:29", "timestamp_order": "810-1", "speaker": "Speaker_F", "text": "어쩌면 몇 가지가 있을 수도", "label": 1}
+{"timestamp": "13:58", "timestamp_order": "815-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "14:00", "timestamp_order": "817-1", "speaker": "Speaker_F", "text": "하지만 그럼에도 불구하고 사정거리는 10미터나 100미터에 달합니다.", "label": 1}
+{"timestamp": "14:03", "timestamp_order": "820-1", "speaker": "Speaker_B", "text": "네, 하지만 사실 알잖아요.", "label": 1}
+{"timestamp": "14:03", "timestamp_order": "821-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "14:07", "timestamp_order": "822-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "14:14", "timestamp_order": "827-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "14:22", "timestamp_order": "829-1", "speaker": "Speaker_B", "text": "아니면 적어도 단점이 있을 거예요.", "label": 1}
+{"timestamp": "14:22", "timestamp_order": "830-1", "speaker": "Speaker_B", "text": "음, 음, 제가 말씀드렸잖아요.", "label": 1}
+{"timestamp": "14:28", "timestamp_order": "831-1", "speaker": "Speaker_B", "text": "어, 무선 네트워크의 미디어 접근 문제에 대해 조금 이야기해 보겠습니다.", "label": 1}
+{"timestamp": "14:35", "timestamp_order": "832-1", "speaker": "Speaker_B", "text": "어, 알다시피,", "label": 1}
+{"timestamp": "14:38", "timestamp_order": "833-1", "speaker": "Speaker_B", "text": "이것이 어떻게 작동하는지 보여주는 가장 쉬운 방법은 무엇입니까?", "label": 1}
+{"timestamp": "14:41", "timestamp_order": "834-1", "speaker": "Speaker_B", "text": "이 그림이나 이 사진은 내 생각에 가장 쉬운 것 중 하나이거나 적어도 하나일 것입니다.", "label": 1}
+{"timestamp": "17:32", "timestamp_order": "835-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "17:33", "timestamp_order": "837-1", "speaker": "Speaker_B", "text": "이 두 가지 동시 전송 중 어느 것도 제대로 되지 않습니다.", "label": 1}
+{"timestamp": "17:34", "timestamp_order": "838-1", "speaker": "Speaker_B", "text": "음 - 음 - 음.", "label": 1}
+{"timestamp": "17:37", "timestamp_order": "840-1", "speaker": "Speaker_F", "text": "네, 블루투스 기반이 될 겁니다.", "label": 1}
+{"timestamp": "17:39", "timestamp_order": "844-1", "speaker": "Speaker_F", "text": "네, 그리고 이건 아마 무선 LAN 안에 있는 것 같아요.", "label": 1}
+{"timestamp": "17:42", "timestamp_order": "847-1", "speaker": "Speaker_B", "text": "좋아, 응, 이 문제는 뭐야", "label": 1}
+{"timestamp": "17:46", "timestamp_order": "849-1", "speaker": "Speaker_B", "text": "아, 미안해요.", "label": 1}
+{"timestamp": "17:48", "timestamp_order": "850-1", "speaker": "Speaker_B", "text": "이게 이전 것 같아요?", "label": 1}
+{"timestamp": "17:49", "timestamp_order": "851-1", "speaker": "Speaker_B", "text": "사실 블루투스도 그렇게 설계되어 있어요", "label": 1}
+{"timestamp": "17:51", "timestamp_order": "853-1", "speaker": "Speaker_F", "text": "음 .", "label": 1}
+{"timestamp": "17:52", "timestamp_order": "855-1", "speaker": "Speaker_D", "text": "아니요 .", "label": 1}
+{"timestamp": "21:23", "timestamp_order": "856-1", "speaker": "Speaker_F", "text": "아니면 누구나 RTS 패킷을 보낼 수 있나요?", "label": 1}
+{"timestamp": "21:27", "timestamp_order": "857-1", "speaker": "Speaker_F", "text": "왜냐하면 내가 중간 노드로 간다면, 어쩌면 당신은 나와 소통하고 있는 것이고, 나는 최종 목적지인 마이클의 중간 노드이기 때문입니다.", "label": 1}
+{"timestamp": "21:34", "timestamp_order": "858-1", "speaker": "Speaker_F", "text": "그리고 마이클은 또한 시간에 맞춰 RTS 패킷을 보냈고 그리고 어어", "label": 1}
+{"timestamp": "21:34", "timestamp_order": "859-1", "speaker": "Speaker_B", "text": "음,", "label": 1}
+{"timestamp": "21:38", "timestamp_order": "860-1", "speaker": "Speaker_F", "text": "음, 조르디도 그렇고 뭐 그런가.", "label": 1}
+{"timestamp": "21:42", "timestamp_order": "863-1", "speaker": "Speaker_F", "text": "그럼 당신은 항상 RTS와 비확인을 교환하고 있습니다", "label": 1}
+{"timestamp": "21:46", "timestamp_order": "864-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "21:49", "timestamp_order": "868-1", "speaker": "Speaker_B", "text": "우선, 이 메커니즘은 단지 미디어 접근 제어 메커니즘일 뿐이므로 라우팅과 연결되어 있지 않습니다.", "label": 1}
+{"timestamp": "21:57", "timestamp_order": "869-1", "speaker": "Speaker_F", "text": "그럼, 좋아.", "label": 1}
+{"timestamp": "21:59", "timestamp_order": "871-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "22:00", "timestamp_order": "872-1", "speaker": "Speaker_B", "text": "뭐라고", "label": 1}
+{"timestamp": "30:33", "timestamp_order": "878-1", "speaker": "Speaker_B", "text": "음", "label": 1}
+{"timestamp": "30:35", "timestamp_order": "880-1", "speaker": "Speaker_B", "text": "알잖아", "label": 1}
+{"timestamp": "30:42", "timestamp_order": "884-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "30:43", "timestamp_order": "886-1", "speaker": "Speaker_F", "text": "어, 전체 자금 조달 말이야.", "label": 1}
+{"timestamp": "30:43", "timestamp_order": "887-1", "speaker": "Speaker_F", "text": "그게 어, 내 요점이고, 내가 생각하는 그림이야.", "label": 1}
+{"timestamp": "30:46", "timestamp_order": "889-1", "speaker": "Speaker_C", "text": "음, 음.", "label": 1}
+{"timestamp": "30:46", "timestamp_order": "890-1", "speaker": "Speaker_C", "text": "하지만 전에 말씀하신 예를 생각해 봤어요.", "label": 1}
+{"timestamp": "30:47", "timestamp_order": "891-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "30:47", "timestamp_order": "893-1", "speaker": "Speaker_F", "text": "어쩌면 당신 말이 맞을지도 몰라요.", "label": 1}
+{"timestamp": "30:49", "timestamp_order": "896-1", "speaker": "Speaker_F", "text": "그리고 저는 12월 10일에 꼭 독일로 돌아갈 겁니다.", "label": 1}
+{"timestamp": "30:49", "timestamp_order": "897-1", "speaker": "Speaker_F", "text": "이제 결정됐어요.", "label": 1}
+{"timestamp": "30:55", "timestamp_order": "899-1", "speaker": "Speaker_B", "text": "어, 전송 및 수신 신호.", "label": 1}
+{"timestamp": "30:57", "timestamp_order": "900-1", "speaker": "Speaker_F", "text": "네, 하지만 미구엘, 디트마르의 지적은 타당합니다.", "label": 1}
+{"timestamp": "32:05", "timestamp_order": "903-1", "speaker": "Speaker_B", "text": "알았어요.", "label": 1}
+{"timestamp": "32:06", "timestamp_order": "906-1", "speaker": "Speaker_C", "text": "네, 물론이죠.", "label": 1}
+{"timestamp": "32:07", "timestamp_order": "907-1", "speaker": "Speaker_C", "text": "음.", "label": 1}
+{"timestamp": "32:07", "timestamp_order": "910-1", "speaker": "Speaker_C", "text": "음.", "label": 1}
+{"timestamp": "32:07", "timestamp_order": "915-1", "speaker": "Speaker_C", "text": "하지만 반면에, 음, 현실 세계에서는 그렇지 않잖아요, 아니면?", "label": 1}
+{"timestamp": "32:07", "timestamp_order": "916-1", "speaker": "Speaker_C", "text": "음.", "label": 1}
+{"timestamp": "32:12", "timestamp_order": "920-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "32:16", "timestamp_order": "921-1", "speaker": "Speaker_B", "text": "음, 사실은 그렇지 않지만, 예를 들어 권력 관계에 따라 달라집니다.", "label": 1}
+{"timestamp": "32:16", "timestamp_order": "922-1", "speaker": "Speaker_C", "text": "네 네.", "label": 1}
+{"timestamp": "32:23", "timestamp_order": "927-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "32:24", "timestamp_order": "928-1", "speaker": "Speaker_C", "text": "네, 맞아요.", "label": 1}
+{"timestamp": "32:24", "timestamp_order": "929-1", "speaker": "Speaker_F", "text": "음, 몇 마디만 하자면, 만하임 대학교는 Joerg Widmer가 작업하고 있는 위치에 있고, 저는 그것을 얻었습니다.", "label": 1}
+{"timestamp": "32:25", "timestamp_order": "930-1", "speaker": "Speaker_B", "text": "알잖아, 응", "label": 1}
+{"timestamp": "32:30", "timestamp_order": "931-1", "speaker": "Speaker_B", "text": "한 가지 종류의 것, 좋아요, 방향성 안테나를 사용하면,", "label": 1}
+{"timestamp": "32:32", "timestamp_order": "933-1", "speaker": "Speaker_F", "text": "음, 그들은 그것에 매우 관심이 있어요.", "label": 1}
+{"timestamp": "32:32", "timestamp_order": "934-1", "speaker": "Speaker_F", "text": "그들은 지능형 교실 분야에서 많은 일을 했지만 그럼에도 불구하고 많은 일을 했어요.", "label": 1}
+{"timestamp": "32:36", "timestamp_order": "936-1", "speaker": "Speaker_C", "text": "네.", "label": 1}
+{"timestamp": "32:36", "timestamp_order": "937-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "31:47", "timestamp_order": "938-1", "speaker": "Speaker_F", "text": "음-음.", "label": 1}
+{"timestamp": "31:47", "timestamp_order": "939-1", "speaker": "Speaker_F", "text": "알았어요.", "label": 1}
+{"timestamp": "31:47", "timestamp_order": "940-1", "speaker": "Speaker_C", "text": "어떤 파트너", "label": 1}
+{"timestamp": "31:48", "timestamp_order": "942-1", "speaker": "Speaker_C", "text": "포함되어 있습니다.", "label": 1}
+{"timestamp": "31:48", "timestamp_order": "943-1", "speaker": "Speaker_C", "text": "알았어요.", "label": 1}
+{"timestamp": "31:48", "timestamp_order": "944-1", "speaker": "Speaker_C", "text": "저는 보지 않았어요.", "label": 1}
+{"timestamp": "31:51", "timestamp_order": "946-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "31:51", "timestamp_order": "947-1", "speaker": "Speaker_B", "text": "음, 그래서 그들은 같은 힘을 전달해요.", "label": 1}
+{"timestamp": "31:54", "timestamp_order": "949-1", "speaker": "Speaker_B", "text": "그리고 그들은 똑같은 것을 가지고 있어요", "label": 1}
+{"timestamp": "31:55", "timestamp_order": "950-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "31:56", "timestamp_order": "951-1", "speaker": "Speaker_B", "text": "어 민감성.", "label": 1}
+{"timestamp": "31:58", "timestamp_order": "954-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "31:58", "timestamp_order": "955-1", "speaker": "Speaker_C", "text": "알았어요.", "label": 1}
+{"timestamp": "32:02", "timestamp_order": "959-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "32:05", "timestamp_order": "962-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "33:24", "timestamp_order": "964-1", "speaker": "Speaker_F", "text": "그 사람한테서 소식 못 들었어?", "label": 1}
+{"timestamp": "33:26", "timestamp_order": "965-1", "speaker": "Speaker_C", "text": "네, 휴대전화와 자동차요.", "label": 1}
+{"timestamp": "33:26", "timestamp_order": "967-1", "speaker": "Speaker_E", "text": "아니요 .", "label": 1}
+{"timestamp": "33:28", "timestamp_order": "972-1", "speaker": "Speaker_E", "text": "그는 누구인지 모르겠어요.", "label": 1}
+{"timestamp": "33:28", "timestamp_order": "973-1", "speaker": "Speaker_E", "text": "알았어요.", "label": 1}
+{"timestamp": "33:35", "timestamp_order": "975-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "33:35", "timestamp_order": "976-1", "speaker": "Speaker_F", "text": "조지아 공대와 저는 오랜 협력 관계를 맺고 있습니다.", "label": 1}
+{"timestamp": "33:37", "timestamp_order": "978-1", "speaker": "Speaker_B", "text": "음, 하지만 이건 우리 시나리오가 아니에요.", "label": 1}
+{"timestamp": "33:37", "timestamp_order": "979-1", "speaker": "Speaker_B", "text": "우리 시나리오에서는 모든 노드가 정확히 똑같아요.", "label": 1}
+{"timestamp": "33:39", "timestamp_order": "980-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "33:42", "timestamp_order": "983-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "33:46", "timestamp_order": "984-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "33:46", "timestamp_order": "985-1", "speaker": "Speaker_B", "text": "그들은 똑같은 것을 가지고 있어요", "label": 1}
+{"timestamp": "33:46", "timestamp_order": "986-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "23:40", "timestamp_order": "987-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "23:45", "timestamp_order": "991-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "23:46", "timestamp_order": "992-1", "speaker": "Speaker_B", "text": "그 다음에 ,", "label": 1}
+{"timestamp": "23:47", "timestamp_order": "994-1", "speaker": "Speaker_F", "text": "ITF에서 논의된 전통적인 것들과 마찬가지로 상당히 다른 방향으로 가고 있으며 현재 활성 라우팅이 실제로 주제인지에 대한 아이디어가 없습니다.", "label": 1}
+{"timestamp": "23:48", "timestamp_order": "995-1", "speaker": "Speaker_B", "text": "어, 이 전송", "label": 1}
+{"timestamp": "23:51", "timestamp_order": "997-1", "speaker": "Speaker_F", "text": "이제 p", "label": 1}
+{"timestamp": "23:57", "timestamp_order": "998-1", "speaker": "Speaker_F", "text": "어, IT F 내에서요.", "label": 1}
+{"timestamp": "24:03", "timestamp_order": "1000-1", "speaker": "Speaker_F", "text": "그럼 이게 1번 노드인가요?", "label": 1}
+{"timestamp": "24:03", "timestamp_order": "1002-1", "speaker": "Speaker_F", "text": "어, 그 지역에서요?", "label": 1}
+{"timestamp": "24:05", "timestamp_order": "1003-1", "speaker": "Speaker_B", "text": "Nnn, 두 질문 모두 아니요, 두 질문 모두 q입니다.", "label": 1}
+{"timestamp": "24:09", "timestamp_order": "1006-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "24:10", "timestamp_order": "1008-1", "speaker": "Speaker_B", "text": "Fo - fo는 라우팅에 대한 잊어버리기를 의미합니다.", "label": 1}
+{"timestamp": "27:24", "timestamp_order": "1011-1", "speaker": "Speaker_B", "text": "어디", "label": 1}
+{"timestamp": "27:29", "timestamp_order": "1015-1", "speaker": "Speaker_F", "text": "그리고 차세대 무선 접속 네트워크를 위한 새로운 솔루션을 제공합니다.", "label": 1}
+{"timestamp": "27:30", "timestamp_order": "1016-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "27:32", "timestamp_order": "1018-1", "speaker": "Speaker_B", "text": "예를 들어, 이 노드는 수신 노드의 이웃입니다.", "label": 1}
+{"timestamp": "27:36", "timestamp_order": "1020-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "27:36", "timestamp_order": "1021-1", "speaker": "Speaker_B", "text": "하지만 송신 노드의 이웃은 아닙니다.", "label": 1}
+{"timestamp": "27:39", "timestamp_order": "1022-1", "speaker": "Speaker_C", "text": "네.", "label": 1}
+{"timestamp": "27:39", "timestamp_order": "1023-1", "speaker": "Speaker_C", "text": "그거예요.", "label": 1}
+{"timestamp": "27:42", "timestamp_order": "1027-1", "speaker": "Speaker_F", "text": "대화형 멀티미디어 응용 프로그램의 사용은 다음과 같이 설명됩니다.", "label": 1}
+{"timestamp": "27:44", "timestamp_order": "1028-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "12:00", "timestamp_order": "1030-1", "speaker": "Speaker_B", "text": "음", "label": 1}
+{"timestamp": "12:00", "timestamp_order": "1031-1", "speaker": "Speaker_B", "text": "외부 네트워크,", "label": 1}
+{"timestamp": "12:04", "timestamp_order": "1033-1", "speaker": "Speaker_F", "text": "어, 기가헤르츠요.", "label": 1}
+{"timestamp": "12:20", "timestamp_order": "1040-1", "speaker": "Speaker_B", "text": "그리고 물론, 동일한 시나리오가 다음과 같은 장소에서도 발생할 수 있습니다.", "label": 1}
+{"timestamp": "12:27", "timestamp_order": "1041-1", "speaker": "Speaker_B", "text": "음, 사용 가능한 인프라가 없습니다.", "label": 1}
+{"timestamp": "12:31", "timestamp_order": "1043-1", "speaker": "Speaker_B", "text": "어, 사막 한가운데서,", "label": 1}
+{"timestamp": "12:33", "timestamp_order": "1044-1", "speaker": "Speaker_B", "text": "알겠어요?", "label": 1}
+{"timestamp": "12:33", "timestamp_order": "1045-1", "speaker": "Speaker_B", "text": "다른 네트워크 없이요.", "label": 1}
+{"timestamp": "12:39", "timestamp_order": "1047-1", "speaker": "Speaker_B", "text": "그 요점이나 질문은 우리 중 일부에게는 다음과 같을 수 있습니다.", "label": 1}
+{"timestamp": "12:43", "timestamp_order": "1048-1", "speaker": "Speaker_B", "text": "좋아요, 괜찮은 것 같지만, 단 한 번의 홉으로 모든 목적지에 도달할 수 있도록 더 긴 전송 범위를 사용하는 게 어떨까요?", "label": 1}
+{"timestamp": "12:43", "timestamp_order": "1049-1", "speaker": "Speaker_B", "text": "라고 말하는 아이디어", "label": 1}
+{"timestamp": "12:56", "timestamp_order": "1052-1", "speaker": "Speaker_F", "text": "네.", "label": 1}
+{"timestamp": "12:56", "timestamp_order": "1053-1", "speaker": "Speaker_F", "text": "그리고 제게 한 가지 추가 질문이 있는데, 시간이 빨리 흐르고 있어서 짧게 대답할 수도 있을 것 같습니다.", "label": 1}
+{"timestamp": "13:01", "timestamp_order": "1055-1", "speaker": "Speaker_F", "text": "어, 무선랜과 블루투스에 문제가 생긴다는 얘기를 들었어요.", "label": 1}
+{"timestamp": "13:02", "timestamp_order": "1056-1", "speaker": "Speaker_B", "text": "그, 음, 우리는 조금 이야기할 거야, 어,", "label": 1}
+{"timestamp": "33:11", "timestamp_order": "1061-1", "speaker": "Speaker_B", "text": "음, 통신은 단방향으로만 가능합니다.", "label": 1}
+{"timestamp": "33:14", "timestamp_order": "1066-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "33:14", "timestamp_order": "1067-1", "speaker": "Speaker_B", "text": "예를 들어, 당신은 하나를 가지고 있습니다", "label": 1}
+{"timestamp": "33:18", "timestamp_order": "1072-1", "speaker": "Speaker_B", "text": "어와 함께", "label": 1}
+{"timestamp": "33:18", "timestamp_order": "1073-1", "speaker": "Speaker_E", "text": "아, 배.", "label": 1}
+{"timestamp": "33:18", "timestamp_order": "1074-1", "speaker": "Speaker_F", "text": "아니, 아니, 아니.", "label": 1}
+{"timestamp": "33:18", "timestamp_order": "1075-1", "speaker": "Speaker_F", "text": "파에즈가 아니야.", "label": 1}
+{"timestamp": "33:18", "timestamp_order": "1076-1", "speaker": "Speaker_F", "text": "아니야.", "label": 1}
+{"timestamp": "33:49", "timestamp_order": "1081-1", "speaker": "Speaker_F", "text": "어쩌면 우리가 가질 수 있을지에 초점을 맞추고 있습니다", "label": 1}
+{"timestamp": "33:52", "timestamp_order": "1084-1", "speaker": "Speaker_F", "text": "음", "label": 1}
+{"timestamp": "33:53", "timestamp_order": "1085-1", "speaker": "Speaker_F", "text": "네트워킹과 응용 프로그램 관련 업무에 참여하는 교수가 더 많아 UCB가", "label": 1}
+{"timestamp": "33:54", "timestamp_order": "1086-1", "speaker": "Speaker_B", "text": "적어도 지금은 그럴 수도 있겠지", "label": 1}
+{"timestamp": "34:01", "timestamp_order": "1091-1", "speaker": "Speaker_B", "text": "아시다시피, 이 메커니즘은 예약 메커니즘이라는 아이디어입니다.", "label": 1}
+{"timestamp": "34:02", "timestamp_order": "1092-1", "speaker": "Speaker_F", "text": "음, 파트너지만 그래도 부서가 다르죠.", "label": 1}
+{"timestamp": "34:04", "timestamp_order": "1093-1", "speaker": "Speaker_B", "text": "음 - 음 - 음.", "label": 1}
+{"timestamp": "34:11", "timestamp_order": "1099-1", "speaker": "Speaker_B", "text": "그리고 여기가 우리의 일부 작업이 이루어지는 곳입니다.", "label": 1}
+{"timestamp": "34:12", "timestamp_order": "1100-1", "speaker": "Speaker_B", "text": "슬라이드는 어디에서 볼 수 있나요?", "label": 1}
+{"timestamp": "37:37", "timestamp_order": "1103-1", "speaker": "Speaker_B", "text": "이것은 또는 또는 노드의 배포 영역이고 여기에 몇몇 노드가 있고 여기에 몇몇 노드가 있다면, 아마도 이 영역에 이 노드들이 있을 것입니다.", "label": 1}
+{"timestamp": "37:53", "timestamp_order": "1105-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "38:01", "timestamp_order": "1107-1", "speaker": "Speaker_B", "text": "충분히 길어야 이 지역의 노드가 다른 지역의 노드에 도달할 수 있습니다.", "label": 1}
+{"timestamp": "38:10", "timestamp_order": "1108-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "38:14", "timestamp_order": "1109-1", "speaker": "Speaker_B", "text": "만약 노드가 무작위로 움직인다면 이런 구성은 일어날 가능성이 매우 낮습니다.", "label": 1}
+{"timestamp": "38:27", "timestamp_order": "1110-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "38:35", "timestamp_order": "1111-1", "speaker": "Speaker_B", "text": "어 원 어 값", "label": 1}
+{"timestamp": "38:38", "timestamp_order": "1112-1", "speaker": "Speaker_B", "text": "주어진 음 음 확률에 대해서.", "label": 1}
+{"timestamp": "38:42", "timestamp_order": "1113-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "38:58", "timestamp_order": "1115-1", "speaker": "Speaker_B", "text": "어떤 특정한 확률에 대해서는요.", "label": 1}
+{"timestamp": "39:02", "timestamp_order": "1116-1", "speaker": "Speaker_B", "text": "알겠어요?", "label": 1}
+{"timestamp": "39:02", "timestamp_order": "1117-1", "speaker": "Speaker_B", "text": "그럼 요점은", "label": 1}
+{"timestamp": "39:04", "timestamp_order": "1118-1", "speaker": "Speaker_B", "text": "음, 우리는 이것이 일어나지 않을 것이라고 말할 수 없습니다.", "label": 1}
+{"timestamp": "39:04", "timestamp_order": "1119-1", "speaker": "Speaker_B", "text": "우리가 말할 수 있는 것은 노드가 이동하면 이것이 일어날 가능성이 매우 낮다는 것입니다.", "label": 1}
+{"timestamp": "39:12", "timestamp_order": "1120-1", "speaker": "Speaker_B", "text": "어 어 랜덤.", "label": 1}
+{"timestamp": "39:14", "timestamp_order": "1121-1", "speaker": "Speaker_F", "text": "네, 하지만 미구엘,", "label": 1}
+{"timestamp": "39:14", "timestamp_order": "1122-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "34:55", "timestamp_order": "1126-1", "speaker": "Speaker_F", "text": "음, 슬라이드 번호 5에 있어요.", "label": 1}
+{"timestamp": "35:19", "timestamp_order": "1137-1", "speaker": "Speaker_F", "text": "그래서 저는 그것들이 매우 매우 어려운 프로토콜이라고 믿습니다.", "label": 1}
+{"timestamp": "35:21", "timestamp_order": "1138-1", "speaker": "Speaker_B", "text": "그리고 우리는, 어", "label": 1}
+{"timestamp": "35:28", "timestamp_order": "1140-1", "speaker": "Speaker_B", "text": "어, 두 가지 다른 방법으로요.", "label": 1}
+{"timestamp": "35:37", "timestamp_order": "1143-1", "speaker": "Speaker_F", "text": "네, 저는 어려운 방식으로 그렇게 생각합니다.", "label": 1}
+{"timestamp": "35:43", "timestamp_order": "1145-1", "speaker": "Speaker_B", "text": "음, 모든 송신기에 동일한 값을 적용하려고 합니다.", "label": 1}
+{"timestamp": "35:52", "timestamp_order": "1147-1", "speaker": "Speaker_F", "text": "프로토콜 스택과 관련 노드에 대해 더 많은 정보를 제공하겠지만 음, 저도 알아내야 합니다.", "label": 1}
+{"timestamp": "32:38", "timestamp_order": "1149-1", "speaker": "Speaker_B", "text": "어, 더 많은 이득을 얻을 수 있다고 해 보자", "label": 1}
+{"timestamp": "32:39", "timestamp_order": "1150-1", "speaker": "Speaker_F", "text": "네트워킹 분야에서요.", "label": 1}
+{"timestamp": "32:40", "timestamp_order": "1152-1", "speaker": "Speaker_C", "text": "네, 알겠습니다.", "label": 1}
+{"timestamp": "32:43", "timestamp_order": "1154-1", "speaker": "Speaker_C", "text": "당신은 이걸 가정하고 있는 게 아니죠.", "label": 1}
+{"timestamp": "32:48", "timestamp_order": "1158-1", "speaker": "Speaker_B", "text": "전송할 때뿐만 아니라 수신할 때도 더 많은 이득을 얻을 수 있습니다.", "label": 1}
+{"timestamp": "32:50", "timestamp_order": "1159-1", "speaker": "Speaker_F", "text": "그리고 음 좋아", "label": 1}
+{"timestamp": "32:53", "timestamp_order": "1161-1", "speaker": "Speaker_B", "text": "그래서 일반적으로, 일반적으로 심지어 안테나 이득이 다르더라도,", "label": 1}
+{"timestamp": "33:00", "timestamp_order": "1164-1", "speaker": "Speaker_B", "text": "어, 주로 양방향 채널을 받게 되는군요.", "label": 1}
+{"timestamp": "33:03", "timestamp_order": "1166-1", "speaker": "Speaker_F", "text": "어, 이곳은 후안 페이레 대학이에요.", "label": 1}
+{"timestamp": "40:27", "timestamp_order": "1170-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "40:33", "timestamp_order": "1171-1", "speaker": "Speaker_B", "text": "이 수의 이웃이 있지만 이것은 내가 하는 일이 아니고 내가 하는 종류의 전력 제어입니다.", "label": 1}
+{"timestamp": "40:55", "timestamp_order": "1174-1", "speaker": "Speaker_B", "text": "알겠어요?", "label": 1}
+{"timestamp": "40:56", "timestamp_order": "1176-1", "speaker": "Speaker_B", "text": "특정 이웃 노드에 대해 수행되어야 합니다.", "label": 1}
+{"timestamp": "41:07", "timestamp_order": "1178-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "41:11", "timestamp_order": "1180-1", "speaker": "Speaker_B", "text": "우리의 알고리즘을 무언가와 비교하기 위해, 우리는 그것을 일반적인 uh 메커니즘인 무전력 제어와 비교해야 했습니다.", "label": 1}
+{"timestamp": "41:20", "timestamp_order": "1181-1", "speaker": "Speaker_B", "text": "이 미디어 접근 제어 수준에서는요.", "label": 1}
+{"timestamp": "41:28", "timestamp_order": "1183-1", "speaker": "Speaker_B", "text": "전원 제어가 없지만 다시 비교하기 위해 수정해야 합니다.", "label": 1}
+{"timestamp": "41:28", "timestamp_order": "1184-1", "speaker": "Speaker_B", "text": "주어진 것을 수정해야 합니다.", "label": 1}
+{"timestamp": "41:35", "timestamp_order": "1185-1", "speaker": "Speaker_B", "text": "뭐든지, 하지만 비교할 수 있는 최대 전송 범위가 주어지면.", "label": 1}
+{"timestamp": "41:48", "timestamp_order": "1188-1", "speaker": "Speaker_F", "text": "이제 몇 분 후에 커피 브레이크, 차, 케이크 등을 제공하겠습니다.", "label": 1}
+{"timestamp": "26:00", "timestamp_order": "1194-1", "speaker": "Speaker_F", "text": "어제 밤.", "label": 1}
+{"timestamp": "26:01", "timestamp_order": "1195-1", "speaker": "Speaker_F", "text": "그래서 여기 슬라이드로 대략 가보는 게 어떨까 제안합니다.", "label": 1}
+{"timestamp": "26:02", "timestamp_order": "1196-1", "speaker": "Speaker_B", "text": "알잖아 ,", "label": 1}
+{"timestamp": "26:03", "timestamp_order": "1197-1", "speaker": "Speaker_B", "text": "사실, 아마도 라우팅 프로토콜일 것이다", "label": 1}
+{"timestamp": "26:07", "timestamp_order": "1200-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "26:13", "timestamp_order": "1207-1", "speaker": "Speaker_B", "text": "당신은 보통 할 수 없어요, 어,", "label": 1}
+{"timestamp": "26:22", "timestamp_order": "1213-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "39:21", "timestamp_order": "1214-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "39:21", "timestamp_order": "1215-1", "speaker": "Speaker_B", "text": "다음이에요.", "label": 1}
+{"timestamp": "39:23", "timestamp_order": "1216-1", "speaker": "Speaker_F", "text": "내가 뭔가를 보냈는데 아래 클러스터 중 하나 때문에 이웃을 찾을 수 없다면,", "label": 1}
+{"timestamp": "39:35", "timestamp_order": "1221-1", "speaker": "Speaker_F", "text": "그럼 어차피 난 길을 잃은 거군요.", "label": 1}
+{"timestamp": "39:36", "timestamp_order": "1223-1", "speaker": "Speaker_B", "text": "네, 하지만 이건 다른 연구자들이 탐구하고 있는 방식이에요.", "label": 1}
+{"timestamp": "39:37", "timestamp_order": "1224-1", "speaker": "Speaker_F", "text": "네, 네.", "label": 1}
+{"timestamp": "39:52", "timestamp_order": "1225-1", "speaker": "Speaker_F", "text": "음-음.", "label": 1}
+{"timestamp": "39:54", "timestamp_order": "1226-1", "speaker": "Speaker_B", "text": "전송 전력을 제어하는 것과 관련이 있습니다.", "label": 1}
+{"timestamp": "39:59", "timestamp_order": "1227-1", "speaker": "Speaker_B", "text": "예를 들어 네트워크의 특정 속성은 다음과 같습니다.", "label": 1}
+{"timestamp": "40:09", "timestamp_order": "1229-1", "speaker": "Speaker_F", "text": "음-음.", "label": 1}
+{"timestamp": "40:13", "timestamp_order": "1231-1", "speaker": "Speaker_F", "text": "감사합니다.", "label": 1}
+{"timestamp": "40:13", "timestamp_order": "1232-1", "speaker": "Speaker_F", "text": "이제 전원을 끄지 마십시오.", "label": 1}
+{"timestamp": "40:17", "timestamp_order": "1234-1", "speaker": "Speaker_B", "text": "이 사람들은 그들이 말하는 대로 하고 있어", "label": 1}
+{"timestamp": "40:20", "timestamp_order": "1235-1", "speaker": "Speaker_B", "text": "어 B - 연결된 네트워크, 그들은 최소한 모든 네트워크 노드가", "label": 1}
+{"timestamp": "45:16", "timestamp_order": "1238-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "45:21", "timestamp_order": "1240-1", "speaker": "Speaker_B", "text": "하지만 미디어 접근 제어 수준의 경우,", "label": 1}
+{"timestamp": "45:30", "timestamp_order": "1242-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "45:34", "timestamp_order": "1243-1", "speaker": "Speaker_F", "text": "제가 노드를 이런 식으로 움직이는 이유는 갑자기 전송 영역의 범위를 벗어나기 때문입니다.", "label": 1}
+{"timestamp": "45:43", "timestamp_order": "1245-1", "speaker": "Speaker_F", "text": "그럼 아직도 데이터 전송 중이라는 소리가 들리네요.", "label": 1}
+{"timestamp": "45:47", "timestamp_order": "1246-1", "speaker": "Speaker_B", "text": "네, 하지만 다시 한번, 우리는 무엇입니까?", "label": 1}
+{"timestamp": "45:52", "timestamp_order": "1248-1", "speaker": "Speaker_B", "text": "어, 조금 더, 아마 좀 더", "label": 1}
+{"timestamp": "45:56", "timestamp_order": "1249-1", "speaker": "Speaker_B", "text": "음, 비트 오류율에 작은 부분이 있습니다.", "label": 1}
+{"timestamp": "46:00", "timestamp_order": "1250-1", "speaker": "Speaker_B", "text": "알겠어요?", "label": 1}
+{"timestamp": "46:00", "timestamp_order": "1251-1", "speaker": "Speaker_B", "text": "아마 이 프레임은 제대로 수신되지 않을 거예요.", "label": 1}
+{"timestamp": "46:04", "timestamp_order": "1252-1", "speaker": "Speaker_B", "text": "그리고, 그것은 삭제되어야만 하겠지만, 어쨌든,", "label": 1}
+{"timestamp": "46:20", "timestamp_order": "1255-1", "speaker": "Speaker_F", "text": "네.", "label": 1}
+{"timestamp": "46:20", "timestamp_order": "1256-1", "speaker": "Speaker_F", "text": "맞아요.", "label": 1}
+{"timestamp": "46:26", "timestamp_order": "1257-1", "speaker": "Speaker_B", "text": "Y 당신은 그것이 일어날 가능성이 매우 낮다는 것을 알 수 있습니다.", "label": 1}
+{"timestamp": "46:38", "timestamp_order": "1260-1", "speaker": "Speaker_F", "text": "네.", "label": 1}
+{"timestamp": "29:05", "timestamp_order": "1266-1", "speaker": "Speaker_F", "text": "미디어 접근 권한을 얻습니다.", "label": 1}
+{"timestamp": "29:06", "timestamp_order": "1267-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "29:08", "timestamp_order": "1271-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "29:11", "timestamp_order": "1275-1", "speaker": "Speaker_F", "text": "네, 알겠습니다.", "label": 1}
+{"timestamp": "29:11", "timestamp_order": "1276-1", "speaker": "Speaker_B", "text": "그리고 사실, 음, 또 다른 세부 사항이 있는데, 그것은 음 아닙니다.", "label": 1}
+{"timestamp": "29:15", "timestamp_order": "1277-1", "speaker": "Speaker_B", "text": "어 어 어 슬라이드에 있는 거, 그거 맞아요", "label": 1}
+{"timestamp": "29:21", "timestamp_order": "1281-1", "speaker": "Speaker_F", "text": "어, NSA 그룹도 포함해서", "label": 1}
+{"timestamp": "29:24", "timestamp_order": "1282-1", "speaker": "Speaker_F", "text": "그리고 어쩌면 그게 나에게는 매우 합리적인 것처럼 보일 수도 있겠습니다.", "label": 1}
+{"timestamp": "29:25", "timestamp_order": "1283-1", "speaker": "Speaker_B", "text": "음 ,", "label": 1}
+{"timestamp": "29:26", "timestamp_order": "1284-1", "speaker": "Speaker_B", "text": "필드가 있다, 제어 필드가 있다", "label": 1}
+{"timestamp": "46:46", "timestamp_order": "1288-1", "speaker": "Speaker_F", "text": "예를 들어, 전송이나 기타 다른 작업을 할 때,", "label": 1}
+{"timestamp": "46:47", "timestamp_order": "1289-1", "speaker": "Speaker_B", "text": "음 - 음 - 음.", "label": 1}
+{"timestamp": "46:50", "timestamp_order": "1290-1", "speaker": "Speaker_B", "text": "네, 물론이죠, 물론이죠.", "label": 1}
+{"timestamp": "46:51", "timestamp_order": "1291-1", "speaker": "Speaker_F", "text": "어떤 통제를 위해서든, 어떤 종류의 일을 위해서든, 알다시피요.", "label": 1}
+{"timestamp": "46:55", "timestamp_order": "1292-1", "speaker": "Speaker_B", "text": "나 나 아마 나 나 나 좀 더 자세한 뷰를 준비해야 했을 것 같아, 그냥 뭔가 부드러운 걸 하려고 했을 뿐이야,", "label": 1}
+{"timestamp": "47:12", "timestamp_order": "1293-1", "speaker": "Speaker_F", "text": "맞아요.", "label": 1}
+{"timestamp": "47:12", "timestamp_order": "1294-1", "speaker": "Speaker_F", "text": "네.", "label": 1}
+{"timestamp": "47:20", "timestamp_order": "1296-1", "speaker": "Speaker_B", "text": "어, 이 RTS와 CTS 패킷과 같은 방식으로 일부는 을 사용합니다.", "label": 1}
+{"timestamp": "47:30", "timestamp_order": "1298-1", "speaker": "Speaker_B", "text": "그래서 당신은 어떤 종류의 링크 계층 확인 체계를 얻고 있는 건가요?", "label": 1}
+{"timestamp": "47:52", "timestamp_order": "1301-1", "speaker": "Speaker_B", "text": "글쎄, 이건 링크 계층보다 더 오래 걸리네요.", "label": 1}
+{"timestamp": "47:56", "timestamp_order": "1302-1", "speaker": "Speaker_B", "text": "어, 추가 패킷이에요.", "label": 1}
+{"timestamp": "47:59", "timestamp_order": "1304-1", "speaker": "Speaker_B", "text": "uh도 여기에 고려되어 있습니다", "label": 1}
+{"timestamp": "48:04", "timestamp_order": "1305-1", "speaker": "Speaker_B", "text": "길이가 RTS 및 CTS 패킷에 포함되어 있으므로 모두가 이 확인이 전송될 때까지 기다릴 수 있습니다.", "label": 1}
+{"timestamp": "50:05", "timestamp_order": "1310-1", "speaker": "Speaker_B", "text": "이건 아마, 뭔가 아주 뭔가 같아 보이지 않아?", "label": 1}
+{"timestamp": "50:14", "timestamp_order": "1311-1", "speaker": "Speaker_B", "text": "아마도 당신이 가질 수 있는 것은 다음과 같은 이웃일 것입니다.", "label": 1}
+{"timestamp": "50:29", "timestamp_order": "1313-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "50:29", "timestamp_order": "1317-1", "speaker": "Speaker_F", "text": "이건 이런 것들과 직접적으로 관련이 없는 질문이지만, 어쩌면 그래서 짧게 대답하는 걸 수도 있겠네요.", "label": 1}
+{"timestamp": "50:36", "timestamp_order": "1318-1", "speaker": "Speaker_F", "text": "음, 앞으로 몇 년 안에도 전력 통제가 문제가 될 것이라고 생각하시나요?", "label": 1}
+{"timestamp": "50:49", "timestamp_order": "1319-1", "speaker": "Speaker_F", "text": "아마도 3년, 4년, 5년 안에 장치 내에서 더 많은 전력을 확보하는 데 성공할 것입니다.", "label": 1}
+{"timestamp": "50:58", "timestamp_order": "1321-1", "speaker": "Speaker_F", "text": "어, 무선 네트워크에 있는 이 어려운 메커니즘이 범위에서 벗어날 만큼 많은 권한을 사용할 수 있게 되는 게 성공할까요?", "label": 1}
+{"timestamp": "51:24", "timestamp_order": "1327-1", "speaker": "Speaker_B", "text": "음 ,", "label": 1}
+{"timestamp": "51:25", "timestamp_order": "1328-1", "speaker": "Speaker_B", "text": "예를 들어, 당신의 차가", "label": 1}
+{"timestamp": "51:33", "timestamp_order": "1329-1", "speaker": "Speaker_B", "text": "그게 문제가 될 것 같아?", "label": 1}
+{"timestamp": "55:26", "timestamp_order": "1331-1", "speaker": "Speaker_E", "text": "동시에 일어날 수 있습니다.", "label": 1}
+{"timestamp": "55:26", "timestamp_order": "1332-1", "speaker": "Speaker_F", "text": "네, 네, 네, 네, 네.", "label": 1}
+{"timestamp": "55:35", "timestamp_order": "1336-1", "speaker": "Speaker_B", "text": "그리고 최대 네트워크 처리량을 얻기 위해.", "label": 1}
+{"timestamp": "55:38", "timestamp_order": "1337-1", "speaker": "Speaker_B", "text": "그게 바로 아이디어예요.", "label": 1}
+{"timestamp": "55:43", "timestamp_order": "1339-1", "speaker": "Speaker_B", "text": "어, 항상 그렇지만,", "label": 1}
+{"timestamp": "56:07", "timestamp_order": "1340-1", "speaker": "Speaker_B", "text": "그래서, 어", "label": 1}
+{"timestamp": "56:18", "timestamp_order": "1342-1", "speaker": "Speaker_B", "text": "알겠어요?", "label": 1}
+{"timestamp": "56:18", "timestamp_order": "1343-1", "speaker": "Speaker_B", "text": "그럼,", "label": 1}
+{"timestamp": "56:27", "timestamp_order": "1344-1", "speaker": "Speaker_B", "text": "알겠어요?", "label": 1}
+{"timestamp": "56:36", "timestamp_order": "1346-1", "speaker": "Speaker_F", "text": "음-음.", "label": 1}
+{"timestamp": "56:36", "timestamp_order": "1347-1", "speaker": "Speaker_B", "text": "알겠어요?", "label": 1}
+{"timestamp": "56:40", "timestamp_order": "1349-1", "speaker": "Speaker_B", "text": "동시에 많은 전송이 이루어진다는 것은 또한", "label": 1}
+{"timestamp": "57:13", "timestamp_order": "1351-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "57:20", "timestamp_order": "1352-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "51:40", "timestamp_order": "1353-1", "speaker": "Speaker_B", "text": "알았어요.", "label": 1}
+{"timestamp": "51:40", "timestamp_order": "1354-1", "speaker": "Speaker_B", "text": "그럴 수 없어요", "label": 1}
+{"timestamp": "51:49", "timestamp_order": "1355-1", "speaker": "Speaker_B", "text": "그래서, 당신의 질문에 대한 답은 다음과 같다고 생각합니다.", "label": 1}
+{"timestamp": "52:02", "timestamp_order": "1356-1", "speaker": "Speaker_B", "text": "하지만 더 많은 면적을 사용하게 되어 문제가 됩니다.", "label": 1}
+{"timestamp": "52:11", "timestamp_order": "1358-1", "speaker": "Speaker_B", "text": "따라서 문제는 전원에만 연결되어 있지 않습니다.", "label": 1}
+{"timestamp": "52:17", "timestamp_order": "1359-1", "speaker": "Speaker_B", "text": "또한 글로벌 네트워크 처리량에 대한 네트워크에 연결되어 있습니다.", "label": 1}
+{"timestamp": "52:23", "timestamp_order": "1360-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "52:23", "timestamp_order": "1361-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "52:32", "timestamp_order": "1363-1", "speaker": "Speaker_B", "text": "만약 당신이 나에게 무슨 일이 일어날 것 같아?", "label": 1}
+{"timestamp": "52:36", "timestamp_order": "1365-1", "speaker": "Speaker_B", "text": "내 생각엔 그들이 그렇게 할 것 같아요.", "label": 1}
+{"timestamp": "53:58", "timestamp_order": "1368-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "53:59", "timestamp_order": "1369-1", "speaker": "Speaker_F", "text": "네, 하지만 어쨌든 그게 제 질문의 이유였어요.", "label": 1}
+{"timestamp": "54:02", "timestamp_order": "1371-1", "speaker": "Speaker_F", "text": "많은 어려운 메커니즘을 통해 무선 인터페이스 내부와 기지국 또는 액세스 포인트와 모바일 노드 사이에서 전력의 1%가 소모되는 반면 99%는", "label": 1}
+{"timestamp": "54:13", "timestamp_order": "1372-1", "speaker": "Speaker_F", "text": "패킷 처리 및 및 및 및 및 어 어 CPU 또는 무엇이든,", "label": 1}
+{"timestamp": "54:16", "timestamp_order": "1373-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "31:23", "timestamp_order": "1377-1", "speaker": "Speaker_F", "text": "다음 단계는 다음과 같습니다.", "label": 1}
+{"timestamp": "31:24", "timestamp_order": "1378-1", "speaker": "Speaker_B", "text": "이 노드가 이 노드를 듣지 못하도록 만들어,", "label": 1}
+{"timestamp": "31:30", "timestamp_order": "1383-1", "speaker": "Speaker_F", "text": "모두가 해야 할 다른 일이 조금 있어요", "label": 1}
+{"timestamp": "31:33", "timestamp_order": "1385-1", "speaker": "Speaker_B", "text": "만약 그들이 이웃이 아니라면,", "label": 1}
+{"timestamp": "31:39", "timestamp_order": "1390-1", "speaker": "Speaker_C", "text": "이 일에 파트너가 여섯 명이나 있다고 하셨잖아요.", "label": 1}
+{"timestamp": "31:39", "timestamp_order": "1392-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "31:40", "timestamp_order": "1393-1", "speaker": "Speaker_C", "text": "하지만 음 발신자 중 하나가 다른 하나보다 훨씬 강할 수도 있습니다.", "label": 1}
+{"timestamp": "31:40", "timestamp_order": "1394-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "31:44", "timestamp_order": "1395-1", "speaker": "Speaker_B", "text": "아니요.", "label": 1}
+{"timestamp": "31:44", "timestamp_order": "1396-1", "speaker": "Speaker_B", "text": "하지만 이것은 우리가 가정하고 있는 시나리오가 아닙니다.", "label": 1}
+{"timestamp": "48:25", "timestamp_order": "1401-1", "speaker": "Speaker_B", "text": "무언가를 보내려고 했지만 성공하지 못했을 때, 음, 뭐 .", "label": 1}
+{"timestamp": "48:45", "timestamp_order": "1406-1", "speaker": "Speaker_B", "text": "어, 어떤 사람들은 제안도 해요", "label": 1}
+{"timestamp": "48:55", "timestamp_order": "1408-1", "speaker": "Speaker_B", "text": "저는 여러분께 주요 아이디어를 제시하려고 했을 뿐입니다.", "label": 1}
+{"timestamp": "49:04", "timestamp_order": "1409-1", "speaker": "Speaker_B", "text": "당신은 당신이 원하는 것을 자유롭게 물어보세요, 하지만", "label": 1}
+{"timestamp": "49:11", "timestamp_order": "1410-1", "speaker": "Speaker_B", "text": "어, 간소화된 어 버전, 가벼운 버전.", "label": 1}
+{"timestamp": "49:15", "timestamp_order": "1411-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "49:17", "timestamp_order": "1412-1", "speaker": "Speaker_B", "text": "음, 알다시피", "label": 1}
+{"timestamp": "49:19", "timestamp_order": "1413-1", "speaker": "Speaker_B", "text": "마침내 이 알고리즘이, 어, 내가 말했듯이,", "label": 1}
+{"timestamp": "49:33", "timestamp_order": "1416-1", "speaker": "Speaker_B", "text": "어떤 이점을 얻을 수 있습니다.", "label": 1}
+{"timestamp": "49:37", "timestamp_order": "1417-1", "speaker": "Speaker_B", "text": "네, 전력 제어가 없다면 항상 최대 전력을 사용하고 있는 셈이죠.", "label": 1}
+{"timestamp": "49:57", "timestamp_order": "1421-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "57:55", "timestamp_order": "1424-1", "speaker": "Speaker_B", "text": "어, 그리고", "label": 1}
+{"timestamp": "58:05", "timestamp_order": "1427-1", "speaker": "Speaker_B", "text": "음", "label": 1}
+{"timestamp": "58:19", "timestamp_order": "1431-1", "speaker": "Speaker_B", "text": "어, 프로토콜이 있어야지", "label": 1}
+{"timestamp": "59:16", "timestamp_order": "1435-1", "speaker": "Speaker_B", "text": "그룹에 동의하지 않는 것은 아니다", "label": 1}
+{"timestamp": "34:12", "timestamp_order": "1436-1", "speaker": "Speaker_F", "text": "어, 전자적으로요.", "label": 1}
+{"timestamp": "34:15", "timestamp_order": "1438-1", "speaker": "Speaker_B", "text": "슬라이드는 어디에서 볼 수 있나요?", "label": 1}
+{"timestamp": "34:17", "timestamp_order": "1440-1", "speaker": "Speaker_B", "text": "우리 작업의 주요 아이디어는 다음과 같습니다.", "label": 1}
+{"timestamp": "34:25", "timestamp_order": "1448-1", "speaker": "Speaker_F", "text": "그리고, 아마도 마지막 두 장의 슬라이드를 살펴보세요.", "label": 1}
+{"timestamp": "34:29", "timestamp_order": "1450-1", "speaker": "Speaker_B", "text": "음, 이 영역이 실제로 필요한 것보다 크다면, 우리는 어떻게든 낭비하고 있는 겁니다.", "label": 1}
+{"timestamp": "34:31", "timestamp_order": "1451-1", "speaker": "Speaker_F", "text": "음, 어쩌면 GPRS 영상이 아직 사용 가능할지도 몰라요.", "label": 1}
+{"timestamp": "36:00", "timestamp_order": "1462-1", "speaker": "Speaker_F", "text": "모든 것을 처음부터.", "label": 1}
+{"timestamp": "36:00", "timestamp_order": "1463-1", "speaker": "Speaker_F", "text": "나는 그것에 대한 완전한 전문가가 아닙니다.", "label": 1}
+{"timestamp": "36:04", "timestamp_order": "1465-1", "speaker": "Speaker_F", "text": "미래의 무선 네트워크.", "label": 1}
+{"timestamp": "36:07", "timestamp_order": "1466-1", "speaker": "Speaker_B", "text": "어, 모든 전송에 대해 전송 전력을 조절하는 알고리즘이에요.", "label": 1}
+{"timestamp": "36:08", "timestamp_order": "1467-1", "speaker": "Speaker_F", "text": "좋아요 .", "label": 1}
+{"timestamp": "36:09", "timestamp_order": "1468-1", "speaker": "Speaker_F", "text": "그럼 저는 여러분께 감사의 말씀을 전하고 싶습니다.", "label": 1}
+{"timestamp": "36:15", "timestamp_order": "1469-1", "speaker": "Speaker_B", "text": "그래서, 음, 우리 작업의 두 번째 부분에서는,", "label": 1}
+{"timestamp": "37:00", "timestamp_order": "1476-1", "speaker": "Speaker_B", "text": "그리고, 음, 우리가 제시한 것은 음에 대한 메커니즘입니다.", "label": 1}
+{"timestamp": "37:13", "timestamp_order": "1480-1", "speaker": "Speaker_F", "text": "다음 것을 주세요.", "label": 1}
+{"timestamp": "37:21", "timestamp_order": "1481-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "42:21", "timestamp_order": "1483-1", "speaker": "Speaker_F", "text": "노드가 무작위로 움직이는지 어떻게 확인하나요?", "label": 1}
+{"timestamp": "42:24", "timestamp_order": "1484-1", "speaker": "Speaker_B", "text": "글쎄요, 우리는 적어도 차량에 대해서는 e y가 있다고 가정하고 있어요.", "label": 1}
+{"timestamp": "42:24", "timestamp_order": "1485-1", "speaker": "Speaker_B", "text": "아시죠, 자동차에 대해서는요.", "label": 1}
+{"timestamp": "42:52", "timestamp_order": "1489-1", "speaker": "Speaker_F", "text": "네, 알겠습니다.", "label": 1}
+{"timestamp": "42:52", "timestamp_order": "1490-1", "speaker": "Speaker_F", "text": "아마 RTS CTS에는 적용될 수 있겠지만 실제 프레임에는 적용될까요?", "label": 1}
+{"timestamp": "43:00", "timestamp_order": "1491-1", "speaker": "Speaker_F", "text": "모르겠지만, 수백 바이트라면 시간이 좀 걸릴 겁니다.", "label": 1}
+{"timestamp": "43:04", "timestamp_order": "1492-1", "speaker": "Speaker_B", "text": "네 하지만, 나", "label": 1}
+{"timestamp": "43:05", "timestamp_order": "1493-1", "speaker": "Speaker_B", "text": "예를 들어 1킬로바이트가 있다고 가정해 보겠습니다.", "label": 1}
+{"timestamp": "43:08", "timestamp_order": "1494-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "43:15", "timestamp_order": "1497-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "43:16", "timestamp_order": "1498-1", "speaker": "Speaker_F", "text": "음-음.", "label": 1}
+{"timestamp": "43:27", "timestamp_order": "1501-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "43:32", "timestamp_order": "1503-1", "speaker": "Speaker_B", "text": "예를 들어, 초속 100킬로미터로 여행한다면 그리 많은 시간이 걸리지 않습니다.", "label": 1}
+{"timestamp": "31:02", "timestamp_order": "1505-1", "speaker": "Speaker_B", "text": "음, 음.", "label": 1}
+{"timestamp": "31:09", "timestamp_order": "1509-1", "speaker": "Speaker_B", "text": "알잖아", "label": 1}
+{"timestamp": "31:09", "timestamp_order": "1510-1", "speaker": "Speaker_B", "text": "이 아이디어는,", "label": 1}
+{"timestamp": "31:11", "timestamp_order": "1511-1", "speaker": "Speaker_B", "text": "이 기하학적 아이디어는,", "label": 1}
+{"timestamp": "31:14", "timestamp_order": "1515-1", "speaker": "Speaker_B", "text": "네가 원한다면, 어", "label": 1}
+{"timestamp": "31:17", "timestamp_order": "1518-1", "speaker": "Speaker_B", "text": "어떤 장애물 때문에.", "label": 1}
+{"timestamp": "31:17", "timestamp_order": "1519-1", "speaker": "Speaker_F", "text": "음", "label": 1}
+{"timestamp": "31:19", "timestamp_order": "1521-1", "speaker": "Speaker_B", "text": "알겠어요?", "label": 1}
+{"timestamp": "31:23", "timestamp_order": "1525-1", "speaker": "Speaker_B", "text": "그것은 단지 아니다", "label": 1}
+{"timestamp": "43:40", "timestamp_order": "1526-1", "speaker": "Speaker_F", "text": "아뇨, 아니요, 미안해요.", "label": 1}
+{"timestamp": "43:40", "timestamp_order": "1527-1", "speaker": "Speaker_F", "text": "네, 맞아요.", "label": 1}
+{"timestamp": "43:40", "timestamp_order": "1528-1", "speaker": "Speaker_B", "text": "아, 시간당이에요.", "label": 1}
+{"timestamp": "43:44", "timestamp_order": "1530-1", "speaker": "Speaker_F", "text": "하지만 무엇보다도 RTS CTS가 발생했고, 언급하신 대로, 여전히 매체가 다른 매체에 의해 점유되어 있다면 어쨌든 무작위 시간으로 지연될 것입니다.", "label": 1}
+{"timestamp": "43:52", "timestamp_order": "1532-1", "speaker": "Speaker_B", "text": "지연되겠지만 다시 처음부터 시작하게 될 겁니다.", "label": 1}
+{"timestamp": "43:58", "timestamp_order": "1534-1", "speaker": "Speaker_F", "text": "아, 그렇군요!", "label": 1}
+{"timestamp": "43:58", "timestamp_order": "1535-1", "speaker": "Speaker_F", "text": "알았어요, 알았어요.", "label": 1}
+{"timestamp": "43:58", "timestamp_order": "1536-1", "speaker": "Speaker_F", "text": "알았어요.", "label": 1}
+{"timestamp": "43:58", "timestamp_order": "1537-1", "speaker": "Speaker_F", "text": "알았어요.", "label": 1}
+{"timestamp": "43:58", "timestamp_order": "1538-1", "speaker": "Speaker_F", "text": "네.", "label": 1}
+{"timestamp": "43:58", "timestamp_order": "1539-1", "speaker": "Speaker_F", "text": "알았어요.", "label": 1}
+{"timestamp": "44:01", "timestamp_order": "1540-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "44:02", "timestamp_order": "1541-1", "speaker": "Speaker_B", "text": "하지만 어쨌든, 음, 글쎄요, 네트워크에 따라서, 지금, 이걸 번역해야 할 것 같아요,", "label": 1}
+{"timestamp": "44:12", "timestamp_order": "1542-1", "speaker": "Speaker_B", "text": "음", "label": 1}
+{"timestamp": "44:21", "timestamp_order": "1543-1", "speaker": "Speaker_B", "text": "그래서 이것은 다음과 같아야 합니다.", "label": 1}
+{"timestamp": "44:34", "timestamp_order": "1545-1", "speaker": "Speaker_B", "text": "좋아요 ?", "label": 1}
+{"timestamp": "44:35", "timestamp_order": "1546-1", "speaker": "Speaker_F", "text": "아, 그 비슷한 거요.", "label": 1}
+{"timestamp": "44:35", "timestamp_order": "1547-1", "speaker": "Speaker_F", "text": "괜찮아요.", "label": 1}
+{"timestamp": "44:51", "timestamp_order": "1550-1", "speaker": "Speaker_B", "text": "전송 속도에 대해 보수적인 값을 사용하면 이제 훨씬 더 많은 것을 얻을 수 있습니다.", "label": 1}
+{"timestamp": "45:01", "timestamp_order": "1551-1", "speaker": "Speaker_B", "text": "문제는, 음, 우리는 주어진 전송에 대해 다음과 같이 가정하고 있다는 것입니다.", "label": 1}
+{"timestamp": "45:07", "timestamp_order": "1552-1", "speaker": "Speaker_B", "text": "네트워크를 마치", "label": 1}
+{"timestamp": "54:28", "timestamp_order": "1554-1", "speaker": "Speaker_F", "text": "전 세계에 모바일 노드가 많을수록 배터리는 더 좋아질 것입니다.", "label": 1}
+{"timestamp": "54:32", "timestamp_order": "1555-1", "speaker": "Speaker_F", "text": "그래서 제가 질문한 이유는 다음과 같습니다.", "label": 1}
+{"timestamp": "54:36", "timestamp_order": "1557-1", "speaker": "Speaker_F", "text": "네, 네, 네.", "label": 1}
+{"timestamp": "54:49", "timestamp_order": "1562-1", "speaker": "Speaker_F", "text": "응, 알겠어.", "label": 1}
+{"timestamp": "54:50", "timestamp_order": "1565-1", "speaker": "Speaker_B", "text": "어, 커뮤니티에서 w w에 대해 공유했어요.", "label": 1}
+{"timestamp": "54:55", "timestamp_order": "1568-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "55:01", "timestamp_order": "1570-1", "speaker": "Speaker_E", "text": "음 최소값을 찾아보세요", "label": 1}
+{"timestamp": "55:05", "timestamp_order": "1572-1", "speaker": "Speaker_E", "text": "네트워크 처리량을 극대화하기 위해 전력 제어가 필요합니다.", "label": 1}

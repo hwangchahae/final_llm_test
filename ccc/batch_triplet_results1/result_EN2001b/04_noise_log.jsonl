@@ -1,0 +1,546 @@
+{"timestamp": "00:47", "timestamp_order": "3-1", "speaker": "Speaker_B", "text": "아, 그런 건 아니야.", "label": 1}
+{"timestamp": "00:47", "timestamp_order": "4-1", "speaker": "Speaker_B", "text": "알았어, 알았어.", "label": 1}
+{"timestamp": "00:54", "timestamp_order": "6-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "01:05", "timestamp_order": "8-1", "speaker": "Speaker_B", "text": "네, 그럴 수도 있겠네요.", "label": 1}
+{"timestamp": "01:05", "timestamp_order": "9-1", "speaker": "Speaker_B", "text": "뭐든 간에요.", "label": 1}
+{"timestamp": "01:10", "timestamp_order": "10-1", "speaker": "Speaker_B", "text": "네, 저는 이걸 전혀 이해하지 못해요.", "label": 1}
+{"timestamp": "01:10", "timestamp_order": "13-1", "speaker": "Speaker_B", "text": "분명히 이게 안 되는 거 같아요.", "label": 1}
+{"timestamp": "01:10", "timestamp_order": "14-1", "speaker": "Speaker_B", "text": "센터에 전화해서 물어보세요.", "label": 1}
+{"timestamp": "01:21", "timestamp_order": "15-1", "speaker": "Speaker_C", "text": "귀 뒤에 이걸 하고 있잖아, 응.", "label": 1}
+{"timestamp": "01:24", "timestamp_order": "17-1", "speaker": "Speaker_B", "text": "이렇게 하면, 그럼, 이제 뭐가 필요한지 알겠지?", "label": 1}
+{"timestamp": "01:37", "timestamp_order": "19-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "01:46", "timestamp_order": "20-1", "speaker": "Speaker_B", "text": "네, 사실 전기가 없다는 걸 깨달았어요.", "label": 1}
+{"timestamp": "01:57", "timestamp_order": "22-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "01:58", "timestamp_order": "23-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "02:03", "timestamp_order": "24-1", "speaker": "Speaker_B", "text": "그래서 아마 지금 당장은 서로의 일에 대해 이야기할 만한 게 별로 없을 거예요.", "label": 1}
+{"timestamp": "02:03", "timestamp_order": "25-1", "speaker": "Speaker_B", "text": "어제 이야기했던 것 외에는요.", "label": 1}
+{"timestamp": "02:14", "timestamp_order": "26-1", "speaker": "Speaker_D", "text": "네, 맞는 것 같아요.", "label": 1}
+{"timestamp": "02:16", "timestamp_order": "27-1", "speaker": "Speaker_B", "text": "그래서 제 생각은 XML 포맷을 함께 이해하려고 노력하면, 우리 모두가 생성하는 데이터를 어떤 방식으로든 생성할 수 있을 거라는 겁니다.", "label": 1}
+{"timestamp": "02:16", "timestamp_order": "28-1", "speaker": "Speaker_B", "text": "적어도 제 데이터는 완전히 다른 방식으로 불러올 테니까요.", "label": 1}
+{"timestamp": "02:16", "timestamp_order": "30-1", "speaker": "Speaker_B", "text": "하지만 주석과 관련된 모든 것들을 올바른 포맷으로 가지고 있어야 합니다.", "label": 1}
+{"timestamp": "02:16", "timestamp_order": "31-1", "speaker": "Speaker_B", "text": "XML 포맷에 대해 아는 것을 모아서 이해하려고 노력하면 어떨까요?", "label": 1}
+{"timestamp": "02:16", "timestamp_order": "32-1", "speaker": "Speaker_B", "text": "어떻게 해야 할지 전혀 모르겠습니다.", "label": 1}
+{"timestamp": "03:00", "timestamp_order": "33-1", "speaker": "Speaker_B", "text": "음, 난 몇 가지를 다운로드했어요", "label": 1}
+{"timestamp": "03:36", "timestamp_order": "37-1", "speaker": "Speaker_D", "text": "응, 그렇게 이야기할 내용은 없을 것 같아.", "label": 1}
+{"timestamp": "03:37", "timestamp_order": "38-1", "speaker": "Speaker_C", "text": "아니요.", "label": 1}
+{"timestamp": "03:37", "timestamp_order": "39-1", "speaker": "Speaker_C", "text": "그냥 데이터 파일을 어떻게 줄지 얘기해 보세요.", "label": 1}
+{"timestamp": "03:37", "timestamp_order": "40-1", "speaker": "Speaker_C", "text": "네.", "label": 1}
+{"timestamp": "03:44", "timestamp_order": "42-1", "speaker": "Speaker_D", "text": "네, 가능합니다.", "label": 1}
+{"timestamp": "03:46", "timestamp_order": "43-1", "speaker": "Speaker_B", "text": "그 부분은 뭐예요?", "label": 1}
+{"timestamp": "03:48", "timestamp_order": "44-1", "speaker": "Speaker_C", "text": "그건 주제 세그먼트를 갖는 것과 단어의 정보 중요도를 계산하는 것 사이의 인터페이스예요.", "label": 1}
+{"timestamp": "03:53", "timestamp_order": "45-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "03:57", "timestamp_order": "46-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "03:58", "timestamp_order": "47-1", "speaker": "Speaker_C", "text": "네.", "label": 1}
+{"timestamp": "03:58", "timestamp_order": "48-1", "speaker": "Speaker_C", "text": "그러면 각 세그먼트마다 별도의 파일이 필요하거나 각 세그먼트 사이에 구분 기호가 필요할 것 같아요.", "label": 1}
+{"timestamp": "04:15", "timestamp_order": "53-1", "speaker": "Speaker_C", "text": "아니요, 모르겠어요.", "label": 1}
+{"timestamp": "04:15", "timestamp_order": "54-1", "speaker": "Speaker_C", "text": "아니요.", "label": 1}
+{"timestamp": "04:19", "timestamp_order": "55-1", "speaker": "Speaker_C", "text": "네, 괜찮습니다.", "label": 1}
+{"timestamp": "04:21", "timestamp_order": "56-1", "speaker": "Speaker_C", "text": "파일 제목만 있으면 되는데, 뭐든 상관없어요.", "label": 1}
+{"timestamp": "04:26", "timestamp_order": "57-1", "speaker": "Speaker_D", "text": "맞아요.", "label": 1}
+{"timestamp": "04:26", "timestamp_order": "58-1", "speaker": "Speaker_D", "text": "알았어요.", "label": 1}
+{"timestamp": "04:26", "timestamp_order": "59-1", "speaker": "Speaker_D", "text": "네, 문제없어요.", "label": 1}
+{"timestamp": "04:32", "timestamp_order": "60-1", "speaker": "Speaker_B", "text": "네, 어디서부터 시작해야 할지 아시는 분 계신가요?", "label": 1}
+{"timestamp": "04:32", "timestamp_order": "61-1", "speaker": "Speaker_B", "text": "지금 우리가 이야기하는 건 뭐죠?", "label": 1}
+{"timestamp": "04:32", "timestamp_order": "63-1", "speaker": "Speaker_B", "text": "어떻게 보면 저처럼 결국 하나의 주석이 되는 거죠.", "label": 1}
+{"timestamp": "04:42", "timestamp_order": "65-1", "speaker": "Speaker_A", "text": "음, 네.", "label": 1}
+{"timestamp": "05:04", "timestamp_order": "66-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "05:09", "timestamp_order": "67-1", "speaker": "Speaker_B", "text": "잘 모르겠어요.", "label": 1}
+{"timestamp": "05:09", "timestamp_order": "68-1", "speaker": "Speaker_B", "text": "아.", "label": 1}
+{"timestamp": "05:09", "timestamp_order": "69-1", "speaker": "Speaker_B", "text": "알겠어요.", "label": 1}
+{"timestamp": "05:09", "timestamp_order": "70-1", "speaker": "Speaker_B", "text": "저도 그렇게 생각했어요.", "label": 1}
+{"timestamp": "05:09", "timestamp_order": "71-1", "speaker": "Speaker_B", "text": "지금 제가 어떤 소프트웨어를 사용하고 있는지 잘 모르겠는데, 헬로인가요?", "label": 1}
+{"timestamp": "05:32", "timestamp_order": "76-1", "speaker": "Speaker_B", "text": "XML을 표시하는 좋은 표준 소프트웨어를 아는 사람이 있나요?", "label": 1}
+{"timestamp": "05:32", "timestamp_order": "77-1", "speaker": "Speaker_B", "text": "잘 모르겠네요.", "label": 1}
+{"timestamp": "05:36", "timestamp_order": "78-1", "speaker": "Speaker_A", "text": "모질라를 예로 들어보겠습니다.", "label": 1}
+{"timestamp": "05:38", "timestamp_order": "79-1", "speaker": "Speaker_B", "text": "네, 하지만 아쉽게도 제가 사용하는 브라우저는 Firefox뿐이고 Firefox에는 더 이상 좋은 XML 뷰어가 없습니다.", "label": 1}
+{"timestamp": "05:44", "timestamp_order": "81-1", "speaker": "Speaker_B", "text": "Mozilla가 없는 것 같아요.", "label": 1}
+{"timestamp": "05:50", "timestamp_order": "82-1", "speaker": "Speaker_B", "text": "아니요 .", "label": 1}
+{"timestamp": "05:54", "timestamp_order": "83-1", "speaker": "Speaker_B", "text": "아마 Emacs로 처리할 수 있을 것 같아요.", "label": 1}
+{"timestamp": "05:58", "timestamp_order": "84-1", "speaker": "Speaker_C", "text": "그럼 음 값을 섞을 때, 음은 각 음 표현이나 각 문장 또는 무언가에 대한 값인가요?", "label": 1}
+{"timestamp": "06:10", "timestamp_order": "85-1", "speaker": "Speaker_A", "text": "네, 제 생각엔 그럴 것 같아요.", "label": 1}
+{"timestamp": "06:10", "timestamp_order": "86-1", "speaker": "Speaker_A", "text": "제게는 그게 꽤 어려운 일이에요.", "label": 1}
+{"timestamp": "06:17", "timestamp_order": "88-1", "speaker": "Speaker_A", "text": "알다시피, 하나의 주석이 어떤 범위를 가질지.", "label": 1}
+{"timestamp": "06:21", "timestamp_order": "89-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "06:24", "timestamp_order": "90-1", "speaker": "Speaker_A", "text": "나는 그것이 확실히 한 단어 이상일 것이라고 생각합니다.", "label": 1}
+{"timestamp": "06:35", "timestamp_order": "93-1", "speaker": "Speaker_C", "text": "네, 저는 각 단어에 대한 값을 그냥 얻게 될 테니 음.", "label": 1}
+{"timestamp": "06:35", "timestamp_order": "96-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "06:47", "timestamp_order": "98-1", "speaker": "Speaker_C", "text": "그냥 단어만 있고, 각 표현이 얼마나 길어야 할지 모르겠어요.", "label": 1}
+{"timestamp": "06:55", "timestamp_order": "99-1", "speaker": "Speaker_B", "text": "하지만 단어 하나에서 출발하여 각 발언에 대해 계산하는 것이 더 쉽지 않을까요?", "label": 1}
+{"timestamp": "07:00", "timestamp_order": "100-1", "speaker": "Speaker_C", "text": "네, 하지만 발언이란 게 뭔데요.", "label": 1}
+{"timestamp": "07:00", "timestamp_order": "101-1", "speaker": "Speaker_C", "text": "어, 네.", "label": 1}
+{"timestamp": "07:04", "timestamp_order": "102-1", "speaker": "Speaker_A", "text": "예를 들어, 6, 5 지점에서 세그먼트화된 것처럼 세그먼트만 있다고 생각합니다.", "label": 1}
+{"timestamp": "07:05", "timestamp_order": "103-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "07:19", "timestamp_order": "106-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "07:24", "timestamp_order": "107-1", "speaker": "Speaker_A", "text": "그리고 아마도 당신은 여전히 단어에 대한 값, 아마도 표시되는 키워드에 대한 값이 필요할 것입니다.", "label": 1}
+{"timestamp": "07:33", "timestamp_order": "108-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "07:40", "timestamp_order": "111-1", "speaker": "Speaker_A", "text": "네, 하지만 그건 또 다른 표현인 것 같아요.", "label": 1}
+{"timestamp": "07:40", "timestamp_order": "112-1", "speaker": "Speaker_A", "text": "중요도 측정을 위한 f인 것 같아요.", "label": 1}
+{"timestamp": "07:47", "timestamp_order": "115-1", "speaker": "Speaker_B", "text": "누구든지 실제로 어떤 파일에서 발화를 나누는지 아시나요?", "label": 1}
+{"timestamp": "07:54", "timestamp_order": "117-1", "speaker": "Speaker_A", "text": "아 포", "label": 1}
+{"timestamp": "07:54", "timestamp_order": "118-1", "speaker": "Speaker_D", "text": "음, 세그먼트가 아닌가요?", "label": 1}
+{"timestamp": "07:54", "timestamp_order": "119-1", "speaker": "Speaker_D", "text": "아니면 대화 행위인가요?", "label": 1}
+{"timestamp": "07:58", "timestamp_order": "121-1", "speaker": "Speaker_A", "text": "아니, 그렇지 않아요.", "label": 1}
+{"timestamp": "07:58", "timestamp_order": "122-1", "speaker": "Speaker_A", "text": "예를 들어, BDBOO 1 C.", "label": 1}
+{"timestamp": "07:58", "timestamp_order": "123-1", "speaker": "Speaker_A", "text": "6이 있어요.", "label": 1}
+{"timestamp": "08:05", "timestamp_order": "124-1", "speaker": "Speaker_B", "text": "뭐로 끝나요?", "label": 1}
+{"timestamp": "08:12", "timestamp_order": "127-1", "speaker": "Speaker_A", "text": "음, 아무것도 잘 보이지 않지만, 그렇군요.", "label": 1}
+{"timestamp": "08:14", "timestamp_order": "128-1", "speaker": "Speaker_C", "text": "음, 그렇군요.", "label": 1}
+{"timestamp": "08:15", "timestamp_order": "129-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "08:16", "timestamp_order": "130-1", "speaker": "Speaker_D", "text": "네, 그럴 것 같아요.", "label": 1}
+{"timestamp": "08:18", "timestamp_order": "132-1", "speaker": "Speaker_D", "text": "네, 그들은 각 발언에 대한 ID를 가지고 있습니다.", "label": 1}
+{"timestamp": "08:25", "timestamp_order": "134-1", "speaker": "Speaker_B", "text": "이게 바로 올바른 소프트웨어를 구동하는 데만 얼마나 많은 시간을 소모하는지 보여주는군요.", "label": 1}
+{"timestamp": "08:34", "timestamp_order": "136-1", "speaker": "Speaker_B", "text": "네, 그렇죠.", "label": 1}
+{"timestamp": "08:34", "timestamp_order": "137-1", "speaker": "Speaker_B", "text": "흑백이 더 보기 좋은 것 같아요.", "label": 1}
+{"timestamp": "08:39", "timestamp_order": "138-1", "speaker": "Speaker_C", "text": "네, 나아졌어요.", "label": 1}
+{"timestamp": "08:40", "timestamp_order": "139-1", "speaker": "Speaker_A", "text": "좀 더 큰 글꼴을 사용할 수 있나요?", "label": 1}
+{"timestamp": "08:57", "timestamp_order": "140-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "09:01", "timestamp_order": "141-1", "speaker": "Speaker_A", "text": "좋아요, 여기에는 각 세그먼트가 있습니다.", "label": 1}
+{"timestamp": "09:01", "timestamp_order": "143-1", "speaker": "Speaker_A", "text": "단어나 주제 또는 무엇이든 될 수 있다고 생각합니다.", "label": 1}
+{"timestamp": "09:25", "timestamp_order": "144-1", "speaker": "Speaker_D", "text": "네, 각 화자마다 다른 uh 파일이 있어요.", "label": 1}
+{"timestamp": "09:29", "timestamp_order": "145-1", "speaker": "Speaker_B", "text": "하지만 이건 뭐죠?", "label": 1}
+{"timestamp": "09:29", "timestamp_order": "146-1", "speaker": "Speaker_B", "text": "아무 내용도 없어요.", "label": 1}
+{"timestamp": "09:33", "timestamp_order": "148-1", "speaker": "Speaker_D", "text": "아니요, 그것은 단지 단어를 가리킬 뿐입니다.", "label": 1}
+{"timestamp": "09:33", "timestamp_order": "149-1", "speaker": "Speaker_A", "text": "아니, 하지만 그렇죠.", "label": 1}
+{"timestamp": "09:43", "timestamp_order": "150-1", "speaker": "Speaker_A", "text": "네, 그렇죠.", "label": 1}
+{"timestamp": "09:43", "timestamp_order": "151-1", "speaker": "Speaker_A", "text": "오, 어떤 사람들은 단어를 가리키고, 어떤 사람들은 대사를 가리키죠.", "label": 1}
+{"timestamp": "09:48", "timestamp_order": "153-1", "speaker": "Speaker_D", "text": "네, 네.", "label": 1}
+{"timestamp": "10:14", "timestamp_order": "156-1", "speaker": "Speaker_B", "text": "알았어요.", "label": 1}
+{"timestamp": "10:24", "timestamp_order": "158-1", "speaker": "Speaker_A", "text": "네, 세그먼트가 XML 파일과 대화에서 단어로 보이는 것 같습니다.", "label": 1}
+{"timestamp": "10:34", "timestamp_order": "159-1", "speaker": "Speaker_B", "text": "대화막, 어, 대화막, 대화막에 대한 주석.", "label": 1}
+{"timestamp": "10:34", "timestamp_order": "160-1", "speaker": "Speaker_B", "text": "그럼 이건 그냥 텍스트의 또 다른 표현인가요?", "label": 1}
+{"timestamp": "10:41", "timestamp_order": "161-1", "speaker": "Speaker_A", "text": "아니요, 대화 행위에 대한 주석이 있고, 한 줄에 제시된 단어 문자열 중 하나에 여러 개의 대화 행위가 주석으로 달려 있을 수 있습니다.", "label": 1}
+{"timestamp": "10:58", "timestamp_order": "162-1", "speaker": "Speaker_B", "text": "잠깐, 이 파일을 어딘가에 보관할 수 있을까요?", "label": 1}
+{"timestamp": "11:03", "timestamp_order": "164-1", "speaker": "Speaker_B", "text": "여기 세그먼트라고 불리는데, 이게 어떤 파일에서 가져오는지 알 수 있나요?", "label": 1}
+{"timestamp": "11:07", "timestamp_order": "165-1", "speaker": "Speaker_B", "text": "네, XML이라는 단어에서 따온 건데, 여기서 말하고 있는 게 그거예요?", "label": 1}
+{"timestamp": "11:08", "timestamp_order": "166-1", "speaker": "Speaker_A", "text": "네, 단어에서 나온 거예요.", "label": 1}
+{"timestamp": "11:17", "timestamp_order": "168-1", "speaker": "Speaker_A", "text": "바로 아래에 있습니다.", "label": 1}
+{"timestamp": "11:20", "timestamp_order": "169-1", "speaker": "Speaker_C", "text": "따라서 대화 행위가 아닌 각 세그먼트에 대한 값 레이블이 필요합니다.", "label": 1}
+{"timestamp": "11:30", "timestamp_order": "170-1", "speaker": "Speaker_C", "text": "실제 단어를 가리키는 모든 사람들에게.", "label": 1}
+{"timestamp": "11:51", "timestamp_order": "174-1", "speaker": "Speaker_B", "text": "그냥 그것들을 정렬해서 하나를 다른 하나 위에 올려놓으려고 하는 겁니다.", "label": 1}
+{"timestamp": "11:51", "timestamp_order": "175-1", "speaker": "Speaker_B", "text": "그래서 그게 무슨 의미인지 알아보려고요.", "label": 1}
+{"timestamp": "12:19", "timestamp_order": "178-1", "speaker": "Speaker_A", "text": "그리고 정보나 r 제 말은, 우리는 단어 파일과 더 비슷해 보이는 파일을 만들 것입니다.", "label": 1}
+{"timestamp": "12:38", "timestamp_order": "180-1", "speaker": "Speaker_B", "text": "단어 파일의 특정 위치로.", "label": 1}
+{"timestamp": "12:43", "timestamp_order": "181-1", "speaker": "Speaker_D", "text": "네, 그렇게 생각해요.", "label": 1}
+{"timestamp": "12:48", "timestamp_order": "182-1", "speaker": "Speaker_B", "text": "그러니까 여기 음성이 아닌 소리는 마이크 소음이에요.", "label": 1}
+{"timestamp": "12:54", "timestamp_order": "183-1", "speaker": "Speaker_B", "text": "그런데 왜 항상 아, 안 돼라고만 하죠?", "label": 1}
+{"timestamp": "12:54", "timestamp_order": "184-1", "speaker": "Speaker_B", "text": "여러 단어 구조를 참조하고 있거든요.", "label": 1}
+{"timestamp": "13:10", "timestamp_order": "189-1", "speaker": "Speaker_B", "text": "아니면, W 52에서 W까지, 무슨 말이에요?", "label": 1}
+{"timestamp": "13:10", "timestamp_order": "190-1", "speaker": "Speaker_B", "text": "그리고 네, 죄송해요.", "label": 1}
+{"timestamp": "13:11", "timestamp_order": "191-1", "speaker": "Speaker_A", "text": "네, 그렇습니다.", "label": 1}
+{"timestamp": "13:18", "timestamp_order": "192-1", "speaker": "Speaker_A", "text": "음, 담론 마커, DIS F 마커 fi.", "label": 1}
+{"timestamp": "13:25", "timestamp_order": "194-1", "speaker": "Speaker_A", "text": "네, 저기요, 아니, 위로 위로.", "label": 1}
+{"timestamp": "13:25", "timestamp_order": "196-1", "speaker": "Speaker_A", "text": "네, 맞아요.", "label": 1}
+{"timestamp": "13:25", "timestamp_order": "197-1", "speaker": "Speaker_C", "text": "네, 바로 거기요.", "label": 1}
+{"timestamp": "13:25", "timestamp_order": "198-1", "speaker": "Speaker_C", "text": "아니, 위에 있어요.", "label": 1}
+{"timestamp": "13:31", "timestamp_order": "201-1", "speaker": "Speaker_B", "text": "그럼 이건 누군가가 말하는 거잖아요.", "label": 1}
+{"timestamp": "13:31", "timestamp_order": "202-1", "speaker": "Speaker_B", "text": "그게 아니잖아요.", "label": 1}
+{"timestamp": "13:42", "timestamp_order": "206-1", "speaker": "Speaker_A", "text": "네, 이게 전부 D 스피커예요.", "label": 1}
+{"timestamp": "13:46", "timestamp_order": "208-1", "speaker": "Speaker_B", "text": "아.", "label": 1}
+{"timestamp": "13:46", "timestamp_order": "212-1", "speaker": "Speaker_B", "text": "아, 제가 화면을 가리킬 때는 안 보이잖아요.", "label": 1}
+{"timestamp": "13:46", "timestamp_order": "213-1", "speaker": "Speaker_B", "text": "그냥 이 순간을 위해서예요.", "label": 1}
+{"timestamp": "14:02", "timestamp_order": "216-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "14:02", "timestamp_order": "217-1", "speaker": "Speaker_A", "text": "음, 다른 사람이 있는지 없는지 볼 수 있어요.", "label": 1}
+{"timestamp": "14:02", "timestamp_order": "219-1", "speaker": "Speaker_A", "text": "처음에는 W 포인트 5, 54, 그 다음에는 76이에요.", "label": 1}
+{"timestamp": "14:02", "timestamp_order": "221-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "14:15", "timestamp_order": "222-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "14:32", "timestamp_order": "224-1", "speaker": "Speaker_B", "text": "이것을 시스템과 가장 잘 연결하려면 어떻게 해야 할까요?", "label": 1}
+{"timestamp": "14:36", "timestamp_order": "225-1", "speaker": "Speaker_A", "text": "네, 저도 그 중 두 개가 필요할 것 같아요.", "label": 1}
+{"timestamp": "14:41", "timestamp_order": "227-1", "speaker": "Speaker_A", "text": "네, 같은 구조가 필요할 것 같아요.", "label": 1}
+{"timestamp": "14:41", "timestamp_order": "229-1", "speaker": "Speaker_A", "text": "그래서 비슷한 구조를 만들어야 할 것 같아요.", "label": 1}
+{"timestamp": "14:57", "timestamp_order": "231-1", "speaker": "Speaker_A", "text": "네, 그리고 또 다른 하나는 실제 확률 값을 제공할 수 있을 것 같습니다.", "label": 1}
+{"timestamp": "15:07", "timestamp_order": "232-1", "speaker": "Speaker_A", "text": "네, 아마 같은 파일에 있을 수도 있을 것 같아요.", "label": 1}
+{"timestamp": "15:07", "timestamp_order": "233-1", "speaker": "Speaker_A", "text": "잘 모르겠네요.", "label": 1}
+{"timestamp": "15:13", "timestamp_order": "234-1", "speaker": "Speaker_A", "text": "하지만 여러 레이어가 있는 경우에는", "label": 1}
+{"timestamp": "15:25", "timestamp_order": "238-1", "speaker": "Speaker_B", "text": "각 세그먼트에 하나의 번호를 연결하려면 결국 그렇게 해야 하는 것 아닌가요?", "label": 1}
+{"timestamp": "15:44", "timestamp_order": "239-1", "speaker": "Speaker_A", "text": "네, 첫 번째 지점에서요.", "label": 1}
+{"timestamp": "15:44", "timestamp_order": "240-1", "speaker": "Speaker_A", "text": "음, 그 아래 줄에 있어요.", "label": 1}
+{"timestamp": "15:49", "timestamp_order": "241-1", "speaker": "Speaker_B", "text": "네, 그렇죠.", "label": 1}
+{"timestamp": "15:49", "timestamp_order": "243-1", "speaker": "Speaker_B", "text": "하지만 가장 쉬운 방법이자 의도된 방식은 다음과 같다고 생각하실 겁니다.", "label": 1}
+{"timestamp": "16:17", "timestamp_order": "247-1", "speaker": "Speaker_B", "text": "네, 네.", "label": 1}
+{"timestamp": "16:20", "timestamp_order": "248-1", "speaker": "Speaker_B", "text": "네, 죄송합니다.", "label": 1}
+{"timestamp": "16:25", "timestamp_order": "250-1", "speaker": "Speaker_B", "text": "네, 그렇게 생각했는데, 제가 잘못 이해한 것 같습니다.", "label": 1}
+{"timestamp": "16:25", "timestamp_order": "252-1", "speaker": "Speaker_B", "text": "아마 그게 말씀하신 게 아닐까 싶습니다.", "label": 1}
+{"timestamp": "16:47", "timestamp_order": "254-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "16:48", "timestamp_order": "255-1", "speaker": "Speaker_B", "text": "그래서 이 모든 정보를 여기에 저장해야 하는데, 아, 아니요.", "label": 1}
+{"timestamp": "16:48", "timestamp_order": "256-1", "speaker": "Speaker_B", "text": "다운로드하지 않아서 접근할 수 없는 파일입니다.", "label": 1}
+{"timestamp": "16:48", "timestamp_order": "257-1", "speaker": "Speaker_B", "text": "모든 파일의 구조와 어떤 속성이 추가되는지 설명하는 메타 정보 파일이 하나 있거든요.", "label": 1}
+{"timestamp": "17:06", "timestamp_order": "260-1", "speaker": "Speaker_B", "text": "그런 식으로 말하면 정보 밀도가 높아집니다.", "label": 1}
+{"timestamp": "17:06", "timestamp_order": "261-1", "speaker": "Speaker_B", "text": "그러면 그 유형의 파일을 만들게 되는데, 아마 세그먼트라고 부를 수는 없을 것 같습니다.", "label": 1}
+{"timestamp": "17:06", "timestamp_order": "262-1", "speaker": "Speaker_B", "text": "잘 모르겠네요.", "label": 1}
+{"timestamp": "17:06", "timestamp_order": "263-1", "speaker": "Speaker_B", "text": "아마 다른 이름을 써야 할 것 같습니다.", "label": 1}
+{"timestamp": "17:29", "timestamp_order": "267-1", "speaker": "Speaker_C", "text": "네, 모르겠어요.", "label": 1}
+{"timestamp": "17:38", "timestamp_order": "269-1", "speaker": "Speaker_A", "text": "하지만 제 말은, 세그먼트 파일에 있는 C 코퍼스에 있는 모든 정보가 다 있는 건 아니라는 겁니다.", "label": 1}
+{"timestamp": "17:38", "timestamp_order": "271-1", "speaker": "Speaker_A", "text": "어쩌면 우리가 어떻게든 대처할 수 있을지도 모르겠네요.", "label": 1}
+{"timestamp": "17:38", "timestamp_order": "272-1", "speaker": "Speaker_A", "text": "음, 아시다시피,", "label": 1}
+{"timestamp": "18:00", "timestamp_order": "274-1", "speaker": "Speaker_A", "text": "우리 파일을 그런 레이지 로딩 파일 중 하나로 만들어 주세요.", "label": 1}
+{"timestamp": "18:00", "timestamp_order": "275-1", "speaker": "Speaker_A", "text": "하지만 그게 어떻게 작동하는지 전혀 모르겠어요.", "label": 1}
+{"timestamp": "18:06", "timestamp_order": "276-1", "speaker": "Speaker_B", "text": "뭐, w I th에 대해 뭐라고 하시는 건가요?", "label": 1}
+{"timestamp": "18:06", "timestamp_order": "277-1", "speaker": "Speaker_B", "text": "지연 로딩은 모든 것에 적용되는 거 아닌가요?", "label": 1}
+{"timestamp": "18:12", "timestamp_order": "279-1", "speaker": "Speaker_A", "text": "네, 하지만 네, 음, 아시다시피, 기본적으로 로드되는 게 있는 것 같아요.", "label": 1}
+{"timestamp": "18:12", "timestamp_order": "280-1", "speaker": "Speaker_A", "text": "예를 들어 세그먼트 항목을 로드할 때마다 단어를 표시하지 않을 수 없는 것 같아요.", "label": 1}
+{"timestamp": "18:34", "timestamp_order": "284-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "18:34", "timestamp_order": "285-1", "speaker": "Speaker_A", "text": "제가 이해한 바는 다음과 같습니다.", "label": 1}
+{"timestamp": "18:46", "timestamp_order": "288-1", "speaker": "Speaker_A", "text": "세그먼트 파일에는 어떤 것에 대해서든 표시되어야 하는 매우 기본적인 내용이 들어 있습니다.", "label": 1}
+{"timestamp": "19:02", "timestamp_order": "291-1", "speaker": "Speaker_C", "text": "사용자 인터페이스도 마찬가지이며, 여기서 단어는 yum으로 표시됩니다.", "label": 1}
+{"timestamp": "19:21", "timestamp_order": "292-1", "speaker": "Speaker_B", "text": "아니요.", "label": 1}
+{"timestamp": "19:21", "timestamp_order": "293-1", "speaker": "Speaker_B", "text": "하지만 아직 자세히 논의하기에는 너무 이르다고 생각합니다.", "label": 1}
+{"timestamp": "19:21", "timestamp_order": "294-1", "speaker": "Speaker_B", "text": "내부 데이터 구조, 예를 들어 로딩이 어떻게 작동하는지 전혀 이해하지 못하기 때문입니다.", "label": 1}
+{"timestamp": "19:21", "timestamp_order": "296-1", "speaker": "Speaker_B", "text": "음, 이건 값과 밀도 값을 갖는 것과 비슷합니다.", "label": 1}
+{"timestamp": "19:47", "timestamp_order": "297-1", "speaker": "Speaker_A", "text": "네, 그 모양의 p sh 파일을 만드는 건 어렵지 않을 것 같아요.", "label": 1}
+{"timestamp": "19:47", "timestamp_order": "298-1", "speaker": "Speaker_A", "text": "아무 문제 없을 거예요.", "label": 1}
+{"timestamp": "19:55", "timestamp_order": "301-1", "speaker": "Speaker_B", "text": "예를 들어, 여기 단어들을 기준으로 한다면, 결국 여기 적절한 부분에 다시 연결하는 거죠.", "label": 1}
+{"timestamp": "20:11", "timestamp_order": "302-1", "speaker": "Speaker_A", "text": "음, 네, 말씀하신 내용은 잘 모르겠지만, 제 세그먼트는 F 0 측정값과 거기서 얻은 모든 값들이었어요.", "label": 1}
+{"timestamp": "20:11", "timestamp_order": "304-1", "speaker": "Speaker_A", "text": "그래서 그냥 입력해야 할 것 같아요.", "label": 1}
+{"timestamp": "20:11", "timestamp_order": "305-1", "speaker": "Speaker_A", "text": "네, 맞아요.", "label": 1}
+{"timestamp": "20:30", "timestamp_order": "307-1", "speaker": "Speaker_B", "text": "지금은 시간 기반으로 하고 있어요.", "label": 1}
+{"timestamp": "20:30", "timestamp_order": "308-1", "speaker": "Speaker_B", "text": "그러니까 시간 참조는 직접적으로 없지만, 아, 여기 있어요라고 말할 수 있죠.", "label": 1}
+{"timestamp": "20:37", "timestamp_order": "309-1", "speaker": "Speaker_A", "text": "네, 그렇습니다.", "label": 1}
+{"timestamp": "20:40", "timestamp_order": "311-1", "speaker": "Speaker_B", "text": "시간별로 나누면 아마도 어떤 속성이라도 첨부할 수 있을 것입니다.", "label": 1}
+{"timestamp": "20:57", "timestamp_order": "313-1", "speaker": "Speaker_A", "text": "음, 사실 그렇지만 사실 제 세그먼트는 항상 다른 세그먼트와 같지는 않아요.", "label": 1}
+{"timestamp": "21:07", "timestamp_order": "315-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "21:08", "timestamp_order": "316-1", "speaker": "Speaker_D", "text": "네, 그냥 그 줄을 비워둘 수 없나요?", "label": 1}
+{"timestamp": "21:11", "timestamp_order": "317-1", "speaker": "Speaker_A", "text": "음, 그렇죠.", "label": 1}
+{"timestamp": "21:11", "timestamp_order": "320-1", "speaker": "Speaker_A", "text": "제가 말하고 싶었던 건 바로 그거예요.", "label": 1}
+{"timestamp": "21:16", "timestamp_order": "321-1", "speaker": "Speaker_D", "text": "아, 알겠습니다.", "label": 1}
+{"timestamp": "21:21", "timestamp_order": "323-1", "speaker": "Speaker_B", "text": "알았어.", "label": 1}
+{"timestamp": "21:21", "timestamp_order": "324-1", "speaker": "Speaker_B", "text": "음, 데이터 구조가 뭔지 잘 모르겠어.", "label": 1}
+{"timestamp": "21:21", "timestamp_order": "325-1", "speaker": "Speaker_B", "text": "내부적으로 데이터를 어떻게 처리하는지 제대로 이해하면 훨씬 쉬울 것 같아.", "label": 1}
+{"timestamp": "21:21", "timestamp_order": "326-1", "speaker": "Speaker_B", "text": "그러면 아, 그냥 연결하기 쉽네.", "label": 1}
+{"timestamp": "21:21", "timestamp_order": "328-1", "speaker": "Speaker_B", "text": "시간만 표시하고 단어나 이런저런 식으로 참조만 하면 되니까.", "label": 1}
+{"timestamp": "21:47", "timestamp_order": "329-1", "speaker": "Speaker_B", "text": "그러니까 단어별로 작업하는 거죠.", "label": 1}
+{"timestamp": "21:50", "timestamp_order": "330-1", "speaker": "Speaker_C", "text": "네, 문제는 아마도 제가 모든 단어를 추출한 다음 ID나 다른 것을 사용하지 않아서 올바른 위치에 다시 쓰기가 어려울 것이라는 것입니다.", "label": 1}
+{"timestamp": "21:54", "timestamp_order": "331-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "22:00", "timestamp_order": "332-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "22:27", "timestamp_order": "337-1", "speaker": "Speaker_B", "text": "그럼 만약 그 소프트웨어에서 결과를 받아서 다시 검토하고, 그 파일을 가지고 알고리즘을 작성하면 어떨까요?", "label": 1}
+{"timestamp": "22:27", "timestamp_order": "338-1", "speaker": "Speaker_B", "text": "그러면 다시 원래대로 돌아가는 거죠.", "label": 1}
+{"timestamp": "22:27", "timestamp_order": "341-1", "speaker": "Speaker_B", "text": "그럼 문제가 없을 거예요.", "label": 1}
+{"timestamp": "22:27", "timestamp_order": "342-1", "speaker": "Speaker_B", "text": "아, 그런데 이건 제가 직접 한 이야기라서 조금 더 어렵네요.", "label": 1}
+{"timestamp": "22:37", "timestamp_order": "343-1", "speaker": "Speaker_C", "text": "음, 그렇죠.", "label": 1}
+{"timestamp": "22:50", "timestamp_order": "346-1", "speaker": "Speaker_A", "text": "네, 하지만 예를 들어 시작 시간만 포함된 파일을 만들었어요.", "label": 1}
+{"timestamp": "22:50", "timestamp_order": "349-1", "speaker": "Speaker_A", "text": "네, 드린 것과 똑같아요.", "label": 1}
+{"timestamp": "22:50", "timestamp_order": "350-1", "speaker": "Speaker_A", "text": "모든 단어의 시작 시간과 종료 시간도 표시해 드리고요.", "label": 1}
+{"timestamp": "22:51", "timestamp_order": "352-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "23:15", "timestamp_order": "354-1", "speaker": "Speaker_D", "text": "네, 그 파일은 뭘로 만드셨어요?", "label": 1}
+{"timestamp": "23:21", "timestamp_order": "358-1", "speaker": "Speaker_A", "text": "아니 아니.", "label": 1}
+{"timestamp": "23:22", "timestamp_order": "359-1", "speaker": "Speaker_D", "text": "좋아요 .", "label": 1}
+{"timestamp": "23:23", "timestamp_order": "360-1", "speaker": "Speaker_C", "text": "음, 파일을 스피커로 받는 게 합리적이라고 생각하시나요?", "label": 1}
+{"timestamp": "23:23", "timestamp_order": "361-1", "speaker": "Speaker_C", "text": "Rainbow에 어떤 입력을 주든 상관없습니다.", "label": 1}
+{"timestamp": "23:23", "timestamp_order": "362-1", "speaker": "Speaker_C", "text": "그래서 파일을 있는 그대로 사용할 수 있을 것 같아요.", "label": 1}
+{"timestamp": "23:23", "timestamp_order": "363-1", "speaker": "Speaker_C", "text": "그렇게 하면 출력이 될지 모르겠네요.", "label": 1}
+{"timestamp": "23:40", "timestamp_order": "364-1", "speaker": "Speaker_B", "text": "하지만 정보 밀도 알고리즘을 나누어도 여전히 의미가 있을까요?", "label": 1}
+{"timestamp": "23:40", "timestamp_order": "365-1", "speaker": "Speaker_B", "text": "제가 말하고자 하는 것은 전체적인 것은 특정 주제에서 단어가 나타나는 빈도와 전체 코퍼스에서 단어가 나타나는 빈도를 비교하여 계산하는 것입니다.", "label": 1}
+{"timestamp": "23:45", "timestamp_order": "368-1", "speaker": "Speaker_A", "text": "음, 그렇죠.", "label": 1}
+{"timestamp": "23:56", "timestamp_order": "369-1", "speaker": "Speaker_C", "text": "아니요, 음, 전체 코퍼스를 비교하는 건 아닌 것 같아요.", "label": 1}
+{"timestamp": "23:56", "timestamp_order": "370-1", "speaker": "Speaker_C", "text": "특정 범주를 정하고, 어떤 단어가 특정 범주에서 가장 많은 정보를 가지고 있는지 측정하는 거죠.", "label": 1}
+{"timestamp": "24:05", "timestamp_order": "372-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "24:22", "timestamp_order": "373-1", "speaker": "Speaker_C", "text": "음, 아마 그럴 거예요.", "label": 1}
+{"timestamp": "24:26", "timestamp_order": "375-1", "speaker": "Speaker_B", "text": "네, 제 직감으로는 나누는 게 좋은 생각이 아닌 것 같아요.", "label": 1}
+{"timestamp": "24:30", "timestamp_order": "377-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "24:30", "timestamp_order": "378-1", "speaker": "Speaker_B", "text": "아니요.", "label": 1}
+{"timestamp": "24:30", "timestamp_order": "379-1", "speaker": "Speaker_B", "text": "하지만 그렇게 어렵지는 않을 거예요.", "label": 1}
+{"timestamp": "24:30", "timestamp_order": "380-1", "speaker": "Speaker_B", "text": "이미 모든 단어가 순서대로 정렬되어 있고, 각 단어에 점수가 있고, 각 단어와 타임스탬프가 있는 파일이 있다면, 이 두 가지를 연결하면 각 단어와 타임스탬프가 있고,", "label": 1}
+{"timestamp": "24:46", "timestamp_order": "385-1", "speaker": "Speaker_A", "text": "아니면 가치죠.", "label": 1}
+{"timestamp": "24:46", "timestamp_order": "387-1", "speaker": "Speaker_B", "text": "맞아요.", "label": 1}
+{"timestamp": "24:50", "timestamp_order": "388-1", "speaker": "Speaker_C", "text": "네, 그런데 문제가 뭔지 잘 모르겠네요.", "label": 1}
+{"timestamp": "24:50", "timestamp_order": "389-1", "speaker": "Speaker_C", "text": "Rainbow의 정보 이득은 정보 이득 값에 따라 정렬되는 것 같은데, 정확한 순서와 값을 알 수 있을지 잘 모르겠네요.", "label": 1}
+{"timestamp": "25:09", "timestamp_order": "392-1", "speaker": "Speaker_C", "text": "하지만 순서가 같다면 아무 문제 없이 다시 답장할 수 있습니다.", "label": 1}
+{"timestamp": "25:09", "timestamp_order": "393-1", "speaker": "Speaker_C", "text": "하지만 정보 획득에 따라 정렬되어 있다면 단어들이 어디서 왔는지 알 수 없습니다.", "label": 1}
+{"timestamp": "25:09", "timestamp_order": "394-1", "speaker": "Speaker_C", "text": "단어 모음(bag of words) 표현 방식이기 때문입니다.", "label": 1}
+{"timestamp": "25:24", "timestamp_order": "396-1", "speaker": "Speaker_B", "text": "제 생각에는 Rainbow는 전혀 다른 목적으로 만들어진 것 같습니다.", "label": 1}
+{"timestamp": "25:25", "timestamp_order": "397-1", "speaker": "Speaker_C", "text": "네.", "label": 1}
+{"timestamp": "25:25", "timestamp_order": "399-1", "speaker": "Speaker_C", "text": "텍스트 분류용으로 만들어졌어요.", "label": 1}
+{"timestamp": "25:30", "timestamp_order": "401-1", "speaker": "Speaker_A", "text": "그럼, 더 자세한 정보를 입력해 주실 수 있나요?", "label": 1}
+{"timestamp": "25:34", "timestamp_order": "402-1", "speaker": "Speaker_B", "text": "사실 저는 음, 음, Rainbow가 측정을 하고 있다는 게 확실한가요?", "label": 1}
+{"timestamp": "25:34", "timestamp_order": "404-1", "speaker": "Speaker_B", "text": "여러 면에서 아주 다른 것처럼 들리거든요.", "label": 1}
+{"timestamp": "25:47", "timestamp_order": "405-1", "speaker": "Speaker_C", "text": "네, 사실 여러분이 문서를 입력하면 카테고리별로 여러 개의 문서가 생깁니다.", "label": 1}
+{"timestamp": "25:53", "timestamp_order": "406-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "25:57", "timestamp_order": "407-1", "speaker": "Speaker_C", "text": "음, 여러 개의 범주가 있습니다.", "label": 1}
+{"timestamp": "25:57", "timestamp_order": "408-1", "speaker": "Speaker_C", "text": "그런 다음 특정 범주에서 어떤 단어가 일반적인지 측정합니다.", "label": 1}
+{"timestamp": "25:57", "timestamp_order": "409-1", "speaker": "Speaker_C", "text": "새 문서를 받으면 해당 문서에 있는 단어를 비교합니다.", "label": 1}
+{"timestamp": "25:57", "timestamp_order": "410-1", "speaker": "Speaker_C", "text": "한 범주에서 일반적인 단어가 많으면 해당 범주에 할당하고, 다른 범주에서 일반적인 단어가 많으면 해당 범주에 할당합니다.", "label": 1}
+{"timestamp": "26:28", "timestamp_order": "414-1", "speaker": "Speaker_B", "text": "하지만 원래 카테고리 정보는 어디서 얻었나요?", "label": 1}
+{"timestamp": "26:31", "timestamp_order": "415-1", "speaker": "Speaker_C", "text": "네, 음, 음, 음, 두 개의 다른 파일이 있기 때문입니다.", "label": 1}
+{"timestamp": "26:31", "timestamp_order": "416-1", "speaker": "Speaker_C", "text": "만약 이것이 디렉토리라면, 음, 음, 다이어그램, 디렉토리 1, 2, 3이 있습니다.", "label": 1}
+{"timestamp": "26:50", "timestamp_order": "422-1", "speaker": "Speaker_B", "text": "그럼 지금 헤어진 시점에서는 어디서 그들을 얻었나요?", "label": 1}
+{"timestamp": "26:53", "timestamp_order": "423-1", "speaker": "Speaker_A", "text": "네, 하지만 주제가 그게 아니잖아요?", "label": 1}
+{"timestamp": "26:53", "timestamp_order": "425-1", "speaker": "Speaker_C", "text": "응, 그냥 어떻게든 나눠버리면 돼.", "label": 1}
+{"timestamp": "26:56", "timestamp_order": "426-1", "speaker": "Speaker_B", "text": "주제별로 i에서 t에서, 인간 주제별로 s에서 s를 나누어 현재는 주제별로 나누어 두었습니다.", "label": 1}
+{"timestamp": "27:02", "timestamp_order": "428-1", "speaker": "Speaker_C", "text": "아니요, 저는 그냥 어떻게든 나누어 놓았을 뿐이에요.", "label": 1}
+{"timestamp": "27:14", "timestamp_order": "430-1", "speaker": "Speaker_C", "text": "음, 각 회의마다, 그리고 각 카테고리에 하나씩 넣었어요.", "label": 1}
+{"timestamp": "27:14", "timestamp_order": "431-1", "speaker": "Speaker_C", "text": "그래서 음, 지금은 별로 합리적이지 않은 것 같아요.", "label": 1}
+{"timestamp": "27:14", "timestamp_order": "432-1", "speaker": "Speaker_C", "text": "주제별 세그먼트를 기다리고 있거나, 아니면 그냥 그렇거든요.", "label": 1}
+{"timestamp": "27:47", "timestamp_order": "433-1", "speaker": "Speaker_C", "text": "네, 네, 아마 그럴 거예요.", "label": 1}
+{"timestamp": "27:47", "timestamp_order": "434-1", "speaker": "Speaker_C", "text": "네, 아마 제가 직접 쓰는 게 더 나을 것 같아요.", "label": 1}
+{"timestamp": "27:47", "timestamp_order": "435-1", "speaker": "Speaker_C", "text": "안 그러면 그냥 여러 칸으로 나눠서 정리하는 게 너무 쉬워서 프로그래밍이나 그런 면에서 전혀 손이 안 갈 테니까요.", "label": 1}
+{"timestamp": "28:01", "timestamp_order": "436-1", "speaker": "Speaker_B", "text": "네, 하지만 저는 지금 단어의 엔트로피 값이 우리가 찾고 있는 값에 더 가깝다고 생각합니다.", "label": 1}
+{"timestamp": "28:01", "timestamp_order": "438-1", "speaker": "Speaker_B", "text": "아마 함께 작업해야 할 것 같습니다.", "label": 1}
+{"timestamp": "28:01", "timestamp_order": "440-1", "speaker": "Speaker_B", "text": "그러면 각 위치의 단어에 대해 실제로 동일한 점수가 나올 겁니다.", "label": 1}
+{"timestamp": "28:01", "timestamp_order": "441-1", "speaker": "Speaker_B", "text": "그런 의미에서 조금 다른 일을 하는 셈이고, 기본적으로 제가 말하는 점수는 조건부 엔트로피 점수로, 한 단어가 있다는 사실이 다음 단어가 무엇인지에 대한 정보를 얼마나 많이 제공하는지 확인하는 것입니다.", "label": 1}
+{"timestamp": "28:01", "timestamp_order": "442-1", "speaker": "Speaker_B", "text": "하지만 그것은 매우 구체적인 단어인지 아닌지를 측정하는 비교적 좋은 척도입니다.", "label": 1}
+{"timestamp": "28:01", "timestamp_order": "443-1", "speaker": "Speaker_B", "text": "매우 구체적인 단어라면 대개 많은 것을 알려주는 단어이고, 매우 일반적인 단어라면 대개 많은 것을 알려주지 않습니다.", "label": 1}
+{"timestamp": "28:23", "timestamp_order": "445-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "28:34", "timestamp_order": "446-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "28:46", "timestamp_order": "447-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "28:54", "timestamp_order": "449-1", "speaker": "Speaker_C", "text": "실제로 어떻게 계산하나요?", "label": 1}
+{"timestamp": "29:00", "timestamp_order": "450-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}
+{"timestamp": "29:02", "timestamp_order": "451-1", "speaker": "Speaker_A", "text": "그럼 우리의 맥락적 측정에 따라 무엇이 나올지 얼마나 확신하거나 불확실한가요?", "label": 1}
+{"timestamp": "29:07", "timestamp_order": "452-1", "speaker": "Speaker_B", "text": "네, 네, 맞아요.", "label": 1}
+{"timestamp": "29:07", "timestamp_order": "453-1", "speaker": "Speaker_B", "text": "제 말은, 공식적인 설명은 어떤 단어가 등장한다는 사실이 다음 단어가 무엇일지 얼마나 예측할 수 있는지를 말해주는 것 같아요.", "label": 1}
+{"timestamp": "29:07", "timestamp_order": "454-1", "speaker": "Speaker_B", "text": "별로 흥미롭게 들리지 않지만, 그냥 문맥이 불분명하고 어디에나 등장하는 단어들은 그 부분에서 매우 낮은 점수를 받고, 결국에는 가장 많이 쓰이는 단어가 되는 거죠.", "label": 1}
+{"timestamp": "29:36", "timestamp_order": "457-1", "speaker": "Speaker_D", "text": "음, 기능어 같은 거요.", "label": 1}
+{"timestamp": "29:37", "timestamp_order": "458-1", "speaker": "Speaker_B", "text": "네, 기능어나 아주 일반적인 명사죠.", "label": 1}
+{"timestamp": "29:37", "timestamp_order": "459-1", "speaker": "Speaker_B", "text": "예를 들어, 그 맥락에서 컴퓨터라는 단어가 what whatev처럼 쓰일 수도 있고요.", "label": 1}
+{"timestamp": "29:46", "timestamp_order": "463-1", "speaker": "Speaker_A", "text": "우리가 정말 찾고 있는 단어들은 자주 등장하지 않고, 회의에서 다섯 번 등장할 때마다 서로 다른 단어들로 둘러싸여 있다면, 아마도 데이터가 충분하지 않은 것일 수도 있습니다.", "label": 1}
+{"timestamp": "30:06", "timestamp_order": "464-1", "speaker": "Speaker_B", "text": "네, 그래서 단어 단위로는 안 할 거예요.", "label": 1}
+{"timestamp": "30:06", "timestamp_order": "465-1", "speaker": "Speaker_B", "text": "죄송해요, 알겠어요.", "label": 1}
+{"timestamp": "30:06", "timestamp_order": "466-1", "speaker": "Speaker_B", "text": "음, 사실 제가 잘못 이해했던 것 같아요.", "label": 1}
+{"timestamp": "30:23", "timestamp_order": "469-1", "speaker": "Speaker_C", "text": "네, 하지만 그건 제가 하는 것과 거의 비슷하다고 생각합니다.", "label": 1}
+{"timestamp": "30:23", "timestamp_order": "470-1", "speaker": "Speaker_C", "text": "모든 계층에 있는 단어는 그다지 정보를 제공하지 않지만, 한 계층에만 있는 단어는 그 계층에 매우 정보를 제공합니다.", "label": 1}
+{"timestamp": "30:37", "timestamp_order": "472-1", "speaker": "Speaker_B", "text": "네, 아마도 결국에는 똑같은 일을 할 겁니다.", "label": 1}
+{"timestamp": "30:37", "timestamp_order": "473-1", "speaker": "Speaker_B", "text": "하지만 제가 말씀드리고 싶은 건, 그런 식으로 하면 현재 각 단어에 점수를 제공하는 알고리즘을 쉽게 구현할 수 있을 거라는 겁니다.", "label": 1}
+{"timestamp": "30:46", "timestamp_order": "474-1", "speaker": "Speaker_C", "text": "아, 그래요 .", "label": 1}
+{"timestamp": "30:50", "timestamp_order": "476-1", "speaker": "Speaker_B", "text": "음, 아니, 음, 제가 잘못 설명했어요.", "label": 1}
+{"timestamp": "30:50", "timestamp_order": "477-1", "speaker": "Speaker_B", "text": "이 경우에는 다른 단어에 대해 얼마나 많은 정보를 제공하는지 알 수 없어요.", "label": 1}
+{"timestamp": "30:50", "timestamp_order": "478-1", "speaker": "Speaker_B", "text": "이 경우에는 단어를 알고 있다고 가정했을 때, 어떤 특정 주제에 대한 단어인지 예측하는 능력이 얼마나 좋은지 알 수 있어요.", "label": 1}
+{"timestamp": "31:02", "timestamp_order": "479-1", "speaker": "Speaker_A", "text": "네, 알겠습니다.", "label": 1}
+{"timestamp": "31:05", "timestamp_order": "481-1", "speaker": "Speaker_C", "text": "네, 맞아요.", "label": 1}
+{"timestamp": "31:07", "timestamp_order": "482-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "31:21", "timestamp_order": "483-1", "speaker": "Speaker_C", "text": "특정 단어에 대해", "label": 1}
+{"timestamp": "31:24", "timestamp_order": "485-1", "speaker": "Speaker_B", "text": "어제와 똑같은 단어가 어디서나 똑같은 점수를 받을 것입니다.", "label": 1}
+{"timestamp": "31:30", "timestamp_order": "487-1", "speaker": "Speaker_C", "text": "제 경우에는 각 카테고리마다 다른 값을 가졌을 것 같아요.", "label": 1}
+{"timestamp": "31:38", "timestamp_order": "489-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "31:54", "timestamp_order": "491-1", "speaker": "Speaker_B", "text": "하지만 카테고리는 주제 세그먼트만 있는 것이 아니라, 주제 세그먼트를 카테고리로 분류해야 한다는 점에 달려 있습니다.", "label": 1}
+{"timestamp": "32:03", "timestamp_order": "494-1", "speaker": "Speaker_B", "text": "아니면 각 카테고리별로 여러 개의 세그먼트가 필요할까요?", "label": 1}
+{"timestamp": "32:07", "timestamp_order": "495-1", "speaker": "Speaker_C", "text": "음, 그게 가장 좋겠지만, 저는 그것을 찾아봐야 할 것 같아요.", "label": 1}
+{"timestamp": "32:12", "timestamp_order": "496-1", "speaker": "Speaker_B", "text": "하지만 그게 전혀 없는 단어가 될 수 있을까?", "label": 1}
+{"timestamp": "32:15", "timestamp_order": "497-1", "speaker": "Speaker_C", "text": "음, 적어도 각각 하나의 문서가 있는 여러 카테고리가 있는 경우에는 작동합니다.", "label": 1}
+{"timestamp": "32:15", "timestamp_order": "498-1", "speaker": "Speaker_C", "text": "하지만 음, 그렇죠.", "label": 1}
+{"timestamp": "32:24", "timestamp_order": "499-1", "speaker": "Speaker_B", "text": "네, 제 말은 우리의 경우 기본적으로 모든", "label": 1}
+{"timestamp": "32:32", "timestamp_order": "502-1", "speaker": "Speaker_B", "text": "하지만 엔트로피적 음 계산이 너무 간단하기 때문에, 어쩌면 그 점수를 우리가 가지고 있는 예비 점수로 만드는 것을 고려해 보는 게 어떨까요?", "label": 1}
+{"timestamp": "32:32", "timestamp_order": "503-1", "speaker": "Speaker_B", "text": "결과를 보면, 기본적으로 어떤 단어가 매우 구체적인 단어인지 아닌지 대략적으로 알 수 있는 무언가를 제공합니다.", "label": 1}
+{"timestamp": "32:32", "timestamp_order": "504-1", "speaker": "Speaker_C", "text": "네, 그게 질문이에요.", "label": 1}
+{"timestamp": "32:32", "timestamp_order": "505-1", "speaker": "Speaker_C", "text": "네, 모르겠어요.", "label": 1}
+{"timestamp": "32:42", "timestamp_order": "506-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "32:48", "timestamp_order": "507-1", "speaker": "Speaker_C", "text": "음 알았어요.", "label": 1}
+{"timestamp": "32:57", "timestamp_order": "508-1", "speaker": "Speaker_B", "text": "또는 매우 일반적인 단어.", "label": 1}
+{"timestamp": "33:01", "timestamp_order": "510-1", "speaker": "Speaker_B", "text": "저는 매우 구체적인 단어가 많이 들어간 문장만 있어도, 매우 일반적인 단어만 있는 문장보다 흥미로운 단어로 표시한다면, 어딘가에 도달할 수 있을 것이라는 희망이 있다고 생각합니다.", "label": 1}
+{"timestamp": "33:13", "timestamp_order": "511-1", "speaker": "Speaker_A", "text": "음, 예를 들어 전체 코퍼스에서 단 한 번만 등장하는 단어는 어떤 점수를 받을까요?", "label": 1}
+{"timestamp": "33:21", "timestamp_order": "512-1", "speaker": "Speaker_B", "text": "아마도 1.", "label": 1}
+{"timestamp": "33:25", "timestamp_order": "514-1", "speaker": "Speaker_A", "text": "다른 주제에서는 그런 일이 일어나지 않는데도요?", "label": 1}
+{"timestamp": "33:34", "timestamp_order": "515-1", "speaker": "Speaker_B", "text": "네, 어떤 의미에서는 이건 전체 빈도로 나눈 문서 빈도와 비슷한 것 같아요.", "label": 1}
+{"timestamp": "33:40", "timestamp_order": "516-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "33:45", "timestamp_order": "518-1", "speaker": "Speaker_A", "text": "그러면 um이 나오는 단어보다 점수가 더 높을까요?", "label": 1}
+{"timestamp": "33:52", "timestamp_order": "519-1", "speaker": "Speaker_A", "text": "같은 주제의 모든 음 시퀀스?", "label": 1}
+{"timestamp": "34:07", "timestamp_order": "520-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "34:28", "timestamp_order": "524-1", "speaker": "Speaker_B", "text": "하지만 우리는 그런 정보를 어디에도 가지고 있지 않잖아요?", "label": 1}
+{"timestamp": "34:31", "timestamp_order": "525-1", "speaker": "Speaker_A", "text": "아.", "label": 1}
+{"timestamp": "34:31", "timestamp_order": "526-1", "speaker": "Speaker_A", "text": "괜찮지 않았어요.", "label": 1}
+{"timestamp": "34:31", "timestamp_order": "527-1", "speaker": "Speaker_A", "text": "당신이 하는 일이 바로 그거라고 생각했어요.", "label": 1}
+{"timestamp": "34:35", "timestamp_order": "528-1", "speaker": "Speaker_D", "text": "음, 주제를 나눌 때는 일반적으로 나오는 단어에 대해 나누죠.", "label": 1}
+{"timestamp": "34:35", "timestamp_order": "529-1", "speaker": "Speaker_D", "text": "하지만 그 단어들이 무엇인지는 알려주지 않아요.", "label": 1}
+{"timestamp": "35:05", "timestamp_order": "535-1", "speaker": "Speaker_D", "text": "네, 다른 출력은 얻을 수 없습니다.", "label": 1}
+{"timestamp": "35:10", "timestamp_order": "536-1", "speaker": "Speaker_B", "text": "콜린이 하는 일에서 제가 아는 것과는 다릅니다.", "label": 1}
+{"timestamp": "35:10", "timestamp_order": "537-1", "speaker": "Speaker_B", "text": "그냥 단어 p 발생 패턴을 기반으로 여러 단어들을 연결하려고 하는 알고리즘을 작성하는 것 같습니다.", "label": 1}
+{"timestamp": "35:21", "timestamp_order": "538-1", "speaker": "Speaker_A", "text": "아, 그래요 .", "label": 1}
+{"timestamp": "35:28", "timestamp_order": "540-1", "speaker": "Speaker_A", "text": "그래서, 어떻게 작동할까요?", "label": 1}
+{"timestamp": "35:28", "timestamp_order": "541-1", "speaker": "Speaker_A", "text": "뭐, 뭐요?", "label": 1}
+{"timestamp": "35:32", "timestamp_order": "542-1", "speaker": "Speaker_A", "text": "그럼 이 정보는 Rainbow에 유용할까요?", "label": 1}
+{"timestamp": "35:49", "timestamp_order": "544-1", "speaker": "Speaker_C", "text": "아, 안 돼.", "label": 1}
+{"timestamp": "35:49", "timestamp_order": "545-1", "speaker": "Speaker_C", "text": "뭔가 다른 생각이 들었어.", "label": 1}
+{"timestamp": "35:49", "timestamp_order": "546-1", "speaker": "Speaker_C", "text": "방금 나눴는데, 어딘가로 나눌 곳이 필요해.", "label": 1}
+{"timestamp": "35:49", "timestamp_order": "547-1", "speaker": "Speaker_C", "text": "그리고 카테고리 경계에서 나누는 게 좋을 것 같아.", "label": 1}
+{"timestamp": "35:49", "timestamp_order": "549-1", "speaker": "Speaker_C", "text": "그냥 어딘가로 나누는 것보다.", "label": 1}
+{"timestamp": "35:52", "timestamp_order": "552-1", "speaker": "Speaker_A", "text": "좋아요 .", "label": 1}
+{"timestamp": "36:04", "timestamp_order": "553-1", "speaker": "Speaker_D", "text": "음-음.", "label": 1}
+{"timestamp": "36:06", "timestamp_order": "554-1", "speaker": "Speaker_D", "text": "네, 비슷한 정보를 바탕으로 일관성 있는 주제로 나누어야 합니다.", "label": 1}
+{"timestamp": "36:08", "timestamp_order": "555-1", "speaker": "Speaker_A", "text": "네, 하지만 그래도 괜찮아요.", "label": 1}
+{"timestamp": "36:11", "timestamp_order": "556-1", "speaker": "Speaker_B", "text": "네, 저도 Rainbow가 옳은 것인지 100% 확신할 수 없어요.", "label": 1}
+{"timestamp": "36:11", "timestamp_order": "557-1", "speaker": "Speaker_B", "text": "Rainbow는 구조상 어떤 면에서는 같은 카테고리의 다양한 예를 갖는 데 크게 의존하는 것 같거든요.", "label": 1}
+{"timestamp": "36:22", "timestamp_order": "558-1", "speaker": "Speaker_C", "text": "네, 하지만 한 문서에만 적용 가능할 것 같아요.", "label": 1}
+{"timestamp": "36:22", "timestamp_order": "560-1", "speaker": "Speaker_C", "text": "문서가 하나뿐이더라도 해당 카테고리에 유용한 단어와 그렇지 않은 단어를 찾아낼 수 있거든요.", "label": 1}
+{"timestamp": "36:22", "timestamp_order": "561-1", "speaker": "Speaker_C", "text": "각 카테고리에 문서가 하나뿐이고 각 카테고리에 the라는 단어가 많이 나온다면, 해당 단어는 카테고리 전체에서 그다지 유용하지 않을 거예요.", "label": 1}
+{"timestamp": "36:22", "timestamp_order": "562-1", "speaker": "Speaker_C", "text": "그래서 한 문서에는 효과가 있을 것 같은데, 어떻게 모든 것을 계산하는지는 잘 모르겠네요.", "label": 1}
+{"timestamp": "36:22", "timestamp_order": "563-1", "speaker": "Speaker_C", "text": "음, 그건 찾아낼 수 없는 것 같아요.", "label": 1}
+{"timestamp": "36:51", "timestamp_order": "565-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "37:01", "timestamp_order": "567-1", "speaker": "Speaker_B", "text": "알다시피, 제 LSA의 부산물로 각 단어에 대해 엔트로피 점수를 제공하는 사전과 같은 어휘를 제공할 텐데요.", "label": 1}
+{"timestamp": "37:01", "timestamp_order": "568-1", "speaker": "Speaker_B", "text": "엔트로피 점수는 단어의 존재가 주제에 대해 얼마나 많은 정보를 알려주는지 알려줍니다.", "label": 1}
+{"timestamp": "37:01", "timestamp_order": "569-1", "speaker": "Speaker_B", "text": "어떤 범주인지는 아니고, 별도의 주제 세그먼트를 범주로 묶지 않습니다.", "label": 1}
+{"timestamp": "37:01", "timestamp_order": "570-1", "speaker": "Speaker_B", "text": "하지만 이 단어가 주제에 대해 얼마나 많은 정보를 제공하는지, 이 단어가 나타나면 특정 세그먼트 주제 세그먼트일 가능성이 얼마나 되는지와 같습니다.", "label": 1}
+{"timestamp": "37:01", "timestamp_order": "571-1", "speaker": "Speaker_B", "text": "이는 이 단어가 얼마나 널리 퍼져 있는지, 즉 특정 세그먼트에 얼마나 구체적인지를 측정하는 척도입니다.", "label": 1}
+{"timestamp": "37:01", "timestamp_order": "572-1", "speaker": "Speaker_B", "text": "그냥 제공하겠습니다.", "label": 1}
+{"timestamp": "37:01", "timestamp_order": "574-1", "speaker": "Speaker_B", "text": "그런 다음 이것을 다른 것과 어떻게 연결할 수 있는지 살펴보겠습니다.", "label": 1}
+{"timestamp": "37:49", "timestamp_order": "577-1", "speaker": "Speaker_B", "text": "그러니 그동안 Rainbow 작업을 계속하고 Rainbow 관련 내용을 어떻게 연결할지 찾아보십시오.", "label": 1}
+{"timestamp": "37:50", "timestamp_order": "578-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "38:09", "timestamp_order": "580-1", "speaker": "Speaker_C", "text": "네, 모르겠어요.", "label": 1}
+{"timestamp": "38:14", "timestamp_order": "581-1", "speaker": "Speaker_B", "text": "각 단어가 완전히 고유한지, 즉 각 단어, 단어가 나타날 때마다 완전히 고유한 사건으로 취급하는지 여부입니다.", "label": 1}
+{"timestamp": "38:14", "timestamp_order": "582-1", "speaker": "Speaker_B", "text": "아니면, 아니, 꼭 그래야 하는지, 기본적으로 단어의 형태가 중요한 것 아닌가요?", "label": 1}
+{"timestamp": "38:14", "timestamp_order": "583-1", "speaker": "Speaker_B", "text": "단어를 임의의 문자열로 대체할 수는 없잖아요.", "label": 1}
+{"timestamp": "38:28", "timestamp_order": "584-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "38:31", "timestamp_order": "585-1", "speaker": "Speaker_B", "text": "같은 단어가 다시 나오는지 살펴보는 거죠.", "label": 1}
+{"timestamp": "38:45", "timestamp_order": "586-1", "speaker": "Speaker_B", "text": "제 생각은 단어를 고유하게 식별 가능한 것으로 대체해도 순서가 달라지지 않을까 하는 겁니다.", "label": 1}
+{"timestamp": "38:45", "timestamp_order": "587-1", "speaker": "Speaker_B", "text": "하지만 단어 자체가 필요하고, 그게 전부이기 때문에 그렇게 하면 안 됩니다.", "label": 1}
+{"timestamp": "38:45", "timestamp_order": "588-1", "speaker": "Speaker_B", "text": "단어 자체가 중요하고, 그 단어가 다른 맥락에서 얼마나 자주 등장하는지 비교하는 것이 중요하잖아요.", "label": 1}
+{"timestamp": "38:45", "timestamp_order": "590-1", "speaker": "Speaker_B", "text": "단어 자체에 밑줄을 넣거나 시간을 넣는 것처럼 단어 자체에 정보를 첨부할 수는 없고, 그런 식으로는 안 됩니다.", "label": 1}
+{"timestamp": "38:48", "timestamp_order": "591-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "38:48", "timestamp_order": "592-1", "speaker": "Speaker_C", "text": "아, 맞다.", "label": 1}
+{"timestamp": "39:02", "timestamp_order": "594-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "39:02", "timestamp_order": "595-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "39:05", "timestamp_order": "596-1", "speaker": "Speaker_C", "text": "알았어요.", "label": 1}
+{"timestamp": "39:05", "timestamp_order": "597-1", "speaker": "Speaker_C", "text": "네, 당신은 um을 사용할 수 있어요", "label": 1}
+{"timestamp": "39:19", "timestamp_order": "600-1", "speaker": "Speaker_B", "text": "아마 그럴 것 같아요.", "label": 1}
+{"timestamp": "39:19", "timestamp_order": "601-1", "speaker": "Speaker_B", "text": "음, 아니요, 그럴 것 같지는 않아요.", "label": 1}
+{"timestamp": "39:24", "timestamp_order": "602-1", "speaker": "Speaker_C", "text": "음, 아마도 아닐 거예요.", "label": 1}
+{"timestamp": "39:24", "timestamp_order": "603-1", "speaker": "Speaker_C", "text": "아니, 아니.", "label": 1}
+{"timestamp": "39:38", "timestamp_order": "604-1", "speaker": "Speaker_C", "text": "응, 어쩌면 다른 것을 시도해서 나 자신에게 맞게 프로그래밍해야 할지도 몰라.", "label": 1}
+{"timestamp": "39:58", "timestamp_order": "606-1", "speaker": "Speaker_B", "text": "그러니까, 지금 당장이라도 이야기를 이어가고, 내가 시작해 보도록 하죠.", "label": 1}
+{"timestamp": "40:04", "timestamp_order": "607-1", "speaker": "Speaker_B", "text": "그것은 정말 간단한 일이지만 기본적으로는 그냥", "label": 1}
+{"timestamp": "40:08", "timestamp_order": "608-1", "speaker": "Speaker_B", "text": "단어가 얼마나 구체적인지 알려주는 기능을 합니다.", "label": 1}
+{"timestamp": "40:08", "timestamp_order": "609-1", "speaker": "Speaker_B", "text": "어떤 의미에서는 기본적으로 단어가 얼마나 희귀한지 또는 얼마나 흔한지를 매우 정확하게 알려줍니다.", "label": 1}
+{"timestamp": "40:08", "timestamp_order": "610-1", "speaker": "Speaker_B", "text": "하지만 첫 번째 단계로 다음 주 프로토타입을 위한 것이라면 나쁘지 않을 겁니다.", "label": 1}
+{"timestamp": "40:08", "timestamp_order": "612-1", "speaker": "Speaker_B", "text": "희귀한 단어가 많이 나오는 세그먼트를 아주 흔한 단어가 나오는 세그먼트보다 어두운 빨간색으로 강조 표시하면 시작할 수 있는 곳입니다.", "label": 1}
+{"timestamp": "40:19", "timestamp_order": "613-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "40:27", "timestamp_order": "614-1", "speaker": "Speaker_D", "text": "음.", "label": 1}
+{"timestamp": "40:39", "timestamp_order": "616-1", "speaker": "Speaker_B", "text": "그리고 그것보다 조금 더 정교하지만, 사실상 대부분은 그렇게 되는 것 같아요.", "label": 1}
+{"timestamp": "40:39", "timestamp_order": "617-1", "speaker": "Speaker_B", "text": "제가 알아낸 바에 따르면요.", "label": 1}
+{"timestamp": "40:56", "timestamp_order": "618-1", "speaker": "Speaker_B", "text": "사실, 지금은 시작하지 않을 것 같아요.", "label": 1}
+{"timestamp": "40:56", "timestamp_order": "619-1", "speaker": "Speaker_B", "text": "아마 시간이 너무 오래 걸릴 것 같거든요.", "label": 1}
+{"timestamp": "41:05", "timestamp_order": "620-1", "speaker": "Speaker_B", "text": "단어별로 정리하면 무엇을 하든 단어별로 나타날 가능성이 높고, 세그먼트 단위로 정리할 수는 있지만 정확히 세그먼트 단위로 정리할 수는 없습니다.", "label": 1}
+{"timestamp": "41:10", "timestamp_order": "621-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "41:15", "timestamp_order": "622-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "41:15", "timestamp_order": "623-1", "speaker": "Speaker_A", "text": "네, 사실 지금 이 정보를 어떻게 효과적으로 전달할지 아직 결정하지 못했어요.", "label": 1}
+{"timestamp": "41:15", "timestamp_order": "624-1", "speaker": "Speaker_A", "text": "예를 들어 스피커 오버랩을 늘리면 여러 턴에 걸쳐 적용되니까요.", "label": 1}
+{"timestamp": "41:15", "timestamp_order": "625-1", "speaker": "Speaker_A", "text": "하지만 각 세그먼트에 얼마나 중요한지에 대한 정보는 드릴 수 있을 것 같아요.", "label": 1}
+{"timestamp": "41:42", "timestamp_order": "626-1", "speaker": "Speaker_B", "text": "케이, 다음 모델은 어떨까요?", "label": 1}
+{"timestamp": "41:42", "timestamp_order": "627-1", "speaker": "Speaker_B", "text": "어떤 면에서는 매우 비과학적인 방법이지만, 지금은 시간을 표준 단위로 삼고 거대한 단일 세그먼트 분할 슈퍼 배열을 만든다면 어떨까요?", "label": 1}
+{"timestamp": "41:42", "timestamp_order": "628-1", "speaker": "Speaker_B", "text": "하는 모든 일이 어떤 식으로든 실제 시간에 종속될 수 있기 때문입니다.", "label": 1}
+{"timestamp": "41:42", "timestamp_order": "629-1", "speaker": "Speaker_B", "text": "각 세그먼트의 시간 슬롯에 값을 할당하면, 시간 표시가 있는 시점으로 돌아가서 세그먼트 길이에 다시 매핑하는 것이 쉽습니다.", "label": 1}
+{"timestamp": "41:42", "timestamp_order": "630-1", "speaker": "Speaker_B", "text": "무슨 말인지 아시겠죠?", "label": 1}
+{"timestamp": "41:42", "timestamp_order": "632-1", "speaker": "Speaker_B", "text": "그런 다음 Matlab이나 다른 프로그램에서 m으로 거대한 슈퍼 배열을 만들 수 있습니다.", "label": 1}
+{"timestamp": "42:36", "timestamp_order": "633-1", "speaker": "Speaker_B", "text": "각각에 대한 것들, 예를 들어 시간 샘플링 슬롯의 종류, 이것에 대한 값을 계산하고, 이 배열을 가지게 되면,", "label": 1}
+{"timestamp": "42:45", "timestamp_order": "635-1", "speaker": "Speaker_B", "text": "좋아요, 이건 여기 시간 세그먼트 f에서 저기 시간 세그먼트까지입니다.", "label": 1}
+{"timestamp": "42:45", "timestamp_order": "638-1", "speaker": "Speaker_B", "text": "무슨 말인지 아시겠죠?", "label": 1}
+{"timestamp": "43:01", "timestamp_order": "639-1", "speaker": "Speaker_C", "text": "네, 하지만 모든 것을 하나로 합치는 함수로 무엇이 합리적인지 어떻게 알 수 있을까요?", "label": 1}
+{"timestamp": "43:01", "timestamp_order": "640-1", "speaker": "Speaker_C", "text": "찾기 어려울 수도 있겠네요.", "label": 1}
+{"timestamp": "43:01", "timestamp_order": "641-1", "speaker": "Speaker_C", "text": "네.", "label": 1}
+{"timestamp": "43:56", "timestamp_order": "647-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "44:00", "timestamp_order": "648-1", "speaker": "Speaker_B", "text": "하지만 매핑된 t가 당신이 매핑하는 것을 매핑하는 데 더 어려울 수 있으므로 일종의 i", "label": 1}
+{"timestamp": "44:05", "timestamp_order": "649-1", "speaker": "Speaker_A", "text": "네, 물론입니다.", "label": 1}
+{"timestamp": "44:05", "timestamp_order": "650-1", "speaker": "Speaker_A", "text": "하지만 세그먼트에 대한 가치가 있다면 아마도 모든 것을 제공할 것입니다.", "label": 1}
+{"timestamp": "44:13", "timestamp_order": "651-1", "speaker": "Speaker_A", "text": "중요한 일 아니면 응 아니.", "label": 1}
+{"timestamp": "44:17", "timestamp_order": "652-1", "speaker": "Speaker_C", "text": "당신은 언제나 발언 속에 몇 개의 단어가 있는지 알아낼 수 있지 않나요?", "label": 1}
+{"timestamp": "44:23", "timestamp_order": "654-1", "speaker": "Speaker_B", "text": "네, 하지만 기본적으로 각 셀이 하나인 배열을 갖는다고 말씀하시는 건가요?", "label": 1}
+{"timestamp": "44:23", "timestamp_order": "655-1", "speaker": "Speaker_B", "text": "예를 들어, 각 셀이 하나의 단어인 배열을 갖는다고 말씀하시는 건가요?", "label": 1}
+{"timestamp": "44:23", "timestamp_order": "656-1", "speaker": "Speaker_B", "text": "그러면 각 정보를 개별 단어에 매핑하게 되는 거죠.", "label": 1}
+{"timestamp": "44:32", "timestamp_order": "657-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "44:42", "timestamp_order": "660-1", "speaker": "Speaker_A", "text": "아마 어떻게든 그 수준까지 분해해야 할 것 같아요.", "label": 1}
+{"timestamp": "44:50", "timestamp_order": "661-1", "speaker": "Speaker_A", "text": "네, 물론입니다.", "label": 1}
+{"timestamp": "44:53", "timestamp_order": "662-1", "speaker": "Speaker_B", "text": "좋아요, 그리고 마지막에 모든 개별 단어 셀에서 나온 점수가 각 발화에 대해 곱해지는 지점 같은 걸 만들 수도 있겠네요.", "label": 1}
+{"timestamp": "44:53", "timestamp_order": "663-1", "speaker": "Speaker_B", "text": "그 발화 안에 있는 모든 단어 셀에 같은 값을 곱하는 거죠.", "label": 1}
+{"timestamp": "44:53", "timestamp_order": "664-1", "speaker": "Speaker_B", "text": "그게 두 점수의 조합이라고 할 수 있겠네요.", "label": 1}
+{"timestamp": "45:11", "timestamp_order": "665-1", "speaker": "Speaker_A", "text": "네, 아마도 그렇게 될 겁니다.", "label": 1}
+{"timestamp": "45:13", "timestamp_order": "666-1", "speaker": "Speaker_C", "text": "예를 들어 .", "label": 1}
+{"timestamp": "45:14", "timestamp_order": "667-1", "speaker": "Speaker_B", "text": "그러면 다시 돌아가서 여기 세그먼트 모드로 다시 넣어야 합니다.", "label": 1}
+{"timestamp": "45:20", "timestamp_order": "669-1", "speaker": "Speaker_B", "text": "그래서 우리는 결국 단어별로 처리하기를 원하지 않고 세그먼트별로 처리하기를 원합니다.", "label": 1}
+{"timestamp": "45:26", "timestamp_order": "670-1", "speaker": "Speaker_A", "text": "네, 하지만 괜찮습니다.", "label": 1}
+{"timestamp": "45:35", "timestamp_order": "674-1", "speaker": "Speaker_B", "text": "오, 예 예, 사실 그 예, 그게 맞아요.", "label": 1}
+{"timestamp": "45:36", "timestamp_order": "676-1", "speaker": "Speaker_C", "text": "음-음.", "label": 1}
+{"timestamp": "45:40", "timestamp_order": "677-1", "speaker": "Speaker_B", "text": "네, 글쎄요.", "label": 1}
+{"timestamp": "45:40", "timestamp_order": "678-1", "speaker": "Speaker_B", "text": "아마 그게 우리가 처음 시작했던 지점일 거예요.", "label": 1}
+{"timestamp": "45:40", "timestamp_order": "680-1", "speaker": "Speaker_B", "text": "당신의 세그먼트가 정확히 그 세그먼트가 아니기 때문이죠.", "label": 1}
+{"timestamp": "46:01", "timestamp_order": "683-1", "speaker": "Speaker_B", "text": "음.", "label": 1}
+{"timestamp": "46:01", "timestamp_order": "684-1", "speaker": "Speaker_B", "text": "그리고 그 세그먼트들은 겹치네요.", "label": 1}
+{"timestamp": "46:06", "timestamp_order": "685-1", "speaker": "Speaker_B", "text": "음, 그런데 그런 사람이 있고 그렇지 않은 사람이 있나요?", "label": 1}
+{"timestamp": "46:15", "timestamp_order": "688-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "46:36", "timestamp_order": "692-1", "speaker": "Speaker_B", "text": "음, 제가 말씀드리고자 하는 것은, 각 단어를 알고 있다면, 그것을 찾아낸다면, 그것은 가능해야 한다는 것입니다.", "label": 1}
+{"timestamp": "46:36", "timestamp_order": "693-1", "speaker": "Speaker_B", "text": "왜냐하면 이것이 단어에서 단어로 전달되거나 때때로 전달된다는 것을 알고 있다면, 그럴 수 있는 방법이 있어야 하기 때문입니다.", "label": 1}
+{"timestamp": "46:36", "timestamp_order": "694-1", "speaker": "Speaker_B", "text": "그러면 여러분은 좋아요, 이것은 다음 단어들과 관련이 있습니다.", "label": 1}
+{"timestamp": "46:36", "timestamp_order": "695-1", "speaker": "Speaker_B", "text": "라고 말하고, 그 단어들에 대한 간단한 의미를 만들면 됩니다.", "label": 1}
+{"timestamp": "46:40", "timestamp_order": "696-1", "speaker": "Speaker_C", "text": "네, 그럼 우리는 그렇죠.", "label": 1}
+{"timestamp": "47:02", "timestamp_order": "698-1", "speaker": "Speaker_B", "text": "XML 파일에는 있었지만, 소프트웨어에서 그렇게 한다면 소프트웨어에서 직접 조작할 수 있는 방법을 만들어낼 수 있을 겁니다.", "label": 1}
+{"timestamp": "47:02", "timestamp_order": "699-1", "speaker": "Speaker_B", "text": "일종의 제어 방식을 조정하는 거죠.", "label": 1}
+{"timestamp": "47:02", "timestamp_order": "700-1", "speaker": "Speaker_B", "text": "발화 기반과 단어 기반에 서로 다른 가중치를 적용해 보면서 동적으로 살펴보는 거죠.", "label": 1}
+{"timestamp": "47:02", "timestamp_order": "701-1", "speaker": "Speaker_B", "text": "무슨 말인지 아시겠죠?", "label": 1}
+{"timestamp": "47:23", "timestamp_order": "702-1", "speaker": "Speaker_B", "text": "이것저것 시도해 보고, 결과를 보면서 어떤 방법이 가장 좋은 조합인지 알아내는 것과 같습니다.", "label": 1}
+{"timestamp": "47:26", "timestamp_order": "703-1", "speaker": "Speaker_A", "text": "음, 그렇죠.", "label": 1}
+{"timestamp": "47:29", "timestamp_order": "704-1", "speaker": "Speaker_C", "text": "우리는 심지어 우리의 다양한 측정 항목을 살펴볼 수도 있습니다.", "label": 1}
+{"timestamp": "47:40", "timestamp_order": "707-1", "speaker": "Speaker_B", "text": "네, 아마 처음에는 그래픽 디스플레이를 만들 수도 있을 것 같아요.", "label": 1}
+{"timestamp": "47:40", "timestamp_order": "708-1", "speaker": "Speaker_B", "text": "적어도 실험용으로는요.", "label": 1}
+{"timestamp": "47:40", "timestamp_order": "709-1", "speaker": "Speaker_B", "text": "그냥 다양한 방식으로 배치해 보고 서로 어떻게 상호작용하는지 살펴보는 거죠.", "label": 1}
+{"timestamp": "47:53", "timestamp_order": "711-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "47:53", "timestamp_order": "712-1", "speaker": "Speaker_B", "text": "그럼 두 분 다 각자의 세그먼트에 무언가를 매핑할 수 있다고 생각하시나요?", "label": 1}
+{"timestamp": "47:53", "timestamp_order": "713-1", "speaker": "Speaker_B", "text": "각자가 하나의 값, 예를 들어 두 배 값이나 10진수 값 등을 정확히 각자의 세그먼트에 제공하는 것처럼요.", "label": 1}
+{"timestamp": "48:17", "timestamp_order": "714-1", "speaker": "Speaker_C", "text": "세그먼트가 어디에서 어디로 이동하는지 명시되어 있습니다.", "label": 1}
+{"timestamp": "48:21", "timestamp_order": "716-1", "speaker": "Speaker_A", "text": "네, 심지어 어떤 단어인지도 알려줍니다.", "label": 1}
+{"timestamp": "48:23", "timestamp_order": "717-1", "speaker": "Speaker_C", "text": "네, 그럼 가능해야죠.", "label": 1}
+{"timestamp": "48:23", "timestamp_order": "718-1", "speaker": "Speaker_C", "text": "네.", "label": 1}
+{"timestamp": "49:17", "timestamp_order": "724-1", "speaker": "Speaker_C", "text": "아니면 뭐예요?", "label": 1}
+{"timestamp": "49:28", "timestamp_order": "725-1", "speaker": "Speaker_C", "text": "네, 하지만 제가 한 것은 파서, XML 파서로 시작 시간을 얻을 수 있는 것입니다.", "label": 1}
+{"timestamp": "49:34", "timestamp_order": "726-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "49:41", "timestamp_order": "730-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "49:41", "timestamp_order": "731-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "49:41", "timestamp_order": "732-1", "speaker": "Speaker_B", "text": "단어 순서를 제대로 맞춘다면, 세그먼트당 하나의 값만 얻는 게 비교적 실현 가능한 작업이라고 생각하시나요?", "label": 1}
+{"timestamp": "50:01", "timestamp_order": "735-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "50:03", "timestamp_order": "737-1", "speaker": "Speaker_B", "text": "그리고 두 분 모두 해당 세그먼트에 매핑할 수 있다면 우리는 두 값, 즉 값 A와 값 B를 모두 속성으로 갖는 하나의 파일을 얻을 수 있어야 합니다.", "label": 1}
+{"timestamp": "50:17", "timestamp_order": "740-1", "speaker": "Speaker_B", "text": "그리고 우리는 프로토타입에 로드하여 이 정보를 표시하는 방법과 그 유형이 무엇인지 알아볼 수 있습니다.", "label": 1}
+{"timestamp": "50:24", "timestamp_order": "741-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "50:59", "timestamp_order": "743-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "51:13", "timestamp_order": "747-1", "speaker": "Speaker_A", "text": "아마 살펴볼 거예요.", "label": 1}
+{"timestamp": "51:26", "timestamp_order": "750-1", "speaker": "Speaker_A", "text": "하지만 상황이 상당히 나빠질 수도 있어요.", "label": 1}
+{"timestamp": "51:44", "timestamp_order": "753-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "51:44", "timestamp_order": "754-1", "speaker": "Speaker_A", "text": "하지만 음, 네.", "label": 1}
+{"timestamp": "51:44", "timestamp_order": "756-1", "speaker": "Speaker_A", "text": "제가 음, 평균 F 0 레벨을 계산해 보라고 했더니, 회의 지연에 30분 이상 걸렸던 것 같아요.", "label": 1}
+{"timestamp": "51:44", "timestamp_order": "758-1", "speaker": "Speaker_A", "text": "왜냐하면 음, 음, 음, 평균 6명의 발표자가 75시간 동안 통화하고 있고, 10분 6초마다 측정하거든요.", "label": 1}
+{"timestamp": "51:50", "timestamp_order": "760-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "52:22", "timestamp_order": "764-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "52:33", "timestamp_order": "765-1", "speaker": "Speaker_A", "text": "네, 제가 지금 한 건, 음, 음, 음, 음, 그의 헤드폰 각 스피커에서 F0 값을 구하고, 그가 실제로 말하는 순간에 녹음된 소리만 사용했습니다.", "label": 1}
+{"timestamp": "52:42", "timestamp_order": "767-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "52:51", "timestamp_order": "768-1", "speaker": "Speaker_B", "text": "음-음.", "label": 1}
+{"timestamp": "53:06", "timestamp_order": "771-1", "speaker": "Speaker_B", "text": "좋아요 .", "label": 1}
+{"timestamp": "53:09", "timestamp_order": "774-1", "speaker": "Speaker_B", "text": "네, 네.", "label": 1}
+{"timestamp": "53:09", "timestamp_order": "775-1", "speaker": "Speaker_B", "text": "네, 그렇게 되면 훨씬 더 이해가 되겠네요.", "label": 1}
+{"timestamp": "53:09", "timestamp_order": "776-1", "speaker": "Speaker_B", "text": "그러니까 그 사람이 회의에서 전반적으로 어떤 성과를 내고 있는지, 아니면 특정 세그먼트에서 어떤 성과를 내고 있는지를 상대적으로 얼마나 비교하는지 보여주는 거죠.", "label": 1}
+{"timestamp": "53:14", "timestamp_order": "778-1", "speaker": "Speaker_A", "text": "아니, 아니, 그냥 평균일 뿐이야.", "label": 1}
+{"timestamp": "53:14", "timestamp_order": "779-1", "speaker": "Speaker_A", "text": "아니, 맞아.", "label": 1}
+{"timestamp": "53:30", "timestamp_order": "780-1", "speaker": "Speaker_A", "text": "네, 제 말은 지금 이 값이 필요해서 어떻게 연관시킬 수 있는지 말하고 싶었어요.", "label": 1}
+{"timestamp": "53:35", "timestamp_order": "781-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "53:35", "timestamp_order": "782-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "53:42", "timestamp_order": "784-1", "speaker": "Speaker_A", "text": "네, 그럴 것 같아요.", "label": 1}
+{"timestamp": "53:42", "timestamp_order": "785-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "53:48", "timestamp_order": "786-1", "speaker": "Speaker_A", "text": "음, 오락 등이 그렇죠.", "label": 1}
+{"timestamp": "53:48", "timestamp_order": "788-1", "speaker": "Speaker_C", "text": "웃음소리를 빼고 계산해 보면 알겠지.", "label": 1}
+{"timestamp": "53:55", "timestamp_order": "789-1", "speaker": "Speaker_C", "text": "음.", "label": 1}
+{"timestamp": "53:58", "timestamp_order": "792-1", "speaker": "Speaker_A", "text": "남자가 200,200 음 속도로 말하는 건 꽤 웃기거든요.", "label": 1}
+{"timestamp": "54:09", "timestamp_order": "794-1", "speaker": "Speaker_B", "text": "아, 그렇군요.", "label": 1}
+{"timestamp": "54:09", "timestamp_order": "796-1", "speaker": "Speaker_B", "text": "하지만 잘 모르겠네요.", "label": 1}
+{"timestamp": "54:22", "timestamp_order": "798-1", "speaker": "Speaker_C", "text": "지금은 아니에요.", "label": 1}
+{"timestamp": "54:22", "timestamp_order": "799-1", "speaker": "Speaker_C", "text": "주말에 만나면 어떨까요?", "label": 1}
+{"timestamp": "54:28", "timestamp_order": "800-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "54:28", "timestamp_order": "802-1", "speaker": "Speaker_B", "text": "제가 LSA의 절반을 마치자마자, 기본적으로 문서를 단어별로 정리하는 매트릭스를 만들자마자, 각 단어에 대한 점수를 계산하는 것은 매우 쉽습니다.", "label": 1}
+{"timestamp": "54:28", "timestamp_order": "804-1", "speaker": "Speaker_C", "text": "아, 모르겠어요.", "label": 1}
+{"timestamp": "54:45", "timestamp_order": "805-1", "speaker": "Speaker_C", "text": "그러니까, 음, 아니, 프로토타입은 어때?", "label": 1}
+{"timestamp": "54:45", "timestamp_order": "807-1", "speaker": "Speaker_C", "text": "적어도 우리 중 몇몇은 협력해서 작동시켜야 할 거야.", "label": 1}
+{"timestamp": "54:57", "timestamp_order": "808-1", "speaker": "Speaker_B", "text": "네, 콜린, 데이브, 그리고 저는 실제로 자바 관련 작업을 할 것이고, 여러분이 제공해 주시는 모든 것을 보고, 어떤 식으로든 연결하고 시각화해 보려고 노력할 것입니다.", "label": 1}
+{"timestamp": "55:09", "timestamp_order": "810-1", "speaker": "Speaker_B", "text": "음, 조나단에게 회의를 1시로 연기할 수 있는지 물어볼게요.", "label": 1}
+{"timestamp": "55:15", "timestamp_order": "812-1", "speaker": "Speaker_D", "text": "네, 좋은 생각인 것 같아요.", "label": 1}
+{"timestamp": "55:23", "timestamp_order": "813-1", "speaker": "Speaker_D", "text": "네.", "label": 1}
+{"timestamp": "55:23", "timestamp_order": "814-1", "speaker": "Speaker_D", "text": "네, 이메일을 보내서 무슨 일이 일어나고 있는지 알려주세요.", "label": 1}
+{"timestamp": "55:26", "timestamp_order": "815-1", "speaker": "Speaker_B", "text": "네, 수요일이 괜찮다는 확인을 아직 못 받았어요.", "label": 1}
+{"timestamp": "55:26", "timestamp_order": "816-1", "speaker": "Speaker_B", "text": "지금 그에게서 확인에 대한 확인을 기대해야 할지 잘 모르겠지만, 그냥 다시 이메일을 보내서 한 번으로 할 수 있을지 물어볼게요.", "label": 1}
+{"timestamp": "55:26", "timestamp_order": "817-1", "speaker": "Speaker_B", "text": "죄송해요, 12개라고 했는데, 제가 한 번으로 할 수 있을지 물어보는 거예요.", "label": 1}
+{"timestamp": "55:26", "timestamp_order": "819-1", "speaker": "Speaker_B", "text": "정말로 이해할 수 있을 만큼 이해하는 지점에 도달하는 게 너무 어려워요.", "label": 1}
+{"timestamp": "55:26", "timestamp_order": "820-1", "speaker": "Speaker_B", "text": "글쎄요, 지금은 제대로 일하고 있는 것 같지 않아요.", "label": 1}
+{"timestamp": "55:26", "timestamp_order": "821-1", "speaker": "Speaker_B", "text": "그냥 모든 것을 이해하려고 노력하고 있어요.", "label": 1}
+{"timestamp": "55:56", "timestamp_order": "823-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "56:12", "timestamp_order": "825-1", "speaker": "Speaker_B", "text": "프로토타입의 유형과 관련된 프레임워크가 생기면, 각자가 자신의 것을 연결해서 어떻게 생겼는지, 어떻게 작동하는지 확인할 수 있을 것 같습니다.", "label": 1}
+{"timestamp": "56:32", "timestamp_order": "829-1", "speaker": "Speaker_B", "text": "어쨌든 가야겠어요.", "label": 1}
+{"timestamp": "56:32", "timestamp_order": "830-1", "speaker": "Speaker_A", "text": "네.", "label": 1}
+{"timestamp": "56:33", "timestamp_order": "832-1", "speaker": "Speaker_C", "text": "네, 저도요.", "label": 1}
+{"timestamp": "56:37", "timestamp_order": "839-1", "speaker": "Speaker_B", "text": "네, 하지만 지금 당장 읽기 쉬운 형태라면 괜찮을 것 같습니다.", "label": 1}
+{"timestamp": "56:37", "timestamp_order": "842-1", "speaker": "Speaker_B", "text": "아니면 지금 당장은 안 해도 되니까요.", "label": 1}
+{"timestamp": "56:37", "timestamp_order": "843-1", "speaker": "Speaker_B", "text": "그러면 개별적으로 표시하고, 서로 비교하고, 어떻게 결합할지 실험해 볼 수 있으니까요.", "label": 1}
+{"timestamp": "56:56", "timestamp_order": "845-1", "speaker": "Speaker_A", "text": "음-음.", "label": 1}
+{"timestamp": "57:05", "timestamp_order": "846-1", "speaker": "Speaker_B", "text": "맞아요.", "label": 1}
+{"timestamp": "57:05", "timestamp_order": "847-1", "speaker": "Speaker_B", "text": "네.", "label": 1}
+{"timestamp": "57:05", "timestamp_order": "848-1", "speaker": "Speaker_B", "text": "그리고 두 개의 정수나 실수 등을 계산적으로 곱하는 게 우리 속도를 늦추는 요인이 되어서는 안 된다는 거예요.", "label": 1}
+{"timestamp": "57:12", "timestamp_order": "849-1", "speaker": "Speaker_A", "text": "네, 이미 세그먼트 기반이라면 그다지 많지 않습니다.", "label": 1}
+{"timestamp": "57:17", "timestamp_order": "851-1", "speaker": "Speaker_C", "text": "좋아요 .", "label": 1}

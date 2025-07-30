@@ -1,0 +1,4259 @@
+[
+  {
+    "timestamp": "00:58",
+    "timestamp_order": "2-1",
+    "speaker": "Speaker_A",
+    "prev": "",
+    "target": "[TGT] 리모컨에 대해서요. [/TGT]",
+    "next": "그럼요. 그럼 어떤지 볼까요?",
+    "label": null
+  },
+  {
+    "timestamp": "00:58",
+    "timestamp_order": "3-1",
+    "speaker": "Speaker_A",
+    "prev": "리모컨에 대해서요.",
+    "target": "[TGT] 그럼요. [/TGT]",
+    "next": "그럼 어떤지 볼까요? 네, 그럼 공유 폴더로 갈 수 있나요?",
+    "label": null
+  },
+  {
+    "timestamp": "00:58",
+    "timestamp_order": "4-1",
+    "speaker": "Speaker_A",
+    "prev": "리모컨에 대해서요. 그럼요.",
+    "target": "[TGT] 그럼 어떤지 볼까요? [/TGT]",
+    "next": "네, 그럼 공유 폴더로 갈 수 있나요? 준비하셨나요?",
+    "label": null
+  },
+  {
+    "timestamp": "01:11",
+    "timestamp_order": "5-1",
+    "speaker": "Speaker_B",
+    "prev": "그럼요. 그럼 어떤지 볼까요?",
+    "target": "[TGT] 네, 그럼 공유 폴더로 갈 수 있나요? [/TGT]",
+    "next": "준비하셨나요? 음 공유 폴더.",
+    "label": null
+  },
+  {
+    "timestamp": "01:11",
+    "timestamp_order": "6-1",
+    "speaker": "Speaker_A",
+    "prev": "그럼 어떤지 볼까요? 네, 그럼 공유 폴더로 갈 수 있나요?",
+    "target": "[TGT] 준비하셨나요? [/TGT]",
+    "next": "음 공유 폴더. 프레젠테이션을 위한 공유 폴더를 만드시겠습니까?",
+    "label": null
+  },
+  {
+    "timestamp": "01:16",
+    "timestamp_order": "7-1",
+    "speaker": "Speaker_B",
+    "prev": "네, 그럼 공유 폴더로 갈 수 있나요? 준비하셨나요?",
+    "target": "[TGT] 음 공유 폴더. [/TGT]",
+    "next": "프레젠테이션을 위한 공유 폴더를 만드시겠습니까? 예 .",
+    "label": null
+  },
+  {
+    "timestamp": "01:16",
+    "timestamp_order": "8-1",
+    "speaker": "Speaker_A",
+    "prev": "준비하셨나요? 음 공유 폴더.",
+    "target": "[TGT] 프레젠테이션을 위한 공유 폴더를 만드시겠습니까? [/TGT]",
+    "next": "예 . 우리는 프레젠테이션을 합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "01:18",
+    "timestamp_order": "9-1",
+    "speaker": "Speaker_B",
+    "prev": "음 공유 폴더. 프레젠테이션을 위한 공유 폴더를 만드시겠습니까?",
+    "target": "[TGT] 예 . [/TGT]",
+    "next": "우리는 프레젠테이션을 합니다. 그래서 참가자를 얻었어요",
+    "label": null
+  },
+  {
+    "timestamp": "01:20",
+    "timestamp_order": "10-1",
+    "speaker": "Speaker_B",
+    "prev": "프레젠테이션을 위한 공유 폴더를 만드시겠습니까? 예 .",
+    "target": "[TGT] 우리는 프레젠테이션을 합니다. [/TGT]",
+    "next": "그래서 참가자를 얻었어요 삼 .",
+    "label": null
+  },
+  {
+    "timestamp": "01:32",
+    "timestamp_order": "11-1",
+    "speaker": "Speaker_B",
+    "prev": "예 . 우리는 프레젠테이션을 합니다.",
+    "target": "[TGT] 그래서 참가자를 얻었어요 [/TGT]",
+    "next": "삼 . 우 어.",
+    "label": null
+  },
+  {
+    "timestamp": "01:35",
+    "timestamp_order": "12-1",
+    "speaker": "Speaker_B",
+    "prev": "우리는 프레젠테이션을 합니다. 그래서 참가자를 얻었어요",
+    "target": "[TGT] 삼 . [/TGT]",
+    "next": "우 어. 삼 .",
+    "label": null
+  },
+  {
+    "timestamp": "01:36",
+    "timestamp_order": "13-1",
+    "speaker": "Speaker_B",
+    "prev": "그래서 참가자를 얻었어요 삼 .",
+    "target": "[TGT] 우 어. [/TGT]",
+    "next": "삼 . 네, 그게 최종 디자인이에요.",
+    "label": null
+  },
+  {
+    "timestamp": "01:39",
+    "timestamp_order": "14-1",
+    "speaker": "Speaker_B",
+    "prev": "삼 . 우 어.",
+    "target": "[TGT] 삼 . [/TGT]",
+    "next": "네, 그게 최종 디자인이에요. 좋아요 하나만요.",
+    "label": null
+  },
+  {
+    "timestamp": "01:41",
+    "timestamp_order": "15-1",
+    "speaker": "Speaker_B",
+    "prev": "우 어. 삼 .",
+    "target": "[TGT] 네, 그게 최종 디자인이에요. [/TGT]",
+    "next": "좋아요 하나만요. 그래서 저는 기욤과 논의했습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "01:44",
+    "timestamp_order": "16-1",
+    "speaker": "Speaker_A",
+    "prev": "삼 . 네, 그게 최종 디자인이에요.",
+    "target": "[TGT] 좋아요 하나만요. [/TGT]",
+    "next": "그래서 저는 기욤과 논의했습니다. Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "01:49",
+    "timestamp_order": "17-1",
+    "speaker": "Speaker_B",
+    "prev": "네, 그게 최종 디자인이에요. 좋아요 하나만요.",
+    "target": "[TGT] 그래서 저는 기욤과 논의했습니다. [/TGT]",
+    "next": "Mm . 맞아요.",
+    "label": null
+  },
+  {
+    "timestamp": "01:51",
+    "timestamp_order": "18-1",
+    "speaker": "Speaker_C",
+    "prev": "좋아요 하나만요. 그래서 저는 기욤과 논의했습니다.",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "맞아요. 그래서 저희는 두 가지 버전의 프로토타입을 가지고 있고, 둘 다 합의했어요.",
+    "label": null
+  },
+  {
+    "timestamp": "01:53",
+    "timestamp_order": "19-1",
+    "speaker": "Speaker_B",
+    "prev": "그래서 저는 기욤과 논의했습니다. Mm .",
+    "target": "[TGT] 맞아요. [/TGT]",
+    "next": "그래서 저희는 두 가지 버전의 프로토타입을 가지고 있고, 둘 다 합의했어요. LCD가 너무 비싸서 추가할지 말지 아직 결정하지 못했거든요.",
+    "label": null
+  },
+  {
+    "timestamp": "01:53",
+    "timestamp_order": "20-1",
+    "speaker": "Speaker_B",
+    "prev": "Mm . 맞아요.",
+    "target": "[TGT] 그래서 저희는 두 가지 버전의 프로토타입을 가지고 있고, 둘 다 합의했어요. [/TGT]",
+    "next": "LCD가 너무 비싸서 추가할지 말지 아직 결정하지 못했거든요. 그래서 두 가지 버전을 만들었어요.",
+    "label": null
+  },
+  {
+    "timestamp": "01:53",
+    "timestamp_order": "21-1",
+    "speaker": "Speaker_B",
+    "prev": "맞아요. 그래서 저희는 두 가지 버전의 프로토타입을 가지고 있고, 둘 다 합의했어요.",
+    "target": "[TGT] LCD가 너무 비싸서 추가할지 말지 아직 결정하지 못했거든요. [/TGT]",
+    "next": "그래서 두 가지 버전을 만들었어요. 하나는 LCD가 있는 버전이고, 하나는 없는 버전이에요.",
+    "label": null
+  },
+  {
+    "timestamp": "01:53",
+    "timestamp_order": "22-1",
+    "speaker": "Speaker_B",
+    "prev": "그래서 저희는 두 가지 버전의 프로토타입을 가지고 있고, 둘 다 합의했어요. LCD가 너무 비싸서 추가할지 말지 아직 결정하지 못했거든요.",
+    "target": "[TGT] 그래서 두 가지 버전을 만들었어요. [/TGT]",
+    "next": "하나는 LCD가 있는 버전이고, 하나는 없는 버전이에요. 음, 둘 다 충전기가 있고, 분리형이고, 제어 모듈이 있어요.",
+    "label": null
+  },
+  {
+    "timestamp": "01:53",
+    "timestamp_order": "23-1",
+    "speaker": "Speaker_B",
+    "prev": "LCD가 너무 비싸서 추가할지 말지 아직 결정하지 못했거든요. 그래서 두 가지 버전을 만들었어요.",
+    "target": "[TGT] 하나는 LCD가 있는 버전이고, 하나는 없는 버전이에요. [/TGT]",
+    "next": "음, 둘 다 충전기가 있고, 분리형이고, 제어 모듈이 있어요. 그리고 모든 사람을 위해 분리 가능한 큰 버튼이 있어요.",
+    "label": null
+  },
+  {
+    "timestamp": "01:53",
+    "timestamp_order": "24-1",
+    "speaker": "Speaker_B",
+    "prev": "그래서 두 가지 버전을 만들었어요. 하나는 LCD가 있는 버전이고, 하나는 없는 버전이에요.",
+    "target": "[TGT] 음, 둘 다 충전기가 있고, 분리형이고, 제어 모듈이 있어요. [/TGT]",
+    "next": "그리고 모든 사람을 위해 분리 가능한 큰 버튼이 있어요. 그래서 .",
+    "label": null
+  },
+  {
+    "timestamp": "02:24",
+    "timestamp_order": "25-1",
+    "speaker": "Speaker_B",
+    "prev": "하나는 LCD가 있는 버전이고, 하나는 없는 버전이에요. 음, 둘 다 충전기가 있고, 분리형이고, 제어 모듈이 있어요.",
+    "target": "[TGT] 그리고 모든 사람을 위해 분리 가능한 큰 버튼이 있어요. [/TGT]",
+    "next": "그래서 . Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "02:31",
+    "timestamp_order": "26-1",
+    "speaker": "Speaker_B",
+    "prev": "음, 둘 다 충전기가 있고, 분리형이고, 제어 모듈이 있어요. 그리고 모든 사람을 위해 분리 가능한 큰 버튼이 있어요.",
+    "target": "[TGT] 그래서 . [/TGT]",
+    "next": "Mm . 아, 예산보다 높네요.",
+    "label": null
+  },
+  {
+    "timestamp": "02:51",
+    "timestamp_order": "27-1",
+    "speaker": "Speaker_B",
+    "prev": "그리고 모든 사람을 위해 분리 가능한 큰 버튼이 있어요. 그래서 .",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "아, 예산보다 높네요. 비용이 절감될 것입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "04:24",
+    "timestamp_order": "28-1",
+    "speaker": "Speaker_A",
+    "prev": "그래서 . Mm .",
+    "target": "[TGT] 아, 예산보다 높네요. [/TGT]",
+    "next": "비용이 절감될 것입니다. Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "04:35",
+    "timestamp_order": "29-1",
+    "speaker": "Speaker_D",
+    "prev": "Mm . 아, 예산보다 높네요.",
+    "target": "[TGT] 비용이 절감될 것입니다. [/TGT]",
+    "next": "Mm . 흠 .",
+    "label": null
+  },
+  {
+    "timestamp": "04:37",
+    "timestamp_order": "30-1",
+    "speaker": "Speaker_B",
+    "prev": "아, 예산보다 높네요. 비용이 절감될 것입니다.",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "흠 . B형 배터리는 몇개 있나요?",
+    "label": null
+  },
+  {
+    "timestamp": "04:40",
+    "timestamp_order": "31-1",
+    "speaker": "Speaker_B",
+    "prev": "비용이 절감될 것입니다. Mm .",
+    "target": "[TGT] 흠 . [/TGT]",
+    "next": "B형 배터리는 몇개 있나요? 몇 개나 되죠?",
+    "label": null
+  },
+  {
+    "timestamp": "04:42",
+    "timestamp_order": "32-1",
+    "speaker": "Speaker_A",
+    "prev": "Mm . 흠 .",
+    "target": "[TGT] B형 배터리는 몇개 있나요? [/TGT]",
+    "next": "몇 개나 되죠? 배터리.",
+    "label": null
+  },
+  {
+    "timestamp": "04:45",
+    "timestamp_order": "33-1",
+    "speaker": "Speaker_C",
+    "prev": "흠 . B형 배터리는 몇개 있나요?",
+    "target": "[TGT] 몇 개나 되죠? [/TGT]",
+    "next": "배터리. AAAs 배터리 2개가 들어있나요?",
+    "label": null
+  },
+  {
+    "timestamp": "04:46",
+    "timestamp_order": "34-1",
+    "speaker": "Speaker_A",
+    "prev": "B형 배터리는 몇개 있나요? 몇 개나 되죠?",
+    "target": "[TGT] 배터리. [/TGT]",
+    "next": "AAAs 배터리 2개가 들어있나요? AA 충전식 배터리입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "04:51",
+    "timestamp_order": "35-1",
+    "speaker": "Speaker_B",
+    "prev": "몇 개나 되죠? 배터리.",
+    "target": "[TGT] AAAs 배터리 2개가 들어있나요? [/TGT]",
+    "next": "AA 충전식 배터리입니다. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "04:51",
+    "timestamp_order": "36-1",
+    "speaker": "Speaker_B",
+    "prev": "배터리. AAAs 배터리 2개가 들어있나요?",
+    "target": "[TGT] AA 충전식 배터리입니다. [/TGT]",
+    "next": "응 . 물론 충전이 가능합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "04:54",
+    "timestamp_order": "37-1",
+    "speaker": "Speaker_C",
+    "prev": "AAAs 배터리 2개가 들어있나요? AA 충전식 배터리입니다.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "물론 충전이 가능합니다. 충전기가 있으니까요.",
+    "label": null
+  },
+  {
+    "timestamp": "04:56",
+    "timestamp_order": "38-1",
+    "speaker": "Speaker_C",
+    "prev": "AA 충전식 배터리입니다. 응 .",
+    "target": "[TGT] 물론 충전이 가능합니다. [/TGT]",
+    "next": "충전기가 있으니까요. 네, 충전식 배터리입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "04:56",
+    "timestamp_order": "39-1",
+    "speaker": "Speaker_C",
+    "prev": "응 . 물론 충전이 가능합니다.",
+    "target": "[TGT] 충전기가 있으니까요. [/TGT]",
+    "next": "네, 충전식 배터리입니다. 충전기가 있으니 문제없습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "04:57",
+    "timestamp_order": "40-1",
+    "speaker": "Speaker_B",
+    "prev": "물론 충전이 가능합니다. 충전기가 있으니까요.",
+    "target": "[TGT] 네, 충전식 배터리입니다. [/TGT]",
+    "next": "충전기가 있으니 문제없습니다. 그럼 배터리는 하나뿐인가요?",
+    "label": null
+  },
+  {
+    "timestamp": "04:57",
+    "timestamp_order": "41-1",
+    "speaker": "Speaker_B",
+    "prev": "충전기가 있으니까요. 네, 충전식 배터리입니다.",
+    "target": "[TGT] 충전기가 있으니 문제없습니다. [/TGT]",
+    "next": "그럼 배터리는 하나뿐인가요? 네, 배터리 하나면 돼요.",
+    "label": null
+  },
+  {
+    "timestamp": "05:01",
+    "timestamp_order": "42-1",
+    "speaker": "Speaker_A",
+    "prev": "네, 충전식 배터리입니다. 충전기가 있으니 문제없습니다.",
+    "target": "[TGT] 그럼 배터리는 하나뿐인가요? [/TGT]",
+    "next": "네, 배터리 하나면 돼요. 두 개인가요, 하나인가요?",
+    "label": null
+  },
+  {
+    "timestamp": "05:04",
+    "timestamp_order": "43-1",
+    "speaker": "Speaker_C",
+    "prev": "충전기가 있으니 문제없습니다. 그럼 배터리는 하나뿐인가요?",
+    "target": "[TGT] 네, 배터리 하나면 돼요. [/TGT]",
+    "next": "두 개인가요, 하나인가요? 그것은 운동 에너지의 예비력입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "05:06",
+    "timestamp_order": "44-1",
+    "speaker": "Speaker_D",
+    "prev": "그럼 배터리는 하나뿐인가요? 네, 배터리 하나면 돼요.",
+    "target": "[TGT] 두 개인가요, 하나인가요? [/TGT]",
+    "next": "그것은 운동 에너지의 예비력입니다. 그럼 하루 종일 평가는 어떻게 되나요?",
+    "label": null
+  },
+  {
+    "timestamp": "05:09",
+    "timestamp_order": "45-1",
+    "speaker": "Speaker_A",
+    "prev": "네, 배터리 하나면 돼요. 두 개인가요, 하나인가요?",
+    "target": "[TGT] 그것은 운동 에너지의 예비력입니다. [/TGT]",
+    "next": "그럼 하루 종일 평가는 어떻게 되나요? 뭐라고요?",
+    "label": null
+  },
+  {
+    "timestamp": "05:15",
+    "timestamp_order": "46-1",
+    "speaker": "Speaker_D",
+    "prev": "두 개인가요, 하나인가요? 그것은 운동 에너지의 예비력입니다.",
+    "target": "[TGT] 그럼 하루 종일 평가는 어떻게 되나요? [/TGT]",
+    "next": "뭐라고요? 하루 종일 평가.",
+    "label": null
+  },
+  {
+    "timestamp": "05:18",
+    "timestamp_order": "47-1",
+    "speaker": "Speaker_C",
+    "prev": "그것은 운동 에너지의 예비력입니다. 그럼 하루 종일 평가는 어떻게 되나요?",
+    "target": "[TGT] 뭐라고요? [/TGT]",
+    "next": "하루 종일 평가. 어떤 종류의 배터리인가요?",
+    "label": null
+  },
+  {
+    "timestamp": "05:18",
+    "timestamp_order": "48-1",
+    "speaker": "Speaker_D",
+    "prev": "그럼 하루 종일 평가는 어떻게 되나요? 뭐라고요?",
+    "target": "[TGT] 하루 종일 평가. [/TGT]",
+    "next": "어떤 종류의 배터리인가요? 오, 그냥 간단한 배터리예요.",
+    "label": null
+  },
+  {
+    "timestamp": "05:20",
+    "timestamp_order": "49-1",
+    "speaker": "Speaker_D",
+    "prev": "뭐라고요? 하루 종일 평가.",
+    "target": "[TGT] 어떤 종류의 배터리인가요? [/TGT]",
+    "next": "오, 그냥 간단한 배터리예요. 충전식이에요.",
+    "label": null
+  },
+  {
+    "timestamp": "05:21",
+    "timestamp_order": "50-1",
+    "speaker": "Speaker_C",
+    "prev": "하루 종일 평가. 어떤 종류의 배터리인가요?",
+    "target": "[TGT] 오, 그냥 간단한 배터리예요. [/TGT]",
+    "next": "충전식이에요. 원한다면 그런 것도 있을 거예요.",
+    "label": null
+  },
+  {
+    "timestamp": "05:21",
+    "timestamp_order": "51-1",
+    "speaker": "Speaker_C",
+    "prev": "어떤 종류의 배터리인가요? 오, 그냥 간단한 배터리예요.",
+    "target": "[TGT] 충전식이에요. [/TGT]",
+    "next": "원한다면 그런 것도 있을 거예요. 네 네.",
+    "label": null
+  },
+  {
+    "timestamp": "05:21",
+    "timestamp_order": "52-1",
+    "speaker": "Speaker_C",
+    "prev": "오, 그냥 간단한 배터리예요. 충전식이에요.",
+    "target": "[TGT] 원한다면 그런 것도 있을 거예요. [/TGT]",
+    "next": "네 네. A, A3 사이즈 배터리 두 개 정도요?",
+    "label": null
+  },
+  {
+    "timestamp": "05:25",
+    "timestamp_order": "53-1",
+    "speaker": "Speaker_B",
+    "prev": "충전식이에요. 원한다면 그런 것도 있을 거예요.",
+    "target": "[TGT] 네 네. [/TGT]",
+    "next": "A, A3 사이즈 배터리 두 개 정도요? 음-음.",
+    "label": null
+  },
+  {
+    "timestamp": "05:27",
+    "timestamp_order": "54-1",
+    "speaker": "Speaker_D",
+    "prev": "원한다면 그런 것도 있을 거예요. 네 네.",
+    "target": "[TGT] A, A3 사이즈 배터리 두 개 정도요? [/TGT]",
+    "next": "음-음. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "05:27",
+    "timestamp_order": "55-1",
+    "speaker": "Speaker_D",
+    "prev": "네 네. A, A3 사이즈 배터리 두 개 정도요?",
+    "target": "[TGT] 음-음. [/TGT]",
+    "next": "응 . 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "05:29",
+    "timestamp_order": "56-1",
+    "speaker": "Speaker_C",
+    "prev": "A, A3 사이즈 배터리 두 개 정도요? 음-음.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "응 . 그러니까 배터리를 충전하고 싶으면 리모컨을 충전기에 꽂은 채로 그냥 두면 돼요.",
+    "label": null
+  },
+  {
+    "timestamp": "05:31",
+    "timestamp_order": "57-1",
+    "speaker": "Speaker_B",
+    "prev": "음-음. 응 .",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "그러니까 배터리를 충전하고 싶으면 리모컨을 충전기에 꽂은 채로 그냥 두면 돼요. 괜찮아요.",
+    "label": null
+  },
+  {
+    "timestamp": "05:32",
+    "timestamp_order": "58-1",
+    "speaker": "Speaker_C",
+    "prev": "응 . 응 .",
+    "target": "[TGT] 그러니까 배터리를 충전하고 싶으면 리모컨을 충전기에 꽂은 채로 그냥 두면 돼요. [/TGT]",
+    "next": "괜찮아요. 그러면 다음에 다시 충전할 때, 오",
+    "label": null
+  },
+  {
+    "timestamp": "05:32",
+    "timestamp_order": "59-1",
+    "speaker": "Speaker_C",
+    "prev": "응 . 그러니까 배터리를 충전하고 싶으면 리모컨을 충전기에 꽂은 채로 그냥 두면 돼요.",
+    "target": "[TGT] 괜찮아요. [/TGT]",
+    "next": "그러면 다음에 다시 충전할 때, 오 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "05:32",
+    "timestamp_order": "60-1",
+    "speaker": "Speaker_C",
+    "prev": "그러니까 배터리를 충전하고 싶으면 리모컨을 충전기에 꽂은 채로 그냥 두면 돼요. 괜찮아요.",
+    "target": "[TGT] 그러면 다음에 다시 충전할 때, 오 [/TGT]",
+    "next": "응 . 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "05:38",
+    "timestamp_order": "61-1",
+    "speaker": "Speaker_B",
+    "prev": "괜찮아요. 그러면 다음에 다시 충전할 때, 오",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "응 . Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "05:39",
+    "timestamp_order": "62-1",
+    "speaker": "Speaker_B",
+    "prev": "그러면 다음에 다시 충전할 때, 오 응 .",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "Mm . 작동합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "05:41",
+    "timestamp_order": "63-1",
+    "speaker": "Speaker_B",
+    "prev": "응 . 응 .",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "작동합니다. 네, 노먼, 버튼만 설명해 주세요.",
+    "label": null
+  },
+  {
+    "timestamp": "05:48",
+    "timestamp_order": "64-1",
+    "speaker": "Speaker_C",
+    "prev": "응 . Mm .",
+    "target": "[TGT] 작동합니다. [/TGT]",
+    "next": "네, 노먼, 버튼만 설명해 주세요. Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "05:52",
+    "timestamp_order": "65-1",
+    "speaker": "Speaker_C",
+    "prev": "Mm . 작동합니다.",
+    "target": "[TGT] 네, 노먼, 버튼만 설명해 주세요. [/TGT]",
+    "next": "Mm . 버튼 하나로 모든 것을 제어할 수 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:10",
+    "timestamp_order": "66-1",
+    "speaker": "Speaker_A",
+    "prev": "작동합니다. 네, 노먼, 버튼만 설명해 주세요.",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "버튼 하나로 모든 것을 제어할 수 있습니다. 위, 아래, 왼쪽, 오른쪽으로 움직이거나 스윙할 수 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:10",
+    "timestamp_order": "67-1",
+    "speaker": "Speaker_B",
+    "prev": "네, 노먼, 버튼만 설명해 주세요. Mm .",
+    "target": "[TGT] 버튼 하나로 모든 것을 제어할 수 있습니다. [/TGT]",
+    "next": "위, 아래, 왼쪽, 오른쪽으로 움직이거나 스윙할 수 있습니다. 왼쪽으로 스윙하거나 오른쪽으로 스윙하면 다른 기능이 정의됩니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:10",
+    "timestamp_order": "68-1",
+    "speaker": "Speaker_B",
+    "prev": "Mm . 버튼 하나로 모든 것을 제어할 수 있습니다.",
+    "target": "[TGT] 위, 아래, 왼쪽, 오른쪽으로 움직이거나 스윙할 수 있습니다. [/TGT]",
+    "next": "왼쪽으로 스윙하거나 오른쪽으로 스윙하면 다른 기능이 정의됩니다. 버튼 하나지만 360도 회전이 가능해서 꽤 유연합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:10",
+    "timestamp_order": "69-1",
+    "speaker": "Speaker_B",
+    "prev": "버튼 하나로 모든 것을 제어할 수 있습니다. 위, 아래, 왼쪽, 오른쪽으로 움직이거나 스윙할 수 있습니다.",
+    "target": "[TGT] 왼쪽으로 스윙하거나 오른쪽으로 스윙하면 다른 기능이 정의됩니다. [/TGT]",
+    "next": "버튼 하나지만 360도 회전이 가능해서 꽤 유연합니다. 네, 맞아요.",
+    "label": null
+  },
+  {
+    "timestamp": "06:10",
+    "timestamp_order": "70-1",
+    "speaker": "Speaker_B",
+    "prev": "위, 아래, 왼쪽, 오른쪽으로 움직이거나 스윙할 수 있습니다. 왼쪽으로 스윙하거나 오른쪽으로 스윙하면 다른 기능이 정의됩니다.",
+    "target": "[TGT] 버튼 하나지만 360도 회전이 가능해서 꽤 유연합니다. [/TGT]",
+    "next": "네, 맞아요. 이건 LCD가 포함된 버전입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:10",
+    "timestamp_order": "71-1",
+    "speaker": "Speaker_B",
+    "prev": "왼쪽으로 스윙하거나 오른쪽으로 스윙하면 다른 기능이 정의됩니다. 버튼 하나지만 360도 회전이 가능해서 꽤 유연합니다.",
+    "target": "[TGT] 네, 맞아요. [/TGT]",
+    "next": "이건 LCD가 포함된 버전입니다. 여기서는 LCD가 없는 다른 버전을 소개합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:10",
+    "timestamp_order": "72-1",
+    "speaker": "Speaker_B",
+    "prev": "버튼 하나지만 360도 회전이 가능해서 꽤 유연합니다. 네, 맞아요.",
+    "target": "[TGT] 이건 LCD가 포함된 버전입니다. [/TGT]",
+    "next": "여기서는 LCD가 없는 다른 버전을 소개합니다. 그리고 LCD는 리모컨에 있는 이거예요?",
+    "label": null
+  },
+  {
+    "timestamp": "06:10",
+    "timestamp_order": "73-1",
+    "speaker": "Speaker_B",
+    "prev": "네, 맞아요. 이건 LCD가 포함된 버전입니다.",
+    "target": "[TGT] 여기서는 LCD가 없는 다른 버전을 소개합니다. [/TGT]",
+    "next": "그리고 LCD는 리모컨에 있는 이거예요? 네.",
+    "label": null
+  },
+  {
+    "timestamp": "06:28",
+    "timestamp_order": "74-1",
+    "speaker": "Speaker_D",
+    "prev": "이건 LCD가 포함된 버전입니다. 여기서는 LCD가 없는 다른 버전을 소개합니다.",
+    "target": "[TGT] 그리고 LCD는 리모컨에 있는 이거예요? [/TGT]",
+    "next": "네. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "06:30",
+    "timestamp_order": "75-1",
+    "speaker": "Speaker_C",
+    "prev": "여기서는 LCD가 없는 다른 버전을 소개합니다. 그리고 LCD는 리모컨에 있는 이거예요?",
+    "target": "[TGT] 네. [/TGT]",
+    "next": "응 . 나는 그것이 좋은 생각이 아니라고 생각한다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:33",
+    "timestamp_order": "76-1",
+    "speaker": "Speaker_D",
+    "prev": "그리고 LCD는 리모컨에 있는 이거예요? 네.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "나는 그것이 좋은 생각이 아니라고 생각한다. 왜냐하면 아마도 1~2개월 후에는",
+    "label": null
+  },
+  {
+    "timestamp": "06:35",
+    "timestamp_order": "77-1",
+    "speaker": "Speaker_A",
+    "prev": "네. 응 .",
+    "target": "[TGT] 나는 그것이 좋은 생각이 아니라고 생각한다. [/TGT]",
+    "next": "왜냐하면 아마도 1~2개월 후에는 Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "06:35",
+    "timestamp_order": "78-1",
+    "speaker": "Speaker_A",
+    "prev": "응 . 나는 그것이 좋은 생각이 아니라고 생각한다.",
+    "target": "[TGT] 왜냐하면 아마도 1~2개월 후에는 [/TGT]",
+    "next": "Mm . 파괴되고 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:40",
+    "timestamp_order": "79-1",
+    "speaker": "Speaker_B",
+    "prev": "나는 그것이 좋은 생각이 아니라고 생각한다. 왜냐하면 아마도 1~2개월 후에는",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "파괴되고 있습니다. 만약 당신이",
+    "label": null
+  },
+  {
+    "timestamp": "06:43",
+    "timestamp_order": "80-1",
+    "speaker": "Speaker_A",
+    "prev": "왜냐하면 아마도 1~2개월 후에는 Mm .",
+    "target": "[TGT] 파괴되고 있습니다. [/TGT]",
+    "next": "만약 당신이 음, 알겠습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:43",
+    "timestamp_order": "81-1",
+    "speaker": "Speaker_A",
+    "prev": "Mm . 파괴되고 있습니다.",
+    "target": "[TGT] 만약 당신이 [/TGT]",
+    "next": "음, 알겠습니다. 이건 새로운 프로토타입이에요.",
+    "label": null
+  },
+  {
+    "timestamp": "06:45",
+    "timestamp_order": "82-1",
+    "speaker": "Speaker_B",
+    "prev": "파괴되고 있습니다. 만약 당신이",
+    "target": "[TGT] 음, 알겠습니다. [/TGT]",
+    "next": "이건 새로운 프로토타입이에요. 두 번째 버전도 버튼 구성이 다릅니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:45",
+    "timestamp_order": "83-1",
+    "speaker": "Speaker_B",
+    "prev": "만약 당신이 음, 알겠습니다.",
+    "target": "[TGT] 이건 새로운 프로토타입이에요. [/TGT]",
+    "next": "두 번째 버전도 버튼 구성이 다릅니다. 두 번째 버전은 더 간단합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:48",
+    "timestamp_order": "84-1",
+    "speaker": "Speaker_C",
+    "prev": "음, 알겠습니다. 이건 새로운 프로토타입이에요.",
+    "target": "[TGT] 두 번째 버전도 버튼 구성이 다릅니다. [/TGT]",
+    "next": "두 번째 버전은 더 간단합니다. 마이크만 추가하면 됩니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:48",
+    "timestamp_order": "85-1",
+    "speaker": "Speaker_C",
+    "prev": "이건 새로운 프로토타입이에요. 두 번째 버전도 버튼 구성이 다릅니다.",
+    "target": "[TGT] 두 번째 버전은 더 간단합니다. [/TGT]",
+    "next": "마이크만 추가하면 됩니다. 기본적으로는 이전 버전과 같습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:48",
+    "timestamp_order": "86-1",
+    "speaker": "Speaker_C",
+    "prev": "두 번째 버전도 버튼 구성이 다릅니다. 두 번째 버전은 더 간단합니다.",
+    "target": "[TGT] 마이크만 추가하면 됩니다. [/TGT]",
+    "next": "기본적으로는 이전 버전과 같습니다. 하지만 여기에는 탐색 버튼이 네 개 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:48",
+    "timestamp_order": "87-1",
+    "speaker": "Speaker_C",
+    "prev": "두 번째 버전은 더 간단합니다. 마이크만 추가하면 됩니다.",
+    "target": "[TGT] 기본적으로는 이전 버전과 같습니다. [/TGT]",
+    "next": "하지만 여기에는 탐색 버튼이 네 개 있습니다. 한 버튼을 누르면 엔터 버튼 역할을 합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:48",
+    "timestamp_order": "88-1",
+    "speaker": "Speaker_C",
+    "prev": "마이크만 추가하면 됩니다. 기본적으로는 이전 버전과 같습니다.",
+    "target": "[TGT] 하지만 여기에는 탐색 버튼이 네 개 있습니다. [/TGT]",
+    "next": "한 버튼을 누르면 엔터 버튼 역할을 합니다. 말씀하신 대로 사용자에게 더 안정적인 기능을 제공합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:48",
+    "timestamp_order": "89-1",
+    "speaker": "Speaker_C",
+    "prev": "기본적으로는 이전 버전과 같습니다. 하지만 여기에는 탐색 버튼이 네 개 있습니다.",
+    "target": "[TGT] 한 버튼을 누르면 엔터 버튼 역할을 합니다. [/TGT]",
+    "next": "말씀하신 대로 사용자에게 더 안정적인 기능을 제공합니다. 좋아요, 다음 슬라이드로 넘어가면 최신 패션 업데이트를 볼 수 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "06:48",
+    "timestamp_order": "90-1",
+    "speaker": "Speaker_C",
+    "prev": "하지만 여기에는 탐색 버튼이 네 개 있습니다. 한 버튼을 누르면 엔터 버튼 역할을 합니다.",
+    "target": "[TGT] 말씀하신 대로 사용자에게 더 안정적인 기능을 제공합니다. [/TGT]",
+    "next": "좋아요, 다음 슬라이드로 넘어가면 최신 패션 업데이트를 볼 수 있습니다. 파리와 밀라노에서는 이러한 트렌드를 감지하여 올해는 과일과 채소의 해가 될 것이라고 합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "16:12",
+    "timestamp_order": "91-1",
+    "speaker": "Speaker_D",
+    "prev": "한 버튼을 누르면 엔터 버튼 역할을 합니다. 말씀하신 대로 사용자에게 더 안정적인 기능을 제공합니다.",
+    "target": "[TGT] 좋아요, 다음 슬라이드로 넘어가면 최신 패션 업데이트를 볼 수 있습니다. [/TGT]",
+    "next": "파리와 밀라노에서는 이러한 트렌드를 감지하여 올해는 과일과 채소의 해가 될 것이라고 합니다. 사람들은 과일이나 채소 모양의 리모컨이 있는지, 아니면 자신이 좋아하는 모양이 있는지에 관심이 많습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "16:12",
+    "timestamp_order": "92-1",
+    "speaker": "Speaker_D",
+    "prev": "말씀하신 대로 사용자에게 더 안정적인 기능을 제공합니다. 좋아요, 다음 슬라이드로 넘어가면 최신 패션 업데이트를 볼 수 있습니다.",
+    "target": "[TGT] 파리와 밀라노에서는 이러한 트렌드를 감지하여 올해는 과일과 채소의 해가 될 것이라고 합니다. [/TGT]",
+    "next": "사람들은 과일이나 채소 모양의 리모컨이 있는지, 아니면 자신이 좋아하는 모양이 있는지에 관심이 많습니다. 스펀지 스펀지.",
+    "label": null
+  },
+  {
+    "timestamp": "16:12",
+    "timestamp_order": "93-1",
+    "speaker": "Speaker_D",
+    "prev": "좋아요, 다음 슬라이드로 넘어가면 최신 패션 업데이트를 볼 수 있습니다. 파리와 밀라노에서는 이러한 트렌드를 감지하여 올해는 과일과 채소의 해가 될 것이라고 합니다.",
+    "target": "[TGT] 사람들은 과일이나 채소 모양의 리모컨이 있는지, 아니면 자신이 좋아하는 모양이 있는지에 관심이 많습니다. [/TGT]",
+    "next": "스펀지 스펀지. 음 음.",
+    "label": null
+  },
+  {
+    "timestamp": "16:32",
+    "timestamp_order": "94-1",
+    "speaker": "Speaker_B",
+    "prev": "파리와 밀라노에서는 이러한 트렌드를 감지하여 올해는 과일과 채소의 해가 될 것이라고 합니다. 사람들은 과일이나 채소 모양의 리모컨이 있는지, 아니면 자신이 좋아하는 모양이 있는지에 관심이 많습니다.",
+    "target": "[TGT] 스펀지 스펀지. [/TGT]",
+    "next": "음 음. 그래서 저는 다양한 모양을 만들 수 있도록 훨씬 더 맞춤 제작되어야 한다고 생각합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "16:37",
+    "timestamp_order": "95-1",
+    "speaker": "Speaker_B",
+    "prev": "사람들은 과일이나 채소 모양의 리모컨이 있는지, 아니면 자신이 좋아하는 모양이 있는지에 관심이 많습니다. 스펀지 스펀지.",
+    "target": "[TGT] 음 음. [/TGT]",
+    "next": "그래서 저는 다양한 모양을 만들 수 있도록 훨씬 더 맞춤 제작되어야 한다고 생각합니다. 그리고 두 번째로, 만약 소재가 너무 딱딱하면 안 됩니다.",
+    "label": null
+  },
+  {
+    "timestamp": "16:39",
+    "timestamp_order": "96-1",
+    "speaker": "Speaker_D",
+    "prev": "스펀지 스펀지. 음 음.",
+    "target": "[TGT] 그래서 저는 다양한 모양을 만들 수 있도록 훨씬 더 맞춤 제작되어야 한다고 생각합니다. [/TGT]",
+    "next": "그리고 두 번째로, 만약 소재가 너무 딱딱하면 안 됩니다. 아주 가벼운 플라스틱이나 티타늄처럼요.",
+    "label": null
+  },
+  {
+    "timestamp": "16:39",
+    "timestamp_order": "97-1",
+    "speaker": "Speaker_D",
+    "prev": "음 음. 그래서 저는 다양한 모양을 만들 수 있도록 훨씬 더 맞춤 제작되어야 한다고 생각합니다.",
+    "target": "[TGT] 그리고 두 번째로, 만약 소재가 너무 딱딱하면 안 됩니다. [/TGT]",
+    "next": "아주 가벼운 플라스틱이나 티타늄처럼요. 오히려 스펀지처럼 부드러워야 합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "16:39",
+    "timestamp_order": "98-1",
+    "speaker": "Speaker_D",
+    "prev": "그래서 저는 다양한 모양을 만들 수 있도록 훨씬 더 맞춤 제작되어야 한다고 생각합니다. 그리고 두 번째로, 만약 소재가 너무 딱딱하면 안 됩니다.",
+    "target": "[TGT] 아주 가벼운 플라스틱이나 티타늄처럼요. [/TGT]",
+    "next": "오히려 스펀지처럼 부드러워야 합니다. 음 음.",
+    "label": null
+  },
+  {
+    "timestamp": "16:39",
+    "timestamp_order": "99-1",
+    "speaker": "Speaker_D",
+    "prev": "그리고 두 번째로, 만약 소재가 너무 딱딱하면 안 됩니다. 아주 가벼운 플라스틱이나 티타늄처럼요.",
+    "target": "[TGT] 오히려 스펀지처럼 부드러워야 합니다. [/TGT]",
+    "next": "음 음. 좋아요 .",
+    "label": null
+  },
+  {
+    "timestamp": "16:43",
+    "timestamp_order": "100-1",
+    "speaker": "Speaker_B",
+    "prev": "아주 가벼운 플라스틱이나 티타늄처럼요. 오히려 스펀지처럼 부드러워야 합니다.",
+    "target": "[TGT] 음 음. [/TGT]",
+    "next": "좋아요 . 하지만 문제는 그것이 잘못 취급되어도 튼튼한가 하는 점입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "16:58",
+    "timestamp_order": "101-1",
+    "speaker": "Speaker_C",
+    "prev": "오히려 스펀지처럼 부드러워야 합니다. 음 음.",
+    "target": "[TGT] 좋아요 . [/TGT]",
+    "next": "하지만 문제는 그것이 잘못 취급되어도 튼튼한가 하는 점입니다. 하나 .",
+    "label": null
+  },
+  {
+    "timestamp": "16:58",
+    "timestamp_order": "102-1",
+    "speaker": "Speaker_B",
+    "prev": "음 음. 좋아요 .",
+    "target": "[TGT] 하지만 문제는 그것이 잘못 취급되어도 튼튼한가 하는 점입니다. [/TGT]",
+    "next": "하나 . 우리는 견고하면서도 스펀지 같은 소재를 찾아야 합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "17:05",
+    "timestamp_order": "103-1",
+    "speaker": "Speaker_D",
+    "prev": "좋아요 . 하지만 문제는 그것이 잘못 취급되어도 튼튼한가 하는 점입니다.",
+    "target": "[TGT] 하나 . [/TGT]",
+    "next": "우리는 견고하면서도 스펀지 같은 소재를 찾아야 합니다. 스펀지 같은.",
+    "label": null
+  },
+  {
+    "timestamp": "17:06",
+    "timestamp_order": "104-1",
+    "speaker": "Speaker_B",
+    "prev": "하지만 문제는 그것이 잘못 취급되어도 튼튼한가 하는 점입니다. 하나 .",
+    "target": "[TGT] 우리는 견고하면서도 스펀지 같은 소재를 찾아야 합니다. [/TGT]",
+    "next": "스펀지 같은. 네, 그럼 음, 드디어 세 가지 기준이 생겼네요.",
+    "label": null
+  },
+  {
+    "timestamp": "17:06",
+    "timestamp_order": "105-1",
+    "speaker": "Speaker_B",
+    "prev": "하나 . 우리는 견고하면서도 스펀지 같은 소재를 찾아야 합니다.",
+    "target": "[TGT] 스펀지 같은. [/TGT]",
+    "next": "네, 그럼 음, 드디어 세 가지 기준이 생겼네요. 하나는 멋진 디자인이고, 두 번째는",
+    "label": null
+  },
+  {
+    "timestamp": "17:11",
+    "timestamp_order": "106-1",
+    "speaker": "Speaker_D",
+    "prev": "우리는 견고하면서도 스펀지 같은 소재를 찾아야 합니다. 스펀지 같은.",
+    "target": "[TGT] 네, 그럼 음, 드디어 세 가지 기준이 생겼네요. [/TGT]",
+    "next": "하나는 멋진 디자인이고, 두 번째는 혁신적이고, 세 번째는 사용하기 쉽다는 것입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "17:11",
+    "timestamp_order": "107-1",
+    "speaker": "Speaker_D",
+    "prev": "스펀지 같은. 네, 그럼 음, 드디어 세 가지 기준이 생겼네요.",
+    "target": "[TGT] 하나는 멋진 디자인이고, 두 번째는 [/TGT]",
+    "next": "혁신적이고, 세 번째는 사용하기 쉽다는 것입니다. 음-음.",
+    "label": null
+  },
+  {
+    "timestamp": "17:24",
+    "timestamp_order": "108-1",
+    "speaker": "Speaker_D",
+    "prev": "네, 그럼 음, 드디어 세 가지 기준이 생겼네요. 하나는 멋진 디자인이고, 두 번째는",
+    "target": "[TGT] 혁신적이고, 세 번째는 사용하기 쉽다는 것입니다. [/TGT]",
+    "next": "음-음. 흠 .",
+    "label": null
+  },
+  {
+    "timestamp": "17:38",
+    "timestamp_order": "109-1",
+    "speaker": "Speaker_B",
+    "prev": "하나는 멋진 디자인이고, 두 번째는 혁신적이고, 세 번째는 사용하기 쉽다는 것입니다.",
+    "target": "[TGT] 음-음. [/TGT]",
+    "next": "흠 . 1에서 7까지, 그리고 각 제품에 대해 이에 따른 척도를 알려주시면 감사하겠습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "17:39",
+    "timestamp_order": "110-1",
+    "speaker": "Speaker_C",
+    "prev": "혁신적이고, 세 번째는 사용하기 쉽다는 것입니다. 음-음.",
+    "target": "[TGT] 흠 . [/TGT]",
+    "next": "1에서 7까지, 그리고 각 제품에 대해 이에 따른 척도를 알려주시면 감사하겠습니다. 음-음.",
+    "label": null
+  },
+  {
+    "timestamp": "17:49",
+    "timestamp_order": "111-1",
+    "speaker": "Speaker_D",
+    "prev": "음-음. 흠 .",
+    "target": "[TGT] 1에서 7까지, 그리고 각 제품에 대해 이에 따른 척도를 알려주시면 감사하겠습니다. [/TGT]",
+    "next": "음-음. Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "17:51",
+    "timestamp_order": "112-1",
+    "speaker": "Speaker_B",
+    "prev": "흠 . 1에서 7까지, 그리고 각 제품에 대해 이에 따른 척도를 알려주시면 감사하겠습니다.",
+    "target": "[TGT] 음-음. [/TGT]",
+    "next": "Mm . 이제 LCD가 있는 경우와 LCD가 없는 경우가 있으므로 이 규모에서 이것이 사실이라면,",
+    "label": null
+  },
+  {
+    "timestamp": "17:57",
+    "timestamp_order": "113-1",
+    "speaker": "Speaker_B",
+    "prev": "1에서 7까지, 그리고 각 제품에 대해 이에 따른 척도를 알려주시면 감사하겠습니다. 음-음.",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "이제 LCD가 있는 경우와 LCD가 없는 경우가 있으므로 이 규모에서 이것이 사실이라면, Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "17:58",
+    "timestamp_order": "114-1",
+    "speaker": "Speaker_D",
+    "prev": "음-음. Mm .",
+    "target": "[TGT] 이제 LCD가 있는 경우와 LCD가 없는 경우가 있으므로 이 규모에서 이것이 사실이라면, [/TGT]",
+    "next": "Mm . 아니요, 우리는 지금 두 가지 제품을 디자인했습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "18:01",
+    "timestamp_order": "115-1",
+    "speaker": "Speaker_B",
+    "prev": "Mm . 이제 LCD가 있는 경우와 LCD가 없는 경우가 있으므로 이 규모에서 이것이 사실이라면,",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "아니요, 우리는 지금 두 가지 제품을 디자인했습니다. 하나는 LCD가 있는 것이고 다른 하나는 LCD가 없는 것입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "18:26",
+    "timestamp_order": "116-1",
+    "speaker": "Speaker_D",
+    "prev": "이제 LCD가 있는 경우와 LCD가 없는 경우가 있으므로 이 규모에서 이것이 사실이라면, Mm .",
+    "target": "[TGT] 아니요, 우리는 지금 두 가지 제품을 디자인했습니다. [/TGT]",
+    "next": "하나는 LCD가 있는 것이고 다른 하나는 LCD가 없는 것입니다. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "18:26",
+    "timestamp_order": "117-1",
+    "speaker": "Speaker_D",
+    "prev": "Mm . 아니요, 우리는 지금 두 가지 제품을 디자인했습니다.",
+    "target": "[TGT] 하나는 LCD가 있는 것이고 다른 하나는 LCD가 없는 것입니다. [/TGT]",
+    "next": "응 . 응, 그리고 스위치도요.",
+    "label": null
+  },
+  {
+    "timestamp": "18:29",
+    "timestamp_order": "118-1",
+    "speaker": "Speaker_A",
+    "prev": "아니요, 우리는 지금 두 가지 제품을 디자인했습니다. 하나는 LCD가 있는 것이고 다른 하나는 LCD가 없는 것입니다.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "응, 그리고 스위치도요. 알았어요.",
+    "label": null
+  },
+  {
+    "timestamp": "07:05",
+    "timestamp_order": "119-1",
+    "speaker": "Speaker_D",
+    "prev": "하나는 LCD가 있는 것이고 다른 하나는 LCD가 없는 것입니다. 응 .",
+    "target": "[TGT] 응, 그리고 스위치도요. [/TGT]",
+    "next": "알았어요. 음-음.",
+    "label": null
+  },
+  {
+    "timestamp": "07:05",
+    "timestamp_order": "120-1",
+    "speaker": "Speaker_D",
+    "prev": "응 . 응, 그리고 스위치도요.",
+    "target": "[TGT] 알았어요. [/TGT]",
+    "next": "음-음. 음-음.",
+    "label": null
+  },
+  {
+    "timestamp": "07:26",
+    "timestamp_order": "121-1",
+    "speaker": "Speaker_D",
+    "prev": "응, 그리고 스위치도요. 알았어요.",
+    "target": "[TGT] 음-음. [/TGT]",
+    "next": "음-음. 네, 음성 인식 시스템에 내장되어 있어요.",
+    "label": null
+  },
+  {
+    "timestamp": "07:26",
+    "timestamp_order": "122-1",
+    "speaker": "Speaker_A",
+    "prev": "알았어요. 음-음.",
+    "target": "[TGT] 음-음. [/TGT]",
+    "next": "네, 음성 인식 시스템에 내장되어 있어요. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "07:46",
+    "timestamp_order": "123-1",
+    "speaker": "Speaker_C",
+    "prev": "음-음. 음-음.",
+    "target": "[TGT] 네, 음성 인식 시스템에 내장되어 있어요. [/TGT]",
+    "next": "응 . 알겠습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "07:49",
+    "timestamp_order": "124-1",
+    "speaker": "Speaker_B",
+    "prev": "음-음. 네, 음성 인식 시스템에 내장되어 있어요.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "알겠습니다. 음성 인식 시스템을 비활성화하면 어떻게 되나요?",
+    "label": null
+  },
+  {
+    "timestamp": "07:51",
+    "timestamp_order": "125-1",
+    "speaker": "Speaker_D",
+    "prev": "네, 음성 인식 시스템에 내장되어 있어요. 응 .",
+    "target": "[TGT] 알겠습니다. [/TGT]",
+    "next": "음성 인식 시스템을 비활성화하면 어떻게 되나요? 그 점에 대해서는 나중에 다시 이야기하겠습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "07:51",
+    "timestamp_order": "126-1",
+    "speaker": "Speaker_D",
+    "prev": "응 . 알겠습니다.",
+    "target": "[TGT] 음성 인식 시스템을 비활성화하면 어떻게 되나요? [/TGT]",
+    "next": "그 점에 대해서는 나중에 다시 이야기하겠습니다. 음 음 음 음 음 음 음.",
+    "label": null
+  },
+  {
+    "timestamp": "07:55",
+    "timestamp_order": "127-1",
+    "speaker": "Speaker_B",
+    "prev": "알겠습니다. 음성 인식 시스템을 비활성화하면 어떻게 되나요?",
+    "target": "[TGT] 그 점에 대해서는 나중에 다시 이야기하겠습니다. [/TGT]",
+    "next": "음 음 음 음 음 음 음. 그러면 우리는 이걸 충전기에 넣어서 서비스할 건가요?",
+    "label": null
+  },
+  {
+    "timestamp": "07:57",
+    "timestamp_order": "128-1",
+    "speaker": "Speaker_D",
+    "prev": "음성 인식 시스템을 비활성화하면 어떻게 되나요? 그 점에 대해서는 나중에 다시 이야기하겠습니다.",
+    "target": "[TGT] 음 음 음 음 음 음 음. [/TGT]",
+    "next": "그러면 우리는 이걸 충전기에 넣어서 서비스할 건가요? 좋아요 .",
+    "label": null
+  },
+  {
+    "timestamp": "07:59",
+    "timestamp_order": "129-1",
+    "speaker": "Speaker_A",
+    "prev": "그 점에 대해서는 나중에 다시 이야기하겠습니다. 음 음 음 음 음 음 음.",
+    "target": "[TGT] 그러면 우리는 이걸 충전기에 넣어서 서비스할 건가요? [/TGT]",
+    "next": "좋아요 . 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "08:00",
+    "timestamp_order": "130-1",
+    "speaker": "Speaker_D",
+    "prev": "음 음 음 음 음 음 음. 그러면 우리는 이걸 충전기에 넣어서 서비스할 건가요?",
+    "target": "[TGT] 좋아요 . [/TGT]",
+    "next": "응 . 네 네 물론이죠.",
+    "label": null
+  },
+  {
+    "timestamp": "08:00",
+    "timestamp_order": "131-1",
+    "speaker": "Speaker_B",
+    "prev": "그러면 우리는 이걸 충전기에 넣어서 서비스할 건가요? 좋아요 .",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "네 네 물론이죠. 두 버전 모두 충전기가 있어서 같은 충전기를 사용합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "08:03",
+    "timestamp_order": "132-1",
+    "speaker": "Speaker_C",
+    "prev": "좋아요 . 응 .",
+    "target": "[TGT] 네 네 물론이죠. [/TGT]",
+    "next": "두 버전 모두 충전기가 있어서 같은 충전기를 사용합니다. 리모컨으로.",
+    "label": null
+  },
+  {
+    "timestamp": "08:04",
+    "timestamp_order": "133-1",
+    "speaker": "Speaker_B",
+    "prev": "응 . 네 네 물론이죠.",
+    "target": "[TGT] 두 버전 모두 충전기가 있어서 같은 충전기를 사용합니다. [/TGT]",
+    "next": "리모컨으로. 그렇죠.",
+    "label": null
+  },
+  {
+    "timestamp": "08:04",
+    "timestamp_order": "134-1",
+    "speaker": "Speaker_A",
+    "prev": "네 네 물론이죠. 두 버전 모두 충전기가 있어서 같은 충전기를 사용합니다.",
+    "target": "[TGT] 리모컨으로. [/TGT]",
+    "next": "그렇죠. 하지만 마케팅 매니저가 말했듯이 사람들은 좋은 디자인을 위해 더 많은 돈을 지불할 의향이 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "08:38",
+    "timestamp_order": "135-1",
+    "speaker": "Speaker_B",
+    "prev": "두 버전 모두 충전기가 있어서 같은 충전기를 사용합니다. 리모컨으로.",
+    "target": "[TGT] 그렇죠. [/TGT]",
+    "next": "하지만 마케팅 매니저가 말했듯이 사람들은 좋은 디자인을 위해 더 많은 돈을 지불할 의향이 있습니다. 네, 사람들은 더 많은 비용을 지불할 의향이 있지만, 회사는 현재로선 더 많은 투자를 하려고 하지 않습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "08:38",
+    "timestamp_order": "136-1",
+    "speaker": "Speaker_B",
+    "prev": "리모컨으로. 그렇죠.",
+    "target": "[TGT] 하지만 마케팅 매니저가 말했듯이 사람들은 좋은 디자인을 위해 더 많은 돈을 지불할 의향이 있습니다. [/TGT]",
+    "next": "네, 사람들은 더 많은 비용을 지불할 의향이 있지만, 회사는 현재로선 더 많은 투자를 하려고 하지 않습니다. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "08:46",
+    "timestamp_order": "137-1",
+    "speaker": "Speaker_D",
+    "prev": "그렇죠. 하지만 마케팅 매니저가 말했듯이 사람들은 좋은 디자인을 위해 더 많은 돈을 지불할 의향이 있습니다.",
+    "target": "[TGT] 네, 사람들은 더 많은 비용을 지불할 의향이 있지만, 회사는 현재로선 더 많은 투자를 하려고 하지 않습니다. [/TGT]",
+    "next": "응 . 판매 가격은 25유로입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "08:50",
+    "timestamp_order": "138-1",
+    "speaker": "Speaker_B",
+    "prev": "하지만 마케팅 매니저가 말했듯이 사람들은 좋은 디자인을 위해 더 많은 돈을 지불할 의향이 있습니다. 네, 사람들은 더 많은 비용을 지불할 의향이 있지만, 회사는 현재로선 더 많은 투자를 하려고 하지 않습니다.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "판매 가격은 25유로입니다. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "08:51",
+    "timestamp_order": "139-1",
+    "speaker": "Speaker_A",
+    "prev": "네, 사람들은 더 많은 비용을 지불할 의향이 있지만, 회사는 현재로선 더 많은 투자를 하려고 하지 않습니다. 응 .",
+    "target": "[TGT] 판매 가격은 25유로입니다. [/TGT]",
+    "next": "응 . 음-음.",
+    "label": null
+  },
+  {
+    "timestamp": "08:52",
+    "timestamp_order": "140-1",
+    "speaker": "Speaker_B",
+    "prev": "응 . 판매 가격은 25유로입니다.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "음-음. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "08:54",
+    "timestamp_order": "141-1",
+    "speaker": "Speaker_B",
+    "prev": "판매 가격은 25유로입니다. 응 .",
+    "target": "[TGT] 음-음. [/TGT]",
+    "next": "응 . 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "18:30",
+    "timestamp_order": "142-1",
+    "speaker": "Speaker_C",
+    "prev": "응 . 음-음.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "응 . 하지만 누가 점수를 매길까요?",
+    "label": null
+  },
+  {
+    "timestamp": "18:30",
+    "timestamp_order": "143-1",
+    "speaker": "Speaker_B",
+    "prev": "음-음. 응 .",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "하지만 누가 점수를 매길까요? 우리 자신이나 제3자가?",
+    "label": null
+  },
+  {
+    "timestamp": "18:32",
+    "timestamp_order": "144-1",
+    "speaker": "Speaker_B",
+    "prev": "응 . 응 .",
+    "target": "[TGT] 하지만 누가 점수를 매길까요? [/TGT]",
+    "next": "우리 자신이나 제3자가? 너 .",
+    "label": null
+  },
+  {
+    "timestamp": "18:32",
+    "timestamp_order": "145-1",
+    "speaker": "Speaker_B",
+    "prev": "응 . 하지만 누가 점수를 매길까요?",
+    "target": "[TGT] 우리 자신이나 제3자가? [/TGT]",
+    "next": "너 . 여러분의 생각에, 디자이너의 생각에 LCD가 있고 없고가 다를 때 어떤 느낌이 들까요?",
+    "label": null
+  },
+  {
+    "timestamp": "18:35",
+    "timestamp_order": "146-1",
+    "speaker": "Speaker_A",
+    "prev": "하지만 누가 점수를 매길까요? 우리 자신이나 제3자가?",
+    "target": "[TGT] 너 . [/TGT]",
+    "next": "여러분의 생각에, 디자이너의 생각에 LCD가 있고 없고가 다를 때 어떤 느낌이 들까요? Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "18:35",
+    "timestamp_order": "147-1",
+    "speaker": "Speaker_D",
+    "prev": "우리 자신이나 제3자가? 너 .",
+    "target": "[TGT] 여러분의 생각에, 디자이너의 생각에 LCD가 있고 없고가 다를 때 어떤 느낌이 들까요? [/TGT]",
+    "next": "Mm . 좋습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "18:42",
+    "timestamp_order": "148-1",
+    "speaker": "Speaker_B",
+    "prev": "너 . 여러분의 생각에, 디자이너의 생각에 LCD가 있고 없고가 다를 때 어떤 느낌이 들까요?",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "좋습니다. L을 만들고 LCD는 빼도록 하죠.",
+    "label": null
+  },
+  {
+    "timestamp": "18:45",
+    "timestamp_order": "149-1",
+    "speaker": "Speaker_D",
+    "prev": "여러분의 생각에, 디자이너의 생각에 LCD가 있고 없고가 다를 때 어떤 느낌이 들까요? Mm .",
+    "target": "[TGT] 좋습니다. [/TGT]",
+    "next": "L을 만들고 LCD는 빼도록 하죠. 이 스케일에서는 LCD 리모컨이 어때요?",
+    "label": null
+  },
+  {
+    "timestamp": "18:45",
+    "timestamp_order": "150-1",
+    "speaker": "Speaker_D",
+    "prev": "Mm . 좋습니다.",
+    "target": "[TGT] L을 만들고 LCD는 빼도록 하죠. [/TGT]",
+    "next": "이 스케일에서는 LCD 리모컨이 어때요? 어떻게 보이세요?",
+    "label": null
+  },
+  {
+    "timestamp": "18:51",
+    "timestamp_order": "151-1",
+    "speaker": "Speaker_D",
+    "prev": "좋습니다. L을 만들고 LCD는 빼도록 하죠.",
+    "target": "[TGT] 이 스케일에서는 LCD 리모컨이 어때요? [/TGT]",
+    "next": "어떻게 보이세요? D 아주 멋진가요, 아니면 별로 멋진 게 아니에요?",
+    "label": null
+  },
+  {
+    "timestamp": "18:51",
+    "timestamp_order": "152-1",
+    "speaker": "Speaker_D",
+    "prev": "L을 만들고 LCD는 빼도록 하죠. 이 스케일에서는 LCD 리모컨이 어때요?",
+    "target": "[TGT] 어떻게 보이세요? [/TGT]",
+    "next": "D 아주 멋진가요, 아니면 별로 멋진 게 아니에요? Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "18:51",
+    "timestamp_order": "153-1",
+    "speaker": "Speaker_D",
+    "prev": "이 스케일에서는 LCD 리모컨이 어때요? 어떻게 보이세요?",
+    "target": "[TGT] D 아주 멋진가요, 아니면 별로 멋진 게 아니에요? [/TGT]",
+    "next": "Mm . Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "18:53",
+    "timestamp_order": "154-1",
+    "speaker": "Speaker_B",
+    "prev": "어떻게 보이세요? D 아주 멋진가요, 아니면 별로 멋진 게 아니에요?",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "Mm . 글쎄, 별로 특별해 보이지는 않아요.",
+    "label": null
+  },
+  {
+    "timestamp": "18:55",
+    "timestamp_order": "155-1",
+    "speaker": "Speaker_B",
+    "prev": "D 아주 멋진가요, 아니면 별로 멋진 게 아니에요? Mm .",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "글쎄, 별로 특별해 보이지는 않아요. 세 개나 네 개 정도 될 것 같아요.",
+    "label": null
+  },
+  {
+    "timestamp": "19:01",
+    "timestamp_order": "156-1",
+    "speaker": "Speaker_C",
+    "prev": "Mm . Mm .",
+    "target": "[TGT] 글쎄, 별로 특별해 보이지는 않아요. [/TGT]",
+    "next": "세 개나 네 개 정도 될 것 같아요. 두 분 다 그것에 동의하시나요?",
+    "label": null
+  },
+  {
+    "timestamp": "19:01",
+    "timestamp_order": "157-1",
+    "speaker": "Speaker_C",
+    "prev": "Mm . 글쎄, 별로 특별해 보이지는 않아요.",
+    "target": "[TGT] 세 개나 네 개 정도 될 것 같아요. [/TGT]",
+    "next": "두 분 다 그것에 동의하시나요? 당신은요 ?",
+    "label": null
+  },
+  {
+    "timestamp": "19:06",
+    "timestamp_order": "158-1",
+    "speaker": "Speaker_D",
+    "prev": "글쎄, 별로 특별해 보이지는 않아요. 세 개나 네 개 정도 될 것 같아요.",
+    "target": "[TGT] 두 분 다 그것에 동의하시나요? [/TGT]",
+    "next": "당신은요 ? 기술적 측면.",
+    "label": null
+  },
+  {
+    "timestamp": "19:08",
+    "timestamp_order": "159-1",
+    "speaker": "Speaker_A",
+    "prev": "세 개나 네 개 정도 될 것 같아요. 두 분 다 그것에 동의하시나요?",
+    "target": "[TGT] 당신은요 ? [/TGT]",
+    "next": "기술적 측면. 음-음.",
+    "label": null
+  },
+  {
+    "timestamp": "19:25",
+    "timestamp_order": "160-1",
+    "speaker": "Speaker_C",
+    "prev": "두 분 다 그것에 동의하시나요? 당신은요 ?",
+    "target": "[TGT] 기술적 측면. [/TGT]",
+    "next": "음-음. 그럼 LCD로 3개를 가져가나요?",
+    "label": null
+  },
+  {
+    "timestamp": "19:30",
+    "timestamp_order": "161-1",
+    "speaker": "Speaker_A",
+    "prev": "당신은요 ? 기술적 측면.",
+    "target": "[TGT] 음-음. [/TGT]",
+    "next": "그럼 LCD로 3개를 가져가나요? LCD 없이는 어떻게 평가하시겠어요?",
+    "label": null
+  },
+  {
+    "timestamp": "19:32",
+    "timestamp_order": "162-1",
+    "speaker": "Speaker_D",
+    "prev": "기술적 측면. 음-음.",
+    "target": "[TGT] 그럼 LCD로 3개를 가져가나요? [/TGT]",
+    "next": "LCD 없이는 어떻게 평가하시겠어요? 네, 3개요.",
+    "label": null
+  },
+  {
+    "timestamp": "19:32",
+    "timestamp_order": "163-1",
+    "speaker": "Speaker_D",
+    "prev": "음-음. 그럼 LCD로 3개를 가져가나요?",
+    "target": "[TGT] LCD 없이는 어떻게 평가하시겠어요? [/TGT]",
+    "next": "네, 3개요. 네.",
+    "label": null
+  },
+  {
+    "timestamp": "19:33",
+    "timestamp_order": "164-1",
+    "speaker": "Speaker_C",
+    "prev": "그럼 LCD로 3개를 가져가나요? LCD 없이는 어떻게 평가하시겠어요?",
+    "target": "[TGT] 네, 3개요. [/TGT]",
+    "next": "네. 복잡하지 않을 때 멋진 것들을 만드는 게 더 쉬운 것 같아요.",
+    "label": null
+  },
+  {
+    "timestamp": "19:38",
+    "timestamp_order": "165-1",
+    "speaker": "Speaker_C",
+    "prev": "LCD 없이는 어떻게 평가하시겠어요? 네, 3개요.",
+    "target": "[TGT] 네. [/TGT]",
+    "next": "복잡하지 않을 때 멋진 것들을 만드는 게 더 쉬운 것 같아요. 네 개.",
+    "label": null
+  },
+  {
+    "timestamp": "19:38",
+    "timestamp_order": "166-1",
+    "speaker": "Speaker_C",
+    "prev": "네, 3개요. 네.",
+    "target": "[TGT] 복잡하지 않을 때 멋진 것들을 만드는 게 더 쉬운 것 같아요. [/TGT]",
+    "next": "네 개. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "19:39",
+    "timestamp_order": "167-1",
+    "speaker": "Speaker_D",
+    "prev": "네. 복잡하지 않을 때 멋진 것들을 만드는 게 더 쉬운 것 같아요.",
+    "target": "[TGT] 네 개. [/TGT]",
+    "next": "응 . 음-음.",
+    "label": null
+  },
+  {
+    "timestamp": "19:46",
+    "timestamp_order": "168-1",
+    "speaker": "Speaker_B",
+    "prev": "복잡하지 않을 때 멋진 것들을 만드는 게 더 쉬운 것 같아요. 네 개.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "음-음. 아니면 6이 되기를 원하시나요?",
+    "label": null
+  },
+  {
+    "timestamp": "25:09",
+    "timestamp_order": "169-1",
+    "speaker": "Speaker_A",
+    "prev": "네 개. 응 .",
+    "target": "[TGT] 음-음. [/TGT]",
+    "next": "아니면 6이 되기를 원하시나요? 여섯 개.",
+    "label": null
+  },
+  {
+    "timestamp": "25:09",
+    "timestamp_order": "170-1",
+    "speaker": "Speaker_D",
+    "prev": "응 . 음-음.",
+    "target": "[TGT] 아니면 6이 되기를 원하시나요? [/TGT]",
+    "next": "여섯 개. 나는 그것이 같다고 생각한다.",
+    "label": null
+  },
+  {
+    "timestamp": "25:11",
+    "timestamp_order": "171-1",
+    "speaker": "Speaker_C",
+    "prev": "음-음. 아니면 6이 되기를 원하시나요?",
+    "target": "[TGT] 여섯 개. [/TGT]",
+    "next": "나는 그것이 같다고 생각한다. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "25:12",
+    "timestamp_order": "172-1",
+    "speaker": "Speaker_B",
+    "prev": "아니면 6이 되기를 원하시나요? 여섯 개.",
+    "target": "[TGT] 나는 그것이 같다고 생각한다. [/TGT]",
+    "next": "응 . 네, 말씀하신 대로, 더 나은 방향으로요.",
+    "label": null
+  },
+  {
+    "timestamp": "25:14",
+    "timestamp_order": "173-1",
+    "speaker": "Speaker_B",
+    "prev": "여섯 개. 나는 그것이 같다고 생각한다.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "네, 말씀하신 대로, 더 나은 방향으로요. LCD 없이.",
+    "label": null
+  },
+  {
+    "timestamp": "25:15",
+    "timestamp_order": "174-1",
+    "speaker": "Speaker_C",
+    "prev": "나는 그것이 같다고 생각한다. 응 .",
+    "target": "[TGT] 네, 말씀하신 대로, 더 나은 방향으로요. [/TGT]",
+    "next": "LCD 없이. S s 오 저는 LCD 없이 이게 더 낫다고 생각해요.",
+    "label": null
+  },
+  {
+    "timestamp": "25:18",
+    "timestamp_order": "175-1",
+    "speaker": "Speaker_A",
+    "prev": "응 . 네, 말씀하신 대로, 더 나은 방향으로요.",
+    "target": "[TGT] LCD 없이. [/TGT]",
+    "next": "S s 오 저는 LCD 없이 이게 더 낫다고 생각해요. 그리고 모양을 개선하려면.",
+    "label": null
+  },
+  {
+    "timestamp": "25:18",
+    "timestamp_order": "176-1",
+    "speaker": "Speaker_D",
+    "prev": "네, 말씀하신 대로, 더 나은 방향으로요. LCD 없이.",
+    "target": "[TGT] S s 오 저는 LCD 없이 이게 더 낫다고 생각해요. [/TGT]",
+    "next": "그리고 모양을 개선하려면. 프로그램 관리자의 프로 프로젝트 매니저가 말했듯이 LCD가 없으면 비용도 절감되고, 사용하기도 훨씬 간단해질 겁니다.",
+    "label": null
+  },
+  {
+    "timestamp": "25:24",
+    "timestamp_order": "177-1",
+    "speaker": "Speaker_C",
+    "prev": "LCD 없이. S s 오 저는 LCD 없이 이게 더 낫다고 생각해요.",
+    "target": "[TGT] 그리고 모양을 개선하려면. [/TGT]",
+    "next": "프로그램 관리자의 프로 프로젝트 매니저가 말했듯이 LCD가 없으면 비용도 절감되고, 사용하기도 훨씬 간단해질 겁니다. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "25:25",
+    "timestamp_order": "178-1",
+    "speaker": "Speaker_D",
+    "prev": "S s 오 저는 LCD 없이 이게 더 낫다고 생각해요. 그리고 모양을 개선하려면.",
+    "target": "[TGT] 프로그램 관리자의 프로 프로젝트 매니저가 말했듯이 LCD가 없으면 비용도 절감되고, 사용하기도 훨씬 간단해질 겁니다. [/TGT]",
+    "next": "응 . 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "25:26",
+    "timestamp_order": "179-1",
+    "speaker": "Speaker_B",
+    "prev": "그리고 모양을 개선하려면. 프로그램 관리자의 프로 프로젝트 매니저가 말했듯이 LCD가 없으면 비용도 절감되고, 사용하기도 훨씬 간단해질 겁니다.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "응 . Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "25:30",
+    "timestamp_order": "180-1",
+    "speaker": "Speaker_A",
+    "prev": "프로그램 관리자의 프로 프로젝트 매니저가 말했듯이 LCD가 없으면 비용도 절감되고, 사용하기도 훨씬 간단해질 겁니다. 응 .",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "Mm . 네, 그리고 우리에게 더 많은 자유를 주어 멋진 모습을 갖도록 하기 위해서요.",
+    "label": null
+  },
+  {
+    "timestamp": "25:31",
+    "timestamp_order": "181-1",
+    "speaker": "Speaker_B",
+    "prev": "응 . 응 .",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "네, 그리고 우리에게 더 많은 자유를 주어 멋진 모습을 갖도록 하기 위해서요. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "25:31",
+    "timestamp_order": "182-1",
+    "speaker": "Speaker_C",
+    "prev": "응 . Mm .",
+    "target": "[TGT] 네, 그리고 우리에게 더 많은 자유를 주어 멋진 모습을 갖도록 하기 위해서요. [/TGT]",
+    "next": "응 . 그래서 .",
+    "label": null
+  },
+  {
+    "timestamp": "25:37",
+    "timestamp_order": "183-1",
+    "speaker": "Speaker_B",
+    "prev": "Mm . 네, 그리고 우리에게 더 많은 자유를 주어 멋진 모습을 갖도록 하기 위해서요.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "그래서 . 시스템 음성 인식은 어떤가요?",
+    "label": null
+  },
+  {
+    "timestamp": "25:43",
+    "timestamp_order": "184-1",
+    "speaker": "Speaker_D",
+    "prev": "네, 그리고 우리에게 더 많은 자유를 주어 멋진 모습을 갖도록 하기 위해서요. 응 .",
+    "target": "[TGT] 그래서 . [/TGT]",
+    "next": "시스템 음성 인식은 어떤가요? 뭐 ?",
+    "label": null
+  },
+  {
+    "timestamp": "25:43",
+    "timestamp_order": "185-1",
+    "speaker": "Speaker_A",
+    "prev": "응 . 그래서 .",
+    "target": "[TGT] 시스템 음성 인식은 어떤가요? [/TGT]",
+    "next": "뭐 ? 음성 인식기는 추가 모듈입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "25:46",
+    "timestamp_order": "186-1",
+    "speaker": "Speaker_B",
+    "prev": "그래서 . 시스템 음성 인식은 어떤가요?",
+    "target": "[TGT] 뭐 ? [/TGT]",
+    "next": "음성 인식기는 추가 모듈입니다. 오른쪽 ?",
+    "label": null
+  },
+  {
+    "timestamp": "25:49",
+    "timestamp_order": "187-1",
+    "speaker": "Speaker_B",
+    "prev": "시스템 음성 인식은 어떤가요? 뭐 ?",
+    "target": "[TGT] 음성 인식기는 추가 모듈입니다. [/TGT]",
+    "next": "오른쪽 ? Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "25:52",
+    "timestamp_order": "188-1",
+    "speaker": "Speaker_B",
+    "prev": "뭐 ? 음성 인식기는 추가 모듈입니다.",
+    "target": "[TGT] 오른쪽 ? [/TGT]",
+    "next": "Mm . 음-음.",
+    "label": null
+  },
+  {
+    "timestamp": "02:59",
+    "timestamp_order": "189-1",
+    "speaker": "Speaker_B",
+    "prev": "음성 인식기는 추가 모듈입니다. 오른쪽 ?",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "음-음. 왜 그걸 옆에 두었니?",
+    "label": null
+  },
+  {
+    "timestamp": "03:01",
+    "timestamp_order": "190-1",
+    "speaker": "Speaker_B",
+    "prev": "오른쪽 ? Mm .",
+    "target": "[TGT] 음-음. [/TGT]",
+    "next": "왜 그걸 옆에 두었니? 아마 좋은 곳은 아닐 거야.",
+    "label": null
+  },
+  {
+    "timestamp": "03:13",
+    "timestamp_order": "191-1",
+    "speaker": "Speaker_A",
+    "prev": "Mm . 음-음.",
+    "target": "[TGT] 왜 그걸 옆에 두었니? [/TGT]",
+    "next": "아마 좋은 곳은 아닐 거야. 아니, 그거 카메라에 달린 마이크잖아.",
+    "label": null
+  },
+  {
+    "timestamp": "03:21",
+    "timestamp_order": "192-1",
+    "speaker": "Speaker_A",
+    "prev": "음-음. 왜 그걸 옆에 두었니?",
+    "target": "[TGT] 아마 좋은 곳은 아닐 거야. [/TGT]",
+    "next": "아니, 그거 카메라에 달린 마이크잖아. 마이크가 소리를 잡아내.",
+    "label": null
+  },
+  {
+    "timestamp": "03:23",
+    "timestamp_order": "193-1",
+    "speaker": "Speaker_B",
+    "prev": "왜 그걸 옆에 두었니? 아마 좋은 곳은 아닐 거야.",
+    "target": "[TGT] 아니, 그거 카메라에 달린 마이크잖아. [/TGT]",
+    "next": "마이크가 소리를 잡아내. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "03:23",
+    "timestamp_order": "194-1",
+    "speaker": "Speaker_B",
+    "prev": "아마 좋은 곳은 아닐 거야. 아니, 그거 카메라에 달린 마이크잖아.",
+    "target": "[TGT] 마이크가 소리를 잡아내. [/TGT]",
+    "next": "응 . 어디에서나 연설이 가능합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "03:30",
+    "timestamp_order": "195-1",
+    "speaker": "Speaker_C",
+    "prev": "아니, 그거 카메라에 달린 마이크잖아. 마이크가 소리를 잡아내.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "어디에서나 연설이 가능합니다. 단일 마이크인가요, 아니면 마이크 어레이인가요?",
+    "label": null
+  },
+  {
+    "timestamp": "03:30",
+    "timestamp_order": "196-1",
+    "speaker": "Speaker_B",
+    "prev": "마이크가 소리를 잡아내. 응 .",
+    "target": "[TGT] 어디에서나 연설이 가능합니다. [/TGT]",
+    "next": "단일 마이크인가요, 아니면 마이크 어레이인가요? 음, 마이크 배열이에요.",
+    "label": null
+  },
+  {
+    "timestamp": "03:31",
+    "timestamp_order": "197-1",
+    "speaker": "Speaker_D",
+    "prev": "응 . 어디에서나 연설이 가능합니다.",
+    "target": "[TGT] 단일 마이크인가요, 아니면 마이크 어레이인가요? [/TGT]",
+    "next": "음, 마이크 배열이에요. 아니요, 그냥 마이크 하나예요.",
+    "label": null
+  },
+  {
+    "timestamp": "03:34",
+    "timestamp_order": "198-1",
+    "speaker": "Speaker_C",
+    "prev": "어디에서나 연설이 가능합니다. 단일 마이크인가요, 아니면 마이크 어레이인가요?",
+    "target": "[TGT] 음, 마이크 배열이에요. [/TGT]",
+    "next": "아니요, 그냥 마이크 하나예요. 여기에 두는 이유는 LCD 화면을 볼 때 가까이에 있을 거라 생각해서요.",
+    "label": null
+  },
+  {
+    "timestamp": "03:34",
+    "timestamp_order": "199-1",
+    "speaker": "Speaker_C",
+    "prev": "단일 마이크인가요, 아니면 마이크 어레이인가요? 음, 마이크 배열이에요.",
+    "target": "[TGT] 아니요, 그냥 마이크 하나예요. [/TGT]",
+    "next": "여기에 두는 이유는 LCD 화면을 볼 때 가까이에 있을 거라 생각해서요. 예를 들어, 여기보다는 여기에 두는 게 더 낫거든요.",
+    "label": null
+  },
+  {
+    "timestamp": "03:34",
+    "timestamp_order": "200-1",
+    "speaker": "Speaker_C",
+    "prev": "음, 마이크 배열이에요. 아니요, 그냥 마이크 하나예요.",
+    "target": "[TGT] 여기에 두는 이유는 LCD 화면을 볼 때 가까이에 있을 거라 생각해서요. [/TGT]",
+    "next": "예를 들어, 여기보다는 여기에 두는 게 더 낫거든요. 그리고 여기 작은 스위치가 있는데, 스피커 인식 시스템을 켜고 끌지 여부를 제어합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "03:34",
+    "timestamp_order": "201-1",
+    "speaker": "Speaker_C",
+    "prev": "아니요, 그냥 마이크 하나예요. 여기에 두는 이유는 LCD 화면을 볼 때 가까이에 있을 거라 생각해서요.",
+    "target": "[TGT] 예를 들어, 여기보다는 여기에 두는 게 더 낫거든요. [/TGT]",
+    "next": "그리고 여기 작은 스위치가 있는데, 스피커 인식 시스템을 켜고 끌지 여부를 제어합니다. 아, 마이크 어레이는 정말 비싼데요.",
+    "label": null
+  },
+  {
+    "timestamp": "03:34",
+    "timestamp_order": "202-1",
+    "speaker": "Speaker_C",
+    "prev": "여기에 두는 이유는 LCD 화면을 볼 때 가까이에 있을 거라 생각해서요. 예를 들어, 여기보다는 여기에 두는 게 더 낫거든요.",
+    "target": "[TGT] 그리고 여기 작은 스위치가 있는데, 스피커 인식 시스템을 켜고 끌지 여부를 제어합니다. [/TGT]",
+    "next": "아, 마이크 어레이는 정말 비싼데요. 음-음.",
+    "label": null
+  },
+  {
+    "timestamp": "03:37",
+    "timestamp_order": "203-1",
+    "speaker": "Speaker_A",
+    "prev": "예를 들어, 여기보다는 여기에 두는 게 더 낫거든요. 그리고 여기 작은 스위치가 있는데, 스피커 인식 시스템을 켜고 끌지 여부를 제어합니다.",
+    "target": "[TGT] 아, 마이크 어레이는 정말 비싼데요. [/TGT]",
+    "next": "음-음. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "03:37",
+    "timestamp_order": "204-1",
+    "speaker": "Speaker_D",
+    "prev": "그리고 여기 작은 스위치가 있는데, 스피커 인식 시스템을 켜고 끌지 여부를 제어합니다. 아, 마이크 어레이는 정말 비싼데요.",
+    "target": "[TGT] 음-음. [/TGT]",
+    "next": "응 . Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "03:50",
+    "timestamp_order": "205-1",
+    "speaker": "Speaker_D",
+    "prev": "아, 마이크 어레이는 정말 비싼데요. 음-음.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "Mm . 네 네.",
+    "label": null
+  },
+  {
+    "timestamp": "03:50",
+    "timestamp_order": "206-1",
+    "speaker": "Speaker_B",
+    "prev": "음-음. 응 .",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "네 네. 좋아요 .",
+    "label": null
+  },
+  {
+    "timestamp": "03:54",
+    "timestamp_order": "207-1",
+    "speaker": "Speaker_B",
+    "prev": "응 . Mm .",
+    "target": "[TGT] 네 네. [/TGT]",
+    "next": "좋아요 . 그래서 이 리모컨에는 충전기가 함께 제공됩니다.",
+    "label": null
+  },
+  {
+    "timestamp": "03:55",
+    "timestamp_order": "208-1",
+    "speaker": "Speaker_D",
+    "prev": "Mm . 네 네.",
+    "target": "[TGT] 좋아요 . [/TGT]",
+    "next": "그래서 이 리모컨에는 충전기가 함께 제공됩니다. 이거 얼마예요?",
+    "label": null
+  },
+  {
+    "timestamp": "04:07",
+    "timestamp_order": "209-1",
+    "speaker": "Speaker_C",
+    "prev": "네 네. 좋아요 .",
+    "target": "[TGT] 그래서 이 리모컨에는 충전기가 함께 제공됩니다. [/TGT]",
+    "next": "이거 얼마예요? 음, 이 프로토타입은 음, .",
+    "label": null
+  },
+  {
+    "timestamp": "04:12",
+    "timestamp_order": "210-1",
+    "speaker": "Speaker_A",
+    "prev": "좋아요 . 그래서 이 리모컨에는 충전기가 함께 제공됩니다.",
+    "target": "[TGT] 이거 얼마예요? [/TGT]",
+    "next": "음, 이 프로토타입은 음, . .",
+    "label": null
+  },
+  {
+    "timestamp": "04:14",
+    "timestamp_order": "211-1",
+    "speaker": "Speaker_C",
+    "prev": "그래서 이 리모컨에는 충전기가 함께 제공됩니다. 이거 얼마예요?",
+    "target": "[TGT] 음, 이 프로토타입은 음, . [/TGT]",
+    "next": ". .",
+    "label": null
+  },
+  {
+    "timestamp": "04:14",
+    "timestamp_order": "212-1",
+    "speaker": "Speaker_C",
+    "prev": "이거 얼마예요? 음, 이 프로토타입은 음, .",
+    "target": "[TGT] . [/TGT]",
+    "next": ". 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "04:14",
+    "timestamp_order": "213-1",
+    "speaker": "Speaker_C",
+    "prev": "음, 이 프로토타입은 음, . .",
+    "target": "[TGT] . [/TGT]",
+    "next": "응 . 15달러?",
+    "label": null
+  },
+  {
+    "timestamp": "04:21",
+    "timestamp_order": "214-1",
+    "speaker": "Speaker_B",
+    "prev": ". .",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "15달러? 그리고 가격은",
+    "label": null
+  },
+  {
+    "timestamp": "04:22",
+    "timestamp_order": "215-1",
+    "speaker": "Speaker_A",
+    "prev": ". 응 .",
+    "target": "[TGT] 15달러? [/TGT]",
+    "next": "그리고 가격은 좋아요, 노먼, 특별 기능을 소개해 주세요.",
+    "label": null
+  },
+  {
+    "timestamp": "08:55",
+    "timestamp_order": "216-1",
+    "speaker": "Speaker_A",
+    "prev": "응 . 15달러?",
+    "target": "[TGT] 그리고 가격은 [/TGT]",
+    "next": "좋아요, 노먼, 특별 기능을 소개해 주세요. 네, 그 부분에 대해서는 나중에 말씀드리겠습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "08:56",
+    "timestamp_order": "217-1",
+    "speaker": "Speaker_C",
+    "prev": "15달러? 그리고 가격은",
+    "target": "[TGT] 좋아요, 노먼, 특별 기능을 소개해 주세요. [/TGT]",
+    "next": "네, 그 부분에 대해서는 나중에 말씀드리겠습니다. 이 컨트롤러를 저렴하게 만드는 것은 모듈식이라는 점입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "09:00",
+    "timestamp_order": "218-1",
+    "speaker": "Speaker_B",
+    "prev": "그리고 가격은 좋아요, 노먼, 특별 기능을 소개해 주세요.",
+    "target": "[TGT] 네, 그 부분에 대해서는 나중에 말씀드리겠습니다. [/TGT]",
+    "next": "이 컨트롤러를 저렴하게 만드는 것은 모듈식이라는 점입니다. 더 많은 기능을 원하면 더 비싼 값을 치르게 되죠.",
+    "label": null
+  },
+  {
+    "timestamp": "09:00",
+    "timestamp_order": "219-1",
+    "speaker": "Speaker_B",
+    "prev": "좋아요, 노먼, 특별 기능을 소개해 주세요. 네, 그 부분에 대해서는 나중에 말씀드리겠습니다.",
+    "target": "[TGT] 이 컨트롤러를 저렴하게 만드는 것은 모듈식이라는 점입니다. [/TGT]",
+    "next": "더 많은 기능을 원하면 더 비싼 값을 치르게 되죠. 기능이 적으면 더 비싼 값을 치르게 되고, 합리적인 가격을 원하면 시스템에 추가하는 기능에 대한 비용을 지불하게 됩니다.",
+    "label": null
+  },
+  {
+    "timestamp": "09:00",
+    "timestamp_order": "220-1",
+    "speaker": "Speaker_B",
+    "prev": "네, 그 부분에 대해서는 나중에 말씀드리겠습니다. 이 컨트롤러를 저렴하게 만드는 것은 모듈식이라는 점입니다.",
+    "target": "[TGT] 더 많은 기능을 원하면 더 비싼 값을 치르게 되죠. [/TGT]",
+    "next": "기능이 적으면 더 비싼 값을 치르게 되고, 합리적인 가격을 원하면 시스템에 추가하는 기능에 대한 비용을 지불하게 됩니다. 모듈식도 마찬가지입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "09:00",
+    "timestamp_order": "221-1",
+    "speaker": "Speaker_B",
+    "prev": "이 컨트롤러를 저렴하게 만드는 것은 모듈식이라는 점입니다. 더 많은 기능을 원하면 더 비싼 값을 치르게 되죠.",
+    "target": "[TGT] 기능이 적으면 더 비싼 값을 치르게 되고, 합리적인 가격을 원하면 시스템에 추가하는 기능에 대한 비용을 지불하게 됩니다. [/TGT]",
+    "next": "모듈식도 마찬가지입니다. 이는 기본 기능에 대한 것이며, 더 많은 기능을 원하면 더 많은 비용을 지불해야 합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "09:00",
+    "timestamp_order": "222-1",
+    "speaker": "Speaker_B",
+    "prev": "더 많은 기능을 원하면 더 비싼 값을 치르게 되죠. 기능이 적으면 더 비싼 값을 치르게 되고, 합리적인 가격을 원하면 시스템에 추가하는 기능에 대한 비용을 지불하게 됩니다.",
+    "target": "[TGT] 모듈식도 마찬가지입니다. [/TGT]",
+    "next": "이는 기본 기능에 대한 것이며, 더 많은 기능을 원하면 더 많은 비용을 지불해야 합니다. 맞춤형 같은 거요.",
+    "label": null
+  },
+  {
+    "timestamp": "09:18",
+    "timestamp_order": "223-1",
+    "speaker": "Speaker_A",
+    "prev": "기능이 적으면 더 비싼 값을 치르게 되고, 합리적인 가격을 원하면 시스템에 추가하는 기능에 대한 비용을 지불하게 됩니다. 모듈식도 마찬가지입니다.",
+    "target": "[TGT] 이는 기본 기능에 대한 것이며, 더 많은 기능을 원하면 더 많은 비용을 지불해야 합니다. [/TGT]",
+    "next": "맞춤형 같은 거요. 그렇죠.",
+    "label": null
+  },
+  {
+    "timestamp": "09:23",
+    "timestamp_order": "224-1",
+    "speaker": "Speaker_D",
+    "prev": "모듈식도 마찬가지입니다. 이는 기본 기능에 대한 것이며, 더 많은 기능을 원하면 더 많은 비용을 지불해야 합니다.",
+    "target": "[TGT] 맞춤형 같은 거요. [/TGT]",
+    "next": "그렇죠. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "09:23",
+    "timestamp_order": "225-1",
+    "speaker": "Speaker_D",
+    "prev": "이는 기본 기능에 대한 것이며, 더 많은 기능을 원하면 더 많은 비용을 지불해야 합니다. 맞춤형 같은 거요.",
+    "target": "[TGT] 그렇죠. [/TGT]",
+    "next": "응 . 좋아요 .",
+    "label": null
+  },
+  {
+    "timestamp": "09:25",
+    "timestamp_order": "226-1",
+    "speaker": "Speaker_A",
+    "prev": "맞춤형 같은 거요. 그렇죠.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "좋아요 . 음 음 음 음 음.",
+    "label": null
+  },
+  {
+    "timestamp": "09:36",
+    "timestamp_order": "227-1",
+    "speaker": "Speaker_A",
+    "prev": "그렇죠. 응 .",
+    "target": "[TGT] 좋아요 . [/TGT]",
+    "next": "음 음 음 음 음. 좋아요.",
+    "label": null
+  },
+  {
+    "timestamp": "09:40",
+    "timestamp_order": "228-1",
+    "speaker": "Speaker_D",
+    "prev": "응 . 좋아요 .",
+    "target": "[TGT] 음 음 음 음 음. [/TGT]",
+    "next": "좋아요. 네, 가격은 꽤 유연해요.",
+    "label": null
+  },
+  {
+    "timestamp": "09:44",
+    "timestamp_order": "229-1",
+    "speaker": "Speaker_D",
+    "prev": "좋아요 . 음 음 음 음 음.",
+    "target": "[TGT] 좋아요. [/TGT]",
+    "next": "네, 가격은 꽤 유연해요. 또한 보호자 관리를 위한 두 개의 다른 모듈도 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "09:46",
+    "timestamp_order": "230-1",
+    "speaker": "Speaker_B",
+    "prev": "음 음 음 음 음. 좋아요.",
+    "target": "[TGT] 네, 가격은 꽤 유연해요. [/TGT]",
+    "next": "또한 보호자 관리를 위한 두 개의 다른 모듈도 있습니다. 응 응 그걸 제시해야지.",
+    "label": null
+  },
+  {
+    "timestamp": "09:47",
+    "timestamp_order": "231-1",
+    "speaker": "Speaker_C",
+    "prev": "좋아요. 네, 가격은 꽤 유연해요.",
+    "target": "[TGT] 또한 보호자 관리를 위한 두 개의 다른 모듈도 있습니다. [/TGT]",
+    "next": "응 응 그걸 제시해야지. 그리고 이건 또 다른 하나예요?",
+    "label": null
+  },
+  {
+    "timestamp": "09:52",
+    "timestamp_order": "232-1",
+    "speaker": "Speaker_B",
+    "prev": "네, 가격은 꽤 유연해요. 또한 보호자 관리를 위한 두 개의 다른 모듈도 있습니다.",
+    "target": "[TGT] 응 응 그걸 제시해야지. [/TGT]",
+    "next": "그리고 이건 또 다른 하나예요? 당신이 할 수 있는 것은 당신이 당신의 리모컨에 추가할 수 있는 것입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "09:53",
+    "timestamp_order": "233-1",
+    "speaker": "Speaker_D",
+    "prev": "또한 보호자 관리를 위한 두 개의 다른 모듈도 있습니다. 응 응 그걸 제시해야지.",
+    "target": "[TGT] 그리고 이건 또 다른 하나예요? [/TGT]",
+    "next": "당신이 할 수 있는 것은 당신이 당신의 리모컨에 추가할 수 있는 것입니다. 당신이 원하는 것에 더 많은 힘을 원한다면, 그리고 당신이 선택하고 싶은 채널 등을 원한다면 말입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "09:53",
+    "timestamp_order": "234-1",
+    "speaker": "Speaker_C",
+    "prev": "응 응 그걸 제시해야지. 그리고 이건 또 다른 하나예요?",
+    "target": "[TGT] 당신이 할 수 있는 것은 당신이 당신의 리모컨에 추가할 수 있는 것입니다. [/TGT]",
+    "next": "당신이 원하는 것에 더 많은 힘을 원한다면, 그리고 당신이 선택하고 싶은 채널 등을 원한다면 말입니다. 여기는 아이들용 모듈입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "09:53",
+    "timestamp_order": "235-1",
+    "speaker": "Speaker_C",
+    "prev": "그리고 이건 또 다른 하나예요? 당신이 할 수 있는 것은 당신이 당신의 리모컨에 추가할 수 있는 것입니다.",
+    "target": "[TGT] 당신이 원하는 것에 더 많은 힘을 원한다면, 그리고 당신이 선택하고 싶은 채널 등을 원한다면 말입니다. [/TGT]",
+    "next": "여기는 아이들용 모듈입니다. 부모님이 TV를 보고 싶으시면, 직접 모듈을 구매해서 꽂기만 하면 원하는 모든 기능을 제어할 수 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "10:10",
+    "timestamp_order": "236-1",
+    "speaker": "Speaker_C",
+    "prev": "당신이 할 수 있는 것은 당신이 당신의 리모컨에 추가할 수 있는 것입니다. 당신이 원하는 것에 더 많은 힘을 원한다면, 그리고 당신이 선택하고 싶은 채널 등을 원한다면 말입니다.",
+    "target": "[TGT] 여기는 아이들용 모듈입니다. [/TGT]",
+    "next": "부모님이 TV를 보고 싶으시면, 직접 모듈을 구매해서 꽂기만 하면 원하는 모든 기능을 제어할 수 있습니다. 큰 버튼이 있고, 버튼 이름이 명확하게 적힌 이 모듈은 이전 모듈처럼 꽂기만 하면 작동합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "10:10",
+    "timestamp_order": "237-1",
+    "speaker": "Speaker_C",
+    "prev": "당신이 원하는 것에 더 많은 힘을 원한다면, 그리고 당신이 선택하고 싶은 채널 등을 원한다면 말입니다. 여기는 아이들용 모듈입니다.",
+    "target": "[TGT] 부모님이 TV를 보고 싶으시면, 직접 모듈을 구매해서 꽂기만 하면 원하는 모든 기능을 제어할 수 있습니다. [/TGT]",
+    "next": "큰 버튼이 있고, 버튼 이름이 명확하게 적힌 이 모듈은 이전 모듈처럼 꽂기만 하면 작동합니다. 음 음 음 음 음.",
+    "label": null
+  },
+  {
+    "timestamp": "10:10",
+    "timestamp_order": "238-1",
+    "speaker": "Speaker_C",
+    "prev": "여기는 아이들용 모듈입니다. 부모님이 TV를 보고 싶으시면, 직접 모듈을 구매해서 꽂기만 하면 원하는 모든 기능을 제어할 수 있습니다.",
+    "target": "[TGT] 큰 버튼이 있고, 버튼 이름이 명확하게 적힌 이 모듈은 이전 모듈처럼 꽂기만 하면 작동합니다. [/TGT]",
+    "next": "음 음 음 음 음. Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "10:15",
+    "timestamp_order": "239-1",
+    "speaker": "Speaker_D",
+    "prev": "부모님이 TV를 보고 싶으시면, 직접 모듈을 구매해서 꽂기만 하면 원하는 모든 기능을 제어할 수 있습니다. 큰 버튼이 있고, 버튼 이름이 명확하게 적힌 이 모듈은 이전 모듈처럼 꽂기만 하면 작동합니다.",
+    "target": "[TGT] 음 음 음 음 음. [/TGT]",
+    "next": "Mm . 흠 .",
+    "label": null
+  },
+  {
+    "timestamp": "10:22",
+    "timestamp_order": "240-1",
+    "speaker": "Speaker_B",
+    "prev": "큰 버튼이 있고, 버튼 이름이 명확하게 적힌 이 모듈은 이전 모듈처럼 꽂기만 하면 작동합니다. 음 음 음 음 음.",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "흠 . 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "10:27",
+    "timestamp_order": "241-1",
+    "speaker": "Speaker_B",
+    "prev": "음 음 음 음 음. Mm .",
+    "target": "[TGT] 흠 . [/TGT]",
+    "next": "응 . 음-음.",
+    "label": null
+  },
+  {
+    "timestamp": "10:32",
+    "timestamp_order": "242-1",
+    "speaker": "Speaker_B",
+    "prev": "Mm . 흠 .",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "음-음. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "10:36",
+    "timestamp_order": "243-1",
+    "speaker": "Speaker_D",
+    "prev": "흠 . 응 .",
+    "target": "[TGT] 음-음. [/TGT]",
+    "next": "응 . Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "21:29",
+    "timestamp_order": "244-1",
+    "speaker": "Speaker_C",
+    "prev": "응 . 음-음.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "Mm . 아뇨, 혁신적이진 않아요.",
+    "label": null
+  },
+  {
+    "timestamp": "21:29",
+    "timestamp_order": "245-1",
+    "speaker": "Speaker_B",
+    "prev": "음-음. 응 .",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "아뇨, 혁신적이진 않아요. 어, 어, 어, 거기에 문제가 있었는데, LCD에 표시되는 내용이 뭐예요?",
+    "label": null
+  },
+  {
+    "timestamp": "21:32",
+    "timestamp_order": "246-1",
+    "speaker": "Speaker_A",
+    "prev": "응 . Mm .",
+    "target": "[TGT] 아뇨, 혁신적이진 않아요. [/TGT]",
+    "next": "어, 어, 어, 거기에 문제가 있었는데, LCD에 표시되는 내용이 뭐예요? 그러면 제거해 봅시다.",
+    "label": null
+  },
+  {
+    "timestamp": "21:32",
+    "timestamp_order": "247-1",
+    "speaker": "Speaker_B",
+    "prev": "Mm . 아뇨, 혁신적이진 않아요.",
+    "target": "[TGT] 어, 어, 어, 거기에 문제가 있었는데, LCD에 표시되는 내용이 뭐예요? [/TGT]",
+    "next": "그러면 제거해 봅시다. 응 ?",
+    "label": null
+  },
+  {
+    "timestamp": "21:56",
+    "timestamp_order": "248-1",
+    "speaker": "Speaker_A",
+    "prev": "아뇨, 혁신적이진 않아요. 어, 어, 어, 거기에 문제가 있었는데, LCD에 표시되는 내용이 뭐예요?",
+    "target": "[TGT] 그러면 제거해 봅시다. [/TGT]",
+    "next": "응 ? 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "21:58",
+    "timestamp_order": "249-1",
+    "speaker": "Speaker_B",
+    "prev": "어, 어, 어, 거기에 문제가 있었는데, LCD에 표시되는 내용이 뭐예요? 그러면 제거해 봅시다.",
+    "target": "[TGT] 응 ? [/TGT]",
+    "next": "응 . 네, 하지만 TV 화면에는 같은 프로그램이 있죠.",
+    "label": null
+  },
+  {
+    "timestamp": "22:00",
+    "timestamp_order": "250-1",
+    "speaker": "Speaker_B",
+    "prev": "그러면 제거해 봅시다. 응 ?",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "네, 하지만 TV 화면에는 같은 프로그램이 있죠. 네, 정확히 그렇습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "22:05",
+    "timestamp_order": "251-1",
+    "speaker": "Speaker_C",
+    "prev": "응 ? 응 .",
+    "target": "[TGT] 네, 하지만 TV 화면에는 같은 프로그램이 있죠. [/TGT]",
+    "next": "네, 정확히 그렇습니다. 문제는 바로 이것입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "22:07",
+    "timestamp_order": "252-1",
+    "speaker": "Speaker_B",
+    "prev": "응 . 네, 하지만 TV 화면에는 같은 프로그램이 있죠.",
+    "target": "[TGT] 네, 정확히 그렇습니다. [/TGT]",
+    "next": "문제는 바로 이것입니다. 아니요, TV에서는 표시되지 않습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "22:09",
+    "timestamp_order": "253-1",
+    "speaker": "Speaker_A",
+    "prev": "네, 하지만 TV 화면에는 같은 프로그램이 있죠. 네, 정확히 그렇습니다.",
+    "target": "[TGT] 문제는 바로 이것입니다. [/TGT]",
+    "next": "아니요, TV에서는 표시되지 않습니다. 지금은 TV에 표시되지 않습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "22:10",
+    "timestamp_order": "254-1",
+    "speaker": "Speaker_D",
+    "prev": "네, 정확히 그렇습니다. 문제는 바로 이것입니다.",
+    "target": "[TGT] 아니요, TV에서는 표시되지 않습니다. [/TGT]",
+    "next": "지금은 TV에 표시되지 않습니다. LCD가 있으면, 하지만 n이면",
+    "label": null
+  },
+  {
+    "timestamp": "22:10",
+    "timestamp_order": "255-1",
+    "speaker": "Speaker_D",
+    "prev": "문제는 바로 이것입니다. 아니요, TV에서는 표시되지 않습니다.",
+    "target": "[TGT] 지금은 TV에 표시되지 않습니다. [/TGT]",
+    "next": "LCD가 있으면, 하지만 n이면 LCD?",
+    "label": null
+  },
+  {
+    "timestamp": "22:13",
+    "timestamp_order": "256-1",
+    "speaker": "Speaker_C",
+    "prev": "아니요, TV에서는 표시되지 않습니다. 지금은 TV에 표시되지 않습니다.",
+    "target": "[TGT] LCD가 있으면, 하지만 n이면 [/TGT]",
+    "next": "LCD? 그럼 TV에 놓는 건 의미가 없잖아.",
+    "label": null
+  },
+  {
+    "timestamp": "22:13",
+    "timestamp_order": "257-1",
+    "speaker": "Speaker_D",
+    "prev": "지금은 TV에 표시되지 않습니다. LCD가 있으면, 하지만 n이면",
+    "target": "[TGT] LCD? [/TGT]",
+    "next": "그럼 TV에 놓는 건 의미가 없잖아. 아니면 채널, 볼륨, 이런 거 다 있고 뭐",
+    "label": null
+  },
+  {
+    "timestamp": "22:13",
+    "timestamp_order": "258-1",
+    "speaker": "Speaker_D",
+    "prev": "LCD가 있으면, 하지만 n이면 LCD?",
+    "target": "[TGT] 그럼 TV에 놓는 건 의미가 없잖아. [/TGT]",
+    "next": "아니면 채널, 볼륨, 이런 거 다 있고 뭐 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "22:13",
+    "timestamp_order": "259-1",
+    "speaker": "Speaker_D",
+    "prev": "LCD? 그럼 TV에 놓는 건 의미가 없잖아.",
+    "target": "[TGT] 아니면 채널, 볼륨, 이런 거 다 있고 뭐 [/TGT]",
+    "next": "응 . 하지만 LCD에 모든 것을 표시할 수는 없습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "22:17",
+    "timestamp_order": "260-1",
+    "speaker": "Speaker_C",
+    "prev": "그럼 TV에 놓는 건 의미가 없잖아. 아니면 채널, 볼륨, 이런 거 다 있고 뭐",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "하지만 LCD에 모든 것을 표시할 수는 없습니다. 어쨌든 LCD를 선택한 사용자를 위해",
+    "label": null
+  },
+  {
+    "timestamp": "22:20",
+    "timestamp_order": "261-1",
+    "speaker": "Speaker_B",
+    "prev": "아니면 채널, 볼륨, 이런 거 다 있고 뭐 응 .",
+    "target": "[TGT] 하지만 LCD에 모든 것을 표시할 수는 없습니다. [/TGT]",
+    "next": "어쨌든 LCD를 선택한 사용자를 위해 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "22:29",
+    "timestamp_order": "262-1",
+    "speaker": "Speaker_B",
+    "prev": "응 . 하지만 LCD에 모든 것을 표시할 수는 없습니다.",
+    "target": "[TGT] 어쨌든 LCD를 선택한 사용자를 위해 [/TGT]",
+    "next": "응 . 그럼 LCD 없이도 동일한 수준의 혁신성을 갖출 수 있다는 말인가요?",
+    "label": null
+  },
+  {
+    "timestamp": "22:40",
+    "timestamp_order": "263-1",
+    "speaker": "Speaker_C",
+    "prev": "하지만 LCD에 모든 것을 표시할 수는 없습니다. 어쨌든 LCD를 선택한 사용자를 위해",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "그럼 LCD 없이도 동일한 수준의 혁신성을 갖출 수 있다는 말인가요? 그리고 LCD가 있는 것과 LCD가 없는 것 중 사용하기 쉬운 것을 추천하시나요?",
+    "label": null
+  },
+  {
+    "timestamp": "22:40",
+    "timestamp_order": "264-1",
+    "speaker": "Speaker_D",
+    "prev": "어쨌든 LCD를 선택한 사용자를 위해 응 .",
+    "target": "[TGT] 그럼 LCD 없이도 동일한 수준의 혁신성을 갖출 수 있다는 말인가요? [/TGT]",
+    "next": "그리고 LCD가 있는 것과 LCD가 없는 것 중 사용하기 쉬운 것을 추천하시나요? 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "22:48",
+    "timestamp_order": "265-1",
+    "speaker": "Speaker_D",
+    "prev": "응 . 그럼 LCD 없이도 동일한 수준의 혁신성을 갖출 수 있다는 말인가요?",
+    "target": "[TGT] 그리고 LCD가 있는 것과 LCD가 없는 것 중 사용하기 쉬운 것을 추천하시나요? [/TGT]",
+    "next": "응 . LCD um을 제거하면 좀 더 자유롭게 멋진 모습을 만들 수 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "23:02",
+    "timestamp_order": "266-1",
+    "speaker": "Speaker_B",
+    "prev": "그럼 LCD 없이도 동일한 수준의 혁신성을 갖출 수 있다는 말인가요? 그리고 LCD가 있는 것과 LCD가 없는 것 중 사용하기 쉬운 것을 추천하시나요?",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "LCD um을 제거하면 좀 더 자유롭게 멋진 모습을 만들 수 있습니다. 그리고 혁신성이라는 측면에서는 LCD입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "19:46",
+    "timestamp_order": "267-1",
+    "speaker": "Speaker_C",
+    "prev": "그리고 LCD가 있는 것과 LCD가 없는 것 중 사용하기 쉬운 것을 추천하시나요? 응 .",
+    "target": "[TGT] LCD um을 제거하면 좀 더 자유롭게 멋진 모습을 만들 수 있습니다. [/TGT]",
+    "next": "그리고 혁신성이라는 측면에서는 LCD입니다. Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "19:53",
+    "timestamp_order": "268-1",
+    "speaker": "Speaker_D",
+    "prev": "응 . LCD um을 제거하면 좀 더 자유롭게 멋진 모습을 만들 수 있습니다.",
+    "target": "[TGT] 그리고 혁신성이라는 측면에서는 LCD입니다. [/TGT]",
+    "next": "Mm . 네, 혁신 측면에서 가장 혁신적인 것은 무엇이라고 생각하시나요?",
+    "label": null
+  },
+  {
+    "timestamp": "20:03",
+    "timestamp_order": "269-1",
+    "speaker": "Speaker_B",
+    "prev": "LCD um을 제거하면 좀 더 자유롭게 멋진 모습을 만들 수 있습니다. 그리고 혁신성이라는 측면에서는 LCD입니다.",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "네, 혁신 측면에서 가장 혁신적인 것은 무엇이라고 생각하시나요? 지난 회의에서 우리가 보았던 기존 프로토타입과 비교한 우리의 프로토타입",
+    "label": null
+  },
+  {
+    "timestamp": "20:09",
+    "timestamp_order": "270-1",
+    "speaker": "Speaker_B",
+    "prev": "그리고 혁신성이라는 측면에서는 LCD입니다. Mm .",
+    "target": "[TGT] 네, 혁신 측면에서 가장 혁신적인 것은 무엇이라고 생각하시나요? [/TGT]",
+    "next": "지난 회의에서 우리가 보았던 기존 프로토타입과 비교한 우리의 프로토타입 다양한 기능을 갖추고 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "20:18",
+    "timestamp_order": "271-1",
+    "speaker": "Speaker_B",
+    "prev": "Mm . 네, 혁신 측면에서 가장 혁신적인 것은 무엇이라고 생각하시나요?",
+    "target": "[TGT] 지난 회의에서 우리가 보았던 기존 프로토타입과 비교한 우리의 프로토타입 [/TGT]",
+    "next": "다양한 기능을 갖추고 있습니다. 많은 기능이 있죠.",
+    "label": null
+  },
+  {
+    "timestamp": "20:44",
+    "timestamp_order": "272-1",
+    "speaker": "Speaker_C",
+    "prev": "네, 혁신 측면에서 가장 혁신적인 것은 무엇이라고 생각하시나요? 지난 회의에서 우리가 보았던 기존 프로토타입과 비교한 우리의 프로토타입",
+    "target": "[TGT] 다양한 기능을 갖추고 있습니다. [/TGT]",
+    "next": "많은 기능이 있죠. 그래서 두 가지 모두에 적합한 기능입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "20:45",
+    "timestamp_order": "273-1",
+    "speaker": "Speaker_B",
+    "prev": "지난 회의에서 우리가 보았던 기존 프로토타입과 비교한 우리의 프로토타입 다양한 기능을 갖추고 있습니다.",
+    "target": "[TGT] 많은 기능이 있죠. [/TGT]",
+    "next": "그래서 두 가지 모두에 적합한 기능입니다. 그럼 LCD 없이요?",
+    "label": null
+  },
+  {
+    "timestamp": "20:45",
+    "timestamp_order": "274-1",
+    "speaker": "Speaker_B",
+    "prev": "다양한 기능을 갖추고 있습니다. 많은 기능이 있죠.",
+    "target": "[TGT] 그래서 두 가지 모두에 적합한 기능입니다. [/TGT]",
+    "next": "그럼 LCD 없이요? 저는 우리 제품이 모든 면에서 최고라고 생각합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "20:47",
+    "timestamp_order": "275-1",
+    "speaker": "Speaker_D",
+    "prev": "많은 기능이 있죠. 그래서 두 가지 모두에 적합한 기능입니다.",
+    "target": "[TGT] 그럼 LCD 없이요? [/TGT]",
+    "next": "저는 우리 제품이 모든 면에서 최고라고 생각합니다. 글쎄요, 이건 편향된 판단일 수 있는데, 우리가 제품을 설계했기 때문입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "20:51",
+    "timestamp_order": "276-1",
+    "speaker": "Speaker_B",
+    "prev": "그래서 두 가지 모두에 적합한 기능입니다. 그럼 LCD 없이요?",
+    "target": "[TGT] 저는 우리 제품이 모든 면에서 최고라고 생각합니다. [/TGT]",
+    "next": "글쎄요, 이건 편향된 판단일 수 있는데, 우리가 제품을 설계했기 때문입니다. 아니요, 디자인 측면에서 혁신성을 어떻게 느끼시는지 알고 싶습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "20:51",
+    "timestamp_order": "277-1",
+    "speaker": "Speaker_B",
+    "prev": "그럼 LCD 없이요? 저는 우리 제품이 모든 면에서 최고라고 생각합니다.",
+    "target": "[TGT] 글쎄요, 이건 편향된 판단일 수 있는데, 우리가 제품을 설계했기 때문입니다. [/TGT]",
+    "next": "아니요, 디자인 측면에서 혁신성을 어떻게 느끼시는지 알고 싶습니다. 어, 혁신성은 매우 높다고 생각해요.",
+    "label": null
+  },
+  {
+    "timestamp": "21:00",
+    "timestamp_order": "278-1",
+    "speaker": "Speaker_D",
+    "prev": "저는 우리 제품이 모든 면에서 최고라고 생각합니다. 글쎄요, 이건 편향된 판단일 수 있는데, 우리가 제품을 설계했기 때문입니다.",
+    "target": "[TGT] 아니요, 디자인 측면에서 혁신성을 어떻게 느끼시는지 알고 싶습니다. [/TGT]",
+    "next": "어, 혁신성은 매우 높다고 생각해요. LCD가 있으면?",
+    "label": null
+  },
+  {
+    "timestamp": "21:05",
+    "timestamp_order": "279-1",
+    "speaker": "Speaker_B",
+    "prev": "글쎄요, 이건 편향된 판단일 수 있는데, 우리가 제품을 설계했기 때문입니다. 아니요, 디자인 측면에서 혁신성을 어떻게 느끼시는지 알고 싶습니다.",
+    "target": "[TGT] 어, 혁신성은 매우 높다고 생각해요. [/TGT]",
+    "next": "LCD가 있으면? 그리고 LCD가 없으면?",
+    "label": null
+  },
+  {
+    "timestamp": "21:07",
+    "timestamp_order": "280-1",
+    "speaker": "Speaker_D",
+    "prev": "아니요, 디자인 측면에서 혁신성을 어떻게 느끼시는지 알고 싶습니다. 어, 혁신성은 매우 높다고 생각해요.",
+    "target": "[TGT] LCD가 있으면? [/TGT]",
+    "next": "그리고 LCD가 없으면? LCD의 경우.",
+    "label": null
+  },
+  {
+    "timestamp": "21:07",
+    "timestamp_order": "281-1",
+    "speaker": "Speaker_D",
+    "prev": "어, 혁신성은 매우 높다고 생각해요. LCD가 있으면?",
+    "target": "[TGT] 그리고 LCD가 없으면? [/TGT]",
+    "next": "LCD의 경우. 둘 다 .",
+    "label": null
+  },
+  {
+    "timestamp": "21:07",
+    "timestamp_order": "282-1",
+    "speaker": "Speaker_A",
+    "prev": "LCD가 있으면? 그리고 LCD가 없으면?",
+    "target": "[TGT] LCD의 경우. [/TGT]",
+    "next": "둘 다 . 음, 둘 다 같은 혁신이에요.",
+    "label": null
+  },
+  {
+    "timestamp": "21:09",
+    "timestamp_order": "283-1",
+    "speaker": "Speaker_B",
+    "prev": "그리고 LCD가 없으면? LCD의 경우.",
+    "target": "[TGT] 둘 다 . [/TGT]",
+    "next": "음, 둘 다 같은 혁신이에요. 두 가지 모두에 대하여.",
+    "label": null
+  },
+  {
+    "timestamp": "21:09",
+    "timestamp_order": "284-1",
+    "speaker": "Speaker_C",
+    "prev": "LCD의 경우. 둘 다 .",
+    "target": "[TGT] 음, 둘 다 같은 혁신이에요. [/TGT]",
+    "next": "두 가지 모두에 대하여. 같은 혁신이에요.",
+    "label": null
+  },
+  {
+    "timestamp": "21:10",
+    "timestamp_order": "285-1",
+    "speaker": "Speaker_B",
+    "prev": "둘 다 . 음, 둘 다 같은 혁신이에요.",
+    "target": "[TGT] 두 가지 모두에 대하여. [/TGT]",
+    "next": "같은 혁신이에요. 그러니까 6~7개 정도 넣을 수 있을 것 같아요.",
+    "label": null
+  },
+  {
+    "timestamp": "21:12",
+    "timestamp_order": "286-1",
+    "speaker": "Speaker_B",
+    "prev": "음, 둘 다 같은 혁신이에요. 두 가지 모두에 대하여.",
+    "target": "[TGT] 같은 혁신이에요. [/TGT]",
+    "next": "그러니까 6~7개 정도 넣을 수 있을 것 같아요. 좋아요 .",
+    "label": null
+  },
+  {
+    "timestamp": "21:12",
+    "timestamp_order": "287-1",
+    "speaker": "Speaker_B",
+    "prev": "두 가지 모두에 대하여. 같은 혁신이에요.",
+    "target": "[TGT] 그러니까 6~7개 정도 넣을 수 있을 것 같아요. [/TGT]",
+    "next": "좋아요 . LCD 없이.",
+    "label": null
+  },
+  {
+    "timestamp": "21:13",
+    "timestamp_order": "288-1",
+    "speaker": "Speaker_D",
+    "prev": "같은 혁신이에요. 그러니까 6~7개 정도 넣을 수 있을 것 같아요.",
+    "target": "[TGT] 좋아요 . [/TGT]",
+    "next": "LCD 없이. 둘 다 .",
+    "label": null
+  },
+  {
+    "timestamp": "21:17",
+    "timestamp_order": "289-1",
+    "speaker": "Speaker_A",
+    "prev": "그러니까 6~7개 정도 넣을 수 있을 것 같아요. 좋아요 .",
+    "target": "[TGT] LCD 없이. [/TGT]",
+    "next": "둘 다 . 좋아요 .",
+    "label": null
+  },
+  {
+    "timestamp": "21:18",
+    "timestamp_order": "290-1",
+    "speaker": "Speaker_B",
+    "prev": "좋아요 . LCD 없이.",
+    "target": "[TGT] 둘 다 . [/TGT]",
+    "next": "좋아요 . 그래서 우리는 프로토타입 프레젠테이션을 마쳤습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "30:15",
+    "timestamp_order": "291-1",
+    "speaker": "Speaker_C",
+    "prev": "LCD 없이. 둘 다 .",
+    "target": "[TGT] 좋아요 . [/TGT]",
+    "next": "그래서 우리는 프로토타입 프레젠테이션을 마쳤습니다. 혹시 더 말씀하실 것이 있으시면 말씀해주세요.",
+    "label": null
+  },
+  {
+    "timestamp": "30:21",
+    "timestamp_order": "292-1",
+    "speaker": "Speaker_C",
+    "prev": "둘 다 . 좋아요 .",
+    "target": "[TGT] 그래서 우리는 프로토타입 프레젠테이션을 마쳤습니다. [/TGT]",
+    "next": "혹시 더 말씀하실 것이 있으시면 말씀해주세요. 프로젝트 관리자가 이 모델을 만드는 데 있어서 재정적인 문제를 살펴보는 데 관심이 있을 것 같습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "30:21",
+    "timestamp_order": "293-1",
+    "speaker": "Speaker_C",
+    "prev": "좋아요 . 그래서 우리는 프로토타입 프레젠테이션을 마쳤습니다.",
+    "target": "[TGT] 혹시 더 말씀하실 것이 있으시면 말씀해주세요. [/TGT]",
+    "next": "프로젝트 관리자가 이 모델을 만드는 데 있어서 재정적인 문제를 살펴보는 데 관심이 있을 것 같습니다. 예를 들어 프로젝트 평가, 프로젝트 만족도 등.",
+    "label": null
+  },
+  {
+    "timestamp": "30:27",
+    "timestamp_order": "294-1",
+    "speaker": "Speaker_D",
+    "prev": "그래서 우리는 프로토타입 프레젠테이션을 마쳤습니다. 혹시 더 말씀하실 것이 있으시면 말씀해주세요.",
+    "target": "[TGT] 프로젝트 관리자가 이 모델을 만드는 데 있어서 재정적인 문제를 살펴보는 데 관심이 있을 것 같습니다. [/TGT]",
+    "next": "예를 들어 프로젝트 평가, 프로젝트 만족도 등. 괜찮아요, 필요 없다는 건 알지만, 괜찮아요.",
+    "label": null
+  },
+  {
+    "timestamp": "30:35",
+    "timestamp_order": "295-1",
+    "speaker": "Speaker_A",
+    "prev": "혹시 더 말씀하실 것이 있으시면 말씀해주세요. 프로젝트 관리자가 이 모델을 만드는 데 있어서 재정적인 문제를 살펴보는 데 관심이 있을 것 같습니다.",
+    "target": "[TGT] 예를 들어 프로젝트 평가, 프로젝트 만족도 등. [/TGT]",
+    "next": "괜찮아요, 필요 없다는 건 알지만, 괜찮아요. 좋았죠.",
+    "label": null
+  },
+  {
+    "timestamp": "31:07",
+    "timestamp_order": "296-1",
+    "speaker": "Speaker_D",
+    "prev": "프로젝트 관리자가 이 모델을 만드는 데 있어서 재정적인 문제를 살펴보는 데 관심이 있을 것 같습니다. 예를 들어 프로젝트 평가, 프로젝트 만족도 등.",
+    "target": "[TGT] 괜찮아요, 필요 없다는 건 알지만, 괜찮아요. [/TGT]",
+    "next": "좋았죠. 프로젝트 프레젠테이션을 위한 프레젠테이션을 만드는 데 적합합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "31:12",
+    "timestamp_order": "297-1",
+    "speaker": "Speaker_C",
+    "prev": "예를 들어 프로젝트 평가, 프로젝트 만족도 등. 괜찮아요, 필요 없다는 건 알지만, 괜찮아요.",
+    "target": "[TGT] 좋았죠. [/TGT]",
+    "next": "프로젝트 프레젠테이션을 위한 프레젠테이션을 만드는 데 적합합니다. Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "31:13",
+    "timestamp_order": "298-1",
+    "speaker": "Speaker_D",
+    "prev": "괜찮아요, 필요 없다는 건 알지만, 괜찮아요. 좋았죠.",
+    "target": "[TGT] 프로젝트 프레젠테이션을 위한 프레젠테이션을 만드는 데 적합합니다. [/TGT]",
+    "next": "Mm . 네, 어쨌든 모듈을 만들 실험실이 근처에 있으니 괜찮아요.",
+    "label": null
+  },
+  {
+    "timestamp": "31:14",
+    "timestamp_order": "299-1",
+    "speaker": "Speaker_B",
+    "prev": "좋았죠. 프로젝트 프레젠테이션을 위한 프레젠테이션을 만드는 데 적합합니다.",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "네, 어쨌든 모듈을 만들 실험실이 근처에 있으니 괜찮아요. 잘했어요.",
+    "label": null
+  },
+  {
+    "timestamp": "31:16",
+    "timestamp_order": "300-1",
+    "speaker": "Speaker_B",
+    "prev": "프로젝트 프레젠테이션을 위한 프레젠테이션을 만드는 데 적합합니다. Mm .",
+    "target": "[TGT] 네, 어쨌든 모듈을 만들 실험실이 근처에 있으니 괜찮아요. [/TGT]",
+    "next": "잘했어요. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "31:16",
+    "timestamp_order": "301-1",
+    "speaker": "Speaker_B",
+    "prev": "Mm . 네, 어쨌든 모듈을 만들 실험실이 근처에 있으니 괜찮아요.",
+    "target": "[TGT] 잘했어요. [/TGT]",
+    "next": "응 . 음-음.",
+    "label": null
+  },
+  {
+    "timestamp": "31:17",
+    "timestamp_order": "302-1",
+    "speaker": "Speaker_C",
+    "prev": "네, 어쨌든 모듈을 만들 실험실이 근처에 있으니 괜찮아요. 잘했어요.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "음-음. 그리고 리더십이 훌륭했습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "31:24",
+    "timestamp_order": "303-1",
+    "speaker": "Speaker_A",
+    "prev": "잘했어요. 응 .",
+    "target": "[TGT] 음-음. [/TGT]",
+    "next": "그리고 리더십이 훌륭했습니다. 네, 그럴 것 같아요.",
+    "label": null
+  },
+  {
+    "timestamp": "31:24",
+    "timestamp_order": "304-1",
+    "speaker": "Speaker_D",
+    "prev": "응 . 음-음.",
+    "target": "[TGT] 그리고 리더십이 훌륭했습니다. [/TGT]",
+    "next": "네, 그럴 것 같아요. 그는 당신이 원하는 대로 말할 자유를 주었어요.",
+    "label": null
+  },
+  {
+    "timestamp": "31:26",
+    "timestamp_order": "305-1",
+    "speaker": "Speaker_A",
+    "prev": "음-음. 그리고 리더십이 훌륭했습니다.",
+    "target": "[TGT] 네, 그럴 것 같아요. [/TGT]",
+    "next": "그는 당신이 원하는 대로 말할 자유를 주었어요. 네, 그렇죠.",
+    "label": null
+  },
+  {
+    "timestamp": "31:26",
+    "timestamp_order": "306-1",
+    "speaker": "Speaker_A",
+    "prev": "그리고 리더십이 훌륭했습니다. 네, 그럴 것 같아요.",
+    "target": "[TGT] 그는 당신이 원하는 대로 말할 자유를 주었어요. [/TGT]",
+    "next": "네, 그렇죠. 네, 맞아요.",
+    "label": null
+  },
+  {
+    "timestamp": "31:32",
+    "timestamp_order": "307-1",
+    "speaker": "Speaker_C",
+    "prev": "네, 그럴 것 같아요. 그는 당신이 원하는 대로 말할 자유를 주었어요.",
+    "target": "[TGT] 네, 그렇죠. [/TGT]",
+    "next": "네, 맞아요. 네, 맞아요.",
+    "label": null
+  },
+  {
+    "timestamp": "31:35",
+    "timestamp_order": "308-1",
+    "speaker": "Speaker_D",
+    "prev": "그는 당신이 원하는 대로 말할 자유를 주었어요. 네, 그렇죠.",
+    "target": "[TGT] 네, 맞아요. [/TGT]",
+    "next": "네, 맞아요. 음, 팀워크가 정말 좋았어요.",
+    "label": null
+  },
+  {
+    "timestamp": "31:35",
+    "timestamp_order": "309-1",
+    "speaker": "Speaker_D",
+    "prev": "네, 그렇죠. 네, 맞아요.",
+    "target": "[TGT] 네, 맞아요. [/TGT]",
+    "next": "음, 팀워크가 정말 좋았어요. 같이 일하게 되어 정말 만족스러웠어요.",
+    "label": null
+  },
+  {
+    "timestamp": "31:38",
+    "timestamp_order": "310-1",
+    "speaker": "Speaker_A",
+    "prev": "네, 맞아요. 네, 맞아요.",
+    "target": "[TGT] 음, 팀워크가 정말 좋았어요. [/TGT]",
+    "next": "같이 일하게 되어 정말 만족스러웠어요. 매우 민주적이죠.",
+    "label": null
+  },
+  {
+    "timestamp": "31:38",
+    "timestamp_order": "311-1",
+    "speaker": "Speaker_A",
+    "prev": "네, 맞아요. 음, 팀워크가 정말 좋았어요.",
+    "target": "[TGT] 같이 일하게 되어 정말 만족스러웠어요. [/TGT]",
+    "next": "매우 민주적이죠. 당신과 함께.",
+    "label": null
+  },
+  {
+    "timestamp": "31:41",
+    "timestamp_order": "312-1",
+    "speaker": "Speaker_C",
+    "prev": "음, 팀워크가 정말 좋았어요. 같이 일하게 되어 정말 만족스러웠어요.",
+    "target": "[TGT] 매우 민주적이죠. [/TGT]",
+    "next": "당신과 함께. 오.",
+    "label": null
+  },
+  {
+    "timestamp": "31:45",
+    "timestamp_order": "313-1",
+    "speaker": "Speaker_A",
+    "prev": "같이 일하게 되어 정말 만족스러웠어요. 매우 민주적이죠.",
+    "target": "[TGT] 당신과 함께. [/TGT]",
+    "next": "오. 감사합니다 .",
+    "label": null
+  },
+  {
+    "timestamp": "31:45",
+    "timestamp_order": "314-1",
+    "speaker": "Speaker_A",
+    "prev": "매우 민주적이죠. 당신과 함께.",
+    "target": "[TGT] 오. [/TGT]",
+    "next": "감사합니다 . 감사합니다 .",
+    "label": null
+  },
+  {
+    "timestamp": "31:46",
+    "timestamp_order": "315-1",
+    "speaker": "Speaker_C",
+    "prev": "당신과 함께. 오.",
+    "target": "[TGT] 감사합니다 . [/TGT]",
+    "next": "감사합니다 . 괜찮은 .",
+    "label": null
+  },
+  {
+    "timestamp": "31:48",
+    "timestamp_order": "316-1",
+    "speaker": "Speaker_B",
+    "prev": "오. 감사합니다 .",
+    "target": "[TGT] 감사합니다 . [/TGT]",
+    "next": "괜찮은 . 괜찮은 .",
+    "label": null
+  },
+  {
+    "timestamp": "31:53",
+    "timestamp_order": "317-1",
+    "speaker": "Speaker_C",
+    "prev": "감사합니다 . 감사합니다 .",
+    "target": "[TGT] 괜찮은 . [/TGT]",
+    "next": "괜찮은 . 새로운 아이디어가 발견되었습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "31:54",
+    "timestamp_order": "318-1",
+    "speaker": "Speaker_B",
+    "prev": "감사합니다 . 괜찮은 .",
+    "target": "[TGT] 괜찮은 . [/TGT]",
+    "next": "새로운 아이디어가 발견되었습니다. 이 프레젠테이션을 더욱 상호작용적이고 흥미롭게 만들 수 있는 새로운 아이디어가 있으신가요?",
+    "label": null
+  },
+  {
+    "timestamp": "31:55",
+    "timestamp_order": "319-1",
+    "speaker": "Speaker_D",
+    "prev": "괜찮은 . 괜찮은 .",
+    "target": "[TGT] 새로운 아이디어가 발견되었습니다. [/TGT]",
+    "next": "이 프레젠테이션을 더욱 상호작용적이고 흥미롭게 만들 수 있는 새로운 아이디어가 있으신가요? 네, 그리고 더 진지하게 말씀드리자면, 회의를 할 때마다 회의 전에 누가 논의할 것인지, 또는 그런 것들에 대한 명확한 요점을 갖는 것이 좋다고 생각합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "31:55",
+    "timestamp_order": "320-1",
+    "speaker": "Speaker_D",
+    "prev": "괜찮은 . 새로운 아이디어가 발견되었습니다.",
+    "target": "[TGT] 이 프레젠테이션을 더욱 상호작용적이고 흥미롭게 만들 수 있는 새로운 아이디어가 있으신가요? [/TGT]",
+    "next": "네, 그리고 더 진지하게 말씀드리자면, 회의를 할 때마다 회의 전에 누가 논의할 것인지, 또는 그런 것들에 대한 명확한 요점을 갖는 것이 좋다고 생각합니다. 괜찮아요.",
+    "label": null
+  },
+  {
+    "timestamp": "32:19",
+    "timestamp_order": "321-1",
+    "speaker": "Speaker_C",
+    "prev": "새로운 아이디어가 발견되었습니다. 이 프레젠테이션을 더욱 상호작용적이고 흥미롭게 만들 수 있는 새로운 아이디어가 있으신가요?",
+    "target": "[TGT] 네, 그리고 더 진지하게 말씀드리자면, 회의를 할 때마다 회의 전에 누가 논의할 것인지, 또는 그런 것들에 대한 명확한 요점을 갖는 것이 좋다고 생각합니다. [/TGT]",
+    "next": "괜찮아요. 프로젝트 목표는 달성한 것 같아요.",
+    "label": null
+  },
+  {
+    "timestamp": "32:43",
+    "timestamp_order": "322-1",
+    "speaker": "Speaker_C",
+    "prev": "이 프레젠테이션을 더욱 상호작용적이고 흥미롭게 만들 수 있는 새로운 아이디어가 있으신가요? 네, 그리고 더 진지하게 말씀드리자면, 회의를 할 때마다 회의 전에 누가 논의할 것인지, 또는 그런 것들에 대한 명확한 요점을 갖는 것이 좋다고 생각합니다.",
+    "target": "[TGT] 괜찮아요. [/TGT]",
+    "next": "프로젝트 목표는 달성한 것 같아요. 네, 예산에 맞네요.",
+    "label": null
+  },
+  {
+    "timestamp": "32:43",
+    "timestamp_order": "323-1",
+    "speaker": "Speaker_C",
+    "prev": "네, 그리고 더 진지하게 말씀드리자면, 회의를 할 때마다 회의 전에 누가 논의할 것인지, 또는 그런 것들에 대한 명확한 요점을 갖는 것이 좋다고 생각합니다. 괜찮아요.",
+    "target": "[TGT] 프로젝트 목표는 달성한 것 같아요. [/TGT]",
+    "next": "네, 예산에 맞네요. Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "32:48",
+    "timestamp_order": "324-1",
+    "speaker": "Speaker_D",
+    "prev": "괜찮아요. 프로젝트 목표는 달성한 것 같아요.",
+    "target": "[TGT] 네, 예산에 맞네요. [/TGT]",
+    "next": "Mm . LCD 없이, 음성 인식 없이는 간단할 것입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "32:50",
+    "timestamp_order": "325-1",
+    "speaker": "Speaker_B",
+    "prev": "프로젝트 목표는 달성한 것 같아요. 네, 예산에 맞네요.",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "LCD 없이, 음성 인식 없이는 간단할 것입니다. 네, 맞아요.",
+    "label": null
+  },
+  {
+    "timestamp": "32:52",
+    "timestamp_order": "326-1",
+    "speaker": "Speaker_A",
+    "prev": "네, 예산에 맞네요. Mm .",
+    "target": "[TGT] LCD 없이, 음성 인식 없이는 간단할 것입니다. [/TGT]",
+    "next": "네, 맞아요. 괜찮은 .",
+    "label": null
+  },
+  {
+    "timestamp": "32:55",
+    "timestamp_order": "327-1",
+    "speaker": "Speaker_D",
+    "prev": "Mm . LCD 없이, 음성 인식 없이는 간단할 것입니다.",
+    "target": "[TGT] 네, 맞아요. [/TGT]",
+    "next": "괜찮은 . 그리고 다음은 축하입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "32:58",
+    "timestamp_order": "328-1",
+    "speaker": "Speaker_C",
+    "prev": "LCD 없이, 음성 인식 없이는 간단할 것입니다. 네, 맞아요.",
+    "target": "[TGT] 괜찮은 . [/TGT]",
+    "next": "그리고 다음은 축하입니다. 그래서 .",
+    "label": null
+  },
+  {
+    "timestamp": "32:59",
+    "timestamp_order": "329-1",
+    "speaker": "Speaker_D",
+    "prev": "네, 맞아요. 괜찮은 .",
+    "target": "[TGT] 그리고 다음은 축하입니다. [/TGT]",
+    "next": "그래서 . 그럼 커피 머신.",
+    "label": null
+  },
+  {
+    "timestamp": "33:00",
+    "timestamp_order": "330-1",
+    "speaker": "Speaker_C",
+    "prev": "괜찮은 . 그리고 다음은 축하입니다.",
+    "target": "[TGT] 그래서 . [/TGT]",
+    "next": "그럼 커피 머신. 알았어요.",
+    "label": null
+  },
+  {
+    "timestamp": "33:02",
+    "timestamp_order": "331-1",
+    "speaker": "Speaker_C",
+    "prev": "그리고 다음은 축하입니다. 그래서 .",
+    "target": "[TGT] 그럼 커피 머신. [/TGT]",
+    "next": "알았어요. 네, 무료 무료 커피입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "33:02",
+    "timestamp_order": "332-1",
+    "speaker": "Speaker_C",
+    "prev": "그래서 . 그럼 커피 머신.",
+    "target": "[TGT] 알았어요. [/TGT]",
+    "next": "네, 무료 무료 커피입니다. 네, 고맙습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "33:04",
+    "timestamp_order": "333-1",
+    "speaker": "Speaker_A",
+    "prev": "그럼 커피 머신. 알았어요.",
+    "target": "[TGT] 네, 무료 무료 커피입니다. [/TGT]",
+    "next": "네, 고맙습니다. 정말 고맙습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "33:09",
+    "timestamp_order": "334-1",
+    "speaker": "Speaker_D",
+    "prev": "알았어요. 네, 무료 무료 커피입니다.",
+    "target": "[TGT] 네, 고맙습니다. [/TGT]",
+    "next": "정말 고맙습니다. 매우 감사합니다 .",
+    "label": null
+  },
+  {
+    "timestamp": "33:09",
+    "timestamp_order": "335-1",
+    "speaker": "Speaker_D",
+    "prev": "네, 무료 무료 커피입니다. 네, 고맙습니다.",
+    "target": "[TGT] 정말 고맙습니다. [/TGT]",
+    "next": "매우 감사합니다 . 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "33:09",
+    "timestamp_order": "336-1",
+    "speaker": "Speaker_B",
+    "prev": "네, 고맙습니다. 정말 고맙습니다.",
+    "target": "[TGT] 매우 감사합니다 . [/TGT]",
+    "next": "응 . 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "28:07",
+    "timestamp_order": "337-1",
+    "speaker": "Speaker_B",
+    "prev": "정말 고맙습니다. 매우 감사합니다 .",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "응 . 음, 또 다른 측면은 기존 제품이 있는 경우 동일한 고객을 유지해야 한다는 것입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "28:08",
+    "timestamp_order": "338-1",
+    "speaker": "Speaker_C",
+    "prev": "매우 감사합니다 . 응 .",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "음, 또 다른 측면은 기존 제품이 있는 경우 동일한 고객을 유지해야 한다는 것입니다. 동일한 고객이 다른 추가 기능을 구매하러 다시 올 것이기 때문입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "28:09",
+    "timestamp_order": "339-1",
+    "speaker": "Speaker_B",
+    "prev": "응 . 응 .",
+    "target": "[TGT] 음, 또 다른 측면은 기존 제품이 있는 경우 동일한 고객을 유지해야 한다는 것입니다. [/TGT]",
+    "next": "동일한 고객이 다른 추가 기능을 구매하러 다시 올 것이기 때문입니다. 네, 맞아요.",
+    "label": null
+  },
+  {
+    "timestamp": "28:09",
+    "timestamp_order": "340-1",
+    "speaker": "Speaker_B",
+    "prev": "응 . 음, 또 다른 측면은 기존 제품이 있는 경우 동일한 고객을 유지해야 한다는 것입니다.",
+    "target": "[TGT] 동일한 고객이 다른 추가 기능을 구매하러 다시 올 것이기 때문입니다. [/TGT]",
+    "next": "네, 맞아요. 선택 사항으로만 제공해도 돼요.",
+    "label": null
+  },
+  {
+    "timestamp": "28:21",
+    "timestamp_order": "341-1",
+    "speaker": "Speaker_D",
+    "prev": "음, 또 다른 측면은 기존 제품이 있는 경우 동일한 고객을 유지해야 한다는 것입니다. 동일한 고객이 다른 추가 기능을 구매하러 다시 올 것이기 때문입니다.",
+    "target": "[TGT] 네, 맞아요. [/TGT]",
+    "next": "선택 사항으로만 제공해도 돼요. 그러니까 마이크로소프트 제품 업데이트 같은 거죠.",
+    "label": null
+  },
+  {
+    "timestamp": "28:21",
+    "timestamp_order": "342-1",
+    "speaker": "Speaker_D",
+    "prev": "동일한 고객이 다른 추가 기능을 구매하러 다시 올 것이기 때문입니다. 네, 맞아요.",
+    "target": "[TGT] 선택 사항으로만 제공해도 돼요. [/TGT]",
+    "next": "그러니까 마이크로소프트 제품 업데이트 같은 거죠. 업데이트해서 판매하는 거죠.",
+    "label": null
+  },
+  {
+    "timestamp": "28:38",
+    "timestamp_order": "343-1",
+    "speaker": "Speaker_D",
+    "prev": "네, 맞아요. 선택 사항으로만 제공해도 돼요.",
+    "target": "[TGT] 그러니까 마이크로소프트 제품 업데이트 같은 거죠. [/TGT]",
+    "next": "업데이트해서 판매하는 거죠. 업데이트를 만들어서 판매하는 거죠.",
+    "label": null
+  },
+  {
+    "timestamp": "28:38",
+    "timestamp_order": "344-1",
+    "speaker": "Speaker_D",
+    "prev": "선택 사항으로만 제공해도 돼요. 그러니까 마이크로소프트 제품 업데이트 같은 거죠.",
+    "target": "[TGT] 업데이트해서 판매하는 거죠. [/TGT]",
+    "next": "업데이트를 만들어서 판매하는 거죠. 그리고 리모컨 모양은 어떻게 생각하세요?",
+    "label": null
+  },
+  {
+    "timestamp": "28:38",
+    "timestamp_order": "345-1",
+    "speaker": "Speaker_D",
+    "prev": "그러니까 마이크로소프트 제품 업데이트 같은 거죠. 업데이트해서 판매하는 거죠.",
+    "target": "[TGT] 업데이트를 만들어서 판매하는 거죠. [/TGT]",
+    "next": "그리고 리모컨 모양은 어떻게 생각하세요? 과일과 채소 모양으로 만들 수 있을까요?",
+    "label": null
+  },
+  {
+    "timestamp": "28:57",
+    "timestamp_order": "346-1",
+    "speaker": "Speaker_D",
+    "prev": "업데이트해서 판매하는 거죠. 업데이트를 만들어서 판매하는 거죠.",
+    "target": "[TGT] 그리고 리모컨 모양은 어떻게 생각하세요? [/TGT]",
+    "next": "과일과 채소 모양으로 만들 수 있을까요? Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "28:57",
+    "timestamp_order": "347-1",
+    "speaker": "Speaker_D",
+    "prev": "업데이트를 만들어서 판매하는 거죠. 그리고 리모컨 모양은 어떻게 생각하세요?",
+    "target": "[TGT] 과일과 채소 모양으로 만들 수 있을까요? [/TGT]",
+    "next": "Mm . 아니면 이렇게 될 수도 있겠네요.",
+    "label": null
+  },
+  {
+    "timestamp": "29:17",
+    "timestamp_order": "348-1",
+    "speaker": "Speaker_B",
+    "prev": "그리고 리모컨 모양은 어떻게 생각하세요? 과일과 채소 모양으로 만들 수 있을까요?",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "아니면 이렇게 될 수도 있겠네요. PCB는 모두 동일하지만, 외관 모양만 모두 다를 뿐이에요.",
+    "label": null
+  },
+  {
+    "timestamp": "29:21",
+    "timestamp_order": "349-1",
+    "speaker": "Speaker_D",
+    "prev": "과일과 채소 모양으로 만들 수 있을까요? Mm .",
+    "target": "[TGT] 아니면 이렇게 될 수도 있겠네요. [/TGT]",
+    "next": "PCB는 모두 동일하지만, 외관 모양만 모두 다를 뿐이에요. Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "29:21",
+    "timestamp_order": "350-1",
+    "speaker": "Speaker_D",
+    "prev": "Mm . 아니면 이렇게 될 수도 있겠네요.",
+    "target": "[TGT] PCB는 모두 동일하지만, 외관 모양만 모두 다를 뿐이에요. [/TGT]",
+    "next": "Mm . 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "29:27",
+    "timestamp_order": "351-1",
+    "speaker": "Speaker_B",
+    "prev": "아니면 이렇게 될 수도 있겠네요. PCB는 모두 동일하지만, 외관 모양만 모두 다를 뿐이에요.",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "응 . 우리가 바꿀 수 있는 것은 고객에게 스킨을 제공하는 것입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "29:35",
+    "timestamp_order": "352-1",
+    "speaker": "Speaker_B",
+    "prev": "PCB는 모두 동일하지만, 외관 모양만 모두 다를 뿐이에요. Mm .",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "우리가 바꿀 수 있는 것은 고객에게 스킨을 제공하는 것입니다. 예를 들어 요즘 휴대폰은 다양한 종류의 스킨을 판매하는데, 사람들은 '새 스킨을 쓰면 더 좋아 보인다'고 생각하죠.",
+    "label": null
+  },
+  {
+    "timestamp": "29:37",
+    "timestamp_order": "353-1",
+    "speaker": "Speaker_B",
+    "prev": "Mm . 응 .",
+    "target": "[TGT] 우리가 바꿀 수 있는 것은 고객에게 스킨을 제공하는 것입니다. [/TGT]",
+    "next": "예를 들어 요즘 휴대폰은 다양한 종류의 스킨을 판매하는데, 사람들은 '새 스킨을 쓰면 더 좋아 보인다'고 생각하죠. 네, 네, 맞아요.",
+    "label": null
+  },
+  {
+    "timestamp": "29:37",
+    "timestamp_order": "354-1",
+    "speaker": "Speaker_B",
+    "prev": "응 . 우리가 바꿀 수 있는 것은 고객에게 스킨을 제공하는 것입니다.",
+    "target": "[TGT] 예를 들어 요즘 휴대폰은 다양한 종류의 스킨을 판매하는데, 사람들은 '새 스킨을 쓰면 더 좋아 보인다'고 생각하죠. [/TGT]",
+    "next": "네, 네, 맞아요. 네, 맞아요.",
+    "label": null
+  },
+  {
+    "timestamp": "29:45",
+    "timestamp_order": "355-1",
+    "speaker": "Speaker_D",
+    "prev": "우리가 바꿀 수 있는 것은 고객에게 스킨을 제공하는 것입니다. 예를 들어 요즘 휴대폰은 다양한 종류의 스킨을 판매하는데, 사람들은 '새 스킨을 쓰면 더 좋아 보인다'고 생각하죠.",
+    "target": "[TGT] 네, 네, 맞아요. [/TGT]",
+    "next": "네, 맞아요. 우리는 동일한 글로벌 모양을 가질 수 있고, 그런 다음 스킨을 추가하고 이런 질감의 스펀지 같은 것들을 추가할 수 있죠.",
+    "label": null
+  },
+  {
+    "timestamp": "29:50",
+    "timestamp_order": "356-1",
+    "speaker": "Speaker_C",
+    "prev": "예를 들어 요즘 휴대폰은 다양한 종류의 스킨을 판매하는데, 사람들은 '새 스킨을 쓰면 더 좋아 보인다'고 생각하죠. 네, 네, 맞아요.",
+    "target": "[TGT] 네, 맞아요. [/TGT]",
+    "next": "우리는 동일한 글로벌 모양을 가질 수 있고, 그런 다음 스킨을 추가하고 이런 질감의 스펀지 같은 것들을 추가할 수 있죠. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "29:50",
+    "timestamp_order": "357-1",
+    "speaker": "Speaker_C",
+    "prev": "네, 네, 맞아요. 네, 맞아요.",
+    "target": "[TGT] 우리는 동일한 글로벌 모양을 가질 수 있고, 그런 다음 스킨을 추가하고 이런 질감의 스펀지 같은 것들을 추가할 수 있죠. [/TGT]",
+    "next": "응 . 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "29:52",
+    "timestamp_order": "358-1",
+    "speaker": "Speaker_B",
+    "prev": "네, 맞아요. 우리는 동일한 글로벌 모양을 가질 수 있고, 그런 다음 스킨을 추가하고 이런 질감의 스펀지 같은 것들을 추가할 수 있죠.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "응 . 네, 맞아요.",
+    "label": null
+  },
+  {
+    "timestamp": "29:54",
+    "timestamp_order": "359-1",
+    "speaker": "Speaker_B",
+    "prev": "우리는 동일한 글로벌 모양을 가질 수 있고, 그런 다음 스킨을 추가하고 이런 질감의 스펀지 같은 것들을 추가할 수 있죠. 응 .",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "네, 맞아요. 네, 어떤 재료로 만들면 될까요?",
+    "label": null
+  },
+  {
+    "timestamp": "29:55",
+    "timestamp_order": "360-1",
+    "speaker": "Speaker_D",
+    "prev": "응 . 응 .",
+    "target": "[TGT] 네, 맞아요. [/TGT]",
+    "next": "네, 어떤 재료로 만들면 될까요? 자료를 살펴봐야 할 것 같아요.",
+    "label": null
+  },
+  {
+    "timestamp": "30:00",
+    "timestamp_order": "361-1",
+    "speaker": "Speaker_B",
+    "prev": "응 . 네, 맞아요.",
+    "target": "[TGT] 네, 어떤 재료로 만들면 될까요? [/TGT]",
+    "next": "자료를 살펴봐야 할 것 같아요. 네, 아니면 애완견처럼 털이 많은 종류요.",
+    "label": null
+  },
+  {
+    "timestamp": "30:04",
+    "timestamp_order": "362-1",
+    "speaker": "Speaker_D",
+    "prev": "네, 맞아요. 네, 어떤 재료로 만들면 될까요?",
+    "target": "[TGT] 자료를 살펴봐야 할 것 같아요. [/TGT]",
+    "next": "네, 아니면 애완견처럼 털이 많은 종류요. 네 네.",
+    "label": null
+  },
+  {
+    "timestamp": "30:07",
+    "timestamp_order": "363-1",
+    "speaker": "Speaker_B",
+    "prev": "네, 어떤 재료로 만들면 될까요? 자료를 살펴봐야 할 것 같아요.",
+    "target": "[TGT] 네, 아니면 애완견처럼 털이 많은 종류요. [/TGT]",
+    "next": "네 네. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "30:09",
+    "timestamp_order": "364-1",
+    "speaker": "Speaker_D",
+    "prev": "자료를 살펴봐야 할 것 같아요. 네, 아니면 애완견처럼 털이 많은 종류요.",
+    "target": "[TGT] 네 네. [/TGT]",
+    "next": "응 . 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "23:07",
+    "timestamp_order": "365-1",
+    "speaker": "Speaker_B",
+    "prev": "네, 아니면 애완견처럼 털이 많은 종류요. 네 네.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "응 . 기술에 대한 지식이 별로 없어도 제품을 쉽게 사용할 수 있으므로 사용하기 쉬운 점에 6점을 주고 싶습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "23:08",
+    "timestamp_order": "366-1",
+    "speaker": "Speaker_B",
+    "prev": "네 네. 응 .",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "기술에 대한 지식이 별로 없어도 제품을 쉽게 사용할 수 있으므로 사용하기 쉬운 점에 6점을 주고 싶습니다. 네, 죄송하다고 생각합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "23:10",
+    "timestamp_order": "367-1",
+    "speaker": "Speaker_C",
+    "prev": "응 . 응 .",
+    "target": "[TGT] 기술에 대한 지식이 별로 없어도 제품을 쉽게 사용할 수 있으므로 사용하기 쉬운 점에 6점을 주고 싶습니다. [/TGT]",
+    "next": "네, 죄송하다고 생각합니다. 아니, 그냥 내가 보면 그럴 뿐이야",
+    "label": null
+  },
+  {
+    "timestamp": "23:17",
+    "timestamp_order": "368-1",
+    "speaker": "Speaker_B",
+    "prev": "응 . 기술에 대한 지식이 별로 없어도 제품을 쉽게 사용할 수 있으므로 사용하기 쉬운 점에 6점을 주고 싶습니다.",
+    "target": "[TGT] 네, 죄송하다고 생각합니다. [/TGT]",
+    "next": "아니, 그냥 내가 보면 그럴 뿐이야 f 비율은 LCD 없이 하는 게 더 나을 것 같아요.",
+    "label": null
+  },
+  {
+    "timestamp": "23:20",
+    "timestamp_order": "369-1",
+    "speaker": "Speaker_A",
+    "prev": "기술에 대한 지식이 별로 없어도 제품을 쉽게 사용할 수 있으므로 사용하기 쉬운 점에 6점을 주고 싶습니다. 네, 죄송하다고 생각합니다.",
+    "target": "[TGT] 아니, 그냥 내가 보면 그럴 뿐이야 [/TGT]",
+    "next": "f 비율은 LCD 없이 하는 게 더 나을 것 같아요. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "23:26",
+    "timestamp_order": "370-1",
+    "speaker": "Speaker_A",
+    "prev": "네, 죄송하다고 생각합니다. 아니, 그냥 내가 보면 그럴 뿐이야",
+    "target": "[TGT] f 비율은 LCD 없이 하는 게 더 나을 것 같아요. [/TGT]",
+    "next": "응 . 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "23:34",
+    "timestamp_order": "371-1",
+    "speaker": "Speaker_D",
+    "prev": "아니, 그냥 내가 보면 그럴 뿐이야 f 비율은 LCD 없이 하는 게 더 나을 것 같아요.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "응 . 아니면 이전 슬라이드로 돌아가서 몇 가지 업데이트 내용을 볼 수도 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "23:39",
+    "timestamp_order": "372-1",
+    "speaker": "Speaker_B",
+    "prev": "f 비율은 LCD 없이 하는 게 더 나을 것 같아요. 응 .",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "아니면 이전 슬라이드로 돌아가서 몇 가지 업데이트 내용을 볼 수도 있습니다. 그러니까 제품 디자인에서 과일이나 채소에 따라 몇 가지 변화를 주거나, LCD와 음성 인식 없이 스펀지 같은 터치로 바꿔주면 되는 거죠.",
+    "label": null
+  },
+  {
+    "timestamp": "23:40",
+    "timestamp_order": "373-1",
+    "speaker": "Speaker_D",
+    "prev": "응 . 응 .",
+    "target": "[TGT] 아니면 이전 슬라이드로 돌아가서 몇 가지 업데이트 내용을 볼 수도 있습니다. [/TGT]",
+    "next": "그러니까 제품 디자인에서 과일이나 채소에 따라 몇 가지 변화를 주거나, LCD와 음성 인식 없이 스펀지 같은 터치로 바꿔주면 되는 거죠. 그렇게 해도 저희 제품은 아주 좋을 거예요.",
+    "label": null
+  },
+  {
+    "timestamp": "23:48",
+    "timestamp_order": "374-1",
+    "speaker": "Speaker_D",
+    "prev": "응 . 아니면 이전 슬라이드로 돌아가서 몇 가지 업데이트 내용을 볼 수도 있습니다.",
+    "target": "[TGT] 그러니까 제품 디자인에서 과일이나 채소에 따라 몇 가지 변화를 주거나, LCD와 음성 인식 없이 스펀지 같은 터치로 바꿔주면 되는 거죠. [/TGT]",
+    "next": "그렇게 해도 저희 제품은 아주 좋을 거예요. 네.",
+    "label": null
+  },
+  {
+    "timestamp": "23:48",
+    "timestamp_order": "375-1",
+    "speaker": "Speaker_D",
+    "prev": "아니면 이전 슬라이드로 돌아가서 몇 가지 업데이트 내용을 볼 수도 있습니다. 그러니까 제품 디자인에서 과일이나 채소에 따라 몇 가지 변화를 주거나, LCD와 음성 인식 없이 스펀지 같은 터치로 바꿔주면 되는 거죠.",
+    "target": "[TGT] 그렇게 해도 저희 제품은 아주 좋을 거예요. [/TGT]",
+    "next": "네. 네.",
+    "label": null
+  },
+  {
+    "timestamp": "23:48",
+    "timestamp_order": "376-1",
+    "speaker": "Speaker_D",
+    "prev": "그러니까 제품 디자인에서 과일이나 채소에 따라 몇 가지 변화를 주거나, LCD와 음성 인식 없이 스펀지 같은 터치로 바꿔주면 되는 거죠. 그렇게 해도 저희 제품은 아주 좋을 거예요.",
+    "target": "[TGT] 네. [/TGT]",
+    "next": "네. 네.",
+    "label": null
+  },
+  {
+    "timestamp": "23:52",
+    "timestamp_order": "377-1",
+    "speaker": "Speaker_B",
+    "prev": "그렇게 해도 저희 제품은 아주 좋을 거예요. 네.",
+    "target": "[TGT] 네. [/TGT]",
+    "next": "네. 네, 생산하는 게 더 저렴하죠.",
+    "label": null
+  },
+  {
+    "timestamp": "23:52",
+    "timestamp_order": "378-1",
+    "speaker": "Speaker_B",
+    "prev": "네. 네.",
+    "target": "[TGT] 네. [/TGT]",
+    "next": "네, 생산하는 게 더 저렴하죠. 네, 맞아요.",
+    "label": null
+  },
+  {
+    "timestamp": "24:01",
+    "timestamp_order": "379-1",
+    "speaker": "Speaker_C",
+    "prev": "네. 네.",
+    "target": "[TGT] 네, 생산하는 게 더 저렴하죠. [/TGT]",
+    "next": "네, 맞아요. 네.",
+    "label": null
+  },
+  {
+    "timestamp": "24:11",
+    "timestamp_order": "380-1",
+    "speaker": "Speaker_D",
+    "prev": "네. 네, 생산하는 게 더 저렴하죠.",
+    "target": "[TGT] 네, 맞아요. [/TGT]",
+    "next": "네. 사용 편의성에 대해 한 가지 더 말씀드릴 게 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "24:13",
+    "timestamp_order": "381-1",
+    "speaker": "Speaker_B",
+    "prev": "네, 생산하는 게 더 저렴하죠. 네, 맞아요.",
+    "target": "[TGT] 네. [/TGT]",
+    "next": "사용 편의성에 대해 한 가지 더 말씀드릴 게 있습니다. 사용 편의성은 사람마다 다르다고 생각합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "24:13",
+    "timestamp_order": "382-1",
+    "speaker": "Speaker_B",
+    "prev": "네, 맞아요. 네.",
+    "target": "[TGT] 사용 편의성에 대해 한 가지 더 말씀드릴 게 있습니다. [/TGT]",
+    "next": "사용 편의성은 사람마다 다르다고 생각합니다. 젊은 세대에게는 사용하기 쉽다는 것이 매우 복잡할 수 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "24:13",
+    "timestamp_order": "383-1",
+    "speaker": "Speaker_B",
+    "prev": "네. 사용 편의성에 대해 한 가지 더 말씀드릴 게 있습니다.",
+    "target": "[TGT] 사용 편의성은 사람마다 다르다고 생각합니다. [/TGT]",
+    "next": "젊은 세대에게는 사용하기 쉽다는 것이 매우 복잡할 수 있습니다. 왜냐하면 많은 버튼과 제어 기능을 원하기 때문입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "24:13",
+    "timestamp_order": "384-1",
+    "speaker": "Speaker_B",
+    "prev": "사용 편의성에 대해 한 가지 더 말씀드릴 게 있습니다. 사용 편의성은 사람마다 다르다고 생각합니다.",
+    "target": "[TGT] 젊은 세대에게는 사용하기 쉽다는 것이 매우 복잡할 수 있습니다. [/TGT]",
+    "next": "왜냐하면 많은 버튼과 제어 기능을 원하기 때문입니다. 아이들은 비슷한 기능을 원하고, 노인들은 단순함을 원합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "24:13",
+    "timestamp_order": "385-1",
+    "speaker": "Speaker_B",
+    "prev": "사용 편의성은 사람마다 다르다고 생각합니다. 젊은 세대에게는 사용하기 쉽다는 것이 매우 복잡할 수 있습니다.",
+    "target": "[TGT] 왜냐하면 많은 버튼과 제어 기능을 원하기 때문입니다. [/TGT]",
+    "next": "아이들은 비슷한 기능을 원하고, 노인들은 단순함을 원합니다. 그래서 부모용 모듈을 만든 것입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "24:13",
+    "timestamp_order": "386-1",
+    "speaker": "Speaker_B",
+    "prev": "젊은 세대에게는 사용하기 쉽다는 것이 매우 복잡할 수 있습니다. 왜냐하면 많은 버튼과 제어 기능을 원하기 때문입니다.",
+    "target": "[TGT] 아이들은 비슷한 기능을 원하고, 노인들은 단순함을 원합니다. [/TGT]",
+    "next": "그래서 부모용 모듈을 만든 것입니다. 네.",
+    "label": null
+  },
+  {
+    "timestamp": "24:13",
+    "timestamp_order": "387-1",
+    "speaker": "Speaker_B",
+    "prev": "왜냐하면 많은 버튼과 제어 기능을 원하기 때문입니다. 아이들은 비슷한 기능을 원하고, 노인들은 단순함을 원합니다.",
+    "target": "[TGT] 그래서 부모용 모듈을 만든 것입니다. [/TGT]",
+    "next": "네. 음-음.",
+    "label": null
+  },
+  {
+    "timestamp": "24:22",
+    "timestamp_order": "388-1",
+    "speaker": "Speaker_C",
+    "prev": "아이들은 비슷한 기능을 원하고, 노인들은 단순함을 원합니다. 그래서 부모용 모듈을 만든 것입니다.",
+    "target": "[TGT] 네. [/TGT]",
+    "next": "음-음. 네 네 맞아요.",
+    "label": null
+  },
+  {
+    "timestamp": "24:23",
+    "timestamp_order": "389-1",
+    "speaker": "Speaker_A",
+    "prev": "그래서 부모용 모듈을 만든 것입니다. 네.",
+    "target": "[TGT] 음-음. [/TGT]",
+    "next": "네 네 맞아요. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "24:34",
+    "timestamp_order": "390-1",
+    "speaker": "Speaker_D",
+    "prev": "네. 음-음.",
+    "target": "[TGT] 네 네 맞아요. [/TGT]",
+    "next": "응 . 그럼 LCD 없이 그냥 5개만 가져가면 되나요?",
+    "label": null
+  },
+  {
+    "timestamp": "25:01",
+    "timestamp_order": "391-1",
+    "speaker": "Speaker_C",
+    "prev": "음-음. 네 네 맞아요.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "그럼 LCD 없이 그냥 5개만 가져가면 되나요? 육 .",
+    "label": null
+  },
+  {
+    "timestamp": "25:05",
+    "timestamp_order": "392-1",
+    "speaker": "Speaker_D",
+    "prev": "네 네 맞아요. 응 .",
+    "target": "[TGT] 그럼 LCD 없이 그냥 5개만 가져가면 되나요? [/TGT]",
+    "next": "육 . 충전기: 여기에도 충전기가 없습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "25:05",
+    "timestamp_order": "393-1",
+    "speaker": "Speaker_C",
+    "prev": "응 . 그럼 LCD 없이 그냥 5개만 가져가면 되나요?",
+    "target": "[TGT] 육 . [/TGT]",
+    "next": "충전기: 여기에도 충전기가 없습니다. 아니 그게",
+    "label": null
+  },
+  {
+    "timestamp": "14:12",
+    "timestamp_order": "394-1",
+    "speaker": "Speaker_A",
+    "prev": "그럼 LCD 없이 그냥 5개만 가져가면 되나요? 육 .",
+    "target": "[TGT] 충전기: 여기에도 충전기가 없습니다. [/TGT]",
+    "next": "아니 그게 하지만 모든 기능을 원할 경우에만 가능합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "14:19",
+    "timestamp_order": "395-1",
+    "speaker": "Speaker_A",
+    "prev": "육 . 충전기: 여기에도 충전기가 없습니다.",
+    "target": "[TGT] 아니 그게 [/TGT]",
+    "next": "하지만 모든 기능을 원할 경우에만 가능합니다. 예산보다 낮습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "14:20",
+    "timestamp_order": "396-1",
+    "speaker": "Speaker_C",
+    "prev": "충전기: 여기에도 충전기가 없습니다. 아니 그게",
+    "target": "[TGT] 하지만 모든 기능을 원할 경우에만 가능합니다. [/TGT]",
+    "next": "예산보다 낮습니다. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "14:22",
+    "timestamp_order": "397-1",
+    "speaker": "Speaker_A",
+    "prev": "아니 그게 하지만 모든 기능을 원할 경우에만 가능합니다.",
+    "target": "[TGT] 예산보다 낮습니다. [/TGT]",
+    "next": "응 . 실례합니다 ?",
+    "label": null
+  },
+  {
+    "timestamp": "14:24",
+    "timestamp_order": "398-1",
+    "speaker": "Speaker_B",
+    "prev": "하지만 모든 기능을 원할 경우에만 가능합니다. 예산보다 낮습니다.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "실례합니다 ? 그것은 바로 아래에 있어요",
+    "label": null
+  },
+  {
+    "timestamp": "14:25",
+    "timestamp_order": "399-1",
+    "speaker": "Speaker_C",
+    "prev": "예산보다 낮습니다. 응 .",
+    "target": "[TGT] 실례합니다 ? [/TGT]",
+    "next": "그것은 바로 아래에 있어요 네, 좋은 의견이지만 우리는",
+    "label": null
+  },
+  {
+    "timestamp": "14:26",
+    "timestamp_order": "400-1",
+    "speaker": "Speaker_A",
+    "prev": "응 . 실례합니다 ?",
+    "target": "[TGT] 그것은 바로 아래에 있어요 [/TGT]",
+    "next": "네, 좋은 의견이지만 우리는 대중의 요구 사항 등 다른 의견도 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "14:29",
+    "timestamp_order": "401-1",
+    "speaker": "Speaker_D",
+    "prev": "실례합니다 ? 그것은 바로 아래에 있어요",
+    "target": "[TGT] 네, 좋은 의견이지만 우리는 [/TGT]",
+    "next": "대중의 요구 사항 등 다른 의견도 있습니다. 대략적인 검토만 한 후, 발표를 하고 이 논의를 바탕으로 최종 결과물을 만들 수 있을 것 같습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "14:34",
+    "timestamp_order": "402-1",
+    "speaker": "Speaker_D",
+    "prev": "그것은 바로 아래에 있어요 네, 좋은 의견이지만 우리는",
+    "target": "[TGT] 대중의 요구 사항 등 다른 의견도 있습니다. [/TGT]",
+    "next": "대략적인 검토만 한 후, 발표를 하고 이 논의를 바탕으로 최종 결과물을 만들 수 있을 것 같습니다. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "14:34",
+    "timestamp_order": "403-1",
+    "speaker": "Speaker_D",
+    "prev": "네, 좋은 의견이지만 우리는 대중의 요구 사항 등 다른 의견도 있습니다.",
+    "target": "[TGT] 대략적인 검토만 한 후, 발표를 하고 이 논의를 바탕으로 최종 결과물을 만들 수 있을 것 같습니다. [/TGT]",
+    "next": "응 . 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "14:42",
+    "timestamp_order": "404-1",
+    "speaker": "Speaker_B",
+    "prev": "대중의 요구 사항 등 다른 의견도 있습니다. 대략적인 검토만 한 후, 발표를 하고 이 논의를 바탕으로 최종 결과물을 만들 수 있을 것 같습니다.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "응 . 그럼 제 프레젠테이션으로 넘어가면 될 것 같습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "14:44",
+    "timestamp_order": "405-1",
+    "speaker": "Speaker_C",
+    "prev": "대략적인 검토만 한 후, 발표를 하고 이 논의를 바탕으로 최종 결과물을 만들 수 있을 것 같습니다. 응 .",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "그럼 제 프레젠테이션으로 넘어가면 될 것 같습니다. 우리는 끝낼 수 있다.",
+    "label": null
+  },
+  {
+    "timestamp": "14:45",
+    "timestamp_order": "406-1",
+    "speaker": "Speaker_D",
+    "prev": "응 . 응 .",
+    "target": "[TGT] 그럼 제 프레젠테이션으로 넘어가면 될 것 같습니다. [/TGT]",
+    "next": "우리는 끝낼 수 있다. 아니면 우리는 어떤 최종 결론에 도달할 수도 있을 거예요.",
+    "label": null
+  },
+  {
+    "timestamp": "14:49",
+    "timestamp_order": "407-1",
+    "speaker": "Speaker_D",
+    "prev": "응 . 그럼 제 프레젠테이션으로 넘어가면 될 것 같습니다.",
+    "target": "[TGT] 우리는 끝낼 수 있다. [/TGT]",
+    "next": "아니면 우리는 어떤 최종 결론에 도달할 수도 있을 거예요. 그래서 마케팅 부서는 평가 기준을 만들었고 그 결과 중 일부는 다음과 같습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "14:53",
+    "timestamp_order": "408-1",
+    "speaker": "Speaker_D",
+    "prev": "그럼 제 프레젠테이션으로 넘어가면 될 것 같습니다. 우리는 끝낼 수 있다.",
+    "target": "[TGT] 아니면 우리는 어떤 최종 결론에 도달할 수도 있을 거예요. [/TGT]",
+    "next": "그래서 마케팅 부서는 평가 기준을 만들었고 그 결과 중 일부는 다음과 같습니다. 시장에서 사람들은 LCD에 큰 관심을 보이지 않습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "15:07",
+    "timestamp_order": "409-1",
+    "speaker": "Speaker_D",
+    "prev": "우리는 끝낼 수 있다. 아니면 우리는 어떤 최종 결론에 도달할 수도 있을 거예요.",
+    "target": "[TGT] 그래서 마케팅 부서는 평가 기준을 만들었고 그 결과 중 일부는 다음과 같습니다. [/TGT]",
+    "next": "시장에서 사람들은 LCD에 큰 관심을 보이지 않습니다. LCD가 있든 없든, 음성 인식 인터페이스가 있든 없든, 대부분의 사람들이 가장 중요하게 생각하는 것은 세련된 디자인과 느낌입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "15:16",
+    "timestamp_order": "410-1",
+    "speaker": "Speaker_D",
+    "prev": "아니면 우리는 어떤 최종 결론에 도달할 수도 있을 거예요. 그래서 마케팅 부서는 평가 기준을 만들었고 그 결과 중 일부는 다음과 같습니다.",
+    "target": "[TGT] 시장에서 사람들은 LCD에 큰 관심을 보이지 않습니다. [/TGT]",
+    "next": "LCD가 있든 없든, 음성 인식 인터페이스가 있든 없든, 대부분의 사람들이 가장 중요하게 생각하는 것은 세련된 디자인과 느낌입니다. 화려하면서도 휴대하기 편리해야 합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "15:16",
+    "timestamp_order": "411-1",
+    "speaker": "Speaker_D",
+    "prev": "그래서 마케팅 부서는 평가 기준을 만들었고 그 결과 중 일부는 다음과 같습니다. 시장에서 사람들은 LCD에 큰 관심을 보이지 않습니다.",
+    "target": "[TGT] LCD가 있든 없든, 음성 인식 인터페이스가 있든 없든, 대부분의 사람들이 가장 중요하게 생각하는 것은 세련된 디자인과 느낌입니다. [/TGT]",
+    "next": "화려하면서도 휴대하기 편리해야 합니다. 그리고 두 번째로는 기술적으로 훨씬 더 혁신적이어야 합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "15:16",
+    "timestamp_order": "412-1",
+    "speaker": "Speaker_D",
+    "prev": "시장에서 사람들은 LCD에 큰 관심을 보이지 않습니다. LCD가 있든 없든, 음성 인식 인터페이스가 있든 없든, 대부분의 사람들이 가장 중요하게 생각하는 것은 세련된 디자인과 느낌입니다.",
+    "target": "[TGT] 화려하면서도 휴대하기 편리해야 합니다. [/TGT]",
+    "next": "그리고 두 번째로는 기술적으로 훨씬 더 혁신적이어야 합니다. Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "15:16",
+    "timestamp_order": "413-1",
+    "speaker": "Speaker_D",
+    "prev": "LCD가 있든 없든, 음성 인식 인터페이스가 있든 없든, 대부분의 사람들이 가장 중요하게 생각하는 것은 세련된 디자인과 느낌입니다. 화려하면서도 휴대하기 편리해야 합니다.",
+    "target": "[TGT] 그리고 두 번째로는 기술적으로 훨씬 더 혁신적이어야 합니다. [/TGT]",
+    "next": "Mm . 물론, 기술적으로 더 혁신적이라고 할 수 있는 LCD나 인식을 넣을 수도 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "15:40",
+    "timestamp_order": "414-1",
+    "speaker": "Speaker_B",
+    "prev": "화려하면서도 휴대하기 편리해야 합니다. 그리고 두 번째로는 기술적으로 훨씬 더 혁신적이어야 합니다.",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "물론, 기술적으로 더 혁신적이라고 할 수 있는 LCD나 인식을 넣을 수도 있습니다. 그리고 세 번째는 사용하기 쉽습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "15:46",
+    "timestamp_order": "415-1",
+    "speaker": "Speaker_D",
+    "prev": "그리고 두 번째로는 기술적으로 훨씬 더 혁신적이어야 합니다. Mm .",
+    "target": "[TGT] 물론, 기술적으로 더 혁신적이라고 할 수 있는 LCD나 인식을 넣을 수도 있습니다. [/TGT]",
+    "next": "그리고 세 번째는 사용하기 쉽습니다. Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "15:46",
+    "timestamp_order": "416-1",
+    "speaker": "Speaker_D",
+    "prev": "Mm . 물론, 기술적으로 더 혁신적이라고 할 수 있는 LCD나 인식을 넣을 수도 있습니다.",
+    "target": "[TGT] 그리고 세 번째는 사용하기 쉽습니다. [/TGT]",
+    "next": "Mm . 글쎄요, 제 생각에 혁신의 기술은 제품 자체에 있다고 봐요.",
+    "label": null
+  },
+  {
+    "timestamp": "15:55",
+    "timestamp_order": "417-1",
+    "speaker": "Speaker_B",
+    "prev": "물론, 기술적으로 더 혁신적이라고 할 수 있는 LCD나 인식을 넣을 수도 있습니다. 그리고 세 번째는 사용하기 쉽습니다.",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "글쎄요, 제 생각에 혁신의 기술은 제품 자체에 있다고 봐요. 아직은 TV 화면과 4개의 버튼만으로 대화형으로 선택할 수 있는 리모컨이 없거든요.",
+    "label": null
+  },
+  {
+    "timestamp": "15:55",
+    "timestamp_order": "418-1",
+    "speaker": "Speaker_C",
+    "prev": "그리고 세 번째는 사용하기 쉽습니다. Mm .",
+    "target": "[TGT] 글쎄요, 제 생각에 혁신의 기술은 제품 자체에 있다고 봐요. [/TGT]",
+    "next": "아직은 TV 화면과 4개의 버튼만으로 대화형으로 선택할 수 있는 리모컨이 없거든요. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "15:55",
+    "timestamp_order": "419-1",
+    "speaker": "Speaker_C",
+    "prev": "Mm . 글쎄요, 제 생각에 혁신의 기술은 제품 자체에 있다고 봐요.",
+    "target": "[TGT] 아직은 TV 화면과 4개의 버튼만으로 대화형으로 선택할 수 있는 리모컨이 없거든요. [/TGT]",
+    "next": "응 . 그건 선택 사항입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "25:52",
+    "timestamp_order": "420-1",
+    "speaker": "Speaker_C",
+    "prev": "글쎄요, 제 생각에 혁신의 기술은 제품 자체에 있다고 봐요. 아직은 TV 화면과 4개의 버튼만으로 대화형으로 선택할 수 있는 리모컨이 없거든요.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "그건 선택 사항입니다. 사고 싶은 사람은 가질 수 있지만, 그렇지 않으면 안 됩니다.",
+    "label": null
+  },
+  {
+    "timestamp": "25:52",
+    "timestamp_order": "421-1",
+    "speaker": "Speaker_D",
+    "prev": "아직은 TV 화면과 4개의 버튼만으로 대화형으로 선택할 수 있는 리모컨이 없거든요. 응 .",
+    "target": "[TGT] 그건 선택 사항입니다. [/TGT]",
+    "next": "사고 싶은 사람은 가질 수 있지만, 그렇지 않으면 안 됩니다. 아, 그러면 그건 선택 사항이군요.",
+    "label": null
+  },
+  {
+    "timestamp": "25:52",
+    "timestamp_order": "422-1",
+    "speaker": "Speaker_D",
+    "prev": "응 . 그건 선택 사항입니다.",
+    "target": "[TGT] 사고 싶은 사람은 가질 수 있지만, 그렇지 않으면 안 됩니다. [/TGT]",
+    "next": "아, 그러면 그건 선택 사항이군요. 선택사항입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "25:57",
+    "timestamp_order": "423-1",
+    "speaker": "Speaker_A",
+    "prev": "그건 선택 사항입니다. 사고 싶은 사람은 가질 수 있지만, 그렇지 않으면 안 됩니다.",
+    "target": "[TGT] 아, 그러면 그건 선택 사항이군요. [/TGT]",
+    "next": "선택사항입니다. 내 생각엔 그럴 것 같아 내 생각엔 그럴 것 같아",
+    "label": null
+  },
+  {
+    "timestamp": "25:58",
+    "timestamp_order": "424-1",
+    "speaker": "Speaker_D",
+    "prev": "사고 싶은 사람은 가질 수 있지만, 그렇지 않으면 안 됩니다. 아, 그러면 그건 선택 사항이군요.",
+    "target": "[TGT] 선택사항입니다. [/TGT]",
+    "next": "내 생각엔 그럴 것 같아 내 생각엔 그럴 것 같아 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "26:04",
+    "timestamp_order": "425-1",
+    "speaker": "Speaker_A",
+    "prev": "아, 그러면 그건 선택 사항이군요. 선택사항입니다.",
+    "target": "[TGT] 내 생각엔 그럴 것 같아 내 생각엔 그럴 것 같아 [/TGT]",
+    "next": "응 . 네, 하지만 추가 기능이 있다면 아이들이 부모 모듈을 숨겨서 부모가 사용할 수 없게 할 수도 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "26:08",
+    "timestamp_order": "426-1",
+    "speaker": "Speaker_D",
+    "prev": "선택사항입니다. 내 생각엔 그럴 것 같아 내 생각엔 그럴 것 같아",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "네, 하지만 추가 기능이 있다면 아이들이 부모 모듈을 숨겨서 부모가 사용할 수 없게 할 수도 있습니다. 같은 세트에서, 그렇죠, 그리고 개별 버튼을 사용해서 작동하게 하죠.",
+    "label": null
+  },
+  {
+    "timestamp": "26:16",
+    "timestamp_order": "427-1",
+    "speaker": "Speaker_D",
+    "prev": "내 생각엔 그럴 것 같아 내 생각엔 그럴 것 같아 응 .",
+    "target": "[TGT] 네, 하지만 추가 기능이 있다면 아이들이 부모 모듈을 숨겨서 부모가 사용할 수 없게 할 수도 있습니다. [/TGT]",
+    "next": "같은 세트에서, 그렇죠, 그리고 개별 버튼을 사용해서 작동하게 하죠. 오 .",
+    "label": null
+  },
+  {
+    "timestamp": "26:32",
+    "timestamp_order": "428-1",
+    "speaker": "Speaker_D",
+    "prev": "응 . 네, 하지만 추가 기능이 있다면 아이들이 부모 모듈을 숨겨서 부모가 사용할 수 없게 할 수도 있습니다.",
+    "target": "[TGT] 같은 세트에서, 그렇죠, 그리고 개별 버튼을 사용해서 작동하게 하죠. [/TGT]",
+    "next": "오 . 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "26:34",
+    "timestamp_order": "429-1",
+    "speaker": "Speaker_B",
+    "prev": "네, 하지만 추가 기능이 있다면 아이들이 부모 모듈을 숨겨서 부모가 사용할 수 없게 할 수도 있습니다. 같은 세트에서, 그렇죠, 그리고 개별 버튼을 사용해서 작동하게 하죠.",
+    "target": "[TGT] 오 . [/TGT]",
+    "next": "응 . 그러니까 이 모듈들이 기능적일지라도 선택 사항일 뿐이라는 말씀이군요.",
+    "label": null
+  },
+  {
+    "timestamp": "26:37",
+    "timestamp_order": "430-1",
+    "speaker": "Speaker_A",
+    "prev": "같은 세트에서, 그렇죠, 그리고 개별 버튼을 사용해서 작동하게 하죠. 오 .",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "그러니까 이 모듈들이 기능적일지라도 선택 사항일 뿐이라는 말씀이군요. 네, 어떻게 생각하세요?",
+    "label": null
+  },
+  {
+    "timestamp": "27:00",
+    "timestamp_order": "431-1",
+    "speaker": "Speaker_A",
+    "prev": "오 . 응 .",
+    "target": "[TGT] 그러니까 이 모듈들이 기능적일지라도 선택 사항일 뿐이라는 말씀이군요. [/TGT]",
+    "next": "네, 어떻게 생각하세요? 잘 모르겠네요.",
+    "label": null
+  },
+  {
+    "timestamp": "27:05",
+    "timestamp_order": "432-1",
+    "speaker": "Speaker_B",
+    "prev": "응 . 그러니까 이 모듈들이 기능적일지라도 선택 사항일 뿐이라는 말씀이군요.",
+    "target": "[TGT] 네, 어떻게 생각하세요? [/TGT]",
+    "next": "잘 모르겠네요. 마케팅 관리자시죠.",
+    "label": null
+  },
+  {
+    "timestamp": "27:05",
+    "timestamp_order": "433-1",
+    "speaker": "Speaker_B",
+    "prev": "그러니까 이 모듈들이 기능적일지라도 선택 사항일 뿐이라는 말씀이군요. 네, 어떻게 생각하세요?",
+    "target": "[TGT] 잘 모르겠네요. [/TGT]",
+    "next": "마케팅 관리자시죠. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "27:05",
+    "timestamp_order": "434-1",
+    "speaker": "Speaker_B",
+    "prev": "네, 어떻게 생각하세요? 잘 모르겠네요.",
+    "target": "[TGT] 마케팅 관리자시죠. [/TGT]",
+    "next": "응 . 글쎄, 뭔가 좋은 게 있다면 그럴 수 있을 거야",
+    "label": null
+  },
+  {
+    "timestamp": "27:20",
+    "timestamp_order": "435-1",
+    "speaker": "Speaker_C",
+    "prev": "잘 모르겠네요. 마케팅 관리자시죠.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "글쎄, 뭔가 좋은 게 있다면 그럴 수 있을 거야 나는 그것이 증가한다고 생각한다.",
+    "label": null
+  },
+  {
+    "timestamp": "27:35",
+    "timestamp_order": "436-1",
+    "speaker": "Speaker_C",
+    "prev": "마케팅 관리자시죠. 응 .",
+    "target": "[TGT] 글쎄, 뭔가 좋은 게 있다면 그럴 수 있을 거야 [/TGT]",
+    "next": "나는 그것이 증가한다고 생각한다. 흠 .",
+    "label": null
+  },
+  {
+    "timestamp": "27:37",
+    "timestamp_order": "437-1",
+    "speaker": "Speaker_A",
+    "prev": "응 . 글쎄, 뭔가 좋은 게 있다면 그럴 수 있을 거야",
+    "target": "[TGT] 나는 그것이 증가한다고 생각한다. [/TGT]",
+    "next": "흠 . 하지만 세 가지 다른 옵션을 갖춘 단일 PC로 만들 수도 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "27:48",
+    "timestamp_order": "438-1",
+    "speaker": "Speaker_A",
+    "prev": "글쎄, 뭔가 좋은 게 있다면 그럴 수 있을 거야 나는 그것이 증가한다고 생각한다.",
+    "target": "[TGT] 흠 . [/TGT]",
+    "next": "하지만 세 가지 다른 옵션을 갖춘 단일 PC로 만들 수도 있습니다. Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "27:50",
+    "timestamp_order": "439-1",
+    "speaker": "Speaker_D",
+    "prev": "나는 그것이 증가한다고 생각한다. 흠 .",
+    "target": "[TGT] 하지만 세 가지 다른 옵션을 갖춘 단일 PC로 만들 수도 있습니다. [/TGT]",
+    "next": "Mm . Mm .",
+    "label": null
+  },
+  {
+    "timestamp": "28:00",
+    "timestamp_order": "440-1",
+    "speaker": "Speaker_B",
+    "prev": "흠 . 하지만 세 가지 다른 옵션을 갖춘 단일 PC로 만들 수도 있습니다.",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "Mm . 같은 PCB에 있죠.",
+    "label": null
+  },
+  {
+    "timestamp": "28:05",
+    "timestamp_order": "441-1",
+    "speaker": "Speaker_B",
+    "prev": "하지만 세 가지 다른 옵션을 갖춘 단일 PC로 만들 수도 있습니다. Mm .",
+    "target": "[TGT] Mm . [/TGT]",
+    "next": "같은 PCB에 있죠. 그렇죠.",
+    "label": null
+  },
+  {
+    "timestamp": "28:07",
+    "timestamp_order": "442-1",
+    "speaker": "Speaker_D",
+    "prev": "Mm . Mm .",
+    "target": "[TGT] 같은 PCB에 있죠. [/TGT]",
+    "next": "그렇죠. 단순함과 강력함.",
+    "label": null
+  },
+  {
+    "timestamp": "28:07",
+    "timestamp_order": "443-1",
+    "speaker": "Speaker_D",
+    "prev": "Mm . 같은 PCB에 있죠.",
+    "target": "[TGT] 그렇죠. [/TGT]",
+    "next": "단순함과 강력함. 단순함은 버튼이 적다는 것을 의미하고, 강력함은 앞서 회의에서 보셨던 것처럼 버튼이 많은 모든 컨트롤을 제공한다는 것을 의미합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "10:43",
+    "timestamp_order": "444-1",
+    "speaker": "Speaker_B",
+    "prev": "같은 PCB에 있죠. 그렇죠.",
+    "target": "[TGT] 단순함과 강력함. [/TGT]",
+    "next": "단순함은 버튼이 적다는 것을 의미하고, 강력함은 앞서 회의에서 보셨던 것처럼 버튼이 많은 모든 컨트롤을 제공한다는 것을 의미합니다. 하지만 여기서는 버튼이 적지만 강력한 기능은 그대로 유지됩니다.",
+    "label": null
+  },
+  {
+    "timestamp": "10:43",
+    "timestamp_order": "445-1",
+    "speaker": "Speaker_B",
+    "prev": "그렇죠. 단순함과 강력함.",
+    "target": "[TGT] 단순함은 버튼이 적다는 것을 의미하고, 강력함은 앞서 회의에서 보셨던 것처럼 버튼이 많은 모든 컨트롤을 제공한다는 것을 의미합니다. [/TGT]",
+    "next": "하지만 여기서는 버튼이 적지만 강력한 기능은 그대로 유지됩니다. 단순함 외에도 또 다른 장점이 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "10:43",
+    "timestamp_order": "446-1",
+    "speaker": "Speaker_B",
+    "prev": "단순함과 강력함. 단순함은 버튼이 적다는 것을 의미하고, 강력함은 앞서 회의에서 보셨던 것처럼 버튼이 많은 모든 컨트롤을 제공한다는 것을 의미합니다.",
+    "target": "[TGT] 하지만 여기서는 버튼이 적지만 강력한 기능은 그대로 유지됩니다. [/TGT]",
+    "next": "단순함 외에도 또 다른 장점이 있습니다. 최고의 아이디어, 바로 이 디자인의 혁신입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "10:43",
+    "timestamp_order": "447-1",
+    "speaker": "Speaker_B",
+    "prev": "단순함은 버튼이 적다는 것을 의미하고, 강력함은 앞서 회의에서 보셨던 것처럼 버튼이 많은 모든 컨트롤을 제공한다는 것을 의미합니다. 하지만 여기서는 버튼이 적지만 강력한 기능은 그대로 유지됩니다.",
+    "target": "[TGT] 단순함 외에도 또 다른 장점이 있습니다. [/TGT]",
+    "next": "최고의 아이디어, 바로 이 디자인의 혁신입니다. 자, 이제 제가 말씀드리지 않은 다른 중요한 기능들에 대해 이야기해 볼까요?",
+    "label": null
+  },
+  {
+    "timestamp": "11:06",
+    "timestamp_order": "448-1",
+    "speaker": "Speaker_B",
+    "prev": "하지만 여기서는 버튼이 적지만 강력한 기능은 그대로 유지됩니다. 단순함 외에도 또 다른 장점이 있습니다.",
+    "target": "[TGT] 최고의 아이디어, 바로 이 디자인의 혁신입니다. [/TGT]",
+    "next": "자, 이제 제가 말씀드리지 않은 다른 중요한 기능들에 대해 이야기해 볼까요? 첫 번째는 음성 인식 기능입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "11:06",
+    "timestamp_order": "449-1",
+    "speaker": "Speaker_B",
+    "prev": "단순함 외에도 또 다른 장점이 있습니다. 최고의 아이디어, 바로 이 디자인의 혁신입니다.",
+    "target": "[TGT] 자, 이제 제가 말씀드리지 않은 다른 중요한 기능들에 대해 이야기해 볼까요? [/TGT]",
+    "next": "첫 번째는 음성 인식 기능입니다. 분리형 또는 추가형으로 사용할 수 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "11:06",
+    "timestamp_order": "450-1",
+    "speaker": "Speaker_B",
+    "prev": "최고의 아이디어, 바로 이 디자인의 혁신입니다. 자, 이제 제가 말씀드리지 않은 다른 중요한 기능들에 대해 이야기해 볼까요?",
+    "target": "[TGT] 첫 번째는 음성 인식 기능입니다. [/TGT]",
+    "next": "분리형 또는 추가형으로 사용할 수 있습니다. 그리고 보안 기능도 있는데, 예를 들어 여기 이 기능은 매우 견고하고 깨지지 않습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "11:06",
+    "timestamp_order": "451-1",
+    "speaker": "Speaker_B",
+    "prev": "자, 이제 제가 말씀드리지 않은 다른 중요한 기능들에 대해 이야기해 볼까요? 첫 번째는 음성 인식 기능입니다.",
+    "target": "[TGT] 분리형 또는 추가형으로 사용할 수 있습니다. [/TGT]",
+    "next": "그리고 보안 기능도 있는데, 예를 들어 여기 이 기능은 매우 견고하고 깨지지 않습니다. 그리고 재질은, 다시 한번 말씀드리지만, 티타늄 소재입니다.",
+    "label": null
+  },
+  {
+    "timestamp": "11:06",
+    "timestamp_order": "452-1",
+    "speaker": "Speaker_B",
+    "prev": "첫 번째는 음성 인식 기능입니다. 분리형 또는 추가형으로 사용할 수 있습니다.",
+    "target": "[TGT] 그리고 보안 기능도 있는데, 예를 들어 여기 이 기능은 매우 견고하고 깨지지 않습니다. [/TGT]",
+    "next": "그리고 재질은, 다시 한번 말씀드리지만, 티타늄 소재입니다. 음-음.",
+    "label": null
+  },
+  {
+    "timestamp": "11:06",
+    "timestamp_order": "453-1",
+    "speaker": "Speaker_B",
+    "prev": "분리형 또는 추가형으로 사용할 수 있습니다. 그리고 보안 기능도 있는데, 예를 들어 여기 이 기능은 매우 견고하고 깨지지 않습니다.",
+    "target": "[TGT] 그리고 재질은, 다시 한번 말씀드리지만, 티타늄 소재입니다. [/TGT]",
+    "next": "음-음. 티타늄.",
+    "label": null
+  },
+  {
+    "timestamp": "11:17",
+    "timestamp_order": "454-1",
+    "speaker": "Speaker_A",
+    "prev": "그리고 보안 기능도 있는데, 예를 들어 여기 이 기능은 매우 견고하고 깨지지 않습니다. 그리고 재질은, 다시 한번 말씀드리지만, 티타늄 소재입니다.",
+    "target": "[TGT] 음-음. [/TGT]",
+    "next": "티타늄. 네, 괜찮습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "11:38",
+    "timestamp_order": "455-1",
+    "speaker": "Speaker_A",
+    "prev": "그리고 재질은, 다시 한번 말씀드리지만, 티타늄 소재입니다. 음-음.",
+    "target": "[TGT] 티타늄. [/TGT]",
+    "next": "네, 괜찮습니다. 그리고 당신은 당신이 TV를 끄세요,",
+    "label": null
+  },
+  {
+    "timestamp": "11:49",
+    "timestamp_order": "456-1",
+    "speaker": "Speaker_D",
+    "prev": "음-음. 티타늄.",
+    "target": "[TGT] 네, 괜찮습니다. [/TGT]",
+    "next": "그리고 당신은 당신이 TV를 끄세요, 좋아요 .",
+    "label": null
+  },
+  {
+    "timestamp": "12:04",
+    "timestamp_order": "457-1",
+    "speaker": "Speaker_B",
+    "prev": "티타늄. 네, 괜찮습니다.",
+    "target": "[TGT] 그리고 당신은 당신이 TV를 끄세요, [/TGT]",
+    "next": "좋아요 . 프로그래밍 가능한 채널과 어휘를 사용하는데, 어휘는 따로 정의하지 않아서 사용자가 직접 정의해야 합니다.",
+    "label": null
+  },
+  {
+    "timestamp": "12:13",
+    "timestamp_order": "458-1",
+    "speaker": "Speaker_D",
+    "prev": "네, 괜찮습니다. 그리고 당신은 당신이 TV를 끄세요,",
+    "target": "[TGT] 좋아요 . [/TGT]",
+    "next": "프로그래밍 가능한 채널과 어휘를 사용하는데, 어휘는 따로 정의하지 않아서 사용자가 직접 정의해야 합니다. 죄송하지만요?",
+    "label": null
+  },
+  {
+    "timestamp": "12:23",
+    "timestamp_order": "459-1",
+    "speaker": "Speaker_B",
+    "prev": "그리고 당신은 당신이 TV를 끄세요, 좋아요 .",
+    "target": "[TGT] 프로그래밍 가능한 채널과 어휘를 사용하는데, 어휘는 따로 정의하지 않아서 사용자가 직접 정의해야 합니다. [/TGT]",
+    "next": "죄송하지만요? 그리고 아이들이 기기를 사용하기 때문에 장르별 TV 프로그램도 있는데, 어른이나 아이 모두 사용할 수 있습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "12:23",
+    "timestamp_order": "460-1",
+    "speaker": "Speaker_B",
+    "prev": "좋아요 . 프로그래밍 가능한 채널과 어휘를 사용하는데, 어휘는 따로 정의하지 않아서 사용자가 직접 정의해야 합니다.",
+    "target": "[TGT] 죄송하지만요? [/TGT]",
+    "next": "그리고 아이들이 기기를 사용하기 때문에 장르별 TV 프로그램도 있는데, 어른이나 아이 모두 사용할 수 있습니다. 음 음 음 음 음.",
+    "label": null
+  },
+  {
+    "timestamp": "12:23",
+    "timestamp_order": "461-1",
+    "speaker": "Speaker_B",
+    "prev": "프로그래밍 가능한 채널과 어휘를 사용하는데, 어휘는 따로 정의하지 않아서 사용자가 직접 정의해야 합니다. 죄송하지만요?",
+    "target": "[TGT] 그리고 아이들이 기기를 사용하기 때문에 장르별 TV 프로그램도 있는데, 어른이나 아이 모두 사용할 수 있습니다. [/TGT]",
+    "next": "음 음 음 음 음. 그럴 수도 있겠네요.",
+    "label": null
+  },
+  {
+    "timestamp": "12:29",
+    "timestamp_order": "462-1",
+    "speaker": "Speaker_D",
+    "prev": "죄송하지만요? 그리고 아이들이 기기를 사용하기 때문에 장르별 TV 프로그램도 있는데, 어른이나 아이 모두 사용할 수 있습니다.",
+    "target": "[TGT] 음 음 음 음 음. [/TGT]",
+    "next": "그럴 수도 있겠네요. 생산하는 데 드는 비용은 얼마인가요?",
+    "label": null
+  },
+  {
+    "timestamp": "13:16",
+    "timestamp_order": "463-1",
+    "speaker": "Speaker_A",
+    "prev": "그리고 아이들이 기기를 사용하기 때문에 장르별 TV 프로그램도 있는데, 어른이나 아이 모두 사용할 수 있습니다. 음 음 음 음 음.",
+    "target": "[TGT] 그럴 수도 있겠네요. [/TGT]",
+    "next": "생산하는 데 드는 비용은 얼마인가요? 가장 간단한 예로, 이런 장치를 생산하는 데 4달러가 든다고 가정해 보겠습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "13:16",
+    "timestamp_order": "464-1",
+    "speaker": "Speaker_A",
+    "prev": "음 음 음 음 음. 그럴 수도 있겠네요.",
+    "target": "[TGT] 생산하는 데 드는 비용은 얼마인가요? [/TGT]",
+    "next": "가장 간단한 예로, 이런 장치를 생산하는 데 4달러가 든다고 가정해 보겠습니다. 와 함께 와 함께 와 함께 ?",
+    "label": null
+  },
+  {
+    "timestamp": "13:23",
+    "timestamp_order": "465-1",
+    "speaker": "Speaker_C",
+    "prev": "그럴 수도 있겠네요. 생산하는 데 드는 비용은 얼마인가요?",
+    "target": "[TGT] 가장 간단한 예로, 이런 장치를 생산하는 데 4달러가 든다고 가정해 보겠습니다. [/TGT]",
+    "next": "와 함께 와 함께 와 함께 ? 충전기와 함께?",
+    "label": null
+  },
+  {
+    "timestamp": "13:32",
+    "timestamp_order": "466-1",
+    "speaker": "Speaker_A",
+    "prev": "생산하는 데 드는 비용은 얼마인가요? 가장 간단한 예로, 이런 장치를 생산하는 데 4달러가 든다고 가정해 보겠습니다.",
+    "target": "[TGT] 와 함께 와 함께 와 함께 ? [/TGT]",
+    "next": "충전기와 함께? 충전기 없이 마이크와 음성 인식 시스템을 생산하는 데는 약 2달러가 듭니다.",
+    "label": null
+  },
+  {
+    "timestamp": "13:34",
+    "timestamp_order": "467-1",
+    "speaker": "Speaker_D",
+    "prev": "가장 간단한 예로, 이런 장치를 생산하는 데 4달러가 든다고 가정해 보겠습니다. 와 함께 와 함께 와 함께 ?",
+    "target": "[TGT] 충전기와 함께? [/TGT]",
+    "next": "충전기 없이 마이크와 음성 인식 시스템을 생산하는 데는 약 2달러가 듭니다. 응 .",
+    "label": null
+  },
+  {
+    "timestamp": "13:34",
+    "timestamp_order": "468-1",
+    "speaker": "Speaker_C",
+    "prev": "와 함께 와 함께 와 함께 ? 충전기와 함께?",
+    "target": "[TGT] 충전기 없이 마이크와 음성 인식 시스템을 생산하는 데는 약 2달러가 듭니다. [/TGT]",
+    "next": "응 . 좋아요 .",
+    "label": null
+  },
+  {
+    "timestamp": "13:36",
+    "timestamp_order": "469-1",
+    "speaker": "Speaker_B",
+    "prev": "충전기와 함께? 충전기 없이 마이크와 음성 인식 시스템을 생산하는 데는 약 2달러가 듭니다.",
+    "target": "[TGT] 응 . [/TGT]",
+    "next": "좋아요 . 추가 모듈은 2달러, 충전기는 3달러예요.",
+    "label": null
+  },
+  {
+    "timestamp": "13:36",
+    "timestamp_order": "470-1",
+    "speaker": "Speaker_A",
+    "prev": "충전기 없이 마이크와 음성 인식 시스템을 생산하는 데는 약 2달러가 듭니다. 응 .",
+    "target": "[TGT] 좋아요 . [/TGT]",
+    "next": "추가 모듈은 2달러, 충전기는 3달러예요. 그러니까 만약 당신이 모든 것을 요약한다면",
+    "label": null
+  },
+  {
+    "timestamp": "13:44",
+    "timestamp_order": "471-1",
+    "speaker": "Speaker_C",
+    "prev": "응 . 좋아요 .",
+    "target": "[TGT] 추가 모듈은 2달러, 충전기는 3달러예요. [/TGT]",
+    "next": "그러니까 만약 당신이 모든 것을 요약한다면 2달러짜리 LCD를 사용하면 2 더하기 4 더하기 4 더하기 2 더하기 2가 됩니다.",
+    "label": null
+  },
+  {
+    "timestamp": "13:52",
+    "timestamp_order": "472-1",
+    "speaker": "Speaker_C",
+    "prev": "좋아요 . 추가 모듈은 2달러, 충전기는 3달러예요.",
+    "target": "[TGT] 그러니까 만약 당신이 모든 것을 요약한다면 [/TGT]",
+    "next": "2달러짜리 LCD를 사용하면 2 더하기 4 더하기 4 더하기 2 더하기 2가 됩니다. 우리는 모든 옵션을 가지고 있지 않습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "13:55",
+    "timestamp_order": "473-1",
+    "speaker": "Speaker_C",
+    "prev": "추가 모듈은 2달러, 충전기는 3달러예요. 그러니까 만약 당신이 모든 것을 요약한다면",
+    "target": "[TGT] 2달러짜리 LCD를 사용하면 2 더하기 4 더하기 4 더하기 2 더하기 2가 됩니다. [/TGT]",
+    "next": "우리는 모든 옵션을 가지고 있지 않습니다.",
+    "label": null
+  },
+  {
+    "timestamp": "14:08",
+    "timestamp_order": "474-1",
+    "speaker": "Speaker_A",
+    "prev": "그러니까 만약 당신이 모든 것을 요약한다면 2달러짜리 LCD를 사용하면 2 더하기 4 더하기 4 더하기 2 더하기 2가 됩니다.",
+    "target": "[TGT] 우리는 모든 옵션을 가지고 있지 않습니다. [/TGT]",
+    "next": "",
+    "label": null
+  }
+]
