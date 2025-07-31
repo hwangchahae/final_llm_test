@@ -18,7 +18,7 @@ llm = LLM(
     quantization="awq_marlin" if "AWQ" in model_path else None,  # AWQ 모델만 quantization 적용
     tensor_parallel_size=1,
     max_model_len=16384,  # 하위 모델은 컨텍스트 길이 줄임
-    gpu_memory_utilization=0.8,  # 메모리 사용량 조금 줄임
+    gpu_memory_utilization=0.7,  # 메모리 사용량 조금 줄임
     trust_remote_code=True,
     enforce_eager=False,
 )
@@ -264,7 +264,7 @@ def process_single_file(input_file_path, output_dir, model_used, folder_name):
 ### 업무 분해
 - 업무내용: 담당자, 마감일(1-2주 후), 관련안건
 
-**중요**: 마감일은 {file_date} 기준 1-2주 후로 다양하게 설정하세요."""
+**중요**: 마감일은 {file_date}를 참고해서 계산하세요."""
 
             else:
                 prompt = f"""이전 요약을 참고하여 추가 회의 내용을 분석해주세요.
@@ -289,7 +289,7 @@ def process_single_file(input_file_path, output_dir, model_used, folder_name):
 ### 업무 분해
 - 업무내용: 담당자, 마감일(1-2주 후), 관련안건
 
-**중요**: 마감일은 {file_date} 기준 1-2주 후로 다양하게 설정하세요."""
+**중요**: 마감일은 {file_date}를 참고해서 계산하세요."""
             
             response = generate(prompt, idx)
             json.dump({
@@ -425,7 +425,7 @@ if __name__ == "__main__":
     print(f"📁 파일명용 모델명: {model_used}")
     
     # 배치 처리할 기본 디렉토리
-    base_directory = "/workspace/batch_triplet_results1"
+    base_directory = "/workspace/batch_triplet_results"
     
     print(f"🚀 배치 처리 시작: {model_path} 모델 사용")
     print(f"📂 기본 디렉토리: {base_directory}")

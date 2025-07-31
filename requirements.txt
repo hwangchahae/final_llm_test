@@ -1,14 +1,24 @@
-# WhisperX dependencies
-torch>=1.9.0
+# PyTorch 및 오디오 처리
+torch>=2.1.0
 torchaudio
-whisperx
-ffmpeg
+ffmpeg-python         # ffmpeg wrapper for Python
+
+# WhisperX (최신 버전은 transformers>=4.48.0 필요)
+whisperx==3.4.2
+
+# Transformers (Qwen3, WhisperX 모두 호환되는 버전)
+transformers>=4.48.0
+
+# vLLM (Qwen3-AWQ 실행용)
+vllm>=0.4.0
+
+# AutoAWQ (양자화 모델 로딩용)
+autoawq @ git+https://github.com/casper-hansen/AutoAWQ.git
+
+# pyannote.audio - 음성 분리 (WhisperX 옵션)
 pyannote.audio
 
-# 기타 유틸
-python-dotenv
+# 기타 유틸리티
 tqdm
-
-# AutoAWQ + Transformers (Qwen3-14B/32B 실행용)
-transformers==4.38.2
-autoawq @ git+https://github.com/casper-hansen/AutoAWQ.git
+python-dotenv
+zipfile36  
