@@ -13,7 +13,7 @@ from functools import partial
 import threading
 
 #  1. 모델 선택
-model_path = "Qwen/Qwen3-14B-AWQ"
+model_path = "Qwen/Qwen3-8B-AWQ"
 print(f"🚀 선택된 모델: {model_path}")
 
 # 전역 모델 및 토크나이저 (프로세스별로 초기화)
@@ -48,11 +48,48 @@ def initialize_model():
         # 샘플링 파라미터
         sampling_params = SamplingParams(
             temperature=0.2,
-            max_tokens=1536,
+            max_tokens=2048,
             stop=None,
             skip_special_tokens=True,
         )
         print(f"✅ 프로세스 {os.getpid()} 모델 초기화 완료")
+
+def generate_notion_project_prompt(meeting_transcript: str) -> str:
+    """노션 기획안 생성 프롬프트"""
+    return f"""다음 회의 전사본을 바탕으로 노션에 업로드할 프로젝트 기획안을 작성하세요.
+
+**회의 전사본:**
+{meeting_transcript}
+
+**작성 지침:**
+1. 회의에서 논의된 내용을 바탕으로 체계적인 기획안을 작성
+2. 프로젝트명은 회의 내용을 바탕으로 적절히 명명
+3. 목적과 목표는 명확하고 구체적으로 작성
+4. 실행 계획은 실현 가능한 단계별로 구성
+5. 기대 효과는 정량적/정성적 결과를 포함
+6. 모든 내용은 한국어로 작성
+
+**응답 형식:**
+다음 JSON 형식으로 응답하세요:
+{{
+    "project_name": "프로젝트명",
+    "project_purpose": "프로젝트의 주요 목적",
+    "project_period": "예상 수행 기간 (예: 2025.01.01 ~ 2025.03.31)",
+    "project_manager": "담당자명 (회의에서 언급된 경우)",
+    "core_objectives": [
+        "목표 1: 구체적인 목표",
+        "목표 2: 구체적인 목표",
+        "목표 3: 구체적인 목표"
+    ],
+    "core_idea": "핵심 아이디어 설명",
+    "idea_description": "아이디어의 기술적/비즈니스적 설명",
+    "execution_plan": "단계별 실행 계획과 일정",
+    "expected_effects": [
+        "기대효과 1: 자세한 설명",
+        "기대효과 2: 자세한 설명",
+        "기대효과 3: 자세한 설명"
+    ]
+}}"""
 
 def clean_text(text):
     if not text:
@@ -131,7 +168,7 @@ def load_json_file(file_path):
         print(f"❌ 파일 로드 오류 ({file_path}): {e}")
         return []
 
-def chunk_text(utterances, max_tokens=3000, stride=256):
+def chunk_text(utterances, max_tokens=5000, stride=512):
     """텍스트를 청크로 분할"""
     if not utterances:
         return []
@@ -189,9 +226,9 @@ def get_file_date(file_path):
     
     return datetime.now().strftime("%Y-%m-%d")
 
-def generate_chunk_summary(chunk_data):
-    """개별 청크 요약 생성 (병렬 처리용)"""
-    chunk, speakers, chunk_index, file_date, summary_accum = chunk_data
+def generate_notion_project_plan(chunk_data):
+    """개별 청크에서 노션 프로젝트 기획안 생성 (병렬 처리용)"""
+    chunk, speakers, chunk_index, file_date, project_accum = chunk_data
     
     # 모델이 초기화되지 않았다면 초기화
     if llm is None:
@@ -199,71 +236,57 @@ def generate_chunk_summary(chunk_data):
     
     participants_str = ", ".join(speakers) if speakers else "알 수 없음"
     
-    # 프롬프트 생성
+    # 전체 회의 내용을 하나의 프로젝트 기획안으로 생성
     if chunk_index == 0:
-        prompt = f"""회의 내용을 분석해주세요.
-
-참여자: {participants_str}
-회의 날짜: {file_date}
-
-회의 내용:
-{chunk}
-
-다음 형식으로 정리해주세요:
-
-### 요약
-- 주요 내용을 3-5개 문장으로 요약
-
-### 안건
-1. 안건명: 설명
-2. 안건명: 설명
-
-### 업무 분해
-- 업무내용: 담당자, 마감일(1-2주 후), 관련안건
-
-**중요**: 마감일은 {file_date}를 참고해서 계산하세요."""
-
+        # 첫 번째 청크: 초기 프로젝트 기획안 생성
+        meeting_transcript = f"참여자: {participants_str}\n회의 날짜: {file_date}\n\n회의 내용:\n{chunk}"
+        prompt = generate_notion_project_prompt(meeting_transcript)
     else:
-        prompt = f"""이전 요약을 참고하여 추가 회의 내용을 분석해주세요.
+        # 추가 청크: 기존 기획안을 업데이트
+        meeting_transcript = f"참여자: {participants_str}\n회의 날짜: {file_date}\n\n추가 회의 내용:\n{chunk}"
+        prompt = f"""이전에 생성된 프로젝트 기획안을 다음 추가 회의 내용을 반영하여 업데이트하세요.
 
-참여자: {participants_str}
-회의 날짜: {file_date}
+**기존 프로젝트 기획안:**
+{project_accum}
 
-이전 요약:
-{summary_accum}
+**추가 회의 내용:**
+{meeting_transcript}
 
-추가 회의 내용:
-{chunk}
+**업데이트 지침:**
+1. 기존 기획안의 내용을 유지하면서 새로운 정보를 통합
+2. 중복되는 내용은 병합하고 상충하는 내용은 최신 정보를 우선
+3. 프로젝트의 전체적인 일관성을 유지
 
-다음 형식으로 정리해주세요:
-
-### 요약
-- 전체 내용 요약 (이전 + 현재)
-
-### 안건
-1. 안건명: 설명
-
-### 업무 분해
-- 업무내용: 담당자, 마감일(1-2주 후), 관련안건
-
-**중요**: 마감일은 {file_date}를 참고해서 계산하세요."""
+**응답 형식:**
+다음 JSON 형식으로 업데이트된 전체 기획안을 응답하세요:
+{{
+    "project_name": "프로젝트명",
+    "project_purpose": "프로젝트의 주요 목적",
+    "project_period": "예상 수행 기간 (예: 2025.01.01 ~ 2025.03.31)",
+    "project_manager": "담당자명 (회의에서 언급된 경우)",
+    "core_objectives": [
+        "목표 1: 구체적인 목표",
+        "목표 2: 구체적인 목표",
+        "목표 3: 구체적인 목표"
+    ],
+    "core_idea": "핵심 아이디어 설명",
+    "idea_description": "아이디어의 기술적/비즈니스적 설명",
+    "execution_plan": "단계별 실행 계획과 일정",
+    "expected_effects": [
+        "기대효과 1: 자세한 설명",
+        "기대효과 2: 자세한 설명",
+        "기대효과 3: 자세한 설명"
+    ]
+}}"""
     
     # 생성
     outputs = llm.generate([prompt], sampling_params)
     result = outputs[0].outputs[0].text.strip()
     
-    if chunk_index == 0:
-        match = re.search(r"(### 요약[\s\S]*)", result)
-        return match.group(1).strip() if match else result
-    else:
-        summary_matches = list(re.finditer(r"### 요약", result))
-        if len(summary_matches) >= 2:
-            return result[summary_matches[1].start():].strip()
-        else:
-            return result
+    return result
 
 def process_single_file_parallel(input_file_path, output_dir, model_used, folder_name):
-    """단일 파일을 병렬 처리로 요약"""
+    """단일 파일을 병렬 처리로 노션 프로젝트 기획안 생성"""
     
     print(f"\n📁 병렬 처리 중: {input_file_path}")
     
@@ -272,8 +295,8 @@ def process_single_file_parallel(input_file_path, output_dir, model_used, folder
         initialize_model()
     
     # 출력 파일명 생성
-    output_jsonl = os.path.join(output_dir, f"250730_{model_used}_{folder_name}_summary.jsonl")
-    output_txt = os.path.join(output_dir, f"250730_{model_used}_{folder_name}_summary.txt")
+    output_jsonl = os.path.join(output_dir, f"250730_{model_used}_{folder_name}_notion_project.jsonl")
+    output_txt = os.path.join(output_dir, f"250730_{model_used}_{folder_name}_notion_project.txt")
     
     file_date = get_file_date(input_file_path)
     
@@ -287,16 +310,14 @@ def process_single_file_parallel(input_file_path, output_dir, model_used, folder
         print(f"⚠️  {input_file_path}에서 청크를 생성할 수 없습니다.")
         return False
 
-    # 청크별 병렬 처리 (순차적으로 처리해야 함 - 이전 요약 필요)
-    # 하지만 여러 파일을 동시에 처리할 수는 있음
-    
+    # 청크별 병렬 처리 (순차적으로 처리해야 함 - 이전 결과 필요)
     with open(output_jsonl, "w", encoding="utf-8") as f_out:
-        summary_accum = ""
+        project_accum = ""
         
         # 청크들을 순차적으로 처리 (각 청크는 이전 결과에 의존)
         for idx, (chunk, speakers) in enumerate(tqdm(chunks, desc=f"🧩 청크 처리 ({folder_name})", leave=False)):
-            chunk_data = (chunk, speakers, idx, file_date, summary_accum)
-            response = generate_chunk_summary(chunk_data)
+            chunk_data = (chunk, speakers, idx, file_date, project_accum)
+            response = generate_notion_project_plan(chunk_data)
             
             json.dump({
                 "file": os.path.basename(input_file_path),
@@ -307,14 +328,14 @@ def process_single_file_parallel(input_file_path, output_dir, model_used, folder
                 "response": response
             }, f_out, ensure_ascii=False)
             f_out.write("\n")
-            summary_accum = response + "\n"
+            project_accum = response + "\n"
     
     # TXT 파일로 최종 결과 저장
     save_final_result_as_txt(output_jsonl, output_txt, folder_name)
     return True
 
 def save_final_result_as_txt(jsonl_file, txt_file, folder_name):
-    """최종 결과를 TXT 파일로 저장"""
+    """최종 노션 프로젝트 기획안을 TXT 파일로 저장"""
     try:
         with open(jsonl_file, "r", encoding="utf-8") as f:
             lines = f.readlines()
@@ -330,56 +351,71 @@ def save_final_result_as_txt(jsonl_file, txt_file, folder_name):
         
         content = []
         content.append("=" * 80)
-        content.append(f"📋 최종 회의 요약 결과 - {folder_name}")
+        content.append(f"📋 노션 프로젝트 기획안 - {folder_name}")
         content.append(f"📅 회의 날짜: {file_date}")
         content.append(f"🤖 사용 모델: {model_used}")
         content.append(f"📂 처리 폴더: {folder_name}")
         content.append("=" * 80)
         content.append("")
         
-        sections = response.split('### ')
-        for section in sections:
-            if not section.strip():
-                continue
-                
-            section = section.strip()
+        # JSON 파싱 시도
+        try:
+            # JSON 형태로 파싱
+            project_data = json.loads(response)
             
-            if section.startswith('요약'):
-                content.append(f"🎯 요약")
-                content.append("-" * 60)
-                text_content = section.split('\n', 1)[1] if '\n' in section else ""
-                for line in text_content.split('\n'):
-                    if line.strip():
-                        content.append(f"  {line.strip()}")
-                content.append("")
-                        
-            elif section.startswith('안건'):
-                content.append(f"📌 안건")
-                content.append("-" * 60)
-                text_content = section.split('\n', 1)[1] if '\n' in section else ""
-                for line in text_content.split('\n'):
-                    if line.strip():
-                        if line.strip().startswith(('1.', '2.', '3.', '4.', '5.')):
-                            content.append(f"\n  📍 {line.strip()}")
-                        else:
-                            content.append(f"     {line.strip()}")
-                content.append("")
-                            
-            elif section.startswith('업무 분해'):
-                content.append(f"⚡ 업무 분해")
-                content.append("-" * 60)
-                text_content = section.split('\n', 1)[1] if '\n' in section else ""
-                for line in text_content.split('\n'):
-                    if line.strip() and line.strip().startswith('-'):
-                        content.append(f"  ✅ {line.strip()[1:].strip()}")
-                content.append("")
+            content.append(f"🎯 프로젝트명: {project_data.get('project_name', 'N/A')}")
+            content.append("-" * 60)
+            content.append("")
+            
+            content.append(f"📌 프로젝트 목적")
+            content.append(f"  {project_data.get('project_purpose', 'N/A')}")
+            content.append("")
+            
+            content.append(f"📅 프로젝트 기간")
+            content.append(f"  {project_data.get('project_period', 'N/A')}")
+            content.append("")
+            
+            content.append(f"👤 프로젝트 담당자")
+            content.append(f"  {project_data.get('project_manager', 'N/A')}")
+            content.append("")
+            
+            content.append(f"🎯 핵심 목표")
+            objectives = project_data.get('core_objectives', [])
+            for i, obj in enumerate(objectives, 1):
+                content.append(f"  {i}. {obj}")
+            content.append("")
+            
+            content.append(f"💡 핵심 아이디어")
+            content.append(f"  {project_data.get('core_idea', 'N/A')}")
+            content.append("")
+            
+            content.append(f"📖 아이디어 상세 설명")
+            content.append(f"  {project_data.get('idea_description', 'N/A')}")
+            content.append("")
+            
+            content.append(f"⚡ 실행 계획")
+            content.append(f"  {project_data.get('execution_plan', 'N/A')}")
+            content.append("")
+            
+            content.append(f"🎊 기대 효과")
+            effects = project_data.get('expected_effects', [])
+            for i, effect in enumerate(effects, 1):
+                content.append(f"  {i}. {effect}")
+            content.append("")
+            
+        except json.JSONDecodeError:
+            # JSON 파싱 실패 시 원문 그대로 출력
+            content.append("📝 프로젝트 기획안 내용:")
+            content.append("-" * 60)
+            content.append(response)
+            content.append("")
         
         content.append("=" * 80)
         
         with open(txt_file, "w", encoding="utf-8") as f:
             f.write("\n".join(content))
         
-        print(f"✅ 결과가 {txt_file}에 저장되었습니다!")
+        print(f"✅ 노션 프로젝트 기획안이 {txt_file}에 저장되었습니다!")
         
     except Exception as e:
         print(f"❌ 파일 저장 오류: {e}")
@@ -480,7 +516,7 @@ if __name__ == "__main__":
     print(f"📁 파일명용 모델명: {model_used}")
     
     # 배치 처리할 기본 디렉토리
-    base_directory = "/workspace/aa_results/aa"
+    base_directory = "/workspace/a_results/a"
     
     print(f"🚀 병렬 배치 처리 시작: {model_path} 모델 사용")
     print(f"📂 기본 디렉토리: {base_directory}")
